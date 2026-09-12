@@ -1,0 +1,609 @@
+[
+  {
+    "label": "WiiMessage_AllComplete",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Dear [stringvar:4;0;0x00000000],",
+        "",
+        "You deserve a congratulations of",
+        "cosmic proportions for collecting",
+        "all of the Stars and playing to the",
+        "very end. Thank you!",
+        "",
+        "You are truly a master of galaxies!",
+        "",
+        "SUPER MARIO GALAXY 2 Staff",
+        "",
+        "Play Time: [stringvar:5;1;0x00000000]"
+      ],
+      "EuEnglish": [
+        "Dear [stringvar:4;0;0x00000000],",
+        "",
+        "You deserve a congratulations of",
+        "cosmic proportions for collecting",
+        "all of the Stars and playing to the",
+        "very end. Thank you!",
+        "",
+        "You are truly a master of galaxies!",
+        "",
+        "SUPER MARIO GALAXY 2 Staff",
+        "",
+        "Play Time: [stringvar:5;1;0x00000000]"
+      ],
+      "UsSpanish": [
+        "¡Hola, [stringvar:4;0;0x00000000]!",
+        "",
+        "¡Has conseguido TODAS las",
+        "estrellas del juego! Te queremos",
+        "dar una felicitación galáctica por",
+        "haber logrado esta hazaña.",
+        "",
+        "De parte de los creadores",
+        "de SUPER MARIO GALAXY 2,",
+        "¡gracias por jugar hasta el final!",
+        "¡Las galaxias están a tus pies!",
+        "",
+        "Tiempo de juego: [stringvar:5;1;0x00000000]"
+      ],
+      "EuSpanish": [
+        "¡Felicidades, [stringvar:4;0;0x00000000]!",
+        "",
+        "¡Has conseguido TODAS las",
+        "estrellas del juego! Te queremos",
+        "dar una enhorabuena galáctica",
+        "por haberlo logrado.",
+        "",
+        "De parte de los creadores",
+        "de Super Mario Galaxy 2,",
+        "¡gracias por jugar hasta el final!",
+        "¡La galaxia está a tus pies!",
+        "",
+        "Tiempo de juego: [stringvar:5;1;0x00000000]"
+      ],
+      "UsFrench": [
+        "Cher [stringvar:4;0;0x00000000],",
+        "",
+        "Vous avez trouvé TOUTES les étoiles",
+        "du jeu!",
+        "",
+        "Toutes nos félicitations pour cet",
+        "astronomique accomplissement,",
+        "et merci d'avoir joué jusqu'à la",
+        "toute fin!",
+        "",
+        "Vous êtes véritablement un ou",
+        "une virtuose du cosmos!",
+        "",
+        "Cordialement,",
+        "L'équipe de Super Mario Galaxy 2",
+        "",
+        "Temps de jeu : [stringvar:5;1;0x00000000]"
+      ],
+      "EuFrench": [
+        "Salutations, [stringvar:4;0;0x00000000]!",
+        "",
+        "Recevez nos plus",
+        "astronomiques félicitations",
+        "pour avoir joué jusqu'au bout",
+        "du bout et avoir trouvé toutes",
+        "les étoiles du jeu!",
+        "",
+        "Vous êtes un virtuose",
+        "intergalactique!",
+        "",
+        "De la part de toute l'équipe",
+        "de Super Mario Galaxy 2",
+        "",
+        "Temps de jeu: [stringvar:5;1;0x00000000]"
+      ],
+      "EuGerman": [
+        "Grüß dich, [stringvar:4;0;0x00000000]!",
+        "",
+        "Du hast unglaublicherweise",
+        "wirklich ALLE Sterne in",
+        "diesem Spiel gesammelt!",
+        "",
+        "Diese glanzvolle Leistung",
+        "verdient unsere ganz",
+        "besonderen, intergalaktischen",
+        "Glückwünsche!",
+        "",
+        "Wir danken dir, dass du dieses",
+        "Spiel bis zum allerletzten Ende",
+        "gespielt hast!",
+        "Du bist ein würdiger",
+        "Galaxien-Großmeister!",
+        "",
+        "Von allen Mitwirkenden an",
+        "Super Mario Galaxy 2",
+        "",
+        "Spielzeit: [stringvar:5;1;0x00000000]"
+      ],
+      "EuItalian": [
+        "Ciao [stringvar:4;0;0x00000000],",
+        "complimenti galattici per aver",
+        "raccolto tutte le stelle e per",
+        "aver giocato fino alla fine!",
+        "",
+        "Ti meriti il titolo di",
+        "Gran Maestro delle Galassie!",
+        "",
+        "Lo staff di",
+        "SUPER MARIO GALAXY 2",
+        "",
+        "Tempo di gioco: [stringvar:5;1;0x00000000]"
+      ],
+      "EuDutch": [
+        "Dear [stringvar:4;0;0x00000000],",
+        "",
+        "You deserve a congratulations of",
+        "cosmic proportions for collecting",
+        "all of the Stars and playing to the",
+        "very end. Thank you!",
+        "",
+        "You are truly a master of galaxies!",
+        "",
+        "SUPER MARIO GALAXY 2 Staff",
+        "",
+        "Play Time: [stringvar:5;1;0x00000000]"
+      ],
+      "JpJapanese": [
+        "表彰状",
+        "",
+        "[stringvar:4;0;0x00000000]さま",
+        "",
+        "あなたは、なんと",
+        "このゲームのすべてのスターを",
+        "集めてしまいました!",
+        "その栄誉をたたえ、",
+        "ギャラクシー級の感謝の気持ちを",
+        "お贈りしたいと思います!",
+        "",
+        "最後の最後までプレイしてくれて",
+        "本当にありがとう!",
+        "",
+        "スーパーマリオギャラクシー２",
+        "スタッフ一同",
+        "",
+        "達成タイム [stringvar:5;1;0x00000000]"
+      ],
+      "KrKorean": [
+        "표창장",
+        "",
+        "[stringvar:4;0;0x00000000]님",
+        "",
+        "당신은 본 게임의",
+        "모든 스타를 모으셨군요!",
+        "그 수고에 갤럭시급으로",
+        "감사의 말씀을 전합니다!",
+        "",
+        "마지막까지 플레이해 주셔서",
+        "정말로 감사합니다!",
+        "",
+        "슈퍼 마리오 Wii 2",
+        "갤럭시 어드벤처 투게더",
+        "스태프 일동",
+        "",
+        "플레이 시간: [stringvar:5;1;0x00000000]"
+      ],
+      "AsTradChinese": [
+        "Dear [stringvar:4;0;0x00000000],",
+        "",
+        "You deserve a congratulations of",
+        "cosmic proportions for collecting",
+        "all of the Stars and playing to the",
+        "very end. Thank you！",
+        "",
+        "You are truly a master of galaxies！",
+        "",
+        "SUPER MARIO GALAXY 2 Staff",
+        "",
+        "Play Time: [stringvar:5;1;0x00000000]"
+      ]
+    }
+  },
+  {
+    "label": "WiiMessage_NormalEnding",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Dear [stringvar:4;0;0x00000000],",
+        "",
+        "Congratulations! You completed",
+        "Super Mario Galaxy 2! We applaud",
+        "your hard work.",
+        "",
+        "Thanks for playing!",
+        "",
+        "SUPER MARIO GALAXY 2 Staff",
+        "",
+        "P.S. See you in Special World!",
+        "",
+        "Play Time: [stringvar:5;1;0x00000000]"
+      ],
+      "EuEnglish": [
+        "Dear [stringvar:4;0;0x00000000],",
+        "",
+        "Congratulations! You completed",
+        "Super Mario Galaxy 2! We applaud",
+        "your hard work.",
+        "",
+        "Thanks for playing!",
+        "",
+        "SUPER MARIO GALAXY 2 Staff",
+        "",
+        "P.S. See you in Special World!",
+        "",
+        "Play Time: [stringvar:5;1;0x00000000]"
+      ],
+      "UsSpanish": [
+        "¡Felicidades, [stringvar:4;0;0x00000000]!",
+        "",
+        "¡Has terminado",
+        "Super Mario Galaxy 2!",
+        "¡Te mereces un aplauso!",
+        "",
+        "De parte de los creadores",
+        "de SUPER MARIO GALAXY 2,",
+        "¡gracias por jugar!",
+        "",
+        "P.D.: ¡La aventura",
+        "continúa en el mundo extra!",
+        "",
+        "Tiempo de juego: [stringvar:5;1;0x00000000]"
+      ],
+      "EuSpanish": [
+        "¡Felicidades, [stringvar:4;0;0x00000000]!",
+        "",
+        "¡Has terminado",
+        "Super Mario Galaxy 2!",
+        "¡Te mereces un aplauso!",
+        "",
+        "De parte de los creadores",
+        "de Super Mario Galaxy 2,",
+        "¡gracias por jugar!",
+        "",
+        "P.D.: ¡La aventura",
+        "continúa en el mundo extra!",
+        "",
+        "Tiempo de juego: [stringvar:5;1;0x00000000]"
+      ],
+      "UsFrench": [
+        "Cher [stringvar:4;0;0x00000000],",
+        "",
+        "Vous avez terminé Super Mario",
+        "Galaxy 2!",
+        "",
+        "Nous tenons à vous féliciter pour",
+        "vos efforts soutenus durant votre",
+        "aventure cosmique!",
+        "",
+        "Merci d'avoir joué!",
+        "",
+        "Cordialement,",
+        "L'équipe de Super Mario Galaxy 2",
+        "",
+        "P.-S. L'aventure continue dans le",
+        "Monde spécial!",
+        "",
+        "Temps de jeu : [stringvar:5;1;0x00000000]"
+      ],
+      "EuFrench": [
+        "Salutations, [stringvar:4;0;0x00000000]!",
+        "",
+        "Bravo! Vous avez terminé",
+        "Super Mario Galaxy 2!",
+        "",
+        "Toutes nos félicitations",
+        "pour vos efforts!",
+        "",
+        "Et merci d'avoir joué!",
+        "",
+        "De la part de toute l'équipe",
+        "de Super Mario Galaxy 2",
+        "",
+        "P.-S.: l'aventure continue",
+        "dans le Monde S!",
+        "",
+        "Temps de jeu: [stringvar:5;1;0x00000000]"
+      ],
+      "EuGerman": [
+        "Grüß dich, [stringvar:4;0;0x00000000]!",
+        "",
+        "Herzlichen Glückwunsch, du",
+        "hast Super Mario Galaxy 2",
+        "durchgespielt!",
+        "",
+        "Wir möchten diese Gelegenheit",
+        "nutzen, dir für deinen Einsatz",
+        "zu danken.",
+        "",
+        "Vielen Dank, dass du dieses",
+        "Spiel gespielt hast!",
+        "",
+        "Von allen Mitwirkenden an",
+        "Super Mario Galaxy 2",
+        "",
+        "P.S.: Du kannst nun die",
+        "legendäre Welt S besuchen!",
+        "",
+        "Spielzeit: [stringvar:5;1;0x00000000]"
+      ],
+      "EuItalian": [
+        "Ciao [stringvar:4;0;0x00000000],",
+        "congratulazioni per aver",
+        "concluso Super Mario Galaxy 2!",
+        "Apprezziamo l'ottimo lavoro",
+        "svolto e ti ringraziamo per",
+        "aver giocato!",
+        "",
+        "Lo staff di",
+        "SUPER MARIO GALAXY 2",
+        "",
+        "P.S. L'avventura continua",
+        "nel Mondo Speciale!",
+        "",
+        "Tempo di gioco: [stringvar:5;1;0x00000000]"
+      ],
+      "EuDutch": [
+        "Dear [stringvar:4;0;0x00000000],",
+        "",
+        "Congratulations! You completed",
+        "Super Mario Galaxy 2! We applaud",
+        "your hard work.",
+        "",
+        "Thanks for playing!",
+        "",
+        "SUPER MARIO GALAXY 2 Staff",
+        "",
+        "P.S. See you in Special World!",
+        "",
+        "Play Time: [stringvar:5;1;0x00000000]"
+      ],
+      "JpJapanese": [
+        "表彰状",
+        "",
+        "[stringvar:4;0;0x00000000]さま",
+        "",
+        "スーパーマリオギャラクシー２",
+        "クリアおめでとうございます!",
+        "",
+        "あなたのその努力をたたえ",
+        "ここに表彰いたします!",
+        "",
+        "プレイしてくれて、ありがとう!",
+        "",
+        "スーパーマリオギャラクシー２",
+        "スタッフ一同",
+        "",
+        "p.s.",
+        "",
+        "でも、まだまだ冒険は続きます!",
+        "スペシャルワールドで",
+        "お待ちしています!",
+        "",
+        "達成タイム [stringvar:5;1;0x00000000]"
+      ],
+      "KrKorean": [
+        "표창장",
+        "",
+        "[stringvar:4;0;0x00000000]님",
+        "",
+        "슈퍼 마리오 Wii 2",
+        "갤럭시 어드벤처 투게더의",
+        "클리어를 축하드립니다!",
+        "",
+        "당신의 노력에 감사하는",
+        "뜻으로 표창장을 드립니다!",
+        "",
+        "플레이해 주셔서 감사합니다!",
+        "",
+        "슈퍼 마리오 Wii 2",
+        "갤럭시 어드벤처 투게더",
+        "스태프 일동",
+        "",
+        "p.s.",
+        "하지만 모험은 아직",
+        "끝나지 않았습니다!",
+        "스페셜 월드에서",
+        "기다리고 있을게요!",
+        "",
+        "플레이 시간: [stringvar:5;1;0x00000000]"
+      ],
+      "AsTradChinese": [
+        "Dear [stringvar:4;0;0x00000000],",
+        "",
+        "Congratulations！ You completed",
+        "Super Mario Galaxy 2！ We applaud",
+        "your hard work.",
+        "",
+        "Thanks for playing！",
+        "",
+        "SUPER MARIO GALAXY 2 Staff",
+        "",
+        "P.S. See you in Special World！",
+        "",
+        "Play Time: [stringvar:5;1;0x00000000]"
+      ]
+    }
+  },
+  {
+    "label": "WiiMessage_SendDone",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Message sent to the Wii Message",
+        "Board!"
+      ],
+      "EuEnglish": [
+        "Message sent to the Wii Message",
+        "Board!"
+      ],
+      "UsSpanish": [
+        "¡Se ha enviado un mensaje",
+        "al tablón de Wii!"
+      ],
+      "EuSpanish": [
+        "¡Se ha enviado un mensaje",
+        "al tablón de Wii!"
+      ],
+      "UsFrench": [
+        "Message envoyé sur le bureau Wii!"
+      ],
+      "EuFrench": [
+        "Message envoyé sur le bureau Wii!"
+      ],
+      "EuGerman": [
+        "Die Nachricht wurde an die ",
+        "Wii-Pinnwand geheftet."
+      ],
+      "EuItalian": [
+        "Messaggio per la bacheca Wii!"
+      ],
+      "EuDutch": [
+        "Message sent to the Wii Message",
+        "Board!"
+      ],
+      "JpJapanese": [
+        "Wii[ruby:伝言板;でんごんばん]にメッセージを[ruby:送;おく]りました!"
+      ],
+      "KrKorean": [
+        "Wii 알림판에 메시지를 보냈습니다!"
+      ],
+      "AsTradChinese": [
+        "訊息已傳送至Wii留言板！"
+      ]
+    }
+  },
+  {
+    "label": "WiiMessage_Title",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Super Mario Galaxy 2"
+      ],
+      "EuEnglish": [
+        "Super Mario Galaxy 2"
+      ],
+      "UsSpanish": [
+        "Super Mario Galaxy 2"
+      ],
+      "EuSpanish": [
+        "Super Mario Galaxy 2"
+      ],
+      "UsFrench": [
+        "Super Mario Galaxy 2"
+      ],
+      "EuFrench": [
+        "Super Mario Galaxy 2"
+      ],
+      "EuGerman": [
+        "Super Mario Galaxy 2"
+      ],
+      "EuItalian": [
+        "Super Mario Galaxy 2"
+      ],
+      "EuDutch": [
+        "Super Mario Galaxy 2"
+      ],
+      "JpJapanese": [
+        "スーパーマリオギャラクシー２"
+      ],
+      "KrKorean": [
+        "슈퍼 마리오 Wii 2",
+        "갤럭시 어드벤처 투게더"
+      ],
+      "AsTradChinese": [
+        "Super Mario Galaxy 2"
+      ]
+    }
+  },
+  {
+    "label": "WiiMessage_UserNameDefault",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Player"
+      ],
+      "EuEnglish": [
+        "Player"
+      ],
+      "UsSpanish": [
+        "Jugador"
+      ],
+      "EuSpanish": [
+        "jugador"
+      ],
+      "UsFrench": [
+        "joueur"
+      ],
+      "EuFrench": [
+        "Joueur"
+      ],
+      "EuGerman": [
+        "Spieler"
+      ],
+      "EuItalian": [
+        "Giocatore"
+      ],
+      "EuDutch": [
+        "Player"
+      ],
+      "JpJapanese": [
+        "遊んでくれたプレイヤー"
+      ],
+      "KrKorean": [
+        "플레이어"
+      ],
+      "AsTradChinese": [
+        "Player"
+      ]
+    }
+  }
+]

@@ -1,0 +1,761 @@
+[
+  {
+    "label": "ScoreAttackMan000_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_SASURAI_TALK_ALL_RIGHT",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Well, well, well... You just rolled into",
+        "the domain of [color:red]The Chimp[defcolor]! You've",
+        "heard about my gaming skills, right?[pagebreak]",
+        "Today I got a little challenge for ya.",
+        "Just [color:black]skate [defcolor]and [color:red]bump the [defcolor][color:blue][color:red]enemies[color:blue][color:black].[color:blue][defcolor][pagebreak]",
+        "[color:blue]Watch out for the spiked ones[defcolor].",
+        "Simple enough, right? So you ready to",
+        "experience this?!"
+      ],
+      "EuEnglish": [
+        "Well, well, well... You just rolled into",
+        "the domain of [color:red]The Chimp[defcolor]! You've",
+        "heard about my gaming skills, right?[pagebreak]",
+        "Today I got a little challenge for ya.",
+        "Just [color:black]skate [defcolor]and [color:red]bump the [defcolor][color:blue][color:red]enemies[color:blue][color:black].[color:blue][defcolor][pagebreak]",
+        "[color:blue]Watch out for the spiked ones[defcolor].",
+        "Simple enough, right? So you ready to",
+        "experience this?!"
+      ],
+      "UsSpanish": [
+        "Vaya, vaya... Parece que has llegado",
+        "a los dominios de[color:red] Bananacho[defcolor].[pagebreak]",
+        "¿Estás listo para probar lo último de",
+        "lo último? Tendrás [color:black]que patinar y[defcolor]",
+        "[color:red]patear a los enemigos[defcolor][color:black].[defcolor][pagebreak]",
+        "Por cierto, hay que tener [color:blue]cuidado con",
+        "los de las púas[defcolor]... ¿Estás listo para",
+        "el tema?"
+      ],
+      "EuSpanish": [
+        "Vaya, vaya... Parece que has llegado",
+        "a los dominios de[color:red] Molonio[defcolor].[pagebreak]",
+        "¿Estás listo para probar lo último de",
+        "lo último? Tendrás que [color:red]patinar[defcolor] y",
+        "[color:red]llevarte por delante a los enemigos[defcolor][color:black].[defcolor][pagebreak]",
+        "Por cierto, [color:blue]cuidado con los de las",
+        "púas[defcolor]... ¿Estás listo para el tema?"
+      ],
+      "UsFrench": [
+        "Bienvenue dans le repaire de [color:red]Billy",
+        "Banane[defcolor], bonhomme! Tu as entendu",
+        "parler de mes talents, non?[pagebreak]",
+        "[color:red][color:black]J'ai un petit défi pour toi! C'est tout",
+        "simple : p[color:red][color:black]atine et [color:red]fonce dans les",
+        "ennemis[color:black][color:red][defcolor][color:black].[pagebreak]",
+        "[color:blue]Mais [color:black][color:blue]attention à ceux qui ont des",
+        "épines[color:black]![defcolor] Alors? Prêt à jouer?"
+      ],
+      "EuFrench": [
+        "Hé, man, ici c'est le domaine du grand",
+        "[color:red]Billy Banane[defcolor]! Un vrai nirvana! T'es",
+        "prêt pour une nouvelle expérience?[color:red][pagebreak]",
+        "[color:black]Cool! Alors [color:red][color:black]patine [color:red][color:black]et [color:red][color:red]fonce dans les",
+        "Patavert et les Patador[color:red][defcolor][color:black]. Mais [color:blue]fais",
+        "gaffe aux Patapic[color:black], mon pote![defcolor][pagebreak]",
+        "Je te préviens, man, c'est pas un",
+        "jeu pour les débutants. T'es sûr",
+        "de vouloir essayer?"
+      ],
+      "EuGerman": [
+        "Willkommen bei einem weiteren Spiel",
+        "mit [color:red]dem Wanderaffen[defcolor]![pagebreak]",
+        "Hast du Lust auf etwas Neues? Ganz",
+        "einfach: [color:red]Eislaufen [defcolor]und [color:blue]Gegner treffen[defcolor][color:black].[defcolor][pagebreak]",
+        "Nimm dich vor den Stacheln in Acht.",
+        "Machst du mit?"
+      ],
+      "EuItalian": [
+        "Sei entrato nel territorio della",
+        "[color:red]Scimmia Bighellona[defcolor]![pagebreak]",
+        "Sei pronto per qualcosa di nuovo?",
+        "[color:black]Pattina [defcolor]e [color:red]colpisci i palloncini[defcolor]![pagebreak]",
+        "Ma [color:blue]attenzione a quelli con le spine[defcolor]!",
+        "Allora, vuoi provare?"
+      ],
+      "EuDutch": [
+        "Well, well, well... You just rolled into",
+        "the domain of [color:red]The Chimp[defcolor]! You've",
+        "heard about my gaming skills, right?[pagebreak]",
+        "Today I got a little challenge for ya.",
+        "Just [color:black]skate [defcolor]and [color:red]bump the [defcolor][color:blue][color:red]enemies[color:blue][color:black].[color:blue][defcolor][pagebreak]",
+        "[color:blue]Watch out for the spiked ones[defcolor].",
+        "Simple enough, right? So you ready to",
+        "experience this?!"
+      ],
+      "JpJapanese": [
+        "よく[ruby:来;き]たな!",
+        "おれさまは、 [color:red]さすらいの[ruby:遊;あそ]び[ruby:人;にん][defcolor][pagebreak]",
+        "[ruby:略;りゃく]して [color:red]サスラー[defcolor]と[ruby:呼;よ]んでもいいぞ!",
+        "それはさておき、 [color:blue]おれさまのゲーム[defcolor]を[ruby:遊;あそ]ぶのだ[pagebreak]",
+        "スイーッと [ruby:滑;すべ]って [color:red]モグポン[defcolor][color:blue][color:red]を[ruby:体当;たいあ]たり[color:black]で[color:red][color:black][ruby:倒;たお]せ![color:red][color:blue]",
+        "[color:black]しかし、 [color:blue]トゲポンには[ruby:要注意;ようちゅうい][color:black]なのだ![color:blue][defcolor][pagebreak]",
+        "…[ruby:用意;ようい]はいいか?",
+        "さあ! [color:blue]おれさまのゲーム[defcolor]をとくと[ruby:味;あじ]わうがいい!"
+      ],
+      "KrKorean": [
+        "어서 와!",
+        "나는 [color:red]자유로운 유랑자[defcolor]야[pagebreak]",
+        "줄여서 [color:red]자유랑[defcolor]이라고 불러도 좋아!",
+        "그건 그렇다 치고, [color:blue]내가 만든 게임 [defcolor]해 볼래?[pagebreak]",
+        "스케이팅하다가 [color:red]두더통을 발로 차[defcolor]서",
+        "[color:blue][color:black]쓰러뜨리는 거야! [color:blue][color:black]단, [color:blue]가시통을 조심[color:black]해야 돼![color:blue][defcolor][pagebreak]",
+        "…준비됐어?",
+        "자! [color:blue]내가 만든 게임[defcolor]을 만끽해 줘!"
+      ],
+      "AsTradChinese": [
+        "終於見到你啦！",
+        "本少爺是[color:red]放浪遊人[color:black]。[color:red][defcolor][color:black][pagebreak]",
+        "[defcolor]你可以簡稱我[color:red]放浪[defcolor]！",
+        "別管這個，你要玩[color:blue]本少爺的遊[color:black][color:blue]戲[color:black]！[color:blue][defcolor][pagebreak]",
+        "咻～滑過去，全力打敗[color:red]土撥踢踢[defcolor][color:blue][color:black]！[color:blue]",
+        "[color:black]但要小心[color:blue]尖刺踢踢[color:black]！[color:blue][defcolor][pagebreak]",
+        "…準備好了沒有?要挑戰嗎?",
+        "來！好好見識[color:blue]本少爺的遊戲[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "ScoreAttackMan000_Flow001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_SASURAI_TALK_DO_BEST",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got [color:red][color:red][intvar:3;0;0] [color:red]points[color:black]! Wow! [color:red][defcolor]Next",
+        "time, go for the [color:red]h[defcolor][color:red][color:red]igh[color:red] score[defcolor]!"
+      ],
+      "EuEnglish": [
+        "You got [color:red][color:red][intvar:3;0;0] [color:red]points[color:black]! Wow! [color:red][defcolor]Next",
+        "time, try to top that [color:red]h[defcolor][color:red][color:red]igh[color:red] score[defcolor]!"
+      ],
+      "UsSpanish": [
+        "¡[color:red][color:red][intvar:3;0;0] [color:red]puntos[color:black]! [color:red][defcolor]¡La próxima vez",
+        "intenta batir el [color:red]récord[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡[color:red][intvar:3;0;0] puntos[color:black]! [color:red][defcolor]¡La próxima vez",
+        "intenta [color:red][color:black]batir [color:red][color:black]el [color:red]récord[defcolor]!"
+      ],
+      "UsFrench": [
+        "[color:red][color:red][intvar:3;0;0] [color:red]points[color:black]! Wow! [color:red][defcolor]La prochaine",
+        "fois, essaie de battre le [color:red]record[defcolor]!"
+      ],
+      "EuFrench": [
+        "Yo! [color:red][color:red][intvar:3;0;0] [color:red]points[color:black]![color:red][defcolor] La prochaine",
+        "fois, essaie d'établir un [color:red]nouveau[defcolor]",
+        "[color:red]record[color:black], man[color:red][defcolor]!"
+      ],
+      "EuGerman": [
+        "[color:red][color:red][intvar:3;0;0] [color:red]Punkte[color:black]! Beeindruckend!",
+        "[color:red][defcolor]Das nächste Mal übertriffst du den",
+        "[color:red]Highscore[defcolor] noch, abgemacht?"
+      ],
+      "EuItalian": [
+        "[color:red][color:red][intvar:3;0;0] [color:red]punti[color:black]! Bene! [color:red][defcolor]La prossima",
+        "volta devi battere il [color:red]record[defcolor]!"
+      ],
+      "EuDutch": [
+        "You got [color:red][color:red][intvar:3;0;0] [color:red]points[color:black]! Wow! [color:red][defcolor]Next",
+        "time, try to top that [color:red]h[defcolor][color:red][color:red]igh[color:red] score[defcolor]!"
+      ],
+      "JpJapanese": [
+        "[color:red][intvar:3;0;0][ruby:点;てん][defcolor]なのだ!",
+        "また [color:red]ハイスコア[defcolor]を[ruby:狙;ねら]いに、 [ruby:遊;あそ]びに[ruby:来;く]るんだぞ!"
+      ],
+      "KrKorean": [
+        "[color:red][intvar:3;0;0]점[defcolor]이야!",
+        "[color:red]하이스코어[defcolor]를 따러 또 놀러 와!"
+      ],
+      "AsTradChinese": [
+        "[color:red][intvar:3;0;0]分[defcolor]哦！",
+        "記得再來挑戰[color:red]最高紀錄[defcolor]啊！"
+      ]
+    }
+  },
+  {
+    "label": "ScoreAttackMan000_Flow002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_SASURAI_TALK_REGRET",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Oh, really?! Well, I'm gonna let you",
+        "go, but just know that when you're",
+        "ready, [color:red]The Chimp[defcolor] will be waiting."
+      ],
+      "EuEnglish": [
+        "Oh, really?! Well, I'm gonna let you",
+        "go, but just know that when you're",
+        "ready, [color:red]The Chimp[defcolor] will be waiting."
+      ],
+      "UsSpanish": [
+        "Me pillas de buen humor, colega, ",
+        "así que esta vez no me enfadaré.[pagebreak]",
+        "¡Pero prométeme que te pasarás por",
+        "aquí en otra ocasión!"
+      ],
+      "EuSpanish": [
+        "Me pillas de buen humor, colega, ",
+        "así que esta vez no me enfadaré.[pagebreak]",
+        "¡Pero prométeme que te pasarás por",
+        "aquí en otra ocasión!"
+      ],
+      "UsFrench": [
+        "Sérieux?! Bon, je te laisse t'en tirer",
+        "pour cette fois, mais tu ne sais pas",
+        "ce que tu manques, bonhomme..."
+      ],
+      "EuFrench": [
+        "Hein?! Bah, t'as de la veine, je suis",
+        "bien luné aujourd'hui, man, alors je",
+        "te laisse filer sans rien dire.[pagebreak]",
+        "Mais promets-moi de revenir un",
+        "de ces quatre relever mon défi!"
+      ],
+      "EuGerman": [
+        "Grmpf! Nun, ich bin heute guter",
+        "Dinge, daher lass ich dich dieses",
+        "Mal in Frieden weiterziehen.[pagebreak]",
+        "Aber komm wieder und fordere den",
+        "[color:red]Wanderaffen[defcolor] heraus! Nicht vergessen!"
+      ],
+      "EuItalian": [
+        "Hmmm... Ti va bene! Oggi sono di buon",
+        "umore, perciò per stavolta ti lascerò",
+        "stare! Ma il [color:red]Bighellone [defcolor]è sempre qui!"
+      ],
+      "EuDutch": [
+        "Oh, really?! Well, I'm gonna let you",
+        "go, but just know that when you're",
+        "ready, [color:red]The Chimp[defcolor] will be waiting."
+      ],
+      "JpJapanese": [
+        "ぬなっ! まぁ [ruby:今日;きょう]は[ruby:気分;きぶん]がいいから[ruby:許;ゆる]してやる!",
+        "でも、 また[color:red]チャレンジ[defcolor][color:red][color:black]しろ[color:red][color:black]よな[color:red][defcolor]! [delay:15]わかったな!"
+      ],
+      "KrKorean": [
+        "에헴! 뭐, 오늘은 기분이 좋으니까 용서해 주지!",
+        "하지만 [color:red]도전[defcolor][color:black]하러 또 와야 돼! [defcolor][delay:15]알았지?"
+      ],
+      "AsTradChinese": [
+        "哼！今天心情不錯，放過你吧！",
+        "不過，再來[color:red]挑戰[defcolor][color:black]啊[defcolor]！[delay:15]知道嗎！"
+      ]
+    }
+  },
+  {
+    "label": "ScoreAttackMan000_Flow003",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE_2",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Try to get [color:red][intvar:2;0;0] points[defcolor]!"
+      ],
+      "EuEnglish": [
+        "Try to get [color:red][intvar:2;0;0] points[defcolor]!"
+      ],
+      "UsSpanish": [
+        "¡Intenta conseguir [color:red][intvar:2;0;0] puntos[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡Intenta conseguir [color:red][intvar:2;0;0] puntos[defcolor]!"
+      ],
+      "UsFrench": [
+        "Essaie d'accumuler [color:red][intvar:2;0;0] points[defcolor]!"
+      ],
+      "EuFrench": [
+        "Essaie d'atteindre les [color:red][intvar:2;0;0] points[defcolor]!"
+      ],
+      "EuGerman": [
+        "Versuche, [color:red][intvar:2;0;0] Punkte [color:black]zu holen[color:red][defcolor]!"
+      ],
+      "EuItalian": [
+        "Cerca di totalizzare [color:red][intvar:2;0;0] punti[color:black]![color:red][defcolor]"
+      ],
+      "EuDutch": [
+        "Try to get [color:red][intvar:2;0;0] points[defcolor]!"
+      ],
+      "JpJapanese": [
+        "[ruby:目標;もくひょう]は[color:red][intvar:2;0;0][ruby:点;てん][color:black]なのだ[color:red][defcolor]!"
+      ],
+      "KrKorean": [
+        "목표는 [color:red][intvar:2;0;0]점[color:black]이야![color:red][defcolor]"
+      ],
+      "AsTradChinese": [
+        "目標是[color:red][intvar:2;0;0]分[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "ScoreAttackMan000_Flow004",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_SASURAI_TALK_QUESTION",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:black]Wanna play? [delay:15][color:red]You want to[color:black]! I can see",
+        "it in your eyes![defcolor]"
+      ],
+      "EuEnglish": [
+        "[color:black]Wanna play? [delay:15][color:red]You want to[color:black]! I can see",
+        "it in your eyes![defcolor]"
+      ],
+      "UsSpanish": [
+        "[color:black]¡Quieres jugar!... [delay:15]¡[color:red]Lo estás deseando[color:black]!",
+        "¡Si tienes toda la cara de querer![defcolor]"
+      ],
+      "EuSpanish": [
+        "[color:black]¡Quieres jugar!... [delay:15]¡[color:red]Lo estás deseando[color:black]!",
+        "¡Si tienes toda la cara de querer![defcolor]"
+      ],
+      "UsFrench": [
+        "...Alors? Tu veux jouer? [color:black][delay:15]Je sais que",
+        "[color:red]tu veux jouer[color:black], ça se voit dans tes",
+        "yeux, bonhomme![defcolor]"
+      ],
+      "EuFrench": [
+        "[color:black]... Tu veux jouer, man?[delay:15] [color:red]Bien sûr,",
+        "que tu veux[color:black]! Ton karma te trahit,",
+        "mon pote![defcolor]"
+      ],
+      "EuGerman": [
+        "[color:black]Willst du's probieren? [delay:15][color:red]Klaro willst du[color:black]!",
+        "Das kann ich in deinen Augen sehen![defcolor]"
+      ],
+      "EuItalian": [
+        "Allora ci provi? So che [color:red]vuoi giocare[defcolor]!",
+        "[color:black][delay:15]Te lo leggo negli occhi![defcolor]"
+      ],
+      "EuDutch": [
+        "[color:black]Wanna play? [delay:15][color:red]You want to[color:black]! I can see",
+        "it in your eyes![defcolor]"
+      ],
+      "JpJapanese": [
+        "…やっぱりやるよな?",
+        "[delay:15]オマエなら [color:red]やるはず[defcolor]なのだ!"
+      ],
+      "KrKorean": [
+        "…역시 할 거구나?",
+        "[delay:15]너라면 [color:red]당연히 해[defcolor]야지!"
+      ],
+      "AsTradChinese": [
+        "…你要挑戰吧?",
+        "[delay:15]你一定[color:red]會挑戰[defcolor]的啦！"
+      ]
+    }
+  },
+  {
+    "label": "ScoreAttackMan000_Flow005",
+    "attributes": {
+      "talk_type": "GLOBAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_SASURAI_TALK_EXCELLENT",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got [color:red][intvar:2;0;0] points[defcolor]?![pagebreak]",
+        "I guess that qualifies you as a",
+        "[color:red]shining rival[defcolor][color:red][color:black]![color:red] [color:black]I may not like it, but I",
+        "promised...so you can take this[color:red] [defcolor][color:yellow][icon:star][defcolor]!"
+      ],
+      "EuEnglish": [
+        "You got [color:red][intvar:3;0;0] points[defcolor]?![pagebreak]",
+        "I guess that qualifies you as a",
+        "[color:red]shining rival[defcolor]! I may not like it, but I",
+        "promised...so you can take this [icon:star]!"
+      ],
+      "UsSpanish": [
+        "¡Vaya! ¡Has logrado [color:red][intvar:2;0;0] puntos[defcolor]![pagebreak]",
+        "¡Algún día llegarás a ser tan [color:red]cañero[defcolor]",
+        "como yo! ¡Hala, toma la [color:yellow][icon:star][defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡Vaya! ¡Has logrado [color:red][color:red][intvar:3;0;0][color:red] puntos[defcolor]![pagebreak]",
+        "¡Algún día llegarás a ser tan [color:red]cañero[defcolor]",
+        "como yo! ¡Hala, toma la [color:yellow][icon:star][defcolor]!"
+      ],
+      "UsFrench": [
+        "Tu as accumulé [color:red][intvar:2;0;0] points[defcolor]?![pagebreak]",
+        "Wow, ça veut dire que tu es un [color:red]rival",
+        "de haut calibre[defcolor]! Voilà la [color:yellow][icon:star][defcolor] que je t'ai",
+        "promise."
+      ],
+      "EuFrench": [
+        "Beau boulot! T'as fait [color:red][color:red][intvar:3;0;0][color:red] points[defcolor]![pagebreak]",
+        "T'assures, comme [color:red]adversaire[defcolor]!",
+        "[color:black]Presque aussi bon que moi[defcolor]![pagebreak]",
+        "Tiens, man, prends [color:yellow]cette [defcolor][icon:star]!"
+      ],
+      "EuGerman": [
+        "Sehr gut! Das waren [color:red][intvar:3;0;0] Punkte[defcolor]![pagebreak]",
+        "Nach dieser Leistung muss ich dich",
+        "[color:red]als glänzenden Rivalen [defcolor]akzeptieren![pagebreak]",
+        "Noch dazu gebe ich dir [color:black]diesen",
+        "[defcolor][color:yellow][icon:star] Power-Stern [color:black]als Belohnung[color:yellow][defcolor]!"
+      ],
+      "EuItalian": [
+        "Bene! Hai totalizzato [color:red][color:red][intvar:3;0;0][color:red] punti[defcolor]![pagebreak]",
+        "Un giorno potresti persino [color:red]diventare",
+        "in gamba [defcolor]come il sottoscritto! Ecco",
+        "la [color:yellow]Superstella [defcolor][color:black][icon:star] in premio![defcolor]"
+      ],
+      "EuDutch": [
+        "You got [color:red][intvar:3;0;0] points[defcolor]?![pagebreak]",
+        "I guess that qualifies you as a",
+        "[color:red]shining rival[defcolor]! I may not like it, but I",
+        "promised...so you can take this [icon:star]!"
+      ],
+      "JpJapanese": [
+        "お[ruby:見事;みごと]! [color:red][intvar:2;0;0][ruby:点;てん][defcolor]なのだ![pagebreak]",
+        "おれさまの[color:red]ピカいち[defcolor][color:red]ライバル [defcolor]と[ruby:認;みと]めてやるぞ!",
+        "その[ruby:証;あかし]として [color:yellow][icon:star]コレ[color:black]を[color:yellow][defcolor]やるのだ!"
+      ],
+      "KrKorean": [
+        "훌륭해! [color:red][intvar:2;0;0]점[defcolor]이야![pagebreak]",
+        "나의 [color:red]반짝반짝 라이벌[defcolor]로 인정해 줄게!",
+        "그 증거로 [color:yellow][icon:star]이것[color:black]을 줘야겠어![color:yellow][defcolor]"
+      ],
+      "AsTradChinese": [
+        "厲害！[color:red][intvar:2;0;0]分[defcolor]哦！[pagebreak]",
+        "承認你是本少爺的[color:red]頭號[defcolor][color:red]對手[defcolor]！",
+        "[color:yellow][icon:star]這個[color:black]給你做證明[color:yellow][defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "ScoreAttackMan000_Flow006",
+    "attributes": {
+      "talk_type": "GLOBAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_SASURAI_TALK_ALL_RIGHT",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Whaaaaaat?![delay:15]",
+        "[color:red][size:large][defcolor]It's a new [color:red]HIGH SCORE[color:black]![color:red][defcolor][pagebreak]",
+        "[size:normal]You got [color:red][intvar:2;0;0] points[defcolor]! As promised,",
+        "you can take [color:yellow][color:black]this[color:yellow] [defcolor][icon:star]!"
+      ],
+      "EuEnglish": [
+        "Whaaaaaat?![delay:15]",
+        "[color:red][size:large][defcolor]It's a new [color:red]HIGH SCORE[color:black]![color:red][defcolor][pagebreak]",
+        "[size:normal]You got [color:red][color:red][intvar:3;0;0][color:red] points[defcolor]! As",
+        "promised, you can take [color:yellow][color:black]this[color:yellow] [defcolor][icon:star]!"
+      ],
+      "UsSpanish": [
+        "Pero... [delay:20]¡¿Qué ven mis ojos?![pagebreak]",
+        "[color:black][size:large]¡Has [color:red]batido el récord[color:black]![defcolor][pagebreak]",
+        "[size:normal]¡[color:red][color:red][color:red][intvar:2;0;0][color:red][color:red] puntos[defcolor]!",
+        "Tal como te prometí, ¡la [color:yellow][icon:star][color:black] es tuya![color:yellow][defcolor]"
+      ],
+      "EuSpanish": [
+        "Pero... [delay:20]¡¿Qué ven mis ojos?![pagebreak]",
+        "[color:black][size:large]¡Has [color:red]batido el récord[color:black]![defcolor][pagebreak]",
+        "[size:normal]¡[color:red][color:red][intvar:3;0;0][color:red] puntos[defcolor]!",
+        "Tal como te prometí, ¡la [color:yellow][icon:star][color:black] es tuya![color:yellow][defcolor]"
+      ],
+      "UsFrench": [
+        "...Woaaaaaaah![delay:15] C'est un...",
+        "[color:red][size:large]NOUVEAU RECORD[color:black]![color:red][defcolor][pagebreak]",
+        "[size:normal]Tu as accumulé [color:red][intvar:2;0;0] points[defcolor]! Très",
+        "bien, un marché est un marché. Tiens,",
+        "prends [color:black]cette [defcolor][icon:star]!"
+      ],
+      "EuFrench": [
+        "Yoooooooooooooooo![delay:15][pagebreak]",
+        "[color:black]Un nouveau [color:red][color:black][size:large][color:red]RECORD[color:black][defcolor]?![pagebreak]",
+        "[size:normal]T'as fait [color:red][color:red][color:red][intvar:3;0;0][color:red][color:red] points[defcolor]! Comme",
+        "promis, voilà [color:yellow]ta [defcolor][color:yellow][icon:star][color:black]! Tu l'as méritée!",
+        "Parole, man![color:yellow][defcolor]"
+      ],
+      "EuGerman": [
+        "[size:small].[delay:20].[delay:20].[delay:20]Wie bitte?[pagebreak]",
+        "[color:red][color:black][size:large]EIN NEUER [color:red]HIGHSCORE[defcolor]?!?[pagebreak]",
+        "[size:normal]Das waren [color:red][color:red][color:red][intvar:3;0;0][color:red][color:red] Punkte[defcolor]!",
+        "Hier ist dein [color:yellow][icon:star] Power-Stern[color:black]![color:yellow] [color:black]G[color:yellow][color:black]enau,",
+        "wie ich's dir versprochen habe![color:yellow][defcolor]"
+      ],
+      "EuItalian": [
+        "Cosa?![delay:15] Un nuovo [color:black][size:large][defcolor][color:red]RECORD[defcolor]?![pagebreak]",
+        "[size:normal][color:red][intvar:3;0;0][defcolor] [color:red]punti[defcolor]!",
+        "Tieni questa [color:yellow]Superstella [defcolor][icon:star]!",
+        "Mantengo sempre le promesse!"
+      ],
+      "EuDutch": [
+        "Whaaaaaat?![delay:15]",
+        "[color:red][size:large][defcolor]It's a new [color:red]HIGH SCORE[color:black]![color:red][defcolor][pagebreak]",
+        "[size:normal]You got [color:red][color:red][intvar:3;0;0][color:red] points[defcolor]! As",
+        "promised, you can take [color:yellow][color:black]this[color:yellow] [defcolor][icon:star]!"
+      ],
+      "JpJapanese": [
+        "・・・ややや?![delay:15]",
+        "[color:red][size:large]ハイスコア[color:black]だぞ[color:red][defcolor]!![pagebreak]",
+        "[size:normal][color:red][intvar:2;0;0][ruby:点;てん][defcolor]!",
+        "お[ruby:約束;やくそく]の[icon:star][color:yellow]コレ[defcolor]をやるのだ!!"
+      ],
+      "KrKorean": [
+        "…우와아!![delay:15]",
+        "[color:red][size:large]하이스코어[color:black]를 획득했어!![color:red][defcolor][pagebreak]",
+        "[size:normal][color:red][intvar:2;0;0]점[defcolor]!",
+        "약속한 대로 [icon:star][color:yellow]이것[defcolor]을 줄게!!"
+      ],
+      "AsTradChinese": [
+        "唉呀?![delay:15]",
+        "[color:red][size:large]最高紀錄[color:black]哦!![color:red][defcolor][pagebreak]",
+        "[size:normal][color:red][intvar:2;0;0]分[defcolor]！",
+        "約定好的[icon:star][color:yellow]這個[defcolor]給你啦!!"
+      ]
+    }
+  },
+  {
+    "label": "ScoreAttackMan000_Flow008",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_SASURAI_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I'll give you this [color:yellow][color:red][icon:star][color:yellow] [color:red][color:yellow][color:black]if you can get",
+        "[color:yellow][defcolor][color:red][intvar:2;0;0] points or more[defcolor][color:black]! [defcolor]Good luck!"
+      ],
+      "EuEnglish": [
+        "I'll give you a [color:yellow][color:red][icon:star][color:yellow] [color:red][color:yellow][color:black]if you can get",
+        "[color:yellow][defcolor][color:red][intvar:2;0;0] points or more[defcolor][color:black]! [defcolor]Good luck!"
+      ],
+      "UsSpanish": [
+        "¡Te daré una[color:yellow] [defcolor][color:red][icon:star] [color:black]si [color:red]llegas",
+        "a [color:black][color:red][defcolor][color:red][intvar:2;0;0] puntos[defcolor][color:black]! [defcolor]¡Buena suerte!"
+      ],
+      "EuSpanish": [
+        "¡Te daré una[color:yellow] [defcolor][color:red][icon:star] [color:black]si [color:red]llegas",
+        "a [color:black][color:red][defcolor][color:red][intvar:2;0;0] puntos[defcolor][color:black]! [defcolor]¡Buena suerte!"
+      ],
+      "UsFrench": [
+        "Cool! Je te donne une [color:red][icon:star] [defcolor]si tu arrives",
+        "à faire [color:red][intvar:2;0;0][defcolor] [color:red]points ou plus[defcolor]! Bonne",
+        "chance!"
+      ],
+      "EuFrench": [
+        "Je te donne une[color:yellow] [defcolor][icon:star] si tu réussis à",
+        "faire [color:red][intvar:2;0;0] points ou plus[defcolor][color:black]! Alors",
+        "bonne chance, mon pote![defcolor]"
+      ],
+      "EuGerman": [
+        "Dieser [color:red][icon:star][color:yellow] Power-Stern [color:black]gehört dir[color:yellow][color:red][color:black], wenn",
+        "du [color:red][defcolor][color:red][intvar:2;0;0] Punkte oder mehr[color:black] schaffst[color:red][defcolor][color:black]!",
+        "[defcolor]Gib dir also etwas Mühe!"
+      ],
+      "EuItalian": [
+        "Ti darò una [color:yellow]Superstella[defcolor] [color:black][icon:star] [defcolor]se riesci",
+        "ad ottenere almeno [color:red][intvar:2;0;0] punti[color:black]!",
+        "In bocca al lupo![color:red][defcolor]"
+      ],
+      "EuDutch": [
+        "I'll give you a [color:yellow][color:red][icon:star][color:yellow] [color:red][color:yellow][color:black]if you can get",
+        "[color:yellow][defcolor][color:red][intvar:2;0;0] points or more[defcolor][color:black]! [defcolor]Good luck!"
+      ],
+      "JpJapanese": [
+        "[color:red][intvar:2;0;0][ruby:点以上;てんいじょう][color:black]で[color:red][color:yellow] [icon:star][color:red][color:yellow]コレ[color:black]を[color:yellow][color:black]やるからな[color:yellow][color:red][defcolor][color:black]!",
+        "[defcolor]がんばれよ!"
+      ],
+      "KrKorean": [
+        "[color:red][intvar:2;0;0]점 이상 [color:black]따면[color:red][color:yellow] [icon:star][color:red][color:yellow]이것[color:black]을 줄 테니까[color:yellow][color:red][defcolor][color:black]",
+        "열심히 해 봐![defcolor]"
+      ],
+      "AsTradChinese": [
+        "拿到[color:red][intvar:2;0;0]分以上[color:black]，[color:red]",
+        "[color:yellow][icon:star]這個[color:red][color:black]就給你[color:red][defcolor][color:black]！加油啦[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "ScoreAttackMan000_Flow009",
+    "attributes": {
+      "talk_type": "GLOBAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_SASURAI_TALK_QUESTION",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Too bad! You got [color:red][intvar:3;0;0] points[defcolor]![pagebreak]",
+        "Wanna try again?"
+      ],
+      "EuEnglish": [
+        "Too bad! You got [color:red][intvar:3;0;0] points[defcolor]![pagebreak]",
+        "Wanna try again? You gotta focus on",
+        "[color:blue]skating in a clean line[defcolor]! That's the key!"
+      ],
+      "UsSpanish": [
+        "¡Solo has logrado [color:red][intvar:3;0;0] puntos[defcolor]! [pagebreak]",
+        "Una pena. ¿Quieres probar otra vez?"
+      ],
+      "EuSpanish": [
+        "¡[color:red][intvar:3;0;0] puntos[defcolor]![pagebreak]",
+        "Una pena. ¿Quieres probar otra vez?",
+        "¡La clave está en [color:blue]patinar con",
+        "suavidad y no hacer giros bruscos[defcolor]!"
+      ],
+      "UsFrench": [
+        "Ouch! Dommage! [color:red][intvar:3;0;0] points[defcolor]! [pagebreak]",
+        "Veux-tu réessayer, bonhomme?"
+      ],
+      "EuFrench": [
+        "Oooh, ça, c'est ballot! [color:red][intvar:3;0;0] points[defcolor]![pagebreak]",
+        "[color:black]Le secret, c'est d'anticiper ta",
+        "trajectoire pour [color:blue]suivre une ligne",
+        "bien nette[color:black]! On remet ça?[defcolor]"
+      ],
+      "EuGerman": [
+        "Oooh, wie schade! [color:red][intvar:3;0;0] Punkte[defcolor]![pagebreak]",
+        "Am besten klappt's, wenn du [color:blue]in",
+        "geraden Linien [defcolor]über die Buis flitzt!",
+        "Willst du es noch mal versuchen?"
+      ],
+      "EuItalian": [
+        "Ohhh! [color:red][intvar:3;0;0] punti[defcolor]![pagebreak]",
+        "[color:blue]Pattina calcolando bene la traiettoria[defcolor]!",
+        "Vuoi provarci ancora una volta?"
+      ],
+      "EuDutch": [
+        "Too bad! You got [color:red][intvar:3;0;0] points[defcolor]![pagebreak]",
+        "Wanna try again? You gotta focus on",
+        "[color:blue]skating in a clean line[defcolor]! That's the key!"
+      ],
+      "JpJapanese": [
+        "[ruby:残念;ざんねん]! [color:red][intvar:3;0;0][ruby:点;てん][color:black]なの[color:red][defcolor]だ![pagebreak]",
+        "もう[ruby:一回;いっかい] [color:red]チャレンジ[defcolor]するか?",
+        "[color:blue]スケートでの [defcolor][color:black][color:blue]うまいライン[ruby:取;ど]り[color:black]が[color:blue][color:black]ポイント[defcolor]だぞ"
+      ],
+      "KrKorean": [
+        "저런! [color:red][intvar:3;0;0]점[color:black]이네![color:red][defcolor][pagebreak]",
+        "다시 한 번 [color:red]도전[defcolor]할래? [color:blue]깔끔한 동선으로",
+        "스케이팅하는 것[defcolor][color:black]이 성공의 열쇠야![defcolor]"
+      ],
+      "AsTradChinese": [
+        "可惜！只拿到[color:red][intvar:3;0;0]分[defcolor]！[pagebreak]",
+        "要不要再[color:red]挑戰[defcolor]一次?",
+        "[color:blue][color:blue]準確的[color:blue][color:black][color:blue]溜冰路線[color:black]才是關鍵。[color:blue][defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "SignBoard000",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 0,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:orange]P2[defcolor]! You [color:red]help[defcolor], too!"
+      ],
+      "EuEnglish": [
+        "[color:orange]P2[defcolor]! You [color:red]help[defcolor], too!"
+      ],
+      "UsSpanish": [
+        "[color:orange]J2[defcolor], ¡también",
+        "puedes [color:red]ayudar[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡[color:orange]J2[defcolor]! ¡También",
+        "puedes [color:red]ayudar[defcolor]!"
+      ],
+      "UsFrench": [
+        "[color:orange]J2[defcolor], [color:red]aidez [defcolor]le J1!"
+      ],
+      "EuFrench": [
+        "[color:orange]J2[defcolor], tu peux",
+        "aussi [color:red]aider[defcolor]!"
+      ],
+      "EuGerman": [
+        "[color:orange]SP2[color:black], [color:red]hilf [color:black]mit![color:orange][defcolor]"
+      ],
+      "EuItalian": [
+        "Anche [color:orange]G2[defcolor] può [color:red]aiutare[defcolor]!"
+      ],
+      "EuDutch": [
+        "[color:orange]P2[defcolor]! You [color:red]help[defcolor], too!"
+      ],
+      "JpJapanese": [
+        "[color:orange]2P[defcolor]も[color:red]アタック[defcolor]!"
+      ],
+      "KrKorean": [
+        "[color:orange]2P[defcolor]도 [color:red]어택[defcolor]!"
+      ],
+      "AsTradChinese": [
+        "[color:orange]2P[defcolor]也來[color:red]幫忙[defcolor]！"
+      ]
+    }
+  }
+]

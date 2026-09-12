@@ -1,0 +1,53 @@
+[
+  {
+    "label": "TitleLogo_Nintendo",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Neo Mario Galaxy Team"
+      ],
+      "EuEnglish": [
+        "Neo Mario Galaxy Team"
+      ],
+      "UsSpanish": [
+        "Neo Mario Galaxy Team"
+      ],
+      "EuSpanish": [
+        "Neo Mario Galaxy Team"
+      ],
+      "UsFrench": [
+        "Neo Mario Galaxy Team"
+      ],
+      "EuFrench": [
+        "Neo Mario Galaxy Team"
+      ],
+      "EuGerman": [
+        "Neo Mario Galaxy Team"
+      ],
+      "EuItalian": [
+        "Neo Mario Galaxy Team"
+      ],
+      "EuDutch": [
+        "Neo Mario Galaxy Team"
+      ],
+      "JpJapanese": [
+        "Neo Mario Galaxy Team"
+      ],
+      "KrKorean": [
+        "Neo Mario Galaxy Team"
+      ],
+      "AsTradChinese": [
+        "Neo Mario Galaxy Team"
+      ]
+    }
+  }
+]

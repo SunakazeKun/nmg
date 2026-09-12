@@ -1,0 +1,1994 @@
+[
+  {
+    "label": "Select_Dreamer_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No"
+      ],
+      "EuEnglish": [
+        "No"
+      ],
+      "UsSpanish": [
+        "No"
+      ],
+      "EuSpanish": [
+        "No"
+      ],
+      "UsFrench": [
+        "Non merci!"
+      ],
+      "EuFrench": [
+        "Non, merci!"
+      ],
+      "EuGerman": [
+        "Nicht nötig!"
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No"
+      ],
+      "JpJapanese": [
+        "やめとく"
+      ],
+      "KrKorean": [
+        "안 볼래"
+      ],
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "Select_Dreamer_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Yes"
+      ],
+      "EuEnglish": [
+        "Yes"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui!"
+      ],
+      "EuFrench": [
+        "D'accord!"
+      ],
+      "EuGerman": [
+        "Au ja!"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "Yes"
+      ],
+      "JpJapanese": [
+        "ヒントをみる"
+      ],
+      "KrKorean": [
+        "힌트 볼래"
+      ],
+      "AsTradChinese": [
+        "看提示"
+      ]
+    }
+  },
+  {
+    "label": "Select_FireWoodBoxPlay_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No thanks"
+      ],
+      "EuEnglish": [
+        "Not now"
+      ],
+      "UsSpanish": [
+        "Ahora no"
+      ],
+      "EuSpanish": [
+        "Ahora no"
+      ],
+      "UsFrench": [
+        "Non merci!"
+      ],
+      "EuFrench": [
+        "Non, merci!"
+      ],
+      "EuGerman": [
+        "Keine Lust..."
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "Not now"
+      ],
+      "JpJapanese": [
+        "やめとく"
+      ],
+      "KrKorean": [
+        "싫어"
+      ],
+      "AsTradChinese": [
+        "不幫"
+      ]
+    }
+  },
+  {
+    "label": "Select_FireWoodBoxPlay_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Sure"
+      ],
+      "EuEnglish": [
+        "Sure"
+      ],
+      "UsSpanish": [
+        "¡De acuerdo!"
+      ],
+      "EuSpanish": [
+        "¡Vale!"
+      ],
+      "UsFrench": [
+        "Oui!"
+      ],
+      "EuFrench": [
+        "D'accord!"
+      ],
+      "EuGerman": [
+        "Mit Vergnügen!"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "Sure"
+      ],
+      "JpJapanese": [
+        "まかせて"
+      ],
+      "KrKorean": [
+        "그래!"
+      ],
+      "AsTradChinese": [
+        "幫"
+      ]
+    }
+  },
+  {
+    "label": "Select_GliBirdRide_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No thanks"
+      ],
+      "EuEnglish": [
+        "No thanks"
+      ],
+      "UsSpanish": [
+        "Ahora no"
+      ],
+      "EuSpanish": [
+        "Ahora no"
+      ],
+      "UsFrench": [
+        "Non merci!"
+      ],
+      "EuFrench": [
+        "Non, merci!"
+      ],
+      "EuGerman": [
+        "Am Boden bleiben"
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No thanks"
+      ],
+      "JpJapanese": [
+        "やめとく"
+      ],
+      "KrKorean": [
+        "안 탈래"
+      ],
+      "AsTradChinese": [
+        "不飛"
+      ]
+    }
+  },
+  {
+    "label": "Select_GliBirdRide_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Let's glide"
+      ],
+      "EuEnglish": [
+        "Let's glide"
+      ],
+      "UsSpanish": [
+        "¡A volar!"
+      ],
+      "EuSpanish": [
+        "¡A volar!"
+      ],
+      "UsFrench": [
+        "Oui!"
+      ],
+      "EuFrench": [
+        "D'accord!"
+      ],
+      "EuGerman": [
+        "Ich will fliegen!"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "Let's glide"
+      ],
+      "JpJapanese": [
+        "とぶ"
+      ],
+      "KrKorean": [
+        "탈래"
+      ],
+      "AsTradChinese": [
+        "飛"
+      ]
+    }
+  },
+  {
+    "label": "Select_GliBirdTutorial_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No thanks"
+      ],
+      "EuEnglish": [
+        "No thanks"
+      ],
+      "UsSpanish": [
+        "Ahora no"
+      ],
+      "EuSpanish": [
+        "Ahora no"
+      ],
+      "UsFrench": [
+        "Non merci!"
+      ],
+      "EuFrench": [
+        "Non, merci!"
+      ],
+      "EuGerman": [
+        "Weiß ich schon!"
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No thanks"
+      ],
+      "JpJapanese": [
+        "べつにいい"
+      ],
+      "KrKorean": [
+        "필요 없어"
+      ],
+      "AsTradChinese": [
+        "不需要"
+      ]
+    }
+  },
+  {
+    "label": "Select_GliBirdTutorial_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Tell me"
+      ],
+      "EuEnglish": [
+        "Tell me"
+      ],
+      "UsSpanish": [
+        "¡Explícamelo!"
+      ],
+      "EuSpanish": [
+        "¡Explícamelo!"
+      ],
+      "UsFrench": [
+        "Oui!"
+      ],
+      "EuFrench": [
+        "D'accord!"
+      ],
+      "EuGerman": [
+        "Bin ganz Ohr!"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "Tell me"
+      ],
+      "JpJapanese": [
+        "おしえて"
+      ],
+      "KrKorean": [
+        "가르쳐 줘"
+      ],
+      "AsTradChinese": [
+        "告訴我"
+      ]
+    }
+  },
+  {
+    "label": "Select_HelperWitchDaredevil_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Normal"
+      ],
+      "EuEnglish": [
+        "Normal"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Normal"
+      ],
+      "EuItalian": [
+        "Normale"
+      ],
+      "EuDutch": [
+        "Normal"
+      ],
+      "JpJapanese": [
+        "ノーマル"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Select_HelperWitchDaredevil_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Daredevil"
+      ],
+      "EuEnglish": [
+        "Daredevil"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Schabernack"
+      ],
+      "EuItalian": [
+        "Pericolo"
+      ],
+      "EuDutch": [
+        "Daredevil"
+      ],
+      "JpJapanese": [
+        "サドンデス"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Select_HelperWitchPlayer_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:mario] Mario"
+      ],
+      "EuEnglish": [
+        "[icon:mario] Mario"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "[icon:mario] Mario"
+      ],
+      "EuItalian": [
+        "[icon:mario] Mario"
+      ],
+      "EuDutch": [
+        "[icon:mario] Mario"
+      ],
+      "JpJapanese": [
+        "[icon:mario] マリオ"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Select_HelperWitchPlayer_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:luigi] Luigi"
+      ],
+      "EuEnglish": [
+        "[icon:luigi] Luigi"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "[icon:luigi] Luigi"
+      ],
+      "EuItalian": [
+        "[icon:luigi] Luigi"
+      ],
+      "EuDutch": [
+        "[icon:luigi] Luigi"
+      ],
+      "JpJapanese": [
+        "[icon:luigi] ルイージ"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Select_KinopioBank_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No thanks"
+      ],
+      "EuEnglish": [
+        "No thanks"
+      ],
+      "UsSpanish": [
+        "Ahora no"
+      ],
+      "EuSpanish": [
+        "Ahora no"
+      ],
+      "UsFrench": [
+        "Non merci!"
+      ],
+      "EuFrench": [
+        "Non, merci!"
+      ],
+      "EuGerman": [
+        "Gerade nicht..."
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No thanks"
+      ],
+      "JpJapanese": [
+        "しない"
+      ],
+      "KrKorean": [
+        "안 할래"
+      ],
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "Select_KinopioBank_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK"
+      ],
+      "EuEnglish": [
+        "OK"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui!"
+      ],
+      "EuFrench": [
+        "D'accord!"
+      ],
+      "EuGerman": [
+        "Ja, bitte!"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "OK"
+      ],
+      "JpJapanese": [
+        "する"
+      ],
+      "KrKorean": [
+        "할래"
+      ],
+      "AsTradChinese": [
+        "要"
+      ]
+    }
+  },
+  {
+    "label": "Select_LuckeyRoom_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Quit"
+      ],
+      "EuEnglish": [
+        "Quit"
+      ],
+      "UsSpanish": [
+        "Salir"
+      ],
+      "EuSpanish": [
+        "Salir"
+      ],
+      "UsFrench": [
+        "Non merci!"
+      ],
+      "EuFrench": [
+        "Non, merci!"
+      ],
+      "EuGerman": [
+        "Lieber nicht..."
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "Quit"
+      ],
+      "JpJapanese": [
+        "やめとく"
+      ],
+      "KrKorean": [
+        "안 할래"
+      ],
+      "AsTradChinese": [
+        "不交換"
+      ]
+    }
+  },
+  {
+    "label": "Select_LuckeyRoom_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK"
+      ],
+      "EuEnglish": [
+        "OK"
+      ],
+      "UsSpanish": [
+        "Intentarlo"
+      ],
+      "EuSpanish": [
+        "Intentarlo"
+      ],
+      "UsFrench": [
+        "Oui!"
+      ],
+      "EuFrench": [
+        "Essayer"
+      ],
+      "EuGerman": [
+        "Aber gerne!"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "OK"
+      ],
+      "JpJapanese": [
+        "[ruby:交換;こうかん]する"
+      ],
+      "KrKorean": [
+        "교환할래"
+      ],
+      "AsTradChinese": [
+        "交換"
+      ]
+    }
+  },
+  {
+    "label": "Select_LuigiTalkNpc_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No thanks"
+      ],
+      "EuEnglish": [
+        "No thanks"
+      ],
+      "UsSpanish": [
+        "No, gracias"
+      ],
+      "EuSpanish": [
+        "No, gracias"
+      ],
+      "UsFrench": [
+        "Non merci!"
+      ],
+      "EuFrench": [
+        "Non, merci!"
+      ],
+      "EuGerman": [
+        "[icon:mario] Mario"
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No thanks"
+      ],
+      "JpJapanese": [
+        "やめとく"
+      ],
+      "KrKorean": [
+        "안 할래"
+      ],
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "Select_LuigiTalkNpc_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK"
+      ],
+      "EuEnglish": [
+        "OK"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui!"
+      ],
+      "EuFrench": [
+        "OK!"
+      ],
+      "EuGerman": [
+        "[icon:luigi] Luigi"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "OK"
+      ],
+      "JpJapanese": [
+        "[ruby:交代;こうたい]する"
+      ],
+      "KrKorean": [
+        "교대할래"
+      ],
+      "AsTradChinese": [
+        "要"
+      ]
+    }
+  },
+  {
+    "label": "Select_MeisterConfirm_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "That's right"
+      ],
+      "EuEnglish": [
+        "That's right"
+      ],
+      "UsSpanish": [
+        "Está bien"
+      ],
+      "EuSpanish": [
+        "¡Vale!"
+      ],
+      "UsFrench": [
+        "Exactement!"
+      ],
+      "EuFrench": [
+        "Tout à fait!"
+      ],
+      "EuGerman": [
+        "Ganz genau!"
+      ],
+      "EuItalian": [
+        "Ovvio"
+      ],
+      "EuDutch": [
+        "That's right"
+      ],
+      "JpJapanese": [
+        "そうです"
+      ],
+      "KrKorean": [
+        "맞아요"
+      ],
+      "AsTradChinese": [
+        "對啊！"
+      ]
+    }
+  },
+  {
+    "label": "Select_MeisterConfirm_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Yes"
+      ],
+      "EuEnglish": [
+        "Yes"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui!"
+      ],
+      "EuFrench": [
+        "Oh oui!"
+      ],
+      "EuGerman": [
+        "Das stimmt!"
+      ],
+      "EuItalian": [
+        "Certo"
+      ],
+      "EuDutch": [
+        "Yes"
+      ],
+      "JpJapanese": [
+        "はい"
+      ],
+      "KrKorean": [
+        "예"
+      ],
+      "AsTradChinese": [
+        "是"
+      ]
+    }
+  },
+  {
+    "label": "Select_MeisterTrade_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "That's right"
+      ],
+      "EuEnglish": [
+        "That's right"
+      ],
+      "UsSpanish": [
+        "Correcto"
+      ],
+      "EuSpanish": [
+        "Correcto"
+      ],
+      "UsFrench": [
+        "Bien sûr!"
+      ],
+      "EuFrench": [
+        "Tope là!"
+      ],
+      "EuGerman": [
+        "Na klar!"
+      ],
+      "EuItalian": [
+        "Ovvio"
+      ],
+      "EuDutch": [
+        "That's right"
+      ],
+      "JpJapanese": [
+        "いいです"
+      ],
+      "KrKorean": [
+        "좋아요"
+      ],
+      "AsTradChinese": [
+        "好啊！"
+      ]
+    }
+  },
+  {
+    "label": "Select_MeisterTrade_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Yes"
+      ],
+      "EuEnglish": [
+        "Yes"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui!"
+      ],
+      "EuFrench": [
+        "D'accord!"
+      ],
+      "EuGerman": [
+        "Aber gerne!"
+      ],
+      "EuItalian": [
+        "Certo"
+      ],
+      "EuDutch": [
+        "Yes"
+      ],
+      "JpJapanese": [
+        "はい"
+      ],
+      "KrKorean": [
+        "예"
+      ],
+      "AsTradChinese": [
+        "可以"
+      ]
+    }
+  },
+  {
+    "label": "Select_MuimuiPlay_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No thanks"
+      ],
+      "EuEnglish": [
+        "No thanks"
+      ],
+      "UsSpanish": [
+        "Ahora no"
+      ],
+      "EuSpanish": [
+        "Ahora no"
+      ],
+      "UsFrench": [
+        "Non merci!"
+      ],
+      "EuFrench": [
+        "Non, merci!"
+      ],
+      "EuGerman": [
+        "Lieber nicht..."
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No thanks"
+      ],
+      "JpJapanese": [
+        "やめとく"
+      ],
+      "KrKorean": [
+        "안 할래"
+      ],
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "Select_MuimuiPlay_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK"
+      ],
+      "EuEnglish": [
+        "OK"
+      ],
+      "UsSpanish": [
+        "Aceptar"
+      ],
+      "EuSpanish": [
+        "Aceptar"
+      ],
+      "UsFrench": [
+        "Oui!"
+      ],
+      "EuFrench": [
+        "D'accord!"
+      ],
+      "EuGerman": [
+        "Natürlich!"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "OK"
+      ],
+      "JpJapanese": [
+        "やる"
+      ],
+      "KrKorean": [
+        "할래"
+      ],
+      "AsTradChinese": [
+        "要"
+      ]
+    }
+  },
+  {
+    "label": "Select_PichanRace_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Quit"
+      ],
+      "EuEnglish": [
+        "Quit"
+      ],
+      "UsSpanish": [
+        "No"
+      ],
+      "EuSpanish": [
+        "Salir"
+      ],
+      "UsFrench": [
+        "Non merci!"
+      ],
+      "EuFrench": [
+        "Non, merci!"
+      ],
+      "EuGerman": [
+        "Ich lass es."
+      ],
+      "EuItalian": [
+        "Esci"
+      ],
+      "EuDutch": [
+        "Quit"
+      ],
+      "JpJapanese": [
+        "やらない"
+      ],
+      "KrKorean": [
+        "안 할래"
+      ],
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "Select_PichanRace_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Race"
+      ],
+      "EuEnglish": [
+        "Race"
+      ],
+      "UsSpanish": [
+        "¡Por supuesto!"
+      ],
+      "EuSpanish": [
+        "¡Por supuesto!"
+      ],
+      "UsFrench": [
+        "D'accord!"
+      ],
+      "EuFrench": [
+        "D'accord!"
+      ],
+      "EuGerman": [
+        "Ich mach es!"
+      ],
+      "EuItalian": [
+        "Gara"
+      ],
+      "EuDutch": [
+        "Race"
+      ],
+      "JpJapanese": [
+        "レース"
+      ],
+      "KrKorean": [
+        "레이스!"
+      ],
+      "AsTradChinese": [
+        "開始"
+      ]
+    }
+  },
+  {
+    "label": "Select_ScoreAttackContinue_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Start over"
+      ],
+      "EuEnglish": [
+        "Start over"
+      ],
+      "UsSpanish": [
+        "Empezar"
+      ],
+      "EuSpanish": [
+        "Repetir"
+      ],
+      "UsFrench": [
+        "Réessayer"
+      ],
+      "EuFrench": [
+        "Réessayer"
+      ],
+      "EuGerman": [
+        "Von vorne!"
+      ],
+      "EuItalian": [
+        "Ricomincia"
+      ],
+      "EuDutch": [
+        "Start over"
+      ],
+      "JpJapanese": [
+        "やりなおす"
+      ],
+      "KrKorean": [
+        "다시 할래"
+      ],
+      "AsTradChinese": [
+        "重來"
+      ]
+    }
+  },
+  {
+    "label": "Select_ScoreAttackContinue_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Continue"
+      ],
+      "EuEnglish": [
+        "Continue"
+      ],
+      "UsSpanish": [
+        "Continuar"
+      ],
+      "EuSpanish": [
+        "Continuar"
+      ],
+      "UsFrench": [
+        "Continuer"
+      ],
+      "EuFrench": [
+        "Continuer"
+      ],
+      "EuGerman": [
+        "Weiter geht's!"
+      ],
+      "EuItalian": [
+        "Continua"
+      ],
+      "EuDutch": [
+        "Continue"
+      ],
+      "JpJapanese": [
+        "つづける"
+      ],
+      "KrKorean": [
+        "계속할래"
+      ],
+      "AsTradChinese": [
+        "繼續"
+      ]
+    }
+  },
+  {
+    "label": "Select_ScoreAttackPlay_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No"
+      ],
+      "EuEnglish": [
+        "No"
+      ],
+      "UsSpanish": [
+        "No"
+      ],
+      "EuSpanish": [
+        "No"
+      ],
+      "UsFrench": [
+        "Non merci!"
+      ],
+      "EuFrench": [
+        "Non, merci!"
+      ],
+      "EuGerman": [
+        "Lieber nicht..."
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No"
+      ],
+      "JpJapanese": [
+        "やらない"
+      ],
+      "KrKorean": [
+        "안 할래"
+      ],
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "Select_ScoreAttackPlay_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Yes"
+      ],
+      "EuEnglish": [
+        "Yes"
+      ],
+      "UsSpanish": [
+        "¡Por supuesto!"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "D'accord!"
+      ],
+      "EuFrench": [
+        "D'accord!"
+      ],
+      "EuGerman": [
+        "Natürlich!"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "Yes"
+      ],
+      "JpJapanese": [
+        "やる"
+      ],
+      "KrKorean": [
+        "할래"
+      ],
+      "AsTradChinese": [
+        "要"
+      ]
+    }
+  },
+  {
+    "label": "Select_SuperDreamer_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No"
+      ],
+      "EuEnglish": [
+        "No"
+      ],
+      "UsSpanish": [
+        "No"
+      ],
+      "EuSpanish": [
+        "No"
+      ],
+      "UsFrench": [
+        "Non merci!"
+      ],
+      "EuFrench": [
+        "Non, merci!"
+      ],
+      "EuGerman": [
+        "Lieber nicht..."
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No"
+      ],
+      "JpJapanese": [
+        "べつにいい"
+      ],
+      "KrKorean": [
+        "필요 없어"
+      ],
+      "AsTradChinese": [
+        "不需要"
+      ]
+    }
+  },
+  {
+    "label": "Select_SuperDreamer_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Yes"
+      ],
+      "EuEnglish": [
+        "Yes"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui!"
+      ],
+      "EuFrench": [
+        "D'accord!"
+      ],
+      "EuGerman": [
+        "Au ja!"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "Yes"
+      ],
+      "JpJapanese": [
+        "おねがいする"
+      ],
+      "KrKorean": [
+        "부탁할래"
+      ],
+      "AsTradChinese": [
+        "需要"
+      ]
+    }
+  },
+  {
+    "label": "Select_TamakoroTutorial_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "That's OK"
+      ],
+      "EuEnglish": [
+        "That's OK"
+      ],
+      "UsSpanish": [
+        "Mejor no"
+      ],
+      "EuSpanish": [
+        "Mejor no"
+      ],
+      "UsFrench": [
+        "Non merci!"
+      ],
+      "EuFrench": [
+        "Inutile!"
+      ],
+      "EuGerman": [
+        "Lieber nicht..."
+      ],
+      "EuItalian": [
+        "Non importa"
+      ],
+      "EuDutch": [
+        "That's OK"
+      ],
+      "JpJapanese": [
+        "べつにいい"
+      ],
+      "KrKorean": [
+        "필요 없어"
+      ],
+      "AsTradChinese": [
+        "不需要"
+      ]
+    }
+  },
+  {
+    "label": "Select_TamakoroTutorial_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Tell me"
+      ],
+      "EuEnglish": [
+        "Tell me"
+      ],
+      "UsSpanish": [
+        "Cuéntame"
+      ],
+      "EuSpanish": [
+        "Cuéntame"
+      ],
+      "UsFrench": [
+        "Oui!"
+      ],
+      "EuFrench": [
+        "J'écoute!"
+      ],
+      "EuGerman": [
+        "Schieß los!"
+      ],
+      "EuItalian": [
+        "Dimmi"
+      ],
+      "EuDutch": [
+        "Tell me"
+      ],
+      "JpJapanese": [
+        "おしえて"
+      ],
+      "KrKorean": [
+        "가르쳐 줘"
+      ],
+      "AsTradChinese": [
+        "告訴我"
+      ]
+    }
+  },
+  {
+    "label": "Select_TicoFatCoinGive_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No"
+      ],
+      "EuEnglish": [
+        "No"
+      ],
+      "UsSpanish": [
+        "No"
+      ],
+      "EuSpanish": [
+        "No"
+      ],
+      "UsFrench": [
+        "Non merci!"
+      ],
+      "EuFrench": [
+        "Non, merci!"
+      ],
+      "EuGerman": [
+        "Lieber nicht."
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No"
+      ],
+      "JpJapanese": [
+        "あげない"
+      ],
+      "KrKorean": [
+        "안 줄래"
+      ],
+      "AsTradChinese": [
+        "不給"
+      ]
+    }
+  },
+  {
+    "label": "Select_TicoFatCoinGive_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Yes"
+      ],
+      "EuEnglish": [
+        "Yes"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "D'accord!"
+      ],
+      "EuFrench": [
+        "D'accord!"
+      ],
+      "EuGerman": [
+        "Aber sicher!"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "Yes"
+      ],
+      "JpJapanese": [
+        "あげる"
+      ],
+      "KrKorean": [
+        "줄래"
+      ],
+      "AsTradChinese": [
+        "給"
+      ]
+    }
+  },
+  {
+    "label": "Select_TicoShopExchange_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No thanks"
+      ],
+      "EuEnglish": [
+        "No thanks"
+      ],
+      "UsSpanish": [
+        "No"
+      ],
+      "EuSpanish": [
+        "No"
+      ],
+      "UsFrench": [
+        "Non merci!"
+      ],
+      "EuFrench": [
+        "Non, merci!"
+      ],
+      "EuGerman": [
+        "Abbrechen"
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No thanks"
+      ],
+      "JpJapanese": [
+        "やめとく"
+      ],
+      "KrKorean": [
+        "안 바꿀래"
+      ],
+      "AsTradChinese": [
+        "不交換"
+      ]
+    }
+  },
+  {
+    "label": "Select_TicoShopExchange_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Buy"
+      ],
+      "EuEnglish": [
+        "Buy"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui!"
+      ],
+      "EuFrench": [
+        "D'accord!"
+      ],
+      "EuGerman": [
+        "Kaufen"
+      ],
+      "EuItalian": [
+        "D'accordo"
+      ],
+      "EuDutch": [
+        "Buy"
+      ],
+      "JpJapanese": [
+        "[ruby:交換;こうかん]する"
+      ],
+      "KrKorean": [
+        "바꿀래"
+      ],
+      "AsTradChinese": [
+        "交換"
+      ]
+    }
+  },
+  {
+    "label": "Select_TicoShopWhich_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:one_up_mushroom] 1-Up "
+      ],
+      "EuEnglish": [
+        "[icon:one_up_mushroom] 1-Up"
+      ],
+      "UsSpanish": [
+        "Vida extra [icon:one_up_mushroom]"
+      ],
+      "EuSpanish": [
+        "Vida extra [icon:one_up_mushroom]"
+      ],
+      "UsFrench": [
+        "[icon:one_up_mushroom]"
+      ],
+      "EuFrench": [
+        "[icon:one_up_mushroom]"
+      ],
+      "EuGerman": [
+        "[icon:one_up_mushroom] 1-Up"
+      ],
+      "EuItalian": [
+        "[icon:one_up_mushroom] 1-Up"
+      ],
+      "EuDutch": [
+        "[icon:one_up_mushroom] 1-Up"
+      ],
+      "JpJapanese": [
+        "[icon:one_up_mushroom] 1UP"
+      ],
+      "KrKorean": [
+        "[icon:one_up_mushroom] 1UP"
+      ],
+      "AsTradChinese": [
+        "[icon:one_up_mushroom] 1UP"
+      ]
+    }
+  },
+  {
+    "label": "Select_TicoShopWhich_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:life_mushroom] Life"
+      ],
+      "EuEnglish": [
+        "[icon:life_mushroom] Life"
+      ],
+      "UsSpanish": [
+        "Energía [icon:life_mushroom]"
+      ],
+      "EuSpanish": [
+        "Energía [icon:life_mushroom]"
+      ],
+      "UsFrench": [
+        "[icon:life_mushroom]"
+      ],
+      "EuFrench": [
+        "[icon:life_mushroom]"
+      ],
+      "EuGerman": [
+        "[icon:life_mushroom] Max. Kraft"
+      ],
+      "EuItalian": [
+        "[icon:life_mushroom] Energia"
+      ],
+      "EuDutch": [
+        "[icon:life_mushroom] Life"
+      ],
+      "JpJapanese": [
+        "[icon:life_mushroom] ライフUP"
+      ],
+      "KrKorean": [
+        "[icon:life_mushroom] 체력UP"
+      ],
+      "AsTradChinese": [
+        "[icon:life_mushroom]生命UP"
+      ]
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "label": "SignBoard000",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 0,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:orange]P2[defcolor]! You [color:red]help[defcolor], too!"
+      ],
+      "EuEnglish": [
+        "[color:orange]P2[defcolor]! You [color:red]help[defcolor], too!"
+      ],
+      "UsSpanish": [
+        "[color:orange]J2[defcolor], ¡también",
+        "puedes [color:red]ayudar[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡[color:orange]J2[defcolor]! ¡También",
+        "puedes [color:red]ayudar[defcolor]!"
+      ],
+      "UsFrench": [
+        "[color:orange]J2[defcolor], [color:red]aidez [defcolor]le J1!"
+      ],
+      "EuFrench": [
+        "[color:orange]J2[defcolor], tu peux",
+        "aussi [color:red]aider[defcolor]!"
+      ],
+      "EuGerman": [
+        "[color:orange]SP2[color:black], [color:red]hilf [color:black]mit![color:orange][defcolor]"
+      ],
+      "EuItalian": [
+        "Anche [color:orange]G2[defcolor] può [color:red]aiutare[defcolor]!"
+      ],
+      "EuDutch": [
+        "[color:orange]P2[defcolor]! You [color:red]help[defcolor], too!"
+      ],
+      "JpJapanese": [
+        "[color:orange]2P[defcolor]も[color:red]アタック[defcolor]!"
+      ],
+      "KrKorean": [
+        "[color:orange]2P[defcolor]도 [color:red]어택[defcolor]!"
+      ],
+      "AsTradChinese": [
+        "[color:orange]2P[defcolor]也來[color:red]幫忙[defcolor]！"
+      ]
+    }
+  }
+]

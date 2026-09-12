@@ -1,0 +1,41 @@
+[
+  {
+    "label": "SignBoard000",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_SIGNBOARD_HEY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Collect the [icon:blue_chip]!"
+      ],
+      "EuEnglish": [
+        "Collect the [icon:blue_chip]!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Sammle die [icon:blue_chip]!"
+      ],
+      "EuItalian": [
+        "Raccogli gli [icon:blue_chip]!"
+      ],
+      "EuDutch": [
+        "Collect the [icon:blue_chip]!"
+      ],
+      "JpJapanese": [
+        "[icon:blue_chip]を[ruby:集;あつ]めな！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  }
+]

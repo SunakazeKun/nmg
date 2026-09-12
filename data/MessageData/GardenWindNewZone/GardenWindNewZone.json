@@ -1,0 +1,92 @@
+[
+  {
+    "label": "Rabbit000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_RABBIT_TALK_CAUGHT",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "With [color:purple]Floaty Fluff[defcolor], you can shake [icon:wiimote]",
+        "to fly higher! But only up to [color:red]three",
+        "times[defcolor], boiyoing!"
+      ],
+      "EuEnglish": [
+        "With [color:purple]Floaty Fluff[defcolor], you can shake [icon:wiimote]",
+        "to fly higher! But only up to [color:red]three",
+        "times[defcolor], boiyoing!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Schüttele die [icon:wiimote], um mit",
+        "dem [color:red]Flaumkraut[defcolor] höher zu fliegen.",
+        "Das geht genau [color:red]3-mal[defcolor], hoppelhopp."
+      ],
+      "EuItalian": [
+        "Aggrappati al [color:purple]Fiore Fiù[defcolor] e [color:red]scuoti [color:black][icon:wiimote]",
+        "per volare in alto![delay:30] Ma solo per [color:red]tre",
+        "volte[defcolor]! PION-PION!"
+      ],
+      "EuDutch": [
+        "With [color:purple]Floaty Fluff[defcolor], you can shake [icon:wiimote]",
+        "to fly higher! But only up to [color:red]three",
+        "times[defcolor], boiyoing!"
+      ],
+      "JpJapanese": [
+        "[color:purple]フワフワ[ruby:草;そう][defcolor]は[icon:wiimote][color:red]ふって[defcolor]フワフワ♪[delay:30]",
+        "でも、フワフワできるのは [color:red]3[ruby:回;かい][defcolor]だけだピョン！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Rabbit001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_RABBIT_TALK_THATS",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You made it. Very good, boiyoing!"
+      ],
+      "EuEnglish": [
+        "You made it. Very good, boiyoing!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Du hast es geschafft, hoppelhopp!"
+      ],
+      "EuItalian": [
+        "Ce l'hai fatta. Molto",
+        "bene! PION-PION!"
+      ],
+      "EuDutch": [
+        "You made it. Very good, boiyoing!"
+      ],
+      "JpJapanese": [
+        "とうちゃ～く！ [ruby:上手;じょうず]だったピョン！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  }
+]

@@ -1,0 +1,671 @@
+[
+  {
+    "label": "GalaxyName_AbekobeGalaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Eep Beep Galaxy"
+      ],
+      "EuEnglish": [
+        "Eep Beep Galaxy"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Schrecktanz-Galaxie"
+      ],
+      "EuItalian": [
+        "Galassia Blocchi Spettrali"
+      ],
+      "EuDutch": [
+        "Eep Beep Galaxy"
+      ],
+      "JpJapanese": [
+        "カチカチブロックギャラクシー"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "GalaxyName_AstroGalaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Comet Observatory"
+      ],
+      "EuEnglish": [
+        "Comet Observatory"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Sternwarte des Kometen"
+      ],
+      "EuItalian": [
+        "Osservatorio Cometa"
+      ],
+      "EuDutch": [
+        "Comet Observatory"
+      ],
+      "JpJapanese": [
+        "ほうき星の天文台"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "GalaxyName_DigMineGalaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Gloomy Galleon Galaxy"
+      ],
+      "EuEnglish": [
+        "Gloomy Galleon Galaxy"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Gruselgaleone-Galaxie"
+      ],
+      "EuItalian": [
+        "Galassia Galeone Oscuro"
+      ],
+      "EuDutch": [
+        "Gloomy Galleon Galaxy"
+      ],
+      "JpJapanese": [
+        "ぼんやりゆうれい船ギャラクシー"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "GalaxyName_IslandFleetGalaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Galactic Garden Galaxy"
+      ],
+      "EuEnglish": [
+        "Galactic Garden Galaxy"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Weltallgarten-Galaxie"
+      ],
+      "EuItalian": [
+        "Galassia Giardino Galattico"
+      ],
+      "EuDutch": [
+        "Galactic Garden Galaxy"
+      ],
+      "JpJapanese": [
+        "ギャラクティックガーデンギャラクシー"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "GalaxyName_MokumokuValleyGalaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Battle Blast Galaxy"
+      ],
+      "EuEnglish": [
+        "Battle Blast Galaxy"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Kampfgürtel-Galaxie"
+      ],
+      "EuItalian": [
+        "Galassia Sfida Galattica"
+      ],
+      "EuDutch": [
+        "Battle Blast Galaxy"
+      ],
+      "JpJapanese": [
+        "バトルブラストギャラクシー"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "GalaxyName_RedBlueExGalaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Turnlog Galaxy"
+      ],
+      "EuEnglish": [
+        "Turnlog Galaxy"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Drehwurm-Galaxie"
+      ],
+      "EuItalian": [
+        "Galassia Tronchi Rotanti"
+      ],
+      "EuDutch": [
+        "Turnlog Galaxy"
+      ],
+      "JpJapanese": [
+        "ぐるぐるもくざいギャラクシー"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "GalaxyName_VsKoopaJrLv1Galaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Kraken King Galaxy"
+      ],
+      "EuEnglish": [
+        "Kraken King Galaxy"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Otakönig-Galaxie"
+      ],
+      "EuItalian": [
+        "Fortezza Navale dei Polpi"
+      ],
+      "EuDutch": [
+        "Kraken King Galaxy"
+      ],
+      "JpJapanese": [
+        "オタキングの要塞ギャラクシー"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "GalaxyName_WorldMap01Galaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "World 1"
+      ],
+      "EuEnglish": [
+        "World 1"
+      ],
+      "UsSpanish": [
+        "Mundo 1"
+      ],
+      "EuSpanish": [
+        "Mundo 1"
+      ],
+      "UsFrench": [
+        "Monde 1"
+      ],
+      "EuFrench": [
+        "Monde 1"
+      ],
+      "EuGerman": [
+        "Welt 1"
+      ],
+      "EuItalian": [
+        "Mondo 1"
+      ],
+      "EuDutch": [
+        "World 1"
+      ],
+      "JpJapanese": [
+        "World 1"
+      ],
+      "KrKorean": [
+        "World 1"
+      ],
+      "AsTradChinese": [
+        "World 1"
+      ]
+    }
+  },
+  {
+    "label": "GalaxyName_WorldMap02Galaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "World 2"
+      ],
+      "EuEnglish": [
+        "World 2"
+      ],
+      "UsSpanish": [
+        "Mundo 2"
+      ],
+      "EuSpanish": [
+        "Mundo 2"
+      ],
+      "UsFrench": [
+        "Monde 2"
+      ],
+      "EuFrench": [
+        "Monde 2"
+      ],
+      "EuGerman": [
+        "Welt 2"
+      ],
+      "EuItalian": [
+        "Mondo 2"
+      ],
+      "EuDutch": [
+        "World 2"
+      ],
+      "JpJapanese": [
+        "World 2"
+      ],
+      "KrKorean": [
+        "World 2"
+      ],
+      "AsTradChinese": [
+        "World 2"
+      ]
+    }
+  },
+  {
+    "label": "GalaxyName_WorldMap03Galaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "World 3"
+      ],
+      "EuEnglish": [
+        "World 3"
+      ],
+      "UsSpanish": [
+        "Mundo 3"
+      ],
+      "EuSpanish": [
+        "Mundo 3"
+      ],
+      "UsFrench": [
+        "Monde 3"
+      ],
+      "EuFrench": [
+        "Monde 3"
+      ],
+      "EuGerman": [
+        "Welt 3"
+      ],
+      "EuItalian": [
+        "Mondo 3"
+      ],
+      "EuDutch": [
+        "World 3"
+      ],
+      "JpJapanese": [
+        "World 3"
+      ],
+      "KrKorean": [
+        "World 3"
+      ],
+      "AsTradChinese": [
+        "World 3"
+      ]
+    }
+  },
+  {
+    "label": "GalaxyName_WorldMap04Galaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "World 4"
+      ],
+      "EuEnglish": [
+        "World 4"
+      ],
+      "UsSpanish": [
+        "Mundo 4"
+      ],
+      "EuSpanish": [
+        "Mundo 4"
+      ],
+      "UsFrench": [
+        "Monde 4"
+      ],
+      "EuFrench": [
+        "Monde 4"
+      ],
+      "EuGerman": [
+        "Welt 4"
+      ],
+      "EuItalian": [
+        "Mondo 4"
+      ],
+      "EuDutch": [
+        "World 4"
+      ],
+      "JpJapanese": [
+        "World 4"
+      ],
+      "KrKorean": [
+        "World 4"
+      ],
+      "AsTradChinese": [
+        "World 4"
+      ]
+    }
+  },
+  {
+    "label": "GalaxyName_WorldMap05Galaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "World 5"
+      ],
+      "EuEnglish": [
+        "World 5"
+      ],
+      "UsSpanish": [
+        "Mundo 5"
+      ],
+      "EuSpanish": [
+        "Mundo 5"
+      ],
+      "UsFrench": [
+        "Monde 5"
+      ],
+      "EuFrench": [
+        "Monde 5"
+      ],
+      "EuGerman": [
+        "Welt 5"
+      ],
+      "EuItalian": [
+        "Mondo 5"
+      ],
+      "EuDutch": [
+        "World 5"
+      ],
+      "JpJapanese": [
+        "World 5"
+      ],
+      "KrKorean": [
+        "World 5"
+      ],
+      "AsTradChinese": [
+        "World 5"
+      ]
+    }
+  },
+  {
+    "label": "GalaxyName_WorldMap06Galaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "World 6"
+      ],
+      "EuEnglish": [
+        "World 6"
+      ],
+      "UsSpanish": [
+        "Mundo 6"
+      ],
+      "EuSpanish": [
+        "Mundo 6"
+      ],
+      "UsFrench": [
+        "Monde 6"
+      ],
+      "EuFrench": [
+        "Monde 6"
+      ],
+      "EuGerman": [
+        "Welt 6"
+      ],
+      "EuItalian": [
+        "Mondo 6"
+      ],
+      "EuDutch": [
+        "World 6"
+      ],
+      "JpJapanese": [
+        "World 6"
+      ],
+      "KrKorean": [
+        "World 6"
+      ],
+      "AsTradChinese": [
+        "World 6"
+      ]
+    }
+  },
+  {
+    "label": "GalaxyName_WorldMap07Galaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "World S"
+      ],
+      "EuEnglish": [
+        "World S"
+      ],
+      "UsSpanish": [
+        "Mundo Extra"
+      ],
+      "EuSpanish": [
+        "Mundo extra"
+      ],
+      "UsFrench": [
+        "Monde S"
+      ],
+      "EuFrench": [
+        "Monde S"
+      ],
+      "EuGerman": [
+        "Welt S"
+      ],
+      "EuItalian": [
+        "Mondo S"
+      ],
+      "EuDutch": [
+        "World S"
+      ],
+      "JpJapanese": [
+        "World S"
+      ],
+      "KrKorean": [
+        "World S"
+      ],
+      "AsTradChinese": [
+        "World S"
+      ]
+    }
+  },
+  {
+    "label": "GalaxyName_YosshiHomeGalaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Sweet Treat Galaxy"
+      ],
+      "EuEnglish": [
+        "Sweet Treat Galaxy"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Zuckerschnee-Galaxie"
+      ],
+      "EuItalian": [
+        "Galassia dei Dulci"
+      ],
+      "EuDutch": [
+        "Sweet Treat Galaxy"
+      ],
+      "JpJapanese": [
+        "わくわくスイーツギャラクシー"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  }
+]

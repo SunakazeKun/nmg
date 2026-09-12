@@ -1,0 +1,80 @@
+[
+  {
+    "label": "TITLE_MAIN",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "NEO MARIO GALAXY"
+      ],
+      "EuEnglish": [
+        "NEO MARIO GALAXY"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "NEO MARIO GALAXY"
+      ],
+      "EuItalian": [
+        "NEO MARIO GALAXY"
+      ],
+      "EuDutch": [
+        "NEO MARIO GALAXY"
+      ],
+      "JpJapanese": [
+        "NEO MARIO GALAXY"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "TITLE_SUB",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "A neo-galactic adventure!"
+      ],
+      "EuEnglish": [
+        "A neo-galactic adventure!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Ein neo-galaktisches Abenteuer!"
+      ],
+      "EuItalian": [
+        "Una avventura neo-galattica!"
+      ],
+      "EuDutch": [
+        "A neo-galactic adventure!"
+      ],
+      "JpJapanese": [
+        "新たなる銀河へまたまた大冒険!!"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  }
+]

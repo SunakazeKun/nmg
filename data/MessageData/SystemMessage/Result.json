@@ -1,0 +1,1000 @@
+[
+  {
+    "label": "System_ResultGalaxyCompleteGold",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:gold_crown] Galaxy Complete!"
+      ],
+      "EuEnglish": [
+        "[icon:gold_crown] Galaxy Complete!"
+      ],
+      "UsSpanish": [
+        "[icon:gold_crown] ¡Has completado la galaxia!"
+      ],
+      "EuSpanish": [
+        "¡Has acabado la galaxia! [icon:gold_crown]"
+      ],
+      "UsFrench": [
+        "[icon:gold_crown] Galaxie terminée!"
+      ],
+      "EuFrench": [
+        "[icon:gold_crown] Galaxie terminée!"
+      ],
+      "EuGerman": [
+        "[icon:gold_crown] Galaxie komplett!"
+      ],
+      "EuItalian": [
+        "[icon:gold_crown] Galassia completata!"
+      ],
+      "EuDutch": [
+        "[icon:gold_crown] Galaxy Complete!"
+      ],
+      "JpJapanese": [
+        "[icon:gold_crown]ギャラクシーコンプリート!"
+      ],
+      "KrKorean": [
+        "[icon:gold_crown]갤럭시 제패!"
+      ],
+      "AsTradChinese": [
+        "[icon:gold_crown]銀河破關！"
+      ]
+    }
+  },
+  {
+    "label": "System_ResultGalaxyCompleteSilver",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:silver_crown] Galaxy Complete!"
+      ],
+      "EuEnglish": [
+        "[icon:silver_crown] Galaxy Complete!"
+      ],
+      "UsSpanish": [
+        "[icon:silver_crown] ¡Has completado la galaxia!"
+      ],
+      "EuSpanish": [
+        "¡Has acabado la galaxia! [icon:silver_crown]"
+      ],
+      "UsFrench": [
+        "[icon:silver_crown] Galaxie terminée!"
+      ],
+      "EuFrench": [
+        "[icon:silver_crown] Galaxie terminée!"
+      ],
+      "EuGerman": [
+        "[icon:silver_crown] Galaxie komplett!"
+      ],
+      "EuItalian": [
+        "[icon:silver_crown] Galassia completata!"
+      ],
+      "EuDutch": [
+        "[icon:silver_crown] Galaxy Complete!"
+      ],
+      "JpJapanese": [
+        "[icon:silver_crown]ギャラクシーコンプリート!"
+      ],
+      "KrKorean": [
+        "[icon:silver_crown]갤럭시 제패!"
+      ],
+      "AsTradChinese": [
+        "[icon:silver_crown]銀河破關！"
+      ]
+    }
+  },
+  {
+    "label": "System_ResultGetBronzeStar",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got a [color:yellow]B[defcolor][color:yellow]ronze Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuEnglish": [
+        "You got a [color:yellow]B[defcolor][color:yellow]ronze Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "UsSpanish": [
+        "¡Has conseguido la [color:yellow]estrella de bronce[defcolor]!",
+        "[stringvar:1;1;0x00000000]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuSpanish": [
+        "¡Has conseguido la [color:yellow]estrella de bronce [defcolor]de",
+        "[color:black]\"[defcolor][color:blue][stringvar:1;1;0x00000000][defcolor][color:black]\"[defcolor]",
+        "de la [stringvar:0;0;0x00000000]!"
+      ],
+      "UsFrench": [
+        "Vous avez trouvé une [color:yellow]étoile de bronze[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuFrench": [
+        "[color:yellow][color:black]Vous avez trouvé une [color:yellow]étoile de bronze[defcolor] [icon:bronze_star]!",
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]"
+      ],
+      "EuGerman": [
+        "Du hast einen [color:black][icon:bronze_star] [color:yellow]Bronzestern [color:black][defcolor]erhalten!",
+        "[color:yellow][color:blue][stringvar:1;1;0x00000000][color:yellow]",
+        "[defcolor][color:purple][stringvar:0;0;0x00000000][defcolor]"
+      ],
+      "EuItalian": [
+        "Hai ottenuto una [color:yellow]Stella Bronzo[defcolor]!",
+        "[stringvar:0;0;0x00000000]",
+        "[color:black][color:blue][stringvar:1;1;0x00000000][color:black][defcolor]"
+      ],
+      "EuDutch": [
+        "You got a [color:yellow]B[defcolor][color:yellow]ronze Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "JpJapanese": [
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
+        "[color:yellow]ブロンズスター[defcolor]を[ruby:手;て]に[ruby:入;い]れた!"
+      ],
+      "KrKorean": [
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]의",
+        "[color:yellow]브론즈스타[defcolor]를 획득했다!"
+      ],
+      "AsTradChinese": [
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]",
+        "獲得[color:yellow]古銅星星[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "System_ResultGetCoin",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got some [color:yellow]coins[defcolor]!"
+      ],
+      "EuEnglish": [
+        "You got some [color:yellow]coins[defcolor]!"
+      ],
+      "UsSpanish": [
+        "¡Has conseguido algunas [color:yellow]monedas[defcolor]!"
+      ],
+      "EuSpanish": [
+        "Monedas"
+      ],
+      "UsFrench": [
+        "Vous avez trouvé des [color:yellow]pièces[defcolor]!"
+      ],
+      "EuFrench": [
+        "Vous avez trouvé des [color:yellow]pièces [defcolor][icon:coin]!"
+      ],
+      "EuGerman": [
+        "Du hast [icon:coin] [color:yellow]Münzen [defcolor]erhalten!"
+      ],
+      "EuItalian": [
+        "Hai ottenuto delle [color:yellow]Monete [defcolor][icon:coin]!"
+      ],
+      "EuDutch": [
+        "You got some [color:yellow]coins[defcolor]!"
+      ],
+      "JpJapanese": [
+        "[color:yellow]コイン[defcolor]を[ruby:持;も]ち[ruby:帰;かえ]った!"
+      ],
+      "KrKorean": [
+        "[color:yellow]코인[defcolor]을 가져왔다!"
+      ],
+      "AsTradChinese": [
+        "帶回[color:yellow]金幣[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "System_ResultGetCometMedal",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got a [color:red]C[defcolor][color:red]omet Medal[defcolor]!"
+      ],
+      "EuEnglish": [
+        "You got a [color:red]C[defcolor][color:red]omet Medal[defcolor]!"
+      ],
+      "UsSpanish": [
+        "¡Has conseguido una [color:red]medalla de cometa[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡Has conseguido una [color:red]medalla de cometa[defcolor]!"
+      ],
+      "UsFrench": [
+        "Vous avez trouvé une [color:red]médaille comète[defcolor]!"
+      ],
+      "EuFrench": [
+        "Vous avez trouvé une [color:red]médaille comète [defcolor][icon:comet_medal]!"
+      ],
+      "EuGerman": [
+        "Du hast eine [icon:comet_medal] [color:red]Kometenmünze [color:black]erhalten[color:red][defcolor]!"
+      ],
+      "EuItalian": [
+        "Hai ottenuto una [color:red]Medaglia Cometa [defcolor][icon:comet_medal]!"
+      ],
+      "EuDutch": [
+        "You got a [color:red]C[defcolor][color:red]omet Medal[defcolor]!"
+      ],
+      "JpJapanese": [
+        "[color:red][ruby:彗星;すいせい][defcolor][color:red]メダル[defcolor]を [ruby:手;て]に[ruby:入;い]れた!"
+      ],
+      "KrKorean": [
+        "[color:red]혜성메달[defcolor]을 획득했다!"
+      ],
+      "AsTradChinese": [
+        "[color:red][color:black]獲得[color:red]彗星獎章[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "System_ResultGetGrandStar",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:black]You got a [color:yellow]Grand Star[color:black]![defcolor]",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuEnglish": [
+        "You got a [color:yellow]Grand [defcolor][color:yellow]Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[color:black][stringvar:0;0;0x00000000][defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Has conseguido una [color:yellow]Maxiestrella[defcolor]!",
+        "[stringvar:1;1;0x00000000]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuSpanish": [
+        "¡Has conseguido la [color:yellow]Maxiestrella[color:black] de[color:yellow][defcolor][color:black]",
+        "[defcolor][color:black]\"[defcolor][color:blue][stringvar:1;1;0x00000000][color:black]\"[color:blue][defcolor]",
+        "de la [color:black][stringvar:0;0;0x00000000]![defcolor]"
+      ],
+      "UsFrench": [
+        "Vous avez trouvé une [color:yellow]grande étoile[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuFrench": [
+        "Vous avez trouvé une [color:yellow]grande [defcolor][color:yellow]étoile [defcolor][icon:grand_star]!",
+        "[color:black][stringvar:0;0;0x00000000]",
+        "[defcolor][color:blue][stringvar:1;1;0x00000000][defcolor]"
+      ],
+      "EuGerman": [
+        "Du hast einen [icon:grand_star] [color:yellow]Großen Stern [defcolor]erhalten!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[color:purple][stringvar:0;0;0x00000000][defcolor]"
+      ],
+      "EuItalian": [
+        "Hai ottenuto una [color:yellow]Megastella [defcolor][icon:grand_star]!",
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]"
+      ],
+      "EuDutch": [
+        "You got a [color:yellow]Grand [defcolor][color:yellow]Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[color:black][stringvar:0;0;0x00000000][defcolor]"
+      ],
+      "JpJapanese": [
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
+        "[color:yellow]グランドスター[defcolor]を[ruby:手;て]に[ruby:入;い]れた!"
+      ],
+      "KrKorean": [
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]의",
+        "[color:yellow]그랜드스타[defcolor]를 획득했다!"
+      ],
+      "AsTradChinese": [
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]",
+        "獲得[color:yellow]光榮星星[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "System_ResultGetGreenStar",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got a [color:green]G[defcolor][color:green]reen Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuEnglish": [
+        "You got a [color:green]G[defcolor][color:green]reen Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "UsSpanish": [
+        "¡Has conseguido una [color:green]estrella verde[defcolor]!",
+        "[stringvar:1;1;0x00000000]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuSpanish": [
+        "¡Has conseguido la [color:green][stringvar:1;1;0x00000000][defcolor]",
+        "de la [stringvar:0;0;0x00000000]!"
+      ],
+      "UsFrench": [
+        "Vous avez trouvé une [color:green]étoile verte[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuFrench": [
+        "Vous avez trouvé une [color:green]é[defcolor][color:green][color:green]toil[color:green]e verte [defcolor][icon:green_comet]!",
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]"
+      ],
+      "EuGerman": [
+        "Du hast einen [icon:green_comet] [color:green]Grünstern [defcolor]erhalten!",
+        "[color:yellow][color:green][stringvar:1;1;0x00000000][color:yellow]",
+        "[defcolor][color:purple][stringvar:0;0;0x00000000][defcolor]"
+      ],
+      "EuItalian": [
+        "Hai ottenuto una [color:green]Stella Verde [color:black][icon:green_comet]!",
+        "[color:green][defcolor][color:black][stringvar:0;0;0x00000000]",
+        "[defcolor][color:blue][stringvar:1;1;0x00000000][defcolor]"
+      ],
+      "EuDutch": [
+        "You got a [color:green]G[defcolor][color:green]reen Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "JpJapanese": [
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
+        "[color:green]グリーンスター[defcolor]を[ruby:手;て]に[ruby:入;い]れた!"
+      ],
+      "KrKorean": [
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]의",
+        "[color:green]그린스타[defcolor]를 획득했다!"
+      ],
+      "AsTradChinese": [
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]",
+        "獲得[color:green]綠[defcolor][color:green]星星[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "System_ResultGetHiddenStar",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got a [color:yellow]H[defcolor][color:yellow]idden Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuEnglish": [
+        "You got a [color:yellow]h[defcolor][color:yellow]idden Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "UsSpanish": [
+        "¡Has conseguido una [color:yellow]estrella oculta[defcolor]!",
+        "[stringvar:1;1;0x00000000]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuSpanish": [
+        "¡Has conseguido la [color:yellow]estrella oculta [defcolor]de",
+        "[color:black]\"[defcolor][color:blue][stringvar:1;1;0x00000000][defcolor][color:black]\"[defcolor]",
+        "de la [stringvar:0;0;0x00000000]!"
+      ],
+      "UsFrench": [
+        "Vous avez trouvé une [color:yellow]étoile cachée[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuFrench": [
+        "Vous avez trouvé une [color:yellow]étoile cachée [defcolor][icon:star]!",
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]"
+      ],
+      "EuGerman": [
+        "Du hast einen [color:yellow][icon:star] geheimen Stern[defcolor] erhalten!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[color:purple][stringvar:0;0;0x00000000][defcolor]"
+      ],
+      "EuItalian": [
+        "Hai ottenuto una [color:yellow]Stella nascosta [defcolor][icon:star]!",
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]"
+      ],
+      "EuDutch": [
+        "You got a [color:yellow]h[defcolor][color:yellow]idden Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "JpJapanese": [
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
+        "[color:yellow]かくしスター[defcolor]を[ruby:手;て]に[ruby:入;い]れた!"
+      ],
+      "KrKorean": [
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]의",
+        "[color:yellow]숨겨진 스타[defcolor]를 획득했다!"
+      ],
+      "AsTradChinese": [
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]",
+        "獲得[color:yellow]隱藏星星[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "System_ResultGetPowerStar",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got a [color:yellow]Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[color:black][stringvar:0;0;0x00000000][defcolor]"
+      ],
+      "EuEnglish": [
+        "You got a [color:yellow]Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[color:black][stringvar:0;0;0x00000000][defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Has conseguido una [color:yellow]Estrella[defcolor]!",
+        "[color:yellow][color:blue][stringvar:1;1;0x00000000][color:yellow]",
+        "[color:black][stringvar:0;0;0x00000000][color:yellow][defcolor]"
+      ],
+      "EuSpanish": [
+        "¡Has conseguido la [color:yellow]Superestrella[defcolor] de",
+        "[color:black]\"[defcolor][color:blue][stringvar:1;1;0x00000000][defcolor][color:black]\"[defcolor]",
+        "de la [stringvar:0;0;0x00000000]!"
+      ],
+      "UsFrench": [
+        "Vous avez trouvé une [color:yellow]étoile[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuFrench": [
+        "Vous avez trouvé une [color:yellow]super étoile [defcolor][icon:star]!",
+        "[color:black][stringvar:0;0;0x00000000]",
+        "[defcolor][color:blue][stringvar:1;1;0x00000000][defcolor]"
+      ],
+      "EuGerman": [
+        "Du hast einen [color:yellow][icon:star] Power-Stern [defcolor]erhalten!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[color:purple][stringvar:0;0;0x00000000][defcolor]"
+      ],
+      "EuItalian": [
+        "Hai ottenuto una [color:yellow]Superstella [defcolor][icon:star]!",
+        "[stringvar:0;0;0x00000000]",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]"
+      ],
+      "EuDutch": [
+        "You got a [color:yellow]Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[color:black][stringvar:0;0;0x00000000][defcolor]"
+      ],
+      "JpJapanese": [
+        "[color:black][stringvar:0;0;0x00000000][defcolor]",
+        "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
+        "[color:yellow]スター[defcolor]を[ruby:手;て]に[ruby:入;い]れた!"
+      ],
+      "KrKorean": [
+        "[color:black][stringvar:0;0;0x00000000][defcolor]",
+        "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]의",
+        "[color:yellow]스타[defcolor]를 획득했다!"
+      ],
+      "AsTradChinese": [
+        "[color:black][stringvar:0;0;0x00000000]",
+        "[defcolor][color:blue]「[stringvar:1;1;0x00000000]」",
+        "[defcolor][color:yellow][color:black]獲得[color:yellow]力量星星[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "System_ResultGetRedStar",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got a [color:red]Red Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuEnglish": [
+        "You got a [color:red]Red Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Du hast einen [icon:red_star] [color:red]Power-Stern [defcolor]erhalten!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[color:purple][stringvar:0;0;0x00000000][defcolor]"
+      ],
+      "EuItalian": [
+        "Hai ottenuto una [color:red]Stella Rossa[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuDutch": [
+        "You got a [color:red]Red Star[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "JpJapanese": [
+        "[color:black][stringvar:0;0;0x00000000][defcolor]",
+        "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
+        "[color:red]レッドスター[defcolor]を[ruby:手;て]に[ruby:入;い]れた!"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "System_ResultGetStamp",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got a [color:blue]Stamp[defcolor]!"
+      ],
+      "EuEnglish": [
+        "You got a [color:blue]Stamp[defcolor]!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Du hast einen [icon:stamp] [color:blue]Stempel [defcolor]erhalten!"
+      ],
+      "EuItalian": [
+        "Hai ottenuto un [color:blue]Timbro[defcolor]!"
+      ],
+      "EuDutch": [
+        "You got a [color:blue]Stamp[defcolor]!"
+      ],
+      "JpJapanese": [
+        "[color:blue]スタンプ[defcolor]を [ruby:手;て]に[ruby:入;い]れた!"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "System_ResultGetStarPiece",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got some [color:purple]Star Bits[defcolor]!"
+      ],
+      "EuEnglish": [
+        "You got some [color:purple]Star Bits[defcolor]!"
+      ],
+      "UsSpanish": [
+        "¡Has conseguido [color:purple]trozos de estrella[defcolor]!"
+      ],
+      "EuSpanish": [
+        "Trozos de estrella"
+      ],
+      "UsFrench": [
+        "Vous avez trouvé des [color:purple]éclats d'étoile[defcolor]!"
+      ],
+      "EuFrench": [
+        "Vous avez ramassé des",
+        "[color:purple]fragments d'étoile [defcolor][icon:purple_starbit]!"
+      ],
+      "EuGerman": [
+        "Du hast [icon:purple_starbit] [color:purple]Sternenteile[defcolor] erhalten!"
+      ],
+      "EuItalian": [
+        "Hai ottenuto delle [color:purple]Astroschegge [defcolor][icon:purple_starbit]!"
+      ],
+      "EuDutch": [
+        "You got some [color:purple]Star Bits[defcolor]!"
+      ],
+      "JpJapanese": [
+        "[color:purple]スターピース[defcolor]を[ruby:持;も]ち[ruby:帰;かえ]った!"
+      ],
+      "KrKorean": [
+        "[color:purple]스타구슬[defcolor]을 가져왔다!"
+      ],
+      "AsTradChinese": [
+        "帶回[color:purple]星塵[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "System_ResultGhostAppear",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "A [color:green]ghost [defcolor]has appeared in",
+        "[color:black][stringvar:0;0;0x00000000]![defcolor]"
+      ],
+      "EuEnglish": [
+        "A [color:green]ghost [defcolor]has appeared in",
+        "[color:black][stringvar:0;0;0x00000000]![defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Apareció un [color:green]fantasma [color:black]en[color:green]",
+        "[defcolor][color:black][stringvar:0;0;0x00000000]![defcolor]"
+      ],
+      "EuSpanish": [
+        "¡Ha aparecido un [color:green]espectro [color:black]en",
+        "la [color:green][defcolor][color:black][stringvar:0;0;0x00000000]![defcolor]"
+      ],
+      "UsFrench": [
+        "Un [color:green]fantôme [defcolor]est apparu à cet endroit :",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuFrench": [
+        "[color:green]F[defcolor][color:green]antôme [color:black]apparu dans la galaxie:[color:green][defcolor]",
+        "[color:black][stringvar:0;0;0x00000000]![defcolor]"
+      ],
+      "EuGerman": [
+        "Ein [color:green]Geist [color:black]ist aufgetaucht in:[color:green][defcolor]",
+        "[color:black][color:purple][stringvar:0;0;0x00000000][color:black]![defcolor]"
+      ],
+      "EuItalian": [
+        "È apparso un [color:green]Fantasma[defcolor]!",
+        "[color:black][stringvar:0;0;0x00000000][defcolor]"
+      ],
+      "EuDutch": [
+        "A [color:green]ghost [defcolor]has appeared in",
+        "[color:black][stringvar:0;0;0x00000000]![defcolor]"
+      ],
+      "JpJapanese": [
+        "[color:black][stringvar:0;0;0x00000000][defcolor]に",
+        "[color:green]ゴースト[defcolor]が[ruby:現;あらわ]れた!"
+      ],
+      "KrKorean": [
+        "[color:black][stringvar:0;0;0x00000000][defcolor]에",
+        "[color:green]고스트[defcolor]가 나타났다!"
+      ],
+      "AsTradChinese": [
+        "[color:black][stringvar:0;0;0x00000000][defcolor]",
+        "出現[color:green]幽靈[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "System_ResultGrandStarGateOpen",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "A portal to the next world opened up!"
+      ],
+      "EuEnglish": [
+        "A portal to the next world opened up!"
+      ],
+      "UsSpanish": [
+        "¡Se ha abierto un [color:red]portal[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡Se ha abierto un portal",
+        "al siguiente mundo!"
+      ],
+      "UsFrench": [
+        "Un portail de téléportation est",
+        "apparu!"
+      ],
+      "EuFrench": [
+        "[color:black]Un [color:red]portail [color:black]vers un nouveau",
+        "monde [color:red][color:black]est [defcolor]apparu!"
+      ],
+      "EuGerman": [
+        "Ein [color:red]Weltentor [defcolor]wurde geöffnet!"
+      ],
+      "EuItalian": [
+        "È apparso un [color:red]varco",
+        "spazio-temporale[defcolor]!"
+      ],
+      "EuDutch": [
+        "A portal to the next world opened up!"
+      ],
+      "JpJapanese": [
+        "[color:red][ruby:時空;じくう]の[ruby:扉;とびら][defcolor]が[ruby:開;ひら]いた!"
+      ],
+      "KrKorean": [
+        "[color:red]시공의 문[defcolor]이 열렸다!"
+      ],
+      "AsTradChinese": [
+        "[color:red]時空大門[defcolor]開啟！"
+      ]
+    }
+  },
+  {
+    "label": "System_ResultUpdateBestTime",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "New Clear Time!"
+      ],
+      "EuEnglish": [
+        "New Clear Time!"
+      ],
+      "UsSpanish": [
+        "¡Nuevo récord!"
+      ],
+      "EuSpanish": [
+        "¡Has mejorado tu tiempo!"
+      ],
+      "UsFrench": [
+        "Meilleur temps battu pour cette planète!"
+      ],
+      "EuFrench": [
+        "Meilleur temps battu pour cette planète!"
+      ],
+      "EuGerman": [
+        "Du hast deine Gesamtzeit",
+        "für diese Galaxie verbessert!"
+      ],
+      "EuItalian": [
+        "Hai migliorato il tempo per finire lo scenario!"
+      ],
+      "EuDutch": [
+        "New Clear Time!"
+      ],
+      "JpJapanese": [
+        "クリアタイム[ruby:更新;こうしん]!"
+      ],
+      "KrKorean": [
+        "클리어 기록 경신!"
+      ],
+      "AsTradChinese": [
+        "刷新過關紀錄"
+      ]
+    }
+  },
+  {
+    "label": "System_ResultWorldMapCometAppear",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "A [color:red]Prankster Comet [defcolor]has appeared!"
+      ],
+      "EuEnglish": [
+        "A [color:red]Prankster Comet [defcolor]has appeared!"
+      ],
+      "UsSpanish": [
+        "¡Nuevo [color:red]Cometa Pícaro[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡Nuevo [color:red]Cometa Pícaro[defcolor]!"
+      ],
+      "UsFrench": [
+        "Une [color:red]comète blagueuse [defcolor]est apparue!"
+      ],
+      "EuFrench": [
+        "[color:red]C[defcolor][color:red]omète farceuse [defcolor][icon:comet] repérée!"
+      ],
+      "EuGerman": [
+        "Ein [color:red][icon:comet] Schabernack-K[defcolor][color:red]omet",
+        "[color:black]ist aufgetaucht[color:red][color:black]![color:red][defcolor]"
+      ],
+      "EuItalian": [
+        "È apparsa una [color:red]Cometa Burlona [defcolor][icon:comet]!"
+      ],
+      "EuDutch": [
+        "A [color:red]Prankster Comet [defcolor]has appeared!"
+      ],
+      "JpJapanese": [
+        "[color:red]いたずら[ruby:彗星;すいせい][defcolor]が [ruby:現;あらわ]れた!"
+      ],
+      "KrKorean": [
+        "[color:red]장난꾸러기 혜성[defcolor]이 나타났다!"
+      ],
+      "AsTradChinese": [
+        "出現[color:red]搗蛋彗星[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "System_ResultWorldMapRouteOpen",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:blue]Starship Mario [defcolor]can now advance!"
+      ],
+      "EuEnglish": [
+        "[color:blue]Starship Mario [defcolor]can now [color:red]advance[defcolor]!"
+      ],
+      "UsSpanish": [
+        "¡La [color:blue]Astronave Mario[defcolor]",
+        "puede llegar [color:red]más lejos[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡La [color:blue]Astronave Mario[defcolor]",
+        "puede llegar [color:red]más lejos[defcolor]!"
+      ],
+      "UsFrench": [
+        "Un nouveau [color:blue]chemin [defcolor]est apparu!"
+      ],
+      "EuFrench": [
+        "Le [color:blue]vaisseau[defcolor] [color:blue]Mario [defcolor]peut maintenant",
+        "[color:red]voyager plus loin[defcolor]!"
+      ],
+      "EuGerman": [
+        "[color:blue]Raumschiff Mario[defcolor] kann",
+        "jetzt [color:red]noch weiter [defcolor]fliegen!"
+      ],
+      "EuItalian": [
+        "Adesso sono accessibili [color:red]nuovi",
+        "percorsi [defcolor]all'[color:blue]Astronave Mario[defcolor]!"
+      ],
+      "EuDutch": [
+        "[color:blue]Starship Mario [defcolor]can now [color:red]advance[defcolor]!"
+      ],
+      "JpJapanese": [
+        "[color:blue][ruby:星船;ほしぶね][defcolor]の[color:red][ruby:航行範囲;こうこうはんい][defcolor]が[ruby:広;ひろ]がった[color:black]![defcolor]"
+      ],
+      "KrKorean": [
+        "[color:blue]우주선[defcolor]의 [color:red]항해 범위[defcolor]가 넓어졌다!"
+      ],
+      "AsTradChinese": [
+        "[color:blue]星艦[defcolor][color:red][color:black]的[color:red]航行範圍[defcolor]擴大[color:black]！[defcolor]"
+      ]
+    }
+  }
+]

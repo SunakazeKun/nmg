@@ -1,0 +1,974 @@
+[
+  {
+    "label": "ScenarioName_AbekobeGalaxy1",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Step to the Eep!"
+      ],
+      "EuEnglish": [
+        "Step to the Eep!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Tanzen mit Geistern"
+      ],
+      "EuItalian": [
+        "La Via Spettrale dei Blocchi Ritmici"
+      ],
+      "EuDutch": [
+        "Step to the Eep!"
+      ],
+      "JpJapanese": [
+        "ピッピッピッ! ガチャン!"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_AbekobeGalaxy2",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Purple Coin Dance"
+      ],
+      "EuEnglish": [
+        "Purple Coin Dance"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Lila Münzen auf der Tanzfläche"
+      ],
+      "EuItalian": [
+        "Danza delle Monete Viola"
+      ],
+      "EuDutch": [
+        "Purple Coin Dance"
+      ],
+      "JpJapanese": [
+        "パープルコインに[ruby:舞;ま]って"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_AstroGalaxy1",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[player:0] and the Red Star"
+      ],
+      "EuEnglish": [
+        "[player:0] and the Red Star"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "[player:0] und der Rote Stern"
+      ],
+      "EuItalian": [
+        "[player:0] e la Stella Rossa"
+      ],
+      "EuDutch": [
+        "[player:0] and the Red Star"
+      ],
+      "JpJapanese": [
+        "[player:0]とレッドスター"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_AstroGalaxy2",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Intergalactic Nostalgia"
+      ],
+      "EuEnglish": [
+        "Intergalactic Nostalgia"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Intergalaktische Nostalgie"
+      ],
+      "EuItalian": [
+        "Nostalgia Intergalattica"
+      ],
+      "EuDutch": [
+        "Intergalactic Nostalgia"
+      ],
+      "JpJapanese": [
+        "[ruby:銀河;ぎんが]に[ruby:灯;とも]る ノスタルジア"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_DigMineGalaxy1",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Haunted Silver Stars"
+      ],
+      "EuEnglish": [
+        "Haunted Silver Stars"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Die verfluchten Silbersterne"
+      ],
+      "EuItalian": [
+        "Stelle Argento Stregate"
+      ],
+      "EuDutch": [
+        "Haunted Silver Stars"
+      ],
+      "JpJapanese": [
+        "ゆうれい[ruby:船;せん]の シルバースター"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_DigMineGalaxy2",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Plundering the Purple Coins"
+      ],
+      "EuEnglish": [
+        "Plundering the Purple Coins"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Lila Münzen auf der Gruselgaleone"
+      ],
+      "EuItalian": [
+        "Monete Viola sul Galeone"
+      ],
+      "EuDutch": [
+        "Plundering the Purple Coins"
+      ],
+      "JpJapanese": [
+        "かき[ruby:集;あつ]めて! パープルコイン"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_DigMineGalaxy3",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The Ship's Golden Treasure"
+      ],
+      "EuEnglish": [
+        "The Ship's Golden Treasure"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Der goldene Schatz"
+      ],
+      "EuItalian": [
+        "Il Tesoro Dorato del Galeone"
+      ],
+      "EuDutch": [
+        "The Ship's Golden Treasure"
+      ],
+      "JpJapanese": [
+        "ゆうれい[ruby:船;せん]に[ruby:眠;ねむ]る[ruby:黄金;おうごん]の[ruby:秘宝;ひほう]"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_GreenStar1",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Green Star 1"
+      ],
+      "EuEnglish": [
+        "Green Star 1"
+      ],
+      "UsSpanish": [
+        "Estrella Verde 1"
+      ],
+      "EuSpanish": [
+        "Estrella Verde 1"
+      ],
+      "UsFrench": [
+        "Première étoile verte"
+      ],
+      "EuFrench": [
+        "Etoile verte 1"
+      ],
+      "EuGerman": [
+        "Grünstern 1"
+      ],
+      "EuItalian": [
+        "Stella Verde 1"
+      ],
+      "EuDutch": [
+        "Green Star 1"
+      ],
+      "JpJapanese": [
+        "グリーンスター その1"
+      ],
+      "KrKorean": [
+        "첫 번째 그린스타"
+      ],
+      "AsTradChinese": [
+        "第一顆綠星星"
+      ]
+    }
+  },
+  {
+    "label": "ScenarioName_GreenStar2",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Green Star 2"
+      ],
+      "EuEnglish": [
+        "Green Star 2"
+      ],
+      "UsSpanish": [
+        "Estrella Verde 2"
+      ],
+      "EuSpanish": [
+        "Estrella Verde 2"
+      ],
+      "UsFrench": [
+        "Deuxième étoile verte"
+      ],
+      "EuFrench": [
+        "Etoile verte 2"
+      ],
+      "EuGerman": [
+        "Grünstern 2"
+      ],
+      "EuItalian": [
+        "Stella Verde 2"
+      ],
+      "EuDutch": [
+        "Green Star 2"
+      ],
+      "JpJapanese": [
+        "グリーンスター その2"
+      ],
+      "KrKorean": [
+        "두 번째 그린스타"
+      ],
+      "AsTradChinese": [
+        "第二顆綠星星"
+      ]
+    }
+  },
+  {
+    "label": "ScenarioName_GreenStar3",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Green Star 3"
+      ],
+      "EuEnglish": [
+        "Green Star 3"
+      ],
+      "UsSpanish": [
+        "Estrella Verde 3"
+      ],
+      "EuSpanish": [
+        "Estrella Verde 3"
+      ],
+      "UsFrench": [
+        "Troisième étoile verte"
+      ],
+      "EuFrench": [
+        "Etoile verte 3"
+      ],
+      "EuGerman": [
+        "Grünstern 3"
+      ],
+      "EuItalian": [
+        "Stella Verde 3"
+      ],
+      "EuDutch": [
+        "Green Star 3"
+      ],
+      "JpJapanese": [
+        "グリーンスター その3"
+      ],
+      "KrKorean": [
+        "세 번째 그린스타"
+      ],
+      "AsTradChinese": [
+        "第三顆綠星星"
+      ]
+    }
+  },
+  {
+    "label": "ScenarioName_IslandFleetGalaxy1",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Dino Piranha"
+      ],
+      "EuEnglish": [
+        "Dino Piranha"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Der Dino-Piranha"
+      ],
+      "EuItalian": [
+        "Dino Piranha"
+      ],
+      "EuDutch": [
+        "Dino Piranha"
+      ],
+      "JpJapanese": [
+        "[ruby:青空;あおぞら]に[ruby:眠;ねむ]る ディノパックン"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_IslandFleetGalaxy2",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Silver Stars in Wuthering Heights"
+      ],
+      "EuEnglish": [
+        "Silver Stars in Wuthering Heights"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Silbersterne in sausigen Höhen"
+      ],
+      "EuItalian": [
+        "Stelle Argento nelle Altezze Nuvolose"
+      ],
+      "EuDutch": [
+        "Silver Stars in Wuthering Heights"
+      ],
+      "JpJapanese": [
+        "[ruby:風;かぜ][ruby:吹;ふ]く[ruby:空;そら]の シルバースター"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_IslandFleetGalaxy3",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Lost Child Speed Run"
+      ],
+      "EuEnglish": [
+        "Lost Child Speed Run"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Beeilung! Der verlorene Sohn!"
+      ],
+      "EuItalian": [
+        "Folle Corsa nel Giardino del Discolone"
+      ],
+      "EuDutch": [
+        "Lost Child Speed Run"
+      ],
+      "JpJapanese": [
+        "タイムアタック! [ruby:青空;あおぞら]に[ruby:眠;ねむ]る ディノパックン"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_MokumokuValleyGalaxy1",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Monster-Planet Mega-Run"
+      ],
+      "EuEnglish": [
+        "Monster-Planet Mega-Run"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Der Monstermeistertitel"
+      ],
+      "EuItalian": [
+        "Nemici sui Pianetini"
+      ],
+      "EuDutch": [
+        "Monster-Planet Mega-Run"
+      ],
+      "JpJapanese": [
+        "たおせ! けちらせ! つきすすめ! "
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_MokumokuValleyGalaxy2",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Monster-Planet Speed Run"
+      ],
+      "EuEnglish": [
+        "Monster-Planet Speed Run"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Beeilung! Monstermarathon!"
+      ],
+      "EuItalian": [
+        "Folle Corsa contro i Nemici"
+      ],
+      "EuDutch": [
+        "Monster-Planet Speed Run"
+      ],
+      "JpJapanese": [
+        "たおせ! けちらせ! つきすすめ! とまるな! "
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_MokumokuValleyGalaxy3",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Electron Attack!"
+      ],
+      "EuEnglish": [
+        "Electron Attack!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Elektronenknallerei!"
+      ],
+      "EuItalian": [
+        "Attacco degli Elettroni!"
+      ],
+      "EuDutch": [
+        "Electron Attack!"
+      ],
+      "JpJapanese": [
+        "よけろ! ビリビリトラップ"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_RedBlueExGalaxy1",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Spinning and Jumping and Spinning"
+      ],
+      "EuEnglish": [
+        "Spinning and Jumping and Spinning"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Dreh-und-Wende-Trauma"
+      ],
+      "EuItalian": [
+        "Girando e Saltando e Girando"
+      ],
+      "EuDutch": [
+        "Spinning and Jumping and Spinning"
+      ],
+      "JpJapanese": [
+        "スピン! ジャンプ! スピン！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_RedBlueExGalaxy2",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Endless Twisting and Clones!"
+      ],
+      "EuEnglish": [
+        "Endless Twisting and Clones!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Dreh-und-Wende-bis-zum-Ende!"
+      ],
+      "EuItalian": [
+        "Folle Corsa con le Ombre Scure"
+      ],
+      "EuDutch": [
+        "Endless Twisting and Clones!"
+      ],
+      "JpJapanese": [
+        "カゲに[ruby:追;お]われて どこまでも"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_RedBlueExGalaxy3",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Driving the Last Spike"
+      ],
+      "EuEnglish": [
+        "Driving the Last Spike"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Nagel auf den Kopf getroffen"
+      ],
+      "EuItalian": [
+        "Uno Schianto sui Chiodi"
+      ],
+      "EuDutch": [
+        "Driving the Last Spike"
+      ],
+      "JpJapanese": [
+        "メンテナンスは お[ruby:手;て]の[ruby:物;もの]！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_VsKoopaJrLv1Galaxy1",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "A Saucerful of Secrets"
+      ],
+      "EuEnglish": [
+        "A Saucerful of Secrets"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Der Otakönig im Lava-UFO"
+      ],
+      "EuItalian": [
+        "Il Regno del Re Kaliente"
+      ],
+      "EuDutch": [
+        "A Saucerful of Secrets"
+      ],
+      "JpJapanese": [
+        "[ruby:要塞;ようさい]を[ruby:守;まも]る オタキング"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_VsKoopaJrLv1Galaxy2",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "King Kaliente's Daredevil Run"
+      ],
+      "EuEnglish": [
+        "King Kaliente's Daredevil Run"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Risikokomet! Der Otakönig!"
+      ],
+      "EuItalian": [
+        "Ultimo Scontro con il Re Kaliente"
+      ],
+      "EuDutch": [
+        "King Kaliente's Daredevil Run"
+      ],
+      "JpJapanese": [
+        "デスマッチ! [ruby:要塞;ようさい]を[ruby:守;まも]る オタキング"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_YosshiHomeGalaxy1",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Happy Birthday... [player:0]?"
+      ],
+      "EuEnglish": [
+        "Happy Birthday... [player:0]?"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Alles Gute zum Geburtstag, [player:0]!"
+      ],
+      "EuItalian": [
+        "Buon Compleanno... a [player:0]?"
+      ],
+      "EuDutch": [
+        "Happy Birthday... [player:0]?"
+      ],
+      "JpJapanese": [
+        "ハッピーバースデー [player:0]?"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_YosshiHomeGalaxy2",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Prince Pikante's Peppery Mood"
+      ],
+      "EuEnglish": [
+        "Prince Pikante's Peppery Mood"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Heiß! Brodelnde Schokolade!"
+      ],
+      "EuItalian": [
+        "Principe Pikante fra Lava e Ghiaccio"
+      ],
+      "EuDutch": [
+        "Prince Pikante's Peppery Mood"
+      ],
+      "JpJapanese": [
+        "ゴキゲンななめ? オタプリンス"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "ScenarioName_YosshiHomeGalaxy3",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The Chimp's Skating Challenge"
+      ],
+      "EuEnglish": [
+        "The Chimp's Skating Challenge"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Schlingersause mit dem Wanderaffen"
+      ],
+      "EuItalian": [
+        "Sfida di Pattinaggio"
+      ],
+      "EuDutch": [
+        "The Chimp's Skating Challenge"
+      ],
+      "JpJapanese": [
+        "つぎつぎ モグポン けとばして"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  }
+]

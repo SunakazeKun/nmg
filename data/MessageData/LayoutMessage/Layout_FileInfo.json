@@ -1,0 +1,641 @@
+[
+  {
+    "label": "FileInfo_Complete_00",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:silver_crown]"
+      ],
+      "EuEnglish": [
+        "[icon:silver_crown]"
+      ],
+      "UsSpanish": [
+        "[icon:silver_crown]"
+      ],
+      "EuSpanish": [
+        "[icon:silver_crown]"
+      ],
+      "UsFrench": [
+        "[icon:silver_crown]"
+      ],
+      "EuFrench": [
+        "[icon:silver_crown]"
+      ],
+      "EuGerman": [
+        "[icon:silver_crown]"
+      ],
+      "EuItalian": [
+        "[icon:silver_crown]"
+      ],
+      "EuDutch": [
+        "[icon:silver_crown]"
+      ],
+      "JpJapanese": [
+        "[icon:silver_crown]"
+      ],
+      "KrKorean": [
+        "[icon:silver_crown]"
+      ],
+      "AsTradChinese": [
+        "[icon:silver_crown]"
+      ]
+    }
+  },
+  {
+    "label": "FileInfo_Complete_01",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:gold_crown]"
+      ],
+      "EuEnglish": [
+        "[icon:gold_crown]"
+      ],
+      "UsSpanish": [
+        "[icon:gold_crown]"
+      ],
+      "EuSpanish": [
+        "[icon:gold_crown]"
+      ],
+      "UsFrench": [
+        "[icon:gold_crown]"
+      ],
+      "EuFrench": [
+        "[icon:gold_crown]"
+      ],
+      "EuGerman": [
+        "[icon:gold_crown]"
+      ],
+      "EuItalian": [
+        "[icon:gold_crown]"
+      ],
+      "EuDutch": [
+        "[icon:gold_crown]"
+      ],
+      "JpJapanese": [
+        "[icon:gold_crown]"
+      ],
+      "KrKorean": [
+        "[icon:gold_crown]"
+      ],
+      "AsTradChinese": [
+        "[icon:gold_crown]"
+      ]
+    }
+  },
+  {
+    "label": "FileInfo_Complete_02",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:platinum_crown]"
+      ],
+      "EuEnglish": [
+        "[icon:platinum_crown]"
+      ],
+      "UsSpanish": [
+        "[icon:platinum_crown]"
+      ],
+      "EuSpanish": [
+        "[icon:platinum_crown]"
+      ],
+      "UsFrench": [
+        "[icon:platinum_crown]"
+      ],
+      "EuFrench": [
+        "[icon:platinum_crown]"
+      ],
+      "EuGerman": [
+        "[icon:platinum_crown]"
+      ],
+      "EuItalian": [
+        "[icon:platinum_crown]"
+      ],
+      "EuDutch": [
+        "[icon:platinum_crown]"
+      ],
+      "JpJapanese": [
+        "[icon:platinum_crown]"
+      ],
+      "KrKorean": [
+        "[icon:platinum_crown]"
+      ],
+      "AsTradChinese": [
+        "[icon:platinum_crown]"
+      ]
+    }
+  },
+  {
+    "label": "FileInfo_Message_00",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "A Neo-Galactic Journey Begins!"
+      ],
+      "EuEnglish": [
+        "A Neo-Galactic Journey Begins!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Ein neo-galaktisches Abenteuer beginnt!"
+      ],
+      "EuItalian": [
+        "Un' Avventura Neo-Galattica Inizia!"
+      ],
+      "EuDutch": [
+        "A Neo-Galactic Journey Begins!"
+      ],
+      "JpJapanese": [
+        "新たなる銀河へ 出発!"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "FileInfo_Message_01",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "World 2: Shooting Through the Stars"
+      ],
+      "EuEnglish": [
+        "World 2: Shooting Through the Stars"
+      ],
+      "UsSpanish": [
+        "Mundo 2: Un viaje alrededor de las estrellas"
+      ],
+      "EuSpanish": [
+        "Mundo 2: Un viaje alrededor de las estrellas"
+      ],
+      "UsFrench": [
+        "Monde 2 : Sous une pluie d'étoiles filantes"
+      ],
+      "EuFrench": [
+        "Monde 2: Une balade parmi les étoiles"
+      ],
+      "EuGerman": [
+        "Welt 2: Quer durch das Sternenmeer"
+      ],
+      "EuItalian": [
+        "Mondo 2: Alla Ricerca delle Stelle"
+      ],
+      "EuDutch": [
+        "World 2: Shooting Through the Stars"
+      ],
+      "JpJapanese": [
+        "新たなる宇宙 ワールド2"
+      ],
+      "KrKorean": [
+        "월드 2: 새로운 우주"
+      ],
+      "AsTradChinese": [
+        "前往新宇宙  World 2"
+      ]
+    }
+  },
+  {
+    "label": "FileInfo_Message_02",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "World 3: The Far Reaches of the Universe"
+      ],
+      "EuEnglish": [
+        "World 3: The Far Reaches of the Universe"
+      ],
+      "UsSpanish": [
+        "Mundo 3: En los confines del universo"
+      ],
+      "EuSpanish": [
+        "Mundo 3: En los confines del universo"
+      ],
+      "UsFrench": [
+        "Monde 3 : Aux limites de l'univers"
+      ],
+      "EuFrench": [
+        "Monde 3: Aux confins de l'univers"
+      ],
+      "EuGerman": [
+        "Welt 3: Die Weiten des Universums"
+      ],
+      "EuItalian": [
+        "Mondo 3: Ai Confini dell'Universo"
+      ],
+      "EuDutch": [
+        "World 3: The Far Reaches of the Universe"
+      ],
+      "JpJapanese": [
+        "星をめぐるぼうけん ワールド3"
+      ],
+      "KrKorean": [
+        "월드 3: 별을 둘러싼 모험"
+      ],
+      "AsTradChinese": [
+        "環遊星球冒險  World 3"
+      ]
+    }
+  },
+  {
+    "label": "FileInfo_Message_03",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "World 4: The Many Mysteries of the Cosmos"
+      ],
+      "EuEnglish": [
+        "World 4: The Many Mysteries of the Cosmos"
+      ],
+      "UsSpanish": [
+        "Mundo 4: En busca de los misterios del cosmos"
+      ],
+      "EuSpanish": [
+        "Mundo 4: En busca de los misterios del cosmos"
+      ],
+      "UsFrench": [
+        "Monde 4 : Les mystères du cosmos"
+      ],
+      "EuFrench": [
+        "Monde 4: Les mystères insondables du cosmos"
+      ],
+      "EuGerman": [
+        "Welt 4: Die vielen Mysterien des Kosmos"
+      ],
+      "EuItalian": [
+        "Mondo 4: Gli Infiniti Misteri del Cosmo"
+      ],
+      "EuDutch": [
+        "World 4: The Many Mysteries of the Cosmos"
+      ],
+      "JpJapanese": [
+        "ふしぎのせかい ワールド4"
+      ],
+      "KrKorean": [
+        "월드 4: 신비로운 세계"
+      ],
+      "AsTradChinese": [
+        "不可思議的世界  World 4"
+      ]
+    }
+  },
+  {
+    "label": "FileInfo_Message_04",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "World 5: Trial of the Galaxies"
+      ],
+      "EuEnglish": [
+        "World 5: Trial of the Galaxies"
+      ],
+      "UsSpanish": [
+        "Mundo 5: El desafío galáctico"
+      ],
+      "EuSpanish": [
+        "Mundo 5: El desafío galáctico"
+      ],
+      "UsFrench": [
+        "Monde 5 : À l'assaut des épreuves galactiques"
+      ],
+      "EuFrench": [
+        "Monde 5: L'épreuve des galaxies"
+      ],
+      "EuGerman": [
+        "Welt 5: Die große Sternfahrerprüfung"
+      ],
+      "EuItalian": [
+        "Mondo 5: La Sfida all'Infinito"
+      ],
+      "EuDutch": [
+        "World 5: Trial of the Galaxies"
+      ],
+      "JpJapanese": [
+        "しれんの銀河 ワールド5"
+      ],
+      "KrKorean": [
+        "월드 5: 시련의 갤럭시"
+      ],
+      "AsTradChinese": [
+        "銀河考驗  World 5"
+      ]
+    }
+  },
+  {
+    "label": "FileInfo_Message_05",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "World 6: Bowser in Your Sights"
+      ],
+      "EuEnglish": [
+        "World 6: Bowser in Your Sights"
+      ],
+      "UsSpanish": [
+        "Mundo 6: Bowser en el punto de mira"
+      ],
+      "EuSpanish": [
+        "Mundo 6: Bowser en el punto de mira"
+      ],
+      "UsFrench": [
+        "Monde 6 : Sur les traces de Bowser"
+      ],
+      "EuFrench": [
+        "Monde 6: Sur les traces de Bowser"
+      ],
+      "EuGerman": [
+        "Welt 6: Grimmiger Schildkröten-Unhold in Sicht"
+      ],
+      "EuItalian": [
+        "Mondo 6: Sulle Tracce di Bowser"
+      ],
+      "EuDutch": [
+        "World 6: Bowser in Your Sights"
+      ],
+      "JpJapanese": [
+        "クッパをめざして ワールド6"
+      ],
+      "KrKorean": [
+        "월드 6: 쿠파를 향해 전진"
+      ],
+      "AsTradChinese": [
+        "尋找庫巴  World 6"
+      ]
+    }
+  },
+  {
+    "label": "FileInfo_Message_06",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "World S: Here We Go!"
+      ],
+      "EuEnglish": [
+        "World S: Here We Go!"
+      ],
+      "UsSpanish": [
+        "Mundo extra: Un mundo secreto por descubrir"
+      ],
+      "EuSpanish": [
+        "Mundo extra: Un mundo secreto por descubrir"
+      ],
+      "UsFrench": [
+        "Monde S : Au cœur de la légende"
+      ],
+      "EuFrench": [
+        "Monde S: Au cœur de la légende"
+      ],
+      "EuGerman": [
+        "Welt S: Legendäres Planetensystem entdeckt"
+      ],
+      "EuItalian": [
+        "Un Mondo Speciale da Scoprire"
+      ],
+      "EuDutch": [
+        "World S: Here We Go!"
+      ],
+      "JpJapanese": [
+        "レッツゴー スペシャルワールド!"
+      ],
+      "KrKorean": [
+        "스페셜 월드: 다시 한 번 출발!"
+      ],
+      "AsTradChinese": [
+        "邁向 World S!"
+      ]
+    }
+  },
+  {
+    "label": "FileInfo_Message_07",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The Green Star Challenge Is On!"
+      ],
+      "EuEnglish": [
+        "The Green Star Challenge Is On!"
+      ],
+      "UsSpanish": [
+        "¡El desafío de las Estrellas Verdes!"
+      ],
+      "EuSpanish": [
+        "¡El desafío de las estrellas verdes!"
+      ],
+      "UsFrench": [
+        "Le défi des étoiles vertes!"
+      ],
+      "EuFrench": [
+        "Le défi des étoiles vertes!"
+      ],
+      "EuGerman": [
+        "Die Jagd auf die Grünsterne kann beginnen!"
+      ],
+      "EuItalian": [
+        "A Caccia delle Stelle Verdi"
+      ],
+      "EuDutch": [
+        "The Green Star Challenge Is On!"
+      ],
+      "JpJapanese": [
+        "グリーンスター チャレンジ!"
+      ],
+      "KrKorean": [
+        "그린스타 챌린지!"
+      ],
+      "AsTradChinese": [
+        "挑戰綠星星!"
+      ]
+    }
+  },
+  {
+    "label": "FileInfo_Message_08",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Neo Mario Galaxy Master!"
+      ],
+      "EuEnglish": [
+        "Neo Mario Galaxy Master!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Neo Mario Galaxy Großmeister!"
+      ],
+      "EuItalian": [
+        "Il Maestro Delle Neo Galassie!"
+      ],
+      "EuDutch": [
+        "Neo Mario Galaxy Master!"
+      ],
+      "JpJapanese": [
+        "マスター オブ ネオギャラクシー!"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "FileInfo_Star",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuEnglish": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "UsSpanish": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuSpanish": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "UsFrench": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuFrench": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuGerman": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuItalian": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuDutch": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "JpJapanese": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "KrKorean": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "AsTradChinese": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ]
+    }
+  }
+]

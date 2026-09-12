@@ -1,0 +1,152 @@
+[
+  {
+    "label": "SignBoard005",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_SIGNBOARD_HEY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Whoa! [delay:15]You made it all the way here!",
+        "You know the only way through is to",
+        "[color:red]defeat every enemy[defcolor], right?"
+      ],
+      "EuEnglish": [
+        "Whoa! [delay:15]You made it all the way here!",
+        "You know the only way through is to",
+        "[color:red]defeat every enemy[defcolor], right?"
+      ],
+      "UsSpanish": [
+        "¡Vaya... [delay:15]llegaste hasta aquí! Sabes",
+        "que la única manera de pasar es",
+        "[color:red]eliminando a todos los enemigos[defcolor], ¿no?"
+      ],
+      "EuSpanish": [
+        "Enhorabuena... [delay:15]¡por llegar hasta aquí!",
+        "Sabes que la única forma de pasar es",
+        "[color:red]eliminando a todos los enemigos[defcolor], ¿no?"
+      ],
+      "UsFrench": [
+        "Oh![delay:15] Vous avez trouvé comment vous",
+        "rendre jusqu'ici![pagebreak]",
+        "Vous savez donc que la seule façon",
+        "d'avancer est d'[color:red]éliminer tous les",
+        "monstres[defcolor] de chaque planète, non?"
+      ],
+      "EuFrench": [
+        "Ouah! [delay:15]Tu as réussi à venir jusqu'ici!",
+        "Ta mission est simple: il faut [color:red]te",
+        "[defcolor][color:red]débarrasser de [defcolor][color:red]tous les ennemis[defcolor]!"
+      ],
+      "EuGerman": [
+        "Nicht schlecht! [delay:15]",
+        "Du hast es bis hierhin geschafft![pagebreak]",
+        "Aber dir ist klar geworden, dass",
+        "du [color:red]alle Feinde besiegen musst[defcolor],",
+        "um weiterzukommen, oder?"
+      ],
+      "EuItalian": [
+        "Incredibile! [delay:15]Sei arrivato fin qui! Sai",
+        "che l'unico modo per proseguire è",
+        "[color:red]sconfiggere tutti i nemici[defcolor], vero?"
+      ],
+      "EuDutch": [
+        "Whoa! [delay:15]You made it all the way here!",
+        "You know the only way through is to",
+        "[color:red]defeat every enemy[defcolor], right?"
+      ],
+      "JpJapanese": [
+        "よぉ!![delay:15] ココに[ruby:来;き]ちまったんだな?!",
+        "[color:red]アイツらを[ruby:倒;たお]していく[defcolor][ruby:以外;いがい]に [ruby:道;みち]はないゼ?"
+      ],
+      "KrKorean": [
+        "여!! [delay:15]여기까지 왔군!",
+        "[color:red]저 녀석들을 쓰러뜨리는 것 [defcolor]외에 길은 없어!"
+      ],
+      "AsTradChinese": [
+        "嗨！[delay:15]你來到這裡了啊?!",
+        "除了[color:red]打倒它們[defcolor]，別無他法啦。"
+      ]
+    }
+  },
+  {
+    "label": "SignBoard050",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_SIGNBOARD_HEY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You're back?! [delay:30]You're weird!",
+        "[delay:15]Well, same deal... The only way",
+        "through is to [color:red]defeat every enemy[color:black].[color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "You're back?! [delay:30]You're a funny one!",
+        "[delay:15]Well, same deal... The only way",
+        "through is to [color:red]defeat every enemy[color:black].[color:red][defcolor]"
+      ],
+      "UsSpanish": [
+        "¿Otra vez aquí? [delay:30]¡Qué raro![delay:15] Bueno, lo",
+        "mismo que antes... Solo podrás pasar",
+        "[color:red]eliminando a todos los enemigos[color:black].[color:red][defcolor]"
+      ],
+      "EuSpanish": [
+        "¡Pero si has vuelto! [delay:30]¡Eso son ganas![delay:15]",
+        "Por si se te ha olvidado: solo pasarás",
+        "si [color:red]eliminas a todos los enemigos[color:black].[color:red][defcolor]"
+      ],
+      "UsFrench": [
+        "Vous êtes de retour?![delay:30] Bizarre! [delay:15]Bon,",
+        "la même règle est de mise : pour",
+        "progresser, [color:red]éliminez tous les ennemis[defcolor]."
+      ],
+      "EuFrench": [
+        "De retour?! [delay:30]Bizarre, bizarre! [delay:15]Bon, tu",
+        "connais la chanson... Pour avancer,",
+        "[color:red]débarrasse-toi de tous les ennemis[defcolor]!"
+      ],
+      "EuGerman": [
+        "Du bist zurück?!?[delay:30]",
+        "Ganz schön verrückt! [delay:15]",
+        "Nun, gleiches Spiel wie immer...[pagebreak]",
+        "Du kommst hier nur durch, wenn",
+        "du [color:red]alle Feinde besiegs[defcolor][color:black][color:red]t[color:black]![defcolor]"
+      ],
+      "EuItalian": [
+        "Già di ritorno?! [delay:30]Sei proprio strano!",
+        "[delay:15]Beh, la musica non cambia! Prosegui",
+        "solo se [color:red]abbatti tutti i nemici[defcolor]!"
+      ],
+      "EuDutch": [
+        "You're back?! [delay:30]You're a funny one!",
+        "[delay:15]Well, same deal... The only way",
+        "through is to [color:red]defeat every enemy[color:black].[color:red][defcolor]"
+      ],
+      "JpJapanese": [
+        "また[ruby:来;き]たのか?![delay:30] あんた、 おもしれェな!",
+        "[delay:15][ruby:今度;こんど]も さっさと[color:red]アイツらを[ruby:倒;たお]して[color:black]くれよ[color:red][defcolor]"
+      ],
+      "KrKorean": [
+        "또 왔어?! [delay:30]너도 참 대단하다!",
+        "[delay:15]이번에도 팍팍 [color:red]저 녀석들을 쓰러뜨려 [color:black]줘[color:red][defcolor]"
+      ],
+      "AsTradChinese": [
+        "你又來啦?![delay:30]你真有趣啊！",
+        "[delay:15]這次也要三兩下就[color:red]解決它們[color:black]啊！[color:red][defcolor]"
+      ]
+    }
+  }
+]

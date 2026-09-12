@@ -1,0 +1,42 @@
+[
+  {
+    "label": "Tico000",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Got [color:red]64[defcolor] [icon:purple_coin] [color:purple]Purple Coins[defcolor]?"
+      ],
+      "EuEnglish": [
+        "Got [color:red]64[defcolor] [icon:purple_coin] [color:purple]Purple Coins[defcolor]?"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Hast du schon",
+        "[color:red]64[defcolor] [icon:purple_coin] [color:purple]lila Münzen[defcolor]?"
+      ],
+      "EuItalian": [
+        "Hai raccolto [color:red]64[defcolor] [icon:purple_coin] [color:purple]Monete Viola[defcolor]?"
+      ],
+      "EuDutch": [
+        "Got [color:red]64[defcolor] [icon:purple_coin] [color:purple]Purple Coins[defcolor]?"
+      ],
+      "JpJapanese": [
+        "ここまでの[icon:purple_coin]は[color:red]64[ruby:枚;まい][defcolor]です! "
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  }
+]

@@ -1,0 +1,1319 @@
+[
+  {
+    "label": "InformationGreenStar",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:green]Prankster Comets [defcolor]have appeared!"
+      ],
+      "EuEnglish": [
+        "[color:green]Prankster Comets [defcolor]have appeared!"
+      ],
+      "UsSpanish": [
+        "¡Hay [color:green]Cometas Pícaros [color:black]en órbita[color:green][defcolor][color:black]![defcolor]"
+      ],
+      "EuSpanish": [
+        "¡Hay nuevos [color:green]cometas [color:black]en órbita[color:green][defcolor][color:black]![defcolor]"
+      ],
+      "UsFrench": [
+        "Des [color:green]comètes blagueuses [defcolor]sont",
+        "apparues!"
+      ],
+      "EuFrench": [
+        "Des [color:green]c[defcolor][color:green]omètes farceuses",
+        "[color:black]ont été repérées![color:green][defcolor]"
+      ],
+      "EuGerman": [
+        "[color:green]Schabernack-Kometen",
+        "[color:black]sind aufgetaucht![color:green][defcolor]"
+      ],
+      "EuItalian": [
+        "Sono apparse delle [color:green]Comete Burlone[defcolor]!"
+      ],
+      "EuDutch": [
+        "[color:green]Prankster Comets [defcolor]have appeared!"
+      ],
+      "JpJapanese": [
+        "[color:green]いたずら[ruby:彗星;すいせい][defcolor]が [ruby:現;あらわ]れた!"
+      ],
+      "KrKorean": [
+        "[color:green]장난꾸러기 혜성[defcolor]이 나타났다!"
+      ],
+      "AsTradChinese": [
+        "出現[color:green]搗蛋彗星[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "InformationLuigiIntrusively",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You can play as Luigi!"
+      ],
+      "EuEnglish": [
+        "You can play as Luigi!"
+      ],
+      "UsSpanish": [
+        "¡Puedes jugar con Luigi!"
+      ],
+      "EuSpanish": [
+        "¡Puedes jugar con Luigi!"
+      ],
+      "UsFrench": [
+        "Vous pouvez jouer en tant que Luigi!"
+      ],
+      "EuFrench": [
+        "Vous pouvez incarner [color:black]Luigi [defcolor][icon:luigi]!"
+      ],
+      "EuGerman": [
+        "Wenn du möchtest, kannst",
+        "du als [color:green]Luigi[defcolor] spielen."
+      ],
+      "EuItalian": [
+        "Puoi giocare nelle vesti di [color:black][color:green]Luigi [color:black][icon:luigi]![defcolor]"
+      ],
+      "EuDutch": [
+        "You can play as Luigi!"
+      ],
+      "JpJapanese": [
+        "プレイヤーキャラクターを",
+        "ルイージに[ruby:変更;へんこう]できます"
+      ],
+      "KrKorean": [
+        "플레이어 캐릭터를 루이지로",
+        "변경할 수 있습니다"
+      ],
+      "AsTradChinese": [
+        "可將玩家角色更換成路易吉。"
+      ]
+    }
+  },
+  {
+    "label": "InformationObserverBee",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You transformed into [color:red]Bee [player:0][defcolor]!",
+        "Hold [icon:a_button] to buzz around."
+      ],
+      "EuEnglish": [
+        "You transformed into [color:red]Bee [player:0][defcolor]!",
+        "[color:blue]Hold [defcolor][icon:a_button] to buzz around."
+      ],
+      "UsSpanish": [
+        "¡Ahora eres [color:red][player:0] Abeja[defcolor]!",
+        "Mantén oprimido [icon:a_button] para revolotear."
+      ],
+      "EuSpanish": [
+        "¡Ahora eres [color:red][player:0] Abeja[defcolor]!",
+        "¡[color:blue]Mantén pulsado [defcolor][icon:a_button] para revolotear!"
+      ],
+      "UsFrench": [
+        "Vous êtes devenu [color:red][player:0][defcolor] [color:red]abeille[defcolor]!",
+        "Maintenez [icon:a_button] enfoncé pour voler."
+      ],
+      "EuFrench": [
+        "Vous êtes devenu [color:red][player:0] abeille[defcolor]!",
+        "[color:blue]Maintenez[defcolor] [icon:a_button] [color:blue]enfoncé [defcolor]pour voler!"
+      ],
+      "EuGerman": [
+        "Du wurdest zu [color:red]Bienen-[player:0][defcolor]!",
+        "[color:blue]Halte [defcolor][icon:a_button] [color:blue]gedrückt[defcolor], um zu fliegen!"
+      ],
+      "EuItalian": [
+        "Sei [color:red][player:0] Ape[defcolor]!",
+        "[color:blue]Tieni premuto [defcolor][icon:a_button] per volare!"
+      ],
+      "EuDutch": [
+        "You transformed into [color:red]Bee [player:0][defcolor]!",
+        "[color:blue]Hold [defcolor][icon:a_button] to buzz around."
+      ],
+      "JpJapanese": [
+        "[color:red]ハチ[player:0][defcolor]になった!",
+        "[color:blue][icon:a_button]ボタンを[ruby:長;なが]～く[ruby:押;お]して [defcolor][ruby:宙;ちゅう]に[ruby:浮;う]かぶ!"
+      ],
+      "KrKorean": [
+        "[color:red]꿀벌[player:0][defcolor]가 되었다!",
+        "[color:blue][icon:a_button]를 길～게 누르면 [defcolor]하늘로 뜬다!"
+      ],
+      "AsTradChinese": [
+        "變成[color:red]蜜蜂[player:0][defcolor]！",
+        "[color:blue]長按著[defcolor][color:blue][icon:a_button][defcolor]就能浮在空中！"
+      ]
+    }
+  },
+  {
+    "label": "InformationObserverCloud",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You turned into [color:red]Cloud [defcolor][color:red][player:0][color:black]![color:red][defcolor][color:black]",
+        "Shake [defcolor][icon:wiimote] to create up to [color:red]three",
+        "cloud platforms [defcolor]out of thin air!"
+      ],
+      "EuEnglish": [
+        "You turned into [color:red]Cloud [defcolor][color:red][player:0][color:black]![color:red][defcolor][color:black]",
+        "[color:blue]Shake [color:black][defcolor][icon:wiimote] to create up to [color:red]three",
+        "cloud platforms [defcolor]out of thin air!"
+      ],
+      "UsSpanish": [
+        "¡Ahora eres[color:red] [player:0] Nube[defcolor]!",
+        "[color:black]¡[color:blue]Agita [color:black]el [defcolor][icon:wiimote] y podrás crear hasta",
+        "[color:red]tres plataformas nube[defcolor] en el aire!"
+      ],
+      "EuSpanish": [
+        "¡Ahora eres[color:red] [defcolor][color:red][player:0] Nube[color:black]![color:red][defcolor][color:black]",
+        "¡[color:blue]Agita [color:black]el [defcolor][icon:wiimote] y podrás crear",
+        "hasta [color:red]tres nubes[defcolor]!"
+      ],
+      "UsFrench": [
+        "Vous êtes devenu [color:red][player:0] nuage[defcolor]!",
+        "Secouez [icon:wiimote] pour former jusqu'à",
+        "[color:red]trois plateformes de nuage[defcolor]"
+      ],
+      "EuFrench": [
+        "Vous êtes devenu [color:red][player:0] nuage[defcolor]!",
+        "[color:blue][color:blue]Agitez la[color:blue] [defcolor][icon:wiimote] pour générer jusqu'à",
+        "[color:red]trois plateformes nuageuses[defcolor]!"
+      ],
+      "EuGerman": [
+        "Du wurdest zu [color:red]Wolken-[player:0][defcolor]! [color:blue]Schüttele[defcolor]",
+        "die [icon:wiimote] Wii-Fernbedienung, um [color:red]bis zu",
+        "drei Wolken-Plattformen [defcolor]zu erzeugen!"
+      ],
+      "EuItalian": [
+        "Sei [color:red][player:0] Nuvola[defcolor]!",
+        "[color:blue]Scuoti il telecomando Wii [defcolor][icon:wiimote] per",
+        "creare fino a [color:red]tre nuvole [defcolor]in aria."
+      ],
+      "EuDutch": [
+        "You turned into [color:red]Cloud [defcolor][color:red][player:0][color:black]![color:red][defcolor][color:black]",
+        "[color:blue]Shake [color:black][defcolor][icon:wiimote] to create up to [color:red]three",
+        "cloud platforms [defcolor]out of thin air!"
+      ],
+      "JpJapanese": [
+        "なんと [color:red][ruby:雲;くも][player:0][defcolor]になった! [color:blue][icon:wiimote]をふれば",
+        "[defcolor][color:red]3つまで [ruby:雲;くも]の[ruby:床;ゆか]がつくれる[color:black]ぞ[color:red][defcolor]!"
+      ],
+      "KrKorean": [
+        "야호! [color:red]구름[player:0][defcolor]가 되었다! [color:blue][icon:wiimote]을 흔들면",
+        "[defcolor][color:red]구름 발판을 3개까지 [defcolor][color:black]만들 수 있다![defcolor]"
+      ],
+      "AsTradChinese": [
+        "變成[color:red]雲朵[player:0][defcolor]！[color:blue]揮動[defcolor][color:blue][icon:wiimote]",
+        "[color:red]最多[color:blue][color:red][color:black]可以做[color:red]三次雲朵[color:blue][defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "InformationObserverCometMedal",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got a [icon:comet_medal][color:red] Comet Medal[color:black]!",
+        "Collect them to make [color:red][color:red]comets [color:black]appear.[color:red][color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "You got a [icon:comet_medal][color:red] Comet Medal[color:black]!",
+        "Collect them to make [color:red][color:red]comets [color:black]appear.[color:red][color:red][defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Has conseguido una medalla de",
+        "cometa [icon:comet_medal]! ¡Sigue recogiéndolas",
+        "y harás que a[color:black]parezcan [color:red]cometas[color:black][color:black]![color:black][defcolor]"
+      ],
+      "EuSpanish": [
+        "¡Has conseguido una [icon:comet_medal][color:black]! ¡Sigue",
+        "cogiéndolas y aparecerán [color:red]cometas[color:black]![color:red][color:black][defcolor]"
+      ],
+      "UsFrench": [
+        "Vous avez trouvé une [color:red]médaille",
+        "[defcolor][color:red]comète [defcolor][icon:comet_medal]! Ramassez-en le plus",
+        "possible pour attirer des [color:red]comètes[defcolor]!"
+      ],
+      "EuFrench": [
+        "Vous avez trouvé une [color:red]médaille",
+        "comète[defcolor] [icon:comet_medal][color:black]! Ramassez-en plein pour",
+        "attirer des [color:red]comètes farceuses[color:black] [icon:comet]![defcolor]"
+      ],
+      "EuGerman": [
+        "Du hast eine [icon:comet_medal][color:red] Kometenmünze",
+        "[color:black]erhalten! Sammele soviel du kannst,",
+        "um [color:red][color:black][color:red]Schabernack-Kometen [color:black]anzulocken![color:red][defcolor]"
+      ],
+      "EuItalian": [
+        "Hai ottenuto una [color:red]Medaglia Cometa [defcolor][icon:comet_medal]!",
+        "Raccogli le [color:blue]Medaglie Cometa [defcolor]per far",
+        "apparire [color:red]Comete[color:black]![color:red][defcolor]"
+      ],
+      "EuDutch": [
+        "You got a [icon:comet_medal][color:red] Comet Medal[color:black]!",
+        "Collect them to make [color:red][color:red]comets [color:black]appear.[color:red][color:red][defcolor]"
+      ],
+      "JpJapanese": [
+        "[icon:comet_medal][color:red][ruby:彗星;すいせい]メダル[defcolor]を [ruby:手;て]に[ruby:入;い]れた!",
+        "[ruby:集;あつ]めると、 いつか[color:red][ruby:彗星;すいせい][defcolor]がやってくる!"
+      ],
+      "KrKorean": [
+        "[icon:comet_medal][color:red]혜성메달[defcolor]을 획득했다!",
+        "모으다 보면 언젠가 [color:red]혜성[defcolor]이 찾아온다!"
+      ],
+      "AsTradChinese": [
+        "獲得[icon:comet_medal][color:red]彗星獎章[defcolor]！",
+        "持續收集，某天終會遇見[color:red]彗星[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "InformationObserverDrill",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got a [color:red]Spin Drill[defcolor]! [color:blue]Shake [defcolor][icon:wiimote] to",
+        "start drilling!"
+      ],
+      "EuEnglish": [
+        "You got a [color:red]Spin Drill[defcolor]! [color:blue]Shake [defcolor][icon:wiimote] to",
+        "start drilling!"
+      ],
+      "UsSpanish": [
+        "¡Ahora tienes un [color:red]trompotaladro[defcolor]!",
+        "¡[color:blue]Agita[color:black] el [color:blue][defcolor][icon:wiimote] para excavar!"
+      ],
+      "EuSpanish": [
+        "¡Ahora tienes un [color:red]trompotaladro[defcolor]!",
+        "¡[color:blue]Agita [color:black]el [color:blue][defcolor][icon:wiimote] y a excavar!"
+      ],
+      "UsFrench": [
+        "Vous avez trouvé une [color:red]vrille[defcolor]!",
+        "[color:blue]Secouez [defcolor][icon:wiimote] pour creuser!"
+      ],
+      "EuFrench": [
+        "Vous avez trouvé un [color:red]foret[defcolor]!",
+        "[color:blue]Agitez la [defcolor][icon:wiimote] pour [color:black]forer[defcolor]!"
+      ],
+      "EuGerman": [
+        "Du hast einen [color:red]Wirbelbohrer[defcolor] erhalten![color:blue]",
+        "Schüttele die [defcolor][icon:wiimote] [color:blue]Wii-Fernbedienung[color:black],",
+        "[color:blue][defcolor]um dich in die Erde zu bohren!"
+      ],
+      "EuItalian": [
+        "Hai ottenuto un [color:red]Trottolapano[defcolor]!",
+        "[color:blue]Scuoti il telecomando Wii [defcolor][icon:wiimote]",
+        "per perforare il suolo!"
+      ],
+      "EuDutch": [
+        "You got a [color:red]Spin Drill[defcolor]! [color:blue]Shake [defcolor][icon:wiimote] to",
+        "start drilling!"
+      ],
+      "JpJapanese": [
+        "[color:red]ドリル[defcolor]を [ruby:手;て]に[ruby:入;い]れた!",
+        "[icon:wiimote][color:blue]Wiiリモコンをふって [defcolor][ruby:掘;ほ]りまくれ!"
+      ],
+      "KrKorean": [
+        "[color:red]드릴[defcolor]을 획득했다!",
+        "[icon:wiimote][color:blue]Wii 리모컨을 흔들어 [defcolor]바닥을 뚫자!"
+      ],
+      "AsTradChinese": [
+        "獲得[color:red]旋轉鑽頭[defcolor]！",
+        "[color:blue]揮動[icon:wiimote][defcolor][color:blue]Wii遙控器[color:black]，[color:blue][defcolor]盡量[color:black]鑽[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "InformationObserverFire",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You transformed into [color:red]Fire [color:red][player:0][color:black]!",
+        "Shake [icon:wiimote] to shoot [color:red]fireballs[color:black].[color:red][color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "You transformed into [color:red]Fire [color:red][player:0][color:black]!",
+        "Shake [icon:wiimote] to shoot [color:red]fireballs[color:black].[color:red][color:red][defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Ahora eres [color:red][player:0] de Fuego[defcolor]!",
+        "¡Lanza [color:red]bolas de fuego[defcolor]",
+        "agitando el [icon:wiimote]!"
+      ],
+      "EuSpanish": [
+        "¡Ahora eres [color:red][player:0] de Fuego[defcolor]!",
+        "¡Lanza bolas de fuego",
+        "agitando el [icon:wiimote]!"
+      ],
+      "UsFrench": [
+        "Vous êtes devenu [color:red][player:0][defcolor] [color:red]de feu[defcolor]!",
+        "Secouez [icon:wiimote] pour lancer des [color:red]boules",
+        "de feu[defcolor]."
+      ],
+      "EuFrench": [
+        "Vous êtes devenu [color:red][player:0] de feu[defcolor]!",
+        "[color:black]Agitez la [defcolor][icon:wiimote] pour lancer des [color:red]boules",
+        "de feu[defcolor] pendant un temps limité!"
+      ],
+      "EuGerman": [
+        "Schüttele als [color:red]Feuer-[player:0] [defcolor]die",
+        "[icon:wiimote] Wii-Fernbedienung, um",
+        "[color:red]Feuerbälle [defcolor]auszusenden!"
+      ],
+      "EuItalian": [
+        "Sei [color:red][player:0] Fuoco[defcolor]! [color:blue]Scuoti il",
+        "telecomando Wii [defcolor][icon:wiimote] per lanciare",
+        "[color:red]palle di fuoco[defcolor]!"
+      ],
+      "EuDutch": [
+        "You transformed into [color:red]Fire [color:red][player:0][color:black]!",
+        "Shake [icon:wiimote] to shoot [color:red]fireballs[color:black].[color:red][color:red][defcolor]"
+      ],
+      "JpJapanese": [
+        "なんと [color:red]ファイア[player:0][defcolor]になった! [ruby:一定時間;いっていじかん]",
+        "[icon:wiimote][color:black]をふれば [defcolor][color:red]ファイアボール[defcolor]を[ruby:放;はな]てる!"
+      ],
+      "KrKorean": [
+        "야호! [color:red]파이어[player:0][defcolor]가 되었다! 일정 시간",
+        "[icon:wiimote][color:black]을 흔들면 [defcolor][color:red]파이어볼[defcolor]을 던진다!"
+      ],
+      "AsTradChinese": [
+        "變成[color:red]火焰[player:0][defcolor]！",
+        "限時內[color:blue]揮動[defcolor][color:blue][icon:wiimote][color:black]就[color:blue][color:red][color:black]可以投擲[color:red]火焰球[color:blue][defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "InformationObserverFlying",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You transformed into [color:red]Flying [player:0][color:black]!",
+        "[color:red]Spin[color:black] when [color:red]jumping [color:black]to fly!"
+      ],
+      "EuEnglish": [
+        "You transformed into [color:red]Flying [player:0][color:black]!",
+        "[color:red]Spin[color:black] when [color:red]jumping [color:black]to fly!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Du wurdest zu [color:red]Flug-[player:0][defcolor]!",
+        "[color:blue]Schüttele die [icon:wiimote] Wii-Fernbedienung,",
+        "um zu fliegen[defcolor]!"
+      ],
+      "EuItalian": [
+        "Sei [color:red][player:0] Plano[defcolor]! Se fai delle",
+        "[color:red]piroette [defcolor]mentre [color:red]salti[defcolor], potrai volare!"
+      ],
+      "EuDutch": [
+        "You transformed into [color:red]Flying [player:0][color:black]!",
+        "[color:red]Spin[color:black] when [color:red]jumping [color:black]to fly!"
+      ],
+      "JpJapanese": [
+        "なんと [color:red]フライング[player:0][color:black]になった!",
+        "[color:red]ジャンプ[ruby:中;ちゅう]に [color:red]スピン[color:black]すれば [ruby:空;そら]を[ruby:飛;と]ぶ!"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "InformationObserverHopper",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You transformed into [color:red]Spring",
+        "[color:red][player:0][color:black]! Press [icon:a_button] at the right",
+        "moment to bounce high. BOOOOING![color:red][color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "You transformed into [color:red]Spring",
+        "[color:red][player:0][color:black]! [color:blue]Press [color:black][icon:a_button] at the right",
+        "moment to bounce high. BOOOOING![color:red][color:red][defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Ahora eres [color:red][player:0] Boing[defcolor]!",
+        "Oprime [icon:a_button] en el momento justo",
+        "y rebotarás muy alto. ¡BOOOING!"
+      ],
+      "EuSpanish": [
+        "¡Eres [color:red][player:0] Boing[defcolor]! ¡[color:blue]Pulsa [defcolor][icon:a_button] en el",
+        "momento justo y harás BOOOING!"
+      ],
+      "UsFrench": [
+        "Vous êtes devenu[color:red] [player:0] ressort[defcolor]!",
+        "Appuyez sur [icon:a_button] au bon moment pour",
+        "rebondir."
+      ],
+      "EuFrench": [
+        "Vous êtes devenu [color:red][player:0] ressort[defcolor]!",
+        "[color:blue]Appuyez sur[defcolor] [icon:a_button] [color:blue]au bon moment[defcolor]",
+        "pour [color:black]rebondir[defcolor]!"
+      ],
+      "EuGerman": [
+        "Du wurdest zu [color:red]Feder-[player:0][defcolor]!",
+        "[color:blue]Drücke im richtigen Moment [defcolor][icon:a_button],",
+        "um besonders hoch zu springen!"
+      ],
+      "EuItalian": [
+        "Sei [color:red][player:0] Molla[defcolor]!",
+        "[color:blue]Premi[defcolor] [icon:a_button] per saltare al momento",
+        "giusto!"
+      ],
+      "EuDutch": [
+        "You transformed into [color:red]Spring",
+        "[color:red][player:0][color:black]! [color:blue]Press [color:black][icon:a_button] at the right",
+        "moment to bounce high. BOOOOING![color:red][color:red][defcolor]"
+      ],
+      "JpJapanese": [
+        "なんと [color:red]バネ[player:0][defcolor]になった!",
+        "タイミングよく [color:blue][icon:a_button]ボタン[defcolor][color:blue]を[ruby:押;お]して [defcolor]ボヨヨ～ン!"
+      ],
+      "KrKorean": [
+        "야호! [color:red]스프링[player:0][defcolor]가 되었다!",
+        "타이밍을 맞춰 [color:blue][icon:a_button]를 누르면 [defcolor]콩콩콩～!"
+      ],
+      "AsTradChinese": [
+        "變成[color:red]彈簧[player:0][defcolor]！",
+        "看好時機[color:blue]按[defcolor][color:blue][icon:a_button][color:black]做[color:blue][defcolor][color:black]彈簧跳[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "InformationObserverIce",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You transformed into [color:red]Ice [player:0][color:black]!",
+        "Shake [icon:wiimote] to [color:red]skate[color:black]!"
+      ],
+      "EuEnglish": [
+        "You transformed into [color:red]Ice [player:0][color:black]!",
+        "Shake [icon:wiimote] to [color:red]skate[color:black]!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Du wurdest zu [color:blue]Eis-[player:0][defcolor]!",
+        "Schüttele die [icon:wiimote], um zu [color:blue]skaten[defcolor]!",
+        "Du kannst auch auf Wasser laufen!"
+      ],
+      "EuItalian": [
+        "Sei [color:red][player:0] Ghiaccio[defcolor]!",
+        "Scuoti [icon:wiimote] per [color:red]pattinare[defcolor]!"
+      ],
+      "EuDutch": [
+        "You transformed into [color:red]Ice [player:0][color:black]!",
+        "Shake [icon:wiimote] to [color:red]skate[color:black]!"
+      ],
+      "JpJapanese": [
+        "なんと [color:red]アイス[player:0][defcolor]になった! ",
+        "[ruby:一定時間;いっていじかん] [ruby:水;みず]の[ruby:上;うえ]を[ruby:歩;ある]ける!",
+        "[icon:wiimote][color:black]をふって、[color:red]スケート[defcolor]だ!"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "InformationObserverInvincible",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You transformed into [color:red]Rainbow [color:red][player:0][color:black]!",
+        "You're invincible![color:red][color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "You transformed into [color:red]Rainbow [color:red][player:0][color:black]!",
+        "You're invincible![color:red][color:red][defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Ahora eres[color:red] [player:0] Arco Iris[defcolor]!",
+        "¡Eres invencible!"
+      ],
+      "EuSpanish": [
+        "¡Ahora eres [color:red][player:0] Arco Iris[defcolor]! ¡La",
+        "luz irisada te ha hecho invencible!"
+      ],
+      "UsFrench": [
+        "Vous êtes devenu [color:red][player:0]",
+        "arc-en-ciel[defcolor]! Vous êtes invincible!"
+      ],
+      "EuFrench": [
+        "Vous êtes devenu [color:red][player:0] arc-en-ciel[defcolor]!",
+        "Aucun ennemi ne résiste aux",
+        "couleurs de l'arc-en-ciel!"
+      ],
+      "EuGerman": [
+        "Juchhu, du bist [color:red]Regenbogen-[player:0][color:black]![color:red][defcolor]",
+        "Du bist für kurze Zeit unbesiegbar!"
+      ],
+      "EuItalian": [
+        "Sei [color:red][player:0] Iride[defcolor]!",
+        "Nessun nemico ti potrà fermare!"
+      ],
+      "EuDutch": [
+        "You transformed into [color:red]Rainbow [color:red][player:0][color:black]!",
+        "You're invincible![color:red][color:red][defcolor]"
+      ],
+      "JpJapanese": [
+        "なんと [color:red]レインボー[player:0][defcolor]になった!",
+        "[ruby:七色;なないろ]の[ruby:光;ひかり]は どんな[ruby:敵;てき]もよせつけない!"
+      ],
+      "KrKorean": [
+        "야호! [color:red]레인보우[player:0][defcolor]가 되었다!",
+        "일곱 색깔 빛은 무적이 되었다는 증거!"
+      ],
+      "AsTradChinese": [
+        "變成[color:red]彩虹[player:0][defcolor]！",
+        "七色光可不怕任何敵人攻擊！"
+      ]
+    }
+  },
+  {
+    "label": "InformationObserverLifeUpLuigi",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You now have[color:red] 6 health[defcolor]! If it drops",
+        "below 4, it will go back to normal."
+      ],
+      "EuEnglish": [
+        "You now have[color:red] 6 health[defcolor]! If it drops",
+        "below 4, it will go back to normal."
+      ],
+      "UsSpanish": [
+        "¡Tu [color:red]energía ha subido hasta 6[defcolor]!",
+        "Volverá a la normalidad si baja de 4."
+      ],
+      "EuSpanish": [
+        "¡Tu [color:red]energía ha subido hasta 6[defcolor]!",
+        "Volverá a la normalidad si baja de 4."
+      ],
+      "UsFrench": [
+        "Votre [color:red]énergie[defcolor] est montée à [color:red]6[defcolor]!",
+        "Elle reviendra à la normale si elle",
+        "tombe en bas de 4!"
+      ],
+      "EuFrench": [
+        "Votre [color:red]énergie[defcolor] est montée à [color:red]6[defcolor]!",
+        "Si elle retombe à 3, vous perdrez",
+        "l'énergie bonus!"
+      ],
+      "EuGerman": [
+        "Deine [color:red]Lebenskraft hat sich",
+        "auf 6 [defcolor]erhöht! Wenn sie wieder",
+        "auf 3 sinkt, ist der Bonus dahin!"
+      ],
+      "EuItalian": [
+        "La tua [color:red]energia[defcolor] ha ora [color:red]6[defcolor] unità!",
+        "Se però scende a 3, tornerà",
+        "com'era prima!"
+      ],
+      "EuDutch": [
+        "You now have[color:red] 6 health[defcolor]! If it drops",
+        "below 4, it will go back to normal."
+      ],
+      "JpJapanese": [
+        "[color:red][ruby:体力;たいりょく]が6[defcolor]に [ruby:増;ふ]えた!",
+        "[ruby:体力;たいりょく]が3になると [ruby:元;もと]にもどる"
+      ],
+      "KrKorean": [
+        "[color:red]체력이 6[defcolor]으로 늘어났다!",
+        "체력이 3으로 줄면 원래대로 돌아온다"
+      ],
+      "AsTradChinese": [
+        "[color:red]體力上[color:red]升到6[color:red][defcolor]！",
+        "體力下降到3，就會恢復原狀。"
+      ]
+    }
+  },
+  {
+    "label": "InformationObserverLifeUpMario",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You now have[color:red] 6 health[defcolor]! If it drops",
+        "below 4, it will go back to normal."
+      ],
+      "EuEnglish": [
+        "You now have[color:red] 6 health[defcolor]! If it drops",
+        "below 4, it will go back to normal."
+      ],
+      "UsSpanish": [
+        "¡Tu [color:red]energía ha subido hasta 6[defcolor]!",
+        "Volverá a la normalidad si baja de 4."
+      ],
+      "EuSpanish": [
+        "¡Tu [color:red]energía ha subido hasta 6[defcolor]!",
+        "Volverá a la normalidad si baja de 4."
+      ],
+      "UsFrench": [
+        "Votre [color:red]énergie[defcolor] est montée à [color:red]6[defcolor]!",
+        "Elle reviendra à la normale si elle",
+        "tombe en bas de 4!"
+      ],
+      "EuFrench": [
+        "Votre [color:red]énergie[defcolor] est montée à [color:red]6[defcolor]!",
+        "Si elle retombe à 3, vous perdrez",
+        "l'énergie bonus!"
+      ],
+      "EuGerman": [
+        "Deine [color:red]Lebenskraft hat sich",
+        "auf 6 [defcolor]erhöht! Wenn sie wieder",
+        "auf 3 sinkt, ist der Bonus dahin!"
+      ],
+      "EuItalian": [
+        "La tua [color:red]energia[defcolor] ha ora [color:red]6[defcolor] unità!",
+        "Se però scende a 3, tornerà",
+        "com'era prima!"
+      ],
+      "EuDutch": [
+        "You now have[color:red] 6 health[defcolor]! If it drops",
+        "below 4, it will go back to normal."
+      ],
+      "JpJapanese": [
+        "[color:red][ruby:体力;たいりょく]が6[defcolor]に [ruby:増;ふ]えた!",
+        "[ruby:体力;たいりょく]が3になると [ruby:元;もと]にもどる"
+      ],
+      "KrKorean": [
+        "[color:red]체력이 6[defcolor]으로 늘어났다!",
+        "체력이 3으로 줄면 원래대로 돌아온다"
+      ],
+      "AsTradChinese": [
+        "[color:red]體力上升到6[defcolor]！",
+        "體力下降到3，就會恢復原狀。"
+      ]
+    }
+  },
+  {
+    "label": "InformationObserverMarioFacePlanet",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:black]Lubba's crew rebuilt the spaceship to",
+        "look just like Mario![defcolor]"
+      ],
+      "EuEnglish": [
+        "[color:black]Lubba's crew rebuilt the spaceship to",
+        "look just like Mario![defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Destrella y su tripulación",
+        "han remodelado la astronave",
+        "para que se parezca a Mario!"
+      ],
+      "EuSpanish": [
+        "¡La tripulación de Destrella",
+        "ha remodelado la astronave",
+        "para que se parezca a Mario!"
+      ],
+      "UsFrench": [
+        "Lubba et son équipage ont modifié le",
+        "vaisseau pour qu'il ressemble à Mario!"
+      ],
+      "EuFrench": [
+        "L'équipage de Lubba a réparé le",
+        "vaisseau. Il ressemble maintenant",
+        "à Mario!"
+      ],
+      "EuGerman": [
+        "[color:black][color:purple]Lubbas [color:black]Crew[color:purple][color:black] hat das Raumschiff",
+        "repariert! Es sieht nun wie Mario aus![defcolor]"
+      ],
+      "EuItalian": [
+        "Gli Sfavillotti hanno ricostruito",
+        "l'astronave a somiglianza di Mario!"
+      ],
+      "EuDutch": [
+        "[color:black]Lubba's crew rebuilt the spaceship to",
+        "look just like Mario![defcolor]"
+      ],
+      "JpJapanese": [
+        "[color:black]マリオそっくりの[ruby:星船;ほしぶね]ができた![defcolor]"
+      ],
+      "KrKorean": [
+        "마리오와 붕어빵처럼 닮은",
+        "우주선이 만들어졌다!"
+      ],
+      "AsTradChinese": [
+        "一艘極像瑪利歐的星艦出現了！"
+      ]
+    }
+  },
+  {
+    "label": "InformationObserverOneUp",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got an[color:red] extra[defcolor] [color:red]life[defcolor]!"
+      ],
+      "EuEnglish": [
+        "You got an[color:red] extra[defcolor] [color:red]life[defcolor]!"
+      ],
+      "UsSpanish": [
+        "¡Ahora tienes [color:red]una vida más[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡Ahora tienes [color:red]una vida más[defcolor]!"
+      ],
+      "UsFrench": [
+        "Vous avez obtenu une [color:red]vie",
+        "supplémentaire[defcolor]!"
+      ],
+      "EuFrench": [
+        "[color:black]Le champignon 1UP [icon:one_up_mushroom] vous",
+        "donne [color:red]une vie supplémentaire[color:black]![defcolor]"
+      ],
+      "EuGerman": [
+        "Du hast [color:red]einen [icon:one_up_mushroom] 1-Up-Pilz erhalten[defcolor]!"
+      ],
+      "EuItalian": [
+        "Hai ottenuto [color:red]un altro[defcolor] [player:0]!"
+      ],
+      "EuDutch": [
+        "You got an[color:red] extra[defcolor] [color:red]life[defcolor]!"
+      ],
+      "JpJapanese": [
+        "[player:0]の[ruby:残;のこ]り[ruby:数;すう]が [color:red]1[defcolor][color:red] [ruby:増;ふ]えた[defcolor]!"
+      ],
+      "KrKorean": [
+        "남은 [player:0]의 수가 [color:red]하나 늘었다[defcolor]!"
+      ],
+      "AsTradChinese": [
+        "[player:0]剩餘數 上升[color:red]1[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "InformationObserverRock",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You transformed into [color:red]Rock [player:0][defcolor]!",
+        "[color:blue]Shake the[defcolor] [icon:wiimote] [color:blue]Wii Remote [color:black]to roll over",
+        "your enemies![color:blue][defcolor]"
+      ],
+      "EuEnglish": [
+        "You transformed into [color:red]Rock [player:0][defcolor]!",
+        "[color:blue]Shake the[defcolor] [icon:wiimote] [color:blue]Wii Remote [color:black]to roll over",
+        "your enemies![color:blue][defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Ahora eres[color:red] [player:0] Roca[defcolor]!",
+        "¡[color:blue]Agita el Wii Remote [defcolor][icon:wiimote] y rueda",
+        "por encima de tus enemigos!"
+      ],
+      "EuSpanish": [
+        "¡Ahora eres [color:red][player:0] Roca[defcolor]!",
+        "¡[color:blue]Agita [color:black]el[color:blue][defcolor] [icon:wiimote] y rueda por encima",
+        "de tus enemigos[color:black]![defcolor]"
+      ],
+      "UsFrench": [
+        "Vous êtes devenu [color:red][player:0] de pierre[defcolor]!",
+        "[color:blue]Secouez la Wii Remote [defcolor][icon:wiimote] pour rouler",
+        "sur vos ennemis!"
+      ],
+      "EuFrench": [
+        "Vous êtes devenu [color:red][player:0] de pierre[defcolor]!",
+        "[color:black][color:blue]Agitez la[color:black] [defcolor][icon:wiimote] pour [color:black]rouler sur",
+        "vos ennemis![defcolor]"
+      ],
+      "EuGerman": [
+        "Du wurdest zu [color:red]Felsen-[player:0][color:black]![color:red][defcolor]",
+        "[color:blue]Schüttele die [icon:wiimote] [defcolor][color:blue][color:blue]Wii-Fernbedienung[color:blue][color:black],[color:blue]",
+        "[color:black]um über deine Gegner zu rollen![color:blue][defcolor]"
+      ],
+      "EuItalian": [
+        "Sei [color:red][player:0] Roccia[defcolor]!",
+        "[color:blue]Scuoti il telecomando Wii [defcolor][icon:wiimote]",
+        "per travolgere i tuoi nemici."
+      ],
+      "EuDutch": [
+        "You transformed into [color:red]Rock [player:0][defcolor]!",
+        "[color:blue]Shake the[defcolor] [icon:wiimote] [color:blue]Wii Remote [color:black]to roll over",
+        "your enemies![color:blue][defcolor]"
+      ],
+      "JpJapanese": [
+        "なんと [color:red]ゴロ[ruby:岩;いわ][player:0][defcolor]になった!",
+        "[icon:wiimote][color:blue]Wiiリモコンをふって [defcolor][color:black]ゴロゴロアタック![defcolor]"
+      ],
+      "KrKorean": [
+        "야호! [color:red]데굴바위[player:0][defcolor]가 되었다!",
+        "[icon:wiimote][color:blue]Wii 리모컨을 흔들면 [defcolor][color:black]데굴데굴 공격![defcolor]"
+      ],
+      "AsTradChinese": [
+        "變成[color:red]滾滾石[player:0][defcolor]！",
+        "[color:blue]揮動[defcolor][color:blue][icon:wiimote]Wii遙控器[color:black]，[color:blue][color:black]滾滾撞[color:blue][defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "InformationObserverStamp",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got a [icon:stamp][color:blue] Stamp[color:black]!",
+        "Who knows what happens",
+        "when you collect all of them."
+      ],
+      "EuEnglish": [
+        "You got a [icon:stamp][color:blue] Stamp[color:black]!",
+        "Who knows what happens",
+        "when you collect all of them."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Du hast einen [icon:stamp][color:blue] Stempel[defcolor] erhalten!",
+        "Was wohl passiert, wenn du",
+        "alle Stempel sammelst..."
+      ],
+      "EuItalian": [
+        "Hai ottenuto un [icon:stamp][color:blue] Timbro[color:black]!",
+        "Chissà cosa succederà",
+        "se li collezioni tutti."
+      ],
+      "EuDutch": [
+        "You got a [icon:stamp][color:blue] Stamp[color:black]!",
+        "Who knows what happens",
+        "when you collect all of them."
+      ],
+      "JpJapanese": [
+        "[icon:stamp][color:blue] スタンプ[color:black]を[ruby:手;て]に[ruby:入;い]れた!",
+        "ぜんぶ[ruby:集;あつ]めたらなにかが[ruby:起;お]こる...?!"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "InformationObserverTeresa",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You transformed into [color:red]Boo [color:red][player:0][color:black]!",
+        "Shake [icon:wiimote] to vanish.[color:red][color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "You transformed into [color:red]Boo [color:red][player:0][color:black]!",
+        "[color:blue]Shake [color:black][icon:wiimote] to vanish.[color:red][color:red][defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Ahora eres [color:red][player:0] Fantasma[defcolor]!",
+        "¡Traspasa obstáculos [color:blue]agitando [defcolor]el [icon:wiimote]!"
+      ],
+      "EuSpanish": [
+        "¡Ahora eres [color:red][player:0] Fantasma[defcolor]!",
+        "¡Traspasa obstáculos [color:blue]agitando [defcolor]el [icon:wiimote]!"
+      ],
+      "UsFrench": [
+        "Vous êtes devenu [color:red][player:0][defcolor] [color:red]Boo[defcolor]! ",
+        "Secouez [icon:wiimote] pour disparaître!"
+      ],
+      "EuFrench": [
+        "Vous êtes devenu [color:red][player:0] fantôme[defcolor]!",
+        "[color:black][color:blue]Agitez la[color:black] [defcolor][icon:wiimote] pour [color:red]devenir transparent[defcolor]!"
+      ],
+      "EuGerman": [
+        "Du wurdest zu [color:red]Geist-[player:0][defcolor]! ",
+        "[color:blue]Schüttele [defcolor]die [icon:wiimote] Wii-Fernbedienung,",
+        "um unsichtbar zu werden!"
+      ],
+      "EuItalian": [
+        "Sei [color:red][player:0] Spettro[defcolor]! [color:blue]Scuoti il",
+        "telecomando Wii [defcolor][icon:wiimote] per scomparire!"
+      ],
+      "EuDutch": [
+        "You transformed into [color:red]Boo [color:red][player:0][color:black]!",
+        "[color:blue]Shake [color:black][icon:wiimote] to vanish.[color:red][color:red][defcolor]"
+      ],
+      "JpJapanese": [
+        "なんと [color:red]オバケ[player:0][defcolor]になった!",
+        "[icon:wiimote][color:blue]Wiiリモコンをふったら [defcolor]スッケスケ!"
+      ],
+      "KrKorean": [
+        "야호! [color:red]유령[player:0][defcolor]가 되었다!",
+        "[icon:wiimote][color:blue]Wii 리모컨을 흔들면 [defcolor]투명해진다!"
+      ],
+      "AsTradChinese": [
+        "變成[color:red]幽靈[player:0][defcolor]！",
+        "[color:blue]揮動[defcolor][icon:wiimote][color:blue]Wii遙控器[color:black]，變透明[color:blue][defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "InformationObserverYoshi",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:green]Yoshi [defcolor]hatched from the egg!"
+      ],
+      "EuEnglish": [
+        "[color:green]Yoshi [defcolor]hatched from the egg!"
+      ],
+      "UsSpanish": [
+        "¡[color:green]Yoshi [defcolor]ha salido de su huevo!"
+      ],
+      "EuSpanish": [
+        "¡[color:green]Yoshi [defcolor]acaba de salir de un huevo!"
+      ],
+      "UsFrench": [
+        "[color:green]Yoshi [defcolor]est sorti de l'œuf!"
+      ],
+      "EuFrench": [
+        "[color:green]Yoshi [defcolor][color:green][icon:yoshi] [defcolor]est sorti de l'œuf!"
+      ],
+      "EuGerman": [
+        "[color:green]Yoshi[color:black] ist aus dem Ei geschlüpft![color:green][defcolor]"
+      ],
+      "EuItalian": [
+        "[color:green]Yoshi[defcolor] [color:green][color:black][icon:yoshi][color:green] [defcolor]è uscito dall'uovo!"
+      ],
+      "EuDutch": [
+        "[color:green]Yoshi [defcolor]hatched from the egg!"
+      ],
+      "JpJapanese": [
+        "タマゴから [color:green]ヨッシー[defcolor]が[ruby:出;で]てきた!"
+      ],
+      "KrKorean": [
+        "알에서 [color:green]요시[defcolor]가 나왔다!"
+      ],
+      "AsTradChinese": [
+        "[color:green]耀西[defcolor][color:black]破殼而出！[defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "InformationPlanet",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "A [color:red]new planet [defcolor]was born!"
+      ],
+      "EuEnglish": [
+        "A [color:red]new planet [defcolor]was born!"
+      ],
+      "UsSpanish": [
+        "¡Ha nacido un [color:red]nuevo planeta[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡Ha nacido un [color:red]nuevo astro[defcolor]!"
+      ],
+      "UsFrench": [
+        "Une [color:red]nouvelle [defcolor][color:red]planète [defcolor]est née!"
+      ],
+      "EuFrench": [
+        "[color:black]Une [color:red]nouvelle planète [color:black]est née![defcolor]"
+      ],
+      "EuGerman": [
+        "Ein [color:red]neuer Planet [defcolor]wurde geboren!"
+      ],
+      "EuItalian": [
+        "È apparso un [color:red]nuovo Pianeta[defcolor]!"
+      ],
+      "EuDutch": [
+        "A [color:red]new planet [defcolor]was born!"
+      ],
+      "JpJapanese": [
+        "[color:red][ruby:新;あたら]しい[ruby:惑星;ほし][defcolor]が [ruby:生;う]まれた!"
+      ],
+      "KrKorean": [
+        "[color:red]새로운 행성[defcolor]이 탄생했다!"
+      ],
+      "AsTradChinese": [
+        "[color:red]新行星[defcolor]誕生！"
+      ]
+    }
+  },
+  {
+    "label": "InformationRouteCreateTico",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "A [color:red]new galaxy[defcolor] was born!"
+      ],
+      "EuEnglish": [
+        "A [color:red]new galaxy[defcolor] was born!"
+      ],
+      "UsSpanish": [
+        "¡Ha nacido una [color:red]nueva galaxia[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡Ha nacido una [color:red]nueva galaxia[defcolor]!"
+      ],
+      "UsFrench": [
+        "Une [color:red]nouvelle galaxie [defcolor]est née!"
+      ],
+      "EuFrench": [
+        "Une [color:red]nouvelle galaxie [defcolor]est née!"
+      ],
+      "EuGerman": [
+        "Eine [color:red]neue Galaxie [defcolor]wurde geboren!"
+      ],
+      "EuItalian": [
+        "È apparsa una [color:red]nuova Galassia[defcolor]!"
+      ],
+      "EuDutch": [
+        "A [color:red]new galaxy[defcolor] was born!"
+      ],
+      "JpJapanese": [
+        "[color:red][ruby:新;あたら]しい[ruby:銀河;ギャラクシー][defcolor]が [ruby:生;う]まれた!"
+      ],
+      "KrKorean": [
+        "[color:red]새로운 갤럭시[defcolor]가 탄생했다!"
+      ],
+      "AsTradChinese": [
+        "[color:red]新銀河[defcolor]誕生！"
+      ]
+    }
+  },
+  {
+    "label": "InformationSpecialWorld",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You opened [color:red]Special W[defcolor][color:red]orld[defcolor]!"
+      ],
+      "EuEnglish": [
+        "You opened [color:red]Special W[defcolor][color:red]orld[defcolor]!"
+      ],
+      "UsSpanish": [
+        "¡Ahora puedes acceder",
+        "al [color:red]Mundo Extra[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡Ahora puedes acceder",
+        "al [color:red]mundo extra[defcolor]!"
+      ],
+      "UsFrench": [
+        "Le [color:red]Monde spécial[defcolor] est apparu!"
+      ],
+      "EuFrench": [
+        "Le [color:red]Monde [defcolor][color:red]S [color:black]est désormais accessible![color:red][defcolor]"
+      ],
+      "EuGerman": [
+        "Ein Weltentor zur legendären",
+        "[color:red]Welt S[defcolor] hat sich geöffnet!"
+      ],
+      "EuItalian": [
+        "È apparso il [color:red]Mondo Speciale[defcolor]!"
+      ],
+      "EuDutch": [
+        "You opened [color:red]Special W[defcolor][color:red]orld[defcolor]!"
+      ],
+      "JpJapanese": [
+        "[color:red]スペシャルワールド[defcolor]が オープンした!"
+      ],
+      "KrKorean": [
+        "[color:red]스페셜 월드[defcolor]가 열렸다!"
+      ],
+      "AsTradChinese": [
+        "開啟[color:red]World S[defcolor]！"
+      ]
+    }
+  }
+]

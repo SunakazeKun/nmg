@@ -1,0 +1,41 @@
+[
+  {
+    "label": "Rabbit000",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_RABBIT_TALK_CAUGHT",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Collect the [icon:star_chip]!"
+      ],
+      "EuEnglish": [
+        "Collect the [icon:star_chip]!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Sammle die [icon:star_chip]!"
+      ],
+      "EuItalian": [
+        "Raccogli gli [icon:star_chip]!"
+      ],
+      "EuDutch": [
+        "Collect the [icon:star_chip]!"
+      ],
+      "JpJapanese": [
+        "[icon:star_chip] を[ruby:集;あつ]めるピョン！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  }
+]

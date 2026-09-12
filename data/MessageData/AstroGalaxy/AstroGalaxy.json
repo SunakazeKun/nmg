@@ -1,0 +1,1944 @@
+[
+  {
+    "label": "Butler000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_BUTLER_TALK_SURPRISE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Would you like to see th-[delay:30]-[delay:30]",
+        "[size:large]WHAT?[size:normal][delay:60] [sound:SE_SV_BUTLER_TALK_WORRIED]Where's the map?!"
+      ],
+      "EuEnglish": [
+        "Would you like to see th-[delay:30]-[delay:30]",
+        "[size:large]WHAT?[size:normal][delay:60] [sound:SE_SV_BUTLER_TALK_WORRIED]Where's the map?!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Ja, ja, hier ist d-[delay:30]-[delay:30]",
+        "[size:large]HÄÄ?[size:normal][delay:60] [sound:SE_SV_BUTLER_TALK_WORRIED]Wo ist die Karte?!"
+      ],
+      "EuItalian": [
+        "Vorresti vedere la m-[delay:30]-[delay:30]",
+        "[size:large]COSA?[size:normal][delay:60] [sound:SE_SV_BUTLER_TALK_WORRIED]Dov'è la mappa?!"
+      ],
+      "EuDutch": [
+        "Would you like to see th-[delay:30]-[delay:30]",
+        "[size:large]WHAT?[size:normal][delay:60] [sound:SE_SV_BUTLER_TALK_WORRIED]Where's the map?!"
+      ],
+      "JpJapanese": [
+        "はいはい、[color:blue][ruby:MAP;マップ][defcolor]で[delay:30]ー[delay:30]",
+        "[size:large]なんじゃと？！[size:normal][delay:60] [sound:SE_SV_BUTLER_TALK_WORRIED][color:blue][ruby:MAP;マップ][defcolor]はどこへ[ruby:行;い]った？！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Caretaker000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_CARETAKER_REPEAT",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Open the door! Let me in!"
+      ],
+      "EuEnglish": [
+        "Open the door! Let me in!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Öffnet die Tür! Lasst mich rein!"
+      ],
+      "EuItalian": [
+        "Aprite la porta! Lasciatemi entrare!"
+      ],
+      "EuDutch": [
+        "Open the door! Let me in!"
+      ],
+      "JpJapanese": [
+        "なんでドア[ruby:閉;し]まってんねん！",
+        " [ruby:中;なか]に[ruby:入;はい]られへんやないか！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Kinopio000",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_YAHOO",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The [color:red]Starshroom[defcolor] is",
+        "fully operational!"
+      ],
+      "EuEnglish": [
+        "The [color:red]Starshroom[defcolor] is",
+        "fully operational!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Das [color:red]Pilz-Schiff[defcolor] ist",
+        "funktionsfähig!"
+      ],
+      "EuItalian": [
+        "L'[color:red]Ufo Fungo[defcolor] è pronto!"
+      ],
+      "EuDutch": [
+        "The [color:red]Starshroom[defcolor] is",
+        "fully operational!"
+      ],
+      "JpJapanese": [
+        "[color:red]キノコ[ruby:船;せん][defcolor]の[ruby:修理;しゅうり]が[ruby:終;お]わりました！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Kinopio001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_HEY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Huh? What are those [color:green]Lumas[defcolor] even",
+        "talking about?"
+      ],
+      "EuEnglish": [
+        "Huh? What are those [color:green]Lumas[defcolor] even",
+        "talking about?"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Hää? Worüber reden diese [color:green]Luma[defcolor]?"
+      ],
+      "EuItalian": [
+        "Huh? Che stanno dicendo",
+        "quegli [color:green]Sfavillotti[defcolor]?"
+      ],
+      "EuDutch": [
+        "Huh? What are those [color:green]Lumas[defcolor] even",
+        "talking about?"
+      ],
+      "JpJapanese": [
+        "この[color:green]チコたち[defcolor]はいったい[ruby:何;なに]を[ruby:言;い]ってるんでしょうか",
+        "・・・?"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Kinopio002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_HAPPY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Have you seen [color:red]My Beautiful Laundrette[defcolor]?",
+        "It's a classic, don't you think?"
+      ],
+      "EuEnglish": [
+        "Have you seen [color:red]My Beautiful Laundrette[defcolor]?",
+        "It's a classic, don't you think?"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Hast du schon mal [color:red]Mein wunderbarer",
+        "Waschsalon[defcolor] gesehen? Ein richtiger",
+        "Klassiker, oder etwa nicht?"
+      ],
+      "EuItalian": [
+        "Hai visto [color:red]La Mia Bellissima Lavanderia[defcolor]?",
+        "É un classico, non trovi?"
+      ],
+      "EuDutch": [
+        "Have you seen [color:red]My Beautiful Laundrette[defcolor]?",
+        "It's a classic, don't you think?"
+      ],
+      "JpJapanese": [
+        "[color:red]マイ・ビューティフル・ランドレット[defcolor]を",
+        "[ruby:見;み]たことありますか？[pagebreak]",
+        "[ruby:傑作;けっさく]だと思いませんか？！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Kinopio003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_SLEEP",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "An [icon:a_button] press is an [icon:a_button] press...[pagebreak]",
+        "[size:small]Parallel universes... Zzzzzz...."
+      ],
+      "EuEnglish": [
+        "An [icon:a_button] press is an [icon:a_button] press...[pagebreak]",
+        "[size:small]Parallel universes... Zzzzzz...."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Zzzzzz...."
+      ],
+      "EuItalian": [
+        "La pressione del pulsante [icon:a_button] è una",
+        "pressione del pulsante [icon:a_button]...[pagebreak]",
+        "[size:small]Universi paralleli... Zzzzzz...."
+      ],
+      "EuDutch": [
+        "An [icon:a_button] press is an [icon:a_button] press...[pagebreak]",
+        "[size:small]Parallel universes... Zzzzzz...."
+      ],
+      "JpJapanese": [
+        "[icon:a_button]を[ruby:押;お]したのなら・・・それは[icon:a_button]を1[ruby:回;かい][ruby:押;お]したことに・・・",
+        "なるんじゃないんですか・・・[pagebreak]",
+        "[size:small]Parallel Universe... Zzzzzz...."
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Rosetta000_Flow000",
+    "attributes": {
+      "talk_type": "AUTO",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_ROSETTA_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I want to thank you from",
+        "the bottom of my heart for",
+        "playing [color:red]Neo Mario Galaxy[defcolor].[pagebreak]",
+        "Please take this [icon:star] [color:yellow]Power Star[defcolor]!"
+      ],
+      "EuEnglish": [
+        "I want to thank you from",
+        "the bottom of my heart for",
+        "playing [color:red]Neo Mario Galaxy[defcolor].[pagebreak]",
+        "Please take this [icon:star] [color:yellow]Power Star[defcolor]!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Ich möchte dir von ganzem Herzen",
+        "dafür danken, dass du [color:red]Neo Mario Galaxy[defcolor]",
+        "gespielt hast.[pagebreak]",
+        "Bitte nimm diesen [icon:star][color:yellow]Power-Stern[defcolor]",
+        "als Dankeschön!"
+      ],
+      "EuItalian": [
+        "Voglio ringraziarti dal profondo",
+        "del mio cuore per aver giocato",
+        "a [color:red]Neo Mario Galaxy[defcolor].[pagebreak]",
+        "Prendi questa [icon:star][color:yellow]Superstella[defcolor]!"
+      ],
+      "EuDutch": [
+        "I want to thank you from",
+        "the bottom of my heart for",
+        "playing [color:red]Neo Mario Galaxy[defcolor].[pagebreak]",
+        "Please take this [icon:star] [color:yellow]Power Star[defcolor]!"
+      ],
+      "JpJapanese": [
+        "[color:red]Neo Mario Galaxy[defcolor]をプレイしてくださったあなたに、 [ruby:心;こころ]より[ruby:感謝;かんしゃ]いたします・・・[pagebreak]",
+        "ぜひ、 この[icon:star][color:yellow]パワースター[defcolor]を[ruby:受;う]け[ruby:取;と]ってください"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Rosetta000_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_ROSETTA_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "May the stars shine",
+        "down on you..."
+      ],
+      "EuEnglish": [
+        "May the stars shine",
+        "down on you..."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Möge der Glanz der Sterne",
+        "für ewig auf dich scheinen!"
+      ],
+      "EuItalian": [
+        "Che le stelle brillino",
+        "sempre su di voi..."
+      ],
+      "EuDutch": [
+        "May the stars shine",
+        "down on you..."
+      ],
+      "JpJapanese": [
+        "[ruby:星;ほし]の[ruby:恵;めぐ]みがあらんことを・・・"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "This is a [color:red]Red Star[defcolor]. It holds the",
+        "power of the Red Lumas.[pagebreak]",
+        "But the really amazing part about it",
+        "is, it allows you to [color:red]fly[defcolor] after you [color:blue]spin",
+        "in midair[defcolor]. Yes, FLY![pagebreak]",
+        "While pressing [icon:a_button], you can [color:red]pick the",
+        "direction you want to fly[defcolor] with [icon:analog_stick]."
+      ],
+      "EuEnglish": [
+        "This is a [color:red]Red Star[defcolor]. It holds the",
+        "power of the Red Lumas.[pagebreak]",
+        "But the really amazing part about it",
+        "is, it allows you to [color:red]fly[defcolor] after you [color:blue]spin",
+        "in midair[defcolor]. Yes, FLY![pagebreak]",
+        "While pressing [icon:a_button], you can [color:red]pick the",
+        "direction you want to fly[defcolor] with [icon:analog_stick]."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Das ist ein [color:red]Roter Stern[defcolor]. Er bindet",
+        "die Kraft der Roten Luma.[pagebreak]",
+        "Aber das Beste kommt noch![pagebreak]",
+        "Er erlaubt dir zu fliegen, nachdem",
+        "du eine [color:blue]Drehung in der Luft[defcolor] machst![pagebreak]",
+        "Wenn du [icon:a_button] gedrückt hältst,",
+        "dann kannst du mit [icon:analog_stick]",
+        "die [color:red]Flugrichtung[defcolor] ändern."
+      ],
+      "EuItalian": [
+        "Le [color:red]Stelle Rosse [color:black]detengono il nostro",
+        "potere.[pagebreak]",
+        "Ti permettono di [color:red]solcare i cieli [color:black]dopo",
+        "aver eseguito una [color:blue]piroetta in aria[color:black].[pagebreak]",
+        "Premi [icon:a_button] e [color:red]decidi la direzione",
+        "in cui vuoi volare[color:black] con [icon:analog_stick]."
+      ],
+      "EuDutch": [
+        "This is a [color:red]Red Star[defcolor]. It holds the",
+        "power of the Red Lumas.[pagebreak]",
+        "But the really amazing part about it",
+        "is, it allows you to [color:red]fly[defcolor] after you [color:blue]spin",
+        "in midair[defcolor]. Yes, FLY![pagebreak]",
+        "While pressing [icon:a_button], you can [color:red]pick the",
+        "direction you want to fly[defcolor] with [icon:analog_stick]."
+      ],
+      "JpJapanese": [
+        "これは、アタイ[ruby:達;たち]の[ruby:力;ちから]が[ruby:宿;やど]る [color:red]レッドスター[defcolor] ",
+        "[color:blue][ruby:空中;くうちゅう]でスピン[defcolor]すれば[color:red][ruby:空;そら]を[ruby:飛;と]べる[defcolor]し、[pagebreak]",
+        "[icon:a_button]を[ruby:押;お]しながら[icon:analog_stick]で",
+        "[ruby:進;すす]みたい[color:red][ruby:方向;ほうこう]を[ruby:決;き]められる[defcolor]わ"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico001_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_HAPPY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "A [color:purple]Purple Comet[defcolor] appeared on the",
+        "[color:blue]Comet Observatory[defcolor].[pagebreak]",
+        "Please help us collect all [color:purple]100[defcolor] [icon:purple_coin] to",
+        "make the [icon:red_star] [color:red]Red Power Star[defcolor] appear."
+      ],
+      "EuEnglish": [
+        "A [color:purple]Purple Comet[defcolor] appeared on the",
+        "[color:blue]Comet Observatory[defcolor].[pagebreak]",
+        "Please help us collect all [color:purple]100[defcolor] [icon:purple_coin] to",
+        "make the [icon:red_star] [color:red]Red Power Star[defcolor] appear."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Ein [color:purple]Lila Komet[defcolor] ist über der",
+        "[color:blue]Sternwarte[defcolor] erschienen.[pagebreak]",
+        "Bitte hilf uns alle [color:purple]100[defcolor] [icon:purple_coin] zu sammeln,",
+        "damit der [icon:red_star] [color:red]Power-Stern[defcolor] erscheint."
+      ],
+      "EuItalian": [
+        "Una [color:purple]Cometa Viola[defcolor] apparve",
+        "sull'[color:blue]Osservatorio Cometa[defcolor].[pagebreak]",
+        "Aiutaci a raccogliere tutte le [color:purple]100[defcolor] [icon:purple_coin]",
+        "per far apparire la [icon:red_star] [color:red]Superstella Rossa[defcolor]."
+      ],
+      "EuDutch": [
+        "A [color:purple]Purple Comet[defcolor] appeared on the",
+        "[color:blue]Comet Observatory[defcolor].[pagebreak]",
+        "Please help us collect all [color:purple]100[defcolor] [icon:purple_coin] to",
+        "make the [icon:red_star] [color:red]Red Power Star[defcolor] appear."
+      ],
+      "JpJapanese": [
+        "プルリン♪ プルリン♪ [color:purple]パープルコメット[defcolor]が",
+        "[color:blue][ruby:天文台;てんもんだい][defcolor]にやってきちゃったのさ～[pagebreak]",
+        "せっかくだし[icon:red_star] [color:red]レッドパワースター[defcolor]を",
+        "[ruby:出現;しゅつげん]させたいな～[pagebreak]",
+        "それじゃ、[icon:purple_coin][color:purple]パープルコイン[defcolor]をとにかく",
+        "100[ruby:枚;まい][ruby:集;あつ]めまショ～"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico001_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_GLAD",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Collect all [color:purple]100[defcolor] [icon:purple_coin]!"
+      ],
+      "EuEnglish": [
+        "Collect all [color:purple]100[defcolor] [icon:purple_coin]!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Sammle alle [color:purple]100[defcolor] [icon:purple_coin]!"
+      ],
+      "EuItalian": [
+        "Raccogli tutte le [color:purple]100[defcolor] [icon:purple_coin]!"
+      ],
+      "EuDutch": [
+        "Collect all [color:purple]100[defcolor] [icon:purple_coin]!"
+      ],
+      "JpJapanese": [
+        "[icon:purple_coin][color:purple]パープルコイン[defcolor]を100[ruby:枚;まい][ruby:集;あつ]めちゃお～！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico001_Flow002",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_THANKS",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Very good, thank you!"
+      ],
+      "EuEnglish": [
+        "Very good, thank you!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Super, vielen Dank!"
+      ],
+      "EuItalian": [
+        "Molto bene, grazie!"
+      ],
+      "EuDutch": [
+        "Very good, thank you!"
+      ],
+      "JpJapanese": [
+        "[ruby:集;あつ]まったね～ ア・リ・ガ・ト～♪"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Hey ho! My name is [color:purple]Lumacomète[defcolor].",
+        "Thank you for collecting the [icon:purple_coin]![pagebreak]",
+        "If you want to learn more about",
+        "[color:red]Prankster Comets[defcolor], I'm your Luma!"
+      ],
+      "EuEnglish": [
+        "Hey ho! My name is [color:purple]Lumacomète[defcolor].",
+        "Thank you for collecting the [icon:purple_coin]![pagebreak]",
+        "If you want to learn more about",
+        "[color:red]Prankster Comets[defcolor], I'm your Luma!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Heyho! Ich heiße [color:purple]Lumacomète[defcolor].",
+        "Danke für's Sammeln der [icon:purple_coin]![pagebreak]",
+        "Wenn du mehr über Kometen lernen",
+        "möchtest, dann frag mich!"
+      ],
+      "EuItalian": [
+        "Brin! ♪ Brin! ♪",
+        "Io sono lo [color:purple]Sfavillotto Cometa[defcolor].",
+        "Grazie per aver raccolto le [icon:purple_coin]![pagebreak]",
+        "Se vuoi gestire le [color:red]Comete",
+        "Burlone[color:black], lascia fare a me!"
+      ],
+      "EuDutch": [
+        "Hey ho! My name is [color:purple]Lumacomète[defcolor].",
+        "Thank you for collecting the [icon:purple_coin]![pagebreak]",
+        "If you want to learn more about",
+        "[color:red]Prankster Comets[defcolor], I'm your Luma!"
+      ],
+      "JpJapanese": [
+        "プルリン♪ プルリン♪ ボクは[color:purple]コメットチコ[defcolor]さ～！",
+        "[icon:purple_coin]を集めてくれてアリガト～♪[pagebreak]",
+        "[color:red]いたずらコメット[defcolor]のことなら、ボクに オ・マ・カ・セ！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico003",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The [color:blue]Terrace[defcolor] is in here!"
+      ],
+      "EuEnglish": [
+        "The [color:blue]Terrace[defcolor] is in here!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Hier ist die [color:blue]Terrasse[defcolor]!"
+      ],
+      "EuItalian": [
+        "La [color:blue]Terrazza[defcolor] è qui!"
+      ],
+      "EuDutch": [
+        "The [color:blue]Terrace[defcolor] is in here!"
+      ],
+      "JpJapanese": [
+        "[color:red]テラス[defcolor]は こちらで～す"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico004",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The [color:blue]Fountain[defcolor] is in here!"
+      ],
+      "EuEnglish": [
+        "The [color:blue]Fountain[defcolor] is in here!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Das [color:blue]Badezimmer[defcolor] ist hier!"
+      ],
+      "EuItalian": [
+        "Il [color:blue]Bagno[defcolor] è qui!"
+      ],
+      "EuDutch": [
+        "The [color:blue]Fountain[defcolor] is in here!"
+      ],
+      "JpJapanese": [
+        "[color:red]バスルーム[defcolor]へなら これに[ruby:乗;の]って"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico005",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The [color:blue]Kitchen[defcolor] is in here!"
+      ],
+      "EuEnglish": [
+        "The [color:blue]Kitchen[defcolor] is in here!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Die [color:blue]Küche[defcolor] ist hier!"
+      ],
+      "EuItalian": [
+        "La [color:blue]Cucina[defcolor] è qui!"
+      ],
+      "EuDutch": [
+        "The [color:blue]Kitchen[defcolor] is in here!"
+      ],
+      "JpJapanese": [
+        "こちらが [color:red]キッチン[defcolor]で～す"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico006",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The [color:blue]Bedroom[defcolor] is in here!"
+      ],
+      "EuEnglish": [
+        "The [color:blue]Bedroom[defcolor] is in here!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Das [color:blue]Schlafzimmer[defcolor] ist hier!"
+      ],
+      "EuItalian": [
+        "La [color:blue]Camera[defcolor] è qui!"
+      ],
+      "EuDutch": [
+        "The [color:blue]Bedroom[defcolor] is in here!"
+      ],
+      "JpJapanese": [
+        "[color:blue]ベッドルーム[defcolor]は ここですよ～"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico007",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "This is the [color:blue]Engine Room[defcolor]!"
+      ],
+      "EuEnglish": [
+        "This is the [color:blue]Engine Room[defcolor]!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Hier ist der [color:blue]Maschinenraum[defcolor]!"
+      ],
+      "EuItalian": [
+        "Questa è la [color:blue]Sala Motori[defcolor]!"
+      ],
+      "EuDutch": [
+        "This is the [color:blue]Engine Room[defcolor]!"
+      ],
+      "JpJapanese": [
+        "ここは[color:red]マシンルーム[defcolor]でーす"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico008",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The [color:blue]Garden[defcolor] is in here!"
+      ],
+      "EuEnglish": [
+        "The [color:blue]Garden[defcolor] is in here!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Das [color:blue]Loft[defcolor] ist hier!"
+      ],
+      "EuItalian": [
+        "L'[color:blue]Attico[defcolor] è qui!"
+      ],
+      "EuDutch": [
+        "The [color:blue]Garden[defcolor] is in here!"
+      ],
+      "JpJapanese": [
+        "ここは[color:red]ロフト[defcolor]・・・ ひみつの[ruby:部屋;へや]"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico009",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "This is the [color:blue]Gate[defcolor]!"
+      ],
+      "EuEnglish": [
+        "This is the [color:blue]Gate[defcolor]!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Hier ist das [color:blue]Kinderzimmer[defcolor]!"
+      ],
+      "EuItalian": [
+        "Questa è la [color:blue]stanza dei bimbi[defcolor]!"
+      ],
+      "EuDutch": [
+        "This is the [color:blue]Gate[defcolor]!"
+      ],
+      "JpJapanese": [
+        "[color:red][ruby:子供;こども][ruby:部屋;べや][defcolor]ならここで～す！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico010",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Mama's [color:blue]Library[defcolor] is in here!"
+      ],
+      "EuEnglish": [
+        "Mama's [color:blue]Library[defcolor] is in here!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Mamas [color:blue]Bücherei[defcolor] ist hier!"
+      ],
+      "EuItalian": [
+        "Qui c'è la [color:blue]biblioteca[defcolor]",
+        "della mamma!"
+      ],
+      "EuDutch": [
+        "Mama's [color:blue]Library[defcolor] is in here!"
+      ],
+      "JpJapanese": [
+        "ママの[color:red][ruby:書斎;しょさい][defcolor]は こちら～！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico011",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_HAPPY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "We are the guardians of the [color:red]Trial",
+        "Galaxies[defcolor]."
+      ],
+      "EuEnglish": [
+        "We are the guardians of the [color:red]Trial",
+        "Galaxies[defcolor]."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Wir sind die Wächter der",
+        "[color:red]Challenge-Galaxien[defcolor]."
+      ],
+      "EuItalian": [
+        "Noi siamo i guardiani delle [color:red]Galassie",
+        "Sfida[defcolor]."
+      ],
+      "EuDutch": [
+        "We are the guardians of the [color:red]Trial",
+        "Galaxies[defcolor]."
+      ],
+      "JpJapanese": [
+        "[ruby:我々;われわれ]は[color:red]チャレンジギャラクシー[defcolor]を[ruby:守;まも]りし[ruby:者;もの]です"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico012",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_HAPPY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Up there is the [color:green]Planet of Trials[defcolor]!"
+      ],
+      "EuEnglish": [
+        "Up there is the [color:green]Planet of Trials[defcolor]!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Dort ist der [color:green]Planet der Prüfung[defcolor]!"
+      ],
+      "EuItalian": [
+        "Il pianeta con le [color:red]Stelle Sfida[defcolor]",
+        "è lassù!"
+      ],
+      "EuDutch": [
+        "Up there is the [color:green]Planet of Trials[defcolor]!"
+      ],
+      "JpJapanese": [
+        "[ruby:上;かみ]に[ruby:見;み]えるもの、それが[ruby:挑戦者;ちょうせんしゃ]に[ruby:課;か]された[color:red][ruby:試練;しれん][defcolor]です"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico013",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_HAPPY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The [color:red]Trial Galaxies[defcolor]",
+        "are very difficult!"
+      ],
+      "EuEnglish": [
+        "The [color:red]Trial Galaxies[defcolor]",
+        "are very difficult!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Die [color:red]Challenge-Galaxien[defcolor]",
+        "sind sehr anspruchsvoll!"
+      ],
+      "EuItalian": [
+        "Le [color:red]Galassie Sfida[defcolor] sono molto difficili!"
+      ],
+      "EuDutch": [
+        "The [color:red]Trial Galaxies[defcolor]",
+        "are very difficult!"
+      ],
+      "JpJapanese": [
+        "[color:red]チャレンジギャラクシー[defcolor]を[color:red]チャレンジ[defcolor]たらしめるのは、その[ruby:難易度;なんいど]・・・"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico014",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The entrance to [color:blue]Sweet Sweet Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "EuEnglish": [
+        "The entrance to [color:blue]Sweet Sweet Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Die [color:blue]Keksfabrik-Galaxie[defcolor] ist",
+        "momentan nicht verfügbar."
+      ],
+      "EuItalian": [
+        "L'ingresso alla [color:blue]Galassia Golosona[defcolor]",
+        "non è disponibile in questo momento."
+      ],
+      "EuDutch": [
+        "The entrance to [color:blue]Sweet Sweet Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "JpJapanese": [
+        "[color:blue]スイーツファクトリーギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico015",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The entrance to [color:blue]Sling Pod Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "EuEnglish": [
+        "The entrance to [color:blue]Sling Pod Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Die [color:blue]Kokon-Asteroiden-Galaxie[defcolor] ist",
+        "momentan nicht verfügbar."
+      ],
+      "EuItalian": [
+        "L'ingresso alla [color:blue]Galassia Larva Elastica[defcolor]",
+        "non è disponibile in questo momento."
+      ],
+      "EuDutch": [
+        "The entrance to [color:blue]Sling Pod Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "JpJapanese": [
+        "[color:blue]コクーンアステロイドギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico016",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The entrance to [color:blue]Drip Drop Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "EuEnglish": [
+        "The entrance to [color:blue]Drip Drop Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Die [color:blue]Tränen-Galaxie[defcolor] ist",
+        "momentan nicht verfügbar."
+      ],
+      "EuItalian": [
+        "L'ingresso alla [color:blue]Galassia Lacrima[defcolor]",
+        "non è disponibile in questo momento."
+      ],
+      "EuDutch": [
+        "The entrance to [color:blue]Drip Drop Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "JpJapanese": [
+        "[color:blue]ティアドロップギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico017",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The entrance to [color:blue]Bigmouth Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "EuEnglish": [
+        "The entrance to [color:blue]Bigmouth Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "The entrance to [color:blue]Bigmouth Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "EuItalian": [
+        "L'ingresso alla [color:blue]Galassia Tunnel Marino[defcolor]",
+        "non è disponibile in questo momento."
+      ],
+      "EuDutch": [
+        "The entrance to [color:blue]Bigmouth Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "JpJapanese": [
+        "[color:blue]フィッシュトンネルギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico018",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The entrance to [color:blue]Sand Spiral Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "EuEnglish": [
+        "The entrance to [color:blue]Sand Spiral Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Die [color:blue]Sandstrom-Galaxie[defcolor] ist",
+        "momentan nicht verfügbar."
+      ],
+      "EuItalian": [
+        "L'ingresso alla [color:blue]Galassia Granello",
+        "di Sabbia[defcolor] non è disponibile",
+        "in questo momento."
+      ],
+      "EuDutch": [
+        "The entrance to [color:blue]Sand Spiral Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "JpJapanese": [
+        "[color:blue]サンドリバーギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico019",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The entrance to [color:blue]Boo's Boneyard Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "EuEnglish": [
+        "The entrance to [color:blue]Boo's Boneyard Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Die [color:blue]Schattenpromenade-Galaxie[defcolor] ist",
+        "momentan nicht verfügbar."
+      ],
+      "EuItalian": [
+        "L'ingresso alla [color:blue]Galassia Osso Duro[defcolor]",
+        "non è disponibile in questo momento."
+      ],
+      "EuDutch": [
+        "The entrance to [color:blue]Boo's Boneyard Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "JpJapanese": [
+        "[color:blue]デスプロムナードギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico020",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The entrance to [color:blue]Snow Cap Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "EuEnglish": [
+        "The entrance to [color:blue]Snow Cap Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Die [color:blue]Schneekapsel-Galaxie[defcolor] ist",
+        "momentan nicht verfügbar."
+      ],
+      "EuItalian": [
+        "L'ingresso alla [color:blue]Galassia Capsula Gelata[defcolor]",
+        "non è disponibile in questo momento."
+      ],
+      "EuDutch": [
+        "The entrance to [color:blue]Snow Cap Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "JpJapanese": [
+        "[color:blue]スノーカプセルギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico021",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The entrance to [color:green]Bubble Blast Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "EuEnglish": [
+        "The entrance to [color:green]Bubble Blast Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Der Eingang zur [color:blue]Challenge-Blase[defcolor]",
+        "ist momentan nicht verfügbar."
+      ],
+      "EuItalian": [
+        "L'ingresso alla [color:green]Galassia Sfida Bolla[defcolor]",
+        "non è disponibile in questo momento."
+      ],
+      "EuDutch": [
+        "The entrance to [color:green]Bubble Blast Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "JpJapanese": [
+        "[color:green]チャレンジバブルギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico022",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The entrance to [color:green]Rolling Gizmo Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "EuEnglish": [
+        "The entrance to [color:green]Rolling Gizmo Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Der Eingang zur [color:blue]Challenge-Ball[defcolor]",
+        "ist momentan nicht verfügbar."
+      ],
+      "EuItalian": [
+        "L'ingresso alla [color:green]Galassia Sfida Sfera[defcolor]",
+        "non è disponibile in questo momento."
+      ],
+      "EuDutch": [
+        "The entrance to [color:green]Rolling Gizmo Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "JpJapanese": [
+        "[color:green]チャレンジボールギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico023",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The entrance to [color:green]Loopdeeswoop Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "EuEnglish": [
+        "The entrance to [color:green]Loopdeeswoop Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Der Eingang zur [color:blue]Challenge-Surfen[defcolor]",
+        "ist momentan nicht verfügbar."
+      ],
+      "EuItalian": [
+        "L'ingresso alla [color:green]Galassia Sfida Surfing[defcolor]",
+        "non è disponibile in questo momento."
+      ],
+      "EuDutch": [
+        "The entrance to [color:green]Loopdeeswoop Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "JpJapanese": [
+        "[color:green]チャレンジサーフィンギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico024",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The entrance to [color:green]Grand Finale Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "EuEnglish": [
+        "The entrance to [color:green]Grand Finale Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Die [color:blue]Großes-Finale-Galaxie[defcolor] ist",
+        "momentan nicht verfügbar."
+      ],
+      "EuItalian": [
+        "L'ingresso alla [color:green]Galassia Gran Finale[defcolor]",
+        "non è disponibile in questo momento."
+      ],
+      "EuDutch": [
+        "The entrance to [color:green]Grand Finale Galaxy[defcolor]",
+        "is not available right now."
+      ],
+      "JpJapanese": [
+        "[color:green]グランドフィナーレギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico025",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_HAPPY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You can use this [color:red]Red Star[defcolor]."
+      ],
+      "EuEnglish": [
+        "You can use this [color:red]Red Star[defcolor]."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Du kannst diesen [color:red]Roten Stern[defcolor] verwenden."
+      ],
+      "EuItalian": [
+        "Puoi usare questa",
+        "[color:red]Stella Rossa[defcolor]."
+      ],
+      "EuDutch": [
+        "You can use this [color:red]Red Star[defcolor]."
+      ],
+      "JpJapanese": [
+        "[color:red]レッドスター[defcolor]、[ruby:使;つか]っていいよ"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico026",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_SAD",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "He's still sleeping?!"
+      ],
+      "EuEnglish": [
+        "He's still sleeping?!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Wie lange will er noch schlafen?!"
+      ],
+      "EuItalian": [
+        "Ma guarda! Sta dormendo..."
+      ],
+      "EuDutch": [
+        "He's still sleeping?!"
+      ],
+      "JpJapanese": [
+        "いつまで[ruby:寝;ね]てるんでしょうか・・・"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico027",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_HAPPY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "We live here in the",
+        "[color:blue]Observatory[defcolor] with Mama!"
+      ],
+      "EuEnglish": [
+        "We live here in the",
+        "[color:blue]Observatory[defcolor] with Mama!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Wir leben hier mit Mama!"
+      ],
+      "EuItalian": [
+        "L'[color:blue]osservatorio[defcolor] è la casa in",
+        "cui viviamo con la mamma!"
+      ],
+      "EuDutch": [
+        "We live here in the",
+        "[color:blue]Observatory[defcolor] with Mama!"
+      ],
+      "JpJapanese": [
+        "[ruby:私;わたし]たちはこの[color:blue][ruby:天文台;てんもんだい][defcolor]でママと[ruby:暮;く]らしてるの！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico028",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "This couch is the comfiest! ♪"
+      ],
+      "EuEnglish": [
+        "This couch is the comfiest! ♪"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Diese Couch ist am bequemsten! ♪"
+      ],
+      "EuItalian": [
+        "Un po' di pausa! Che bello! ♪"
+      ],
+      "EuDutch": [
+        "This couch is the comfiest! ♪"
+      ],
+      "JpJapanese": [
+        "きゅうけい きゅうけい♪"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico029",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_ANGRY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Mama's gonna read",
+        "me a [color:blue]storybook[defcolor]! ♪"
+      ],
+      "EuEnglish": [
+        "Mama's gonna read",
+        "me a [color:blue]storybook[defcolor]! ♪"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Mama wird mir eine",
+        "[color:blue]Geschichte[defcolor] vorlesen! ♪"
+      ],
+      "EuItalian": [
+        "La mamma mi leggerà",
+        "il [color:blue]libro illustrato[defcolor]! ♪"
+      ],
+      "EuDutch": [
+        "Mama's gonna read",
+        "me a [color:blue]storybook[defcolor]! ♪"
+      ],
+      "JpJapanese": [
+        "ママに [color:blue][ruby:絵本;えほん][defcolor][ruby:読;よ]んでもらうの♪"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico030",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_HAPPY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Mama is the best! ♪"
+      ],
+      "EuEnglish": [
+        "Mama is the best! ♪"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Mama ist die Beste! ♪"
+      ],
+      "EuItalian": [
+        "La mamma è la migliore! ♪"
+      ],
+      "EuDutch": [
+        "Mama is the best! ♪"
+      ],
+      "JpJapanese": [
+        "ママがいちばん♪"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico031",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The [color:blue]Engine Room",
+        "[defcolor]is up above us!"
+      ],
+      "EuEnglish": [
+        "The [color:blue]Engine Room",
+        "[defcolor]is up above us!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Der [color:blue]Maschinenraum",
+        "[defcolor]ist über uns!"
+      ],
+      "EuItalian": [
+        "La [color:blue]sala motori [defcolor]è sopra",
+        "di noi."
+      ],
+      "EuDutch": [
+        "The [color:blue]Engine Room",
+        "[defcolor]is up above us!"
+      ],
+      "JpJapanese": [
+        "この[ruby:上;うえ]は[color:red]マシンルーム[defcolor]です！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Tico032",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Stand here to go down!"
+      ],
+      "EuEnglish": [
+        "Stand here to go down!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Das ist eine Abkürzung!"
+      ],
+      "EuItalian": [
+        "Per risparmiare un po' di strada,",
+        "sali qui sopra."
+      ],
+      "EuDutch": [
+        "Stand here to go down!"
+      ],
+      "JpJapanese": [
+        "[ruby:下;した]に[ruby:行;い]くなら これに[ruby:乗;の]って"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "TicoManiac000_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Time, like hope, is only an illusion.[delay:60]",
+        "There's no escape...[pagebreak]",
+        "The only hope is the",
+        "sweet relief of death![sound:SE_SV_TICOFAT_META]"
+      ],
+      "EuEnglish": [
+        "Time, like hope, is only an illusion.[delay:60]",
+        "There's no escape...[pagebreak]",
+        "The only hope is the",
+        "sweet relief of death![sound:SE_SV_TICOFAT_META]"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Zeit und Hoffnung sind nur Illusionen.[delay:60]",
+        "Es gibt kein Entkommen...[pagebreak]",
+        "Die einzige Hoffnung ist der süße",
+        "Gedanke an das nächste Leben![sound:SE_SV_TICOFAT_META]"
+      ],
+      "EuItalian": [
+        "Il tempo, come la speranza",
+        "è solo una illusione.[delay:60]",
+        "Non si scappa...[pagebreak]",
+        "L'unica speranza è",
+        "il dolce sollievo della morte![sound:SE_SV_TICOFAT_META]"
+      ],
+      "EuDutch": [
+        "Time, like hope, is only an illusion.[delay:60]",
+        "There's no escape...[pagebreak]",
+        "The only hope is the",
+        "sweet relief of death![sound:SE_SV_TICOFAT_META]"
+      ],
+      "JpJapanese": [
+        "[ruby:時間;じかん]も[ruby:希望;きぼう]も、ただの[ruby:幻想;げんそう]にすぎないんだ[delay:60]",
+        "[ruby:逃;に]げ[ruby:道;みち]なんてないよ[pagebreak]",
+        "[ruby:唯一;ゆいいつ]の[ruby:希望;きぼう]、",
+        "それは[ruby:死;し]による[ruby:解放;かいほう]さ![sound:SE_SV_TICOFAT_META]"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  }
+]

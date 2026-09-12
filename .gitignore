@@ -1,0 +1,16 @@
+.idea
+.venv
+.private
+__pycache__
+workspace
+game
+build
+bin
+
+.env
+*.env
+*.exe
+*.zip
+*.o
+*.d
+sandbox*.py

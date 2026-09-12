@@ -1,0 +1,23 @@
+.gitattributes eol=lf
+.gitignore eol=lf
+.gitmodules eol=lf
+.env.example eol=lf
+
+*.py text eol=lf
+*.pyd text eol=lf
+*.pyx text eol=lf
+*.sh text eol=lf
+
+*.s text eol=lf
+*.h text eol=lf
+*.c text eol=lf
+
+*.txt text eol=lf
+*.md text eol=lf
+*.xml text eol=lf
+*.json text eol=lf
+
+*.bin binary
+*.bcsv binary
+*.tbl binary
+*.arc binary

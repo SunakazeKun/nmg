@@ -1,0 +1,355 @@
+[
+  {
+    "label": "HelperWitch000_Flow000",
+    "attributes": {
+      "talk_type": "AUTO",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_HELPERWITCH_TALK_SMILE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Welcome back, [player:0]...",
+        "Are you ready for a [color:red]neo-galactic[defcolor]",
+        "adventure?[pagebreak]",
+        "There's a [icon:launch_star] [color:yellow]Launch Star[defcolor] behind me,",
+        "it will take you to a distant galaxy.[pagebreak]",
+        "Before you start, I'd like",
+        "to ask you some questions.[pagebreak]",
+        "Do you want to play as",
+        "[icon:mario] [color:red]Mario[defcolor] or [icon:luigi] [color:green]Luigi[defcolor]?",
+        "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "EuEnglish": [
+        "Welcome back, [player:0]...",
+        "Are you ready for a [color:red]neo-galactic[defcolor]",
+        "adventure?[pagebreak]",
+        "There's a [icon:launch_star] [color:yellow]Launch Star[defcolor] behind me,",
+        "it will take you to a distant galaxy.[pagebreak]",
+        "Before you start, I'd like",
+        "to ask you some questions.[pagebreak]",
+        "Do you want to play as",
+        "[icon:mario] [color:red]Mario[defcolor] or [icon:luigi] [color:green]Luigi[defcolor]?",
+        "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Willkommen zurück, [player:0]...",
+        "Bist du bereit für ein [color:red]neo-",
+        "galaktisches[defcolor] Abenteuer?[pagebreak]",
+        "Hinter mir ist ein [icon:launch_star] [color:yellow]Sternenring[defcolor],",
+        "mit dem du in eine ferne Galaxie",
+        "reisen kannst.[pagebreak]",
+        "Lass mich dir aber zunächst",
+        "ein paar Fragen stellen.[pagebreak]",
+        "Möchtest du als [icon:mario] [color:red]Mario[defcolor]",
+        "oder als [icon:luigi] [color:green]Luigi[defcolor] spielen?",
+        "[color:gray](Aktuell: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "EuItalian": [
+        "Bentornato, [player:0]...",
+        "Sei pronto per un'avventura",
+        "[color:red]neo-galattica[defcolor]?[pagebreak]",
+        "C'è una [color:yellow]Maxistella Lancio[defcolor] [icon:launch_star] dietro",
+        "di me. Puoi usarla per viaggiare in",
+        "una galassia lontana.[pagebreak]",
+        "Prima di iniziare, vorrei",
+        "farti alcune domande.[pagebreak]",
+        "Vorresti giocare con [icon:mario] [color:red]Mario[defcolor]",
+        "o con [icon:luigi] [color:green]Luigi[defcolor]?",
+        "[color:gray](Attualmente: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "EuDutch": [
+        "Welcome back, [player:0]...",
+        "Are you ready for a [color:red]neo-galactic[defcolor]",
+        "adventure?[pagebreak]",
+        "There's a [icon:launch_star] [color:yellow]Launch Star[defcolor] behind me,",
+        "it will take you to a distant galaxy.[pagebreak]",
+        "Before you start, I'd like",
+        "to ask you some questions.[pagebreak]",
+        "Do you want to play as",
+        "[icon:mario] [color:red]Mario[defcolor] or [icon:luigi] [color:green]Luigi[defcolor]?",
+        "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "JpJapanese": [
+        "お[ruby:帰;かえ]りなさい [player:0] [delay:45]",
+        "[color:red]新[ruby:たなる銀;ネオギャラクシー]河[defcolor]へ[ruby:旅立;たびだ]つ[ruby:準備;じゅんび]は[ruby:整;ととの]いましたか[pagebreak]",
+        "わたしの[ruby:後;うし]ろに[ruby:見;み]えるのは ",
+        "[icon:launch_star][color:yellow]スターリング[defcolor]です[pagebreak]",
+        "さて、[ruby:出発;しゅっぱつ]の[ruby:前;まえ]に・・・[delay:30]いくつかお[ruby:聞;き]きしたい",
+        "ことがあります[pagebreak]",
+        "[icon:mario] [color:red]マリオ[defcolor] 、 [icon:luigi] [color:green]ルイージ[defcolor] のどちらでプレイしますか",
+        "[color:gray](いま: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "HelperWitch000_Flow001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_HELPERWITCH_TALK_AHA",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You can also choose to play in",
+        "[color:red]Daredevil[defcolor] mode, which is",
+        "more difficult...[pagebreak]",
+        "This gives you one health point per",
+        "mission, just like [color:red]Daredevil Comets[defcolor].[pagebreak]",
+        "Also, all [icon:checkpoint_flag] [color:blue]Checkpoint Flags[defcolor] will",
+        "be removed...[pagebreak]",
+        "Do you want to play in",
+        "[color:blue]Normal[defcolor] or [color:red]Daredevil[defcolor] mode?",
+        "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "EuEnglish": [
+        "You can also choose to play in",
+        "[color:red]Daredevil[defcolor] mode, which is",
+        "more difficult...[pagebreak]",
+        "This gives you one health point per",
+        "mission, just like [color:red]Daredevil Comets[defcolor].[pagebreak]",
+        "Also, all [icon:checkpoint_flag] [color:blue]Checkpoint Flags[defcolor] will",
+        "be removed...[pagebreak]",
+        "Do you want to play in",
+        "[color:blue]Normal[defcolor] or [color:red]Daredevil[defcolor] mode?",
+        "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Du kannst auch im schwierigeren",
+        "[color:red]Schabernack[defcolor]-Modus spielen![pagebreak]",
+        "In diesem Modus hast du nur einen",
+        "Lebenspunkt pro Mission, wie etwa",
+        "bei [color:red]Schabernack-Kometen[defcolor].[pagebreak]",
+        "Zudem werden alle [icon:checkpoint_flag] [color:blue]Rücksetz-",
+        "punkte[defcolor] in den Missionen entfernt...[pagebreak]",
+        "Welchen Schwierigkeitsgrad",
+        "möchstest du spielen?",
+        "[color:gray](Aktuell: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "EuItalian": [
+        "Puoi anche scegliere di giocare nella",
+        "modalità [color:red]Pericolo[defcolor], che è",
+        "più difficile...[pagebreak]",
+        "Questa ti darà un solo punto vita per",
+        "missione, come le normali",
+        "[color:red]Comete Pericolo[defcolor].[pagebreak]",
+        "Inoltre, tutte le [icon:checkpoint_flag] [color:blue]Bandiere Checkpoint[defcolor]",
+        "saranno rimosse...[pagebreak]",
+        "Vorresti giocare nella modalità",
+        "[color:blue]Normale[defcolor] o [color:red]Pericolo[defcolor]?",
+        "[color:gray](Attualmente: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "EuDutch": [
+        "You can also choose to play in",
+        "[color:red]Daredevil[defcolor] mode, which is",
+        "more difficult...[pagebreak]",
+        "This gives you one health point per",
+        "mission, just like [color:red]Daredevil Comets[defcolor].[pagebreak]",
+        "Also, all [icon:checkpoint_flag] [color:blue]Checkpoint Flags[defcolor] will",
+        "be removed...[pagebreak]",
+        "Do you want to play in",
+        "[color:blue]Normal[defcolor] or [color:red]Daredevil[defcolor] mode?",
+        "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "JpJapanese": [
+        "つぎに、より[ruby:難;むずか]しい[color:red]サドンデス[defcolor]モードでプレイする",
+        "こともできます[pagebreak]",
+        "このモードでは [color:red]デスコメット[defcolor]と[ruby:同様;どうよう]に、",
+        "シナリオ[ruby:内;ない]でのライフが1となります[pagebreak]",
+        "また、[icon:checkpoint_flag][color:blue][ruby:中間;ちゅうかん]ポイント[defcolor]も[ruby:削除;さくじょ]されます[pagebreak]",
+        "[color:blue]ノーマル[defcolor] 、 [color:red]サドンデス[defcolor] のどちらのモードでプレイしますか?[color:gray] (いま: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "HelperWitch000_Flow002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_HELPERWITCH_TALK_SMILE_2",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Good. Once you leave this place,",
+        "you won't be able to change",
+        "the difficulty mode.[pagebreak]",
+        "However, you can always change",
+        "what character you want to",
+        "play as later on![pagebreak]",
+        "May the stars shine",
+        "down on you. Farewell."
+      ],
+      "EuEnglish": [
+        "Good. Once you leave this place,",
+        "you won't be able to change",
+        "the difficulty mode.[pagebreak]",
+        "However, you can always change",
+        "what character you want to",
+        "play as later on![pagebreak]",
+        "May the stars shine",
+        "down on you. Farewell."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Gut. Sobald du diesen Ort verlässt,",
+        "wirst du den Schwierigkeitsgrad",
+        "nicht mehr ändern können.[pagebreak]",
+        "Deinen Charakter kannst",
+        "du aber jederzeit ändern![pagebreak]",
+        "Möge der Glanz der Sterne",
+        "für ewig auf dich scheinen!",
+        "Viel Erfolg!"
+      ],
+      "EuItalian": [
+        "Buono. Quando lascerai questo posto,",
+        "non potrai più cambiare la difficoltà.[pagebreak]",
+        "Tuttavia, potrai liberamente cambiare",
+        "il tuo personaggio giocabile",
+        "quante volte tu voglia.[pagebreak]",
+        "Che le stelle brillino",
+        "sempre su di voi. Addio."
+      ],
+      "EuDutch": [
+        "Good. Once you leave this place,",
+        "you won't be able to change",
+        "the difficulty mode.[pagebreak]",
+        "However, you can always change",
+        "what character you want to",
+        "play as later on![pagebreak]",
+        "May the stars shine",
+        "down on you. Farewell."
+      ],
+      "JpJapanese": [
+        "[ruby:分;わ]かりました・・・この[ruby:場所;ばしょ]を[ruby:離;はな]れてしまうと、プレイするモードを[ruby:変更;へんこう]することは[ruby:出来;でき]ません[pagebreak]",
+        "ですが、プレイするキャラクターは[ruby:後;あと]でいつでも[ruby:変更;へんこう]することができます[pagebreak]",
+        "[ruby:星;ほし]くずの[ruby:恵;めぐ]みがありますよう・・・ では さようなら",
+        ""
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "HelperWitch000_Flow003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_HELPERWITCH_TALK_LOOK",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Would you like to change",
+        "your settings?"
+      ],
+      "EuEnglish": [
+        "Would you like to change",
+        "your settings?"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Möchtest du die Einstellungen",
+        "nochmal überarbeiten?"
+      ],
+      "EuItalian": [
+        "Vorresti cambiare le",
+        "tue impostazioni?"
+      ],
+      "EuDutch": [
+        "Would you like to change",
+        "your settings?"
+      ],
+      "JpJapanese": [
+        "[ruby:設定;せってい]を[ruby:変更;へんこう]しますか？"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "HelperWitch000_Flow004",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Do you want to play as",
+        "[icon:mario] [color:red]Mario[defcolor] or [icon:luigi] [color:green]Luigi[defcolor]?",
+        "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "EuEnglish": [
+        "Do you want to play as",
+        "[icon:mario] [color:red]Mario[defcolor] or [icon:luigi] [color:green]Luigi[defcolor]?",
+        "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Möchtest du als [icon:mario] [color:red]Mario[defcolor]",
+        "oder als [icon:luigi] [color:green]Luigi[defcolor] spielen?",
+        "[color:gray](Aktuell: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "EuItalian": [
+        "Vorresti giocare con [icon:mario] [color:red]Mario[defcolor]",
+        "o con [icon:luigi] [color:green]Luigi[defcolor]?",
+        "[color:gray](Attualmente: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "EuDutch": [
+        "Do you want to play as",
+        "[icon:mario] [color:red]Mario[defcolor] or [icon:luigi] [color:green]Luigi[defcolor]?",
+        "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "JpJapanese": [
+        "[icon:mario] [color:red]マリオ[defcolor] 、 [icon:luigi] [color:green]ルイージ[defcolor] のどちらでプレイしますか",
+        "[color:gray](いま: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  }
+]

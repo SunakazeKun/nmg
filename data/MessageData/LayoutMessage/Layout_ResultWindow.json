@@ -1,0 +1,359 @@
+[
+  {
+    "label": "ResultWindow_Coin",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "A@"
+      ],
+      "EuEnglish": [
+        "A@"
+      ],
+      "UsSpanish": [
+        "A@"
+      ],
+      "EuSpanish": [
+        "A@"
+      ],
+      "UsFrench": [
+        "A@"
+      ],
+      "EuFrench": [
+        "A@"
+      ],
+      "EuGerman": [
+        "A@"
+      ],
+      "EuItalian": [
+        "A@"
+      ],
+      "EuDutch": [
+        "A@"
+      ],
+      "JpJapanese": [
+        "A@"
+      ],
+      "KrKorean": [
+        "A@"
+      ],
+      "AsTradChinese": [
+        "A@"
+      ]
+    }
+  },
+  {
+    "label": "ResultWindow_Medal",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "j@"
+      ],
+      "EuEnglish": [
+        "j@"
+      ],
+      "UsSpanish": [
+        "j@"
+      ],
+      "EuSpanish": [
+        "j@"
+      ],
+      "UsFrench": [
+        "j@"
+      ],
+      "EuFrench": [
+        "j@"
+      ],
+      "EuGerman": [
+        "j@"
+      ],
+      "EuItalian": [
+        "j@"
+      ],
+      "EuDutch": [
+        "j@"
+      ],
+      "JpJapanese": [
+        "j@"
+      ],
+      "KrKorean": [
+        "j@"
+      ],
+      "AsTradChinese": [
+        "j@"
+      ]
+    }
+  },
+  {
+    "label": "ResultWindow_Piece",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        ";@"
+      ],
+      "EuEnglish": [
+        ";@"
+      ],
+      "UsSpanish": [
+        ";@"
+      ],
+      "EuSpanish": [
+        ";@"
+      ],
+      "UsFrench": [
+        ";@"
+      ],
+      "EuFrench": [
+        ";@"
+      ],
+      "EuGerman": [
+        ";@"
+      ],
+      "EuItalian": [
+        ";@"
+      ],
+      "EuDutch": [
+        ";@"
+      ],
+      "JpJapanese": [
+        ";@"
+      ],
+      "KrKorean": [
+        ";@"
+      ],
+      "AsTradChinese": [
+        ";@"
+      ]
+    }
+  },
+  {
+    "label": "ResultWindow_Stamp",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "~@"
+      ],
+      "EuEnglish": [
+        "~@"
+      ],
+      "UsSpanish": [
+        "~@"
+      ],
+      "EuSpanish": [
+        "~@"
+      ],
+      "UsFrench": [
+        "~@"
+      ],
+      "EuFrench": [
+        "~@"
+      ],
+      "EuGerman": [
+        "~@"
+      ],
+      "EuItalian": [
+        "~@"
+      ],
+      "EuDutch": [
+        "~@"
+      ],
+      "JpJapanese": [
+        "~@"
+      ],
+      "KrKorean": [
+        "~@"
+      ],
+      "AsTradChinese": [
+        "~@"
+      ]
+    }
+  },
+  {
+    "label": "ResultWindow_Star",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "7@"
+      ],
+      "EuEnglish": [
+        "7@"
+      ],
+      "UsSpanish": [
+        "7@"
+      ],
+      "EuSpanish": [
+        "7@"
+      ],
+      "UsFrench": [
+        "7@"
+      ],
+      "EuFrench": [
+        "7@"
+      ],
+      "EuGerman": [
+        "7@"
+      ],
+      "EuItalian": [
+        "7@"
+      ],
+      "EuDutch": [
+        "7@"
+      ],
+      "JpJapanese": [
+        "7@"
+      ],
+      "KrKorean": [
+        "7@"
+      ],
+      "AsTradChinese": [
+        "7@"
+      ]
+    }
+  },
+  {
+    "label": "ResultWindow_TCoin",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "x@"
+      ],
+      "EuEnglish": [
+        "x@"
+      ],
+      "UsSpanish": [
+        "x@"
+      ],
+      "EuSpanish": [
+        "x@"
+      ],
+      "UsFrench": [
+        "x@"
+      ],
+      "EuFrench": [
+        "x@"
+      ],
+      "EuGerman": [
+        "x@"
+      ],
+      "EuItalian": [
+        "x@"
+      ],
+      "EuDutch": [
+        "x@"
+      ],
+      "JpJapanese": [
+        "x@"
+      ],
+      "KrKorean": [
+        "x@"
+      ],
+      "AsTradChinese": [
+        "x@"
+      ]
+    }
+  },
+  {
+    "label": "ResultWindow_TPiece",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "W@"
+      ],
+      "EuEnglish": [
+        "W@"
+      ],
+      "UsSpanish": [
+        "W@"
+      ],
+      "EuSpanish": [
+        "W@"
+      ],
+      "UsFrench": [
+        "W@"
+      ],
+      "EuFrench": [
+        "W@"
+      ],
+      "EuGerman": [
+        "W@"
+      ],
+      "EuItalian": [
+        "W@"
+      ],
+      "EuDutch": [
+        "W@"
+      ],
+      "JpJapanese": [
+        "W@"
+      ],
+      "KrKorean": [
+        "W@"
+      ],
+      "AsTradChinese": [
+        "W@"
+      ]
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "label": "SignBoard000",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_SIGNBOARD_HEY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "L IS REAL 2401"
+      ],
+      "EuEnglish": [
+        "L IS REAL 2401"
+      ],
+      "UsSpanish": [
+        "L IS REAL 2401"
+      ],
+      "EuSpanish": [
+        "L IS REAL 2401"
+      ],
+      "UsFrench": [
+        "L IS REAL 2401"
+      ],
+      "EuFrench": [
+        "L IS REAL 2401"
+      ],
+      "EuGerman": [
+        "L IS REAL 2401"
+      ],
+      "EuItalian": [
+        "L IS REAL 2401"
+      ],
+      "EuDutch": [
+        "L IS REAL 2401"
+      ],
+      "JpJapanese": [
+        "L IS REAL 2401"
+      ],
+      "KrKorean": [
+        "L IS REAL 2401"
+      ],
+      "AsTradChinese": [
+        "L IS REAL 2401"
+      ]
+    }
+  }
+]

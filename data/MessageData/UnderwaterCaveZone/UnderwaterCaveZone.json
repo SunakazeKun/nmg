@@ -1,0 +1,648 @@
+[
+  {
+    "label": "Kinopio000_Flow000",
+    "attributes": {
+      "talk_type": "GLOBAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIOCHIEF_TALK_LAUGH",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[size:large]WOAH![pagebreak]",
+        "[size:normal]It's you... [player:0], right?[pagebreak]",
+        "I am the [color:red]Toad Brigade Captain[defcolor]![pagebreak]",
+        "On our [color:red]neo-galactic[defcolor] journey, we",
+        "came across this gloomy cave.",
+        "What an adventure!"
+      ],
+      "EuEnglish": [
+        "[size:large]WOAH![pagebreak]",
+        "[size:normal]It's you... [player:0], right?[pagebreak]",
+        "I am the [color:red]Toad Brigade Captain[defcolor]![pagebreak]",
+        "On our [color:red]neo-galactic[defcolor] journey, we",
+        "came across this gloomy cave.",
+        "What an adventure!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "[size:large]WOAH![pagebreak]",
+        "[size:normal]Du bist es... [player:0], nicht wahr?![pagebreak]",
+        "Ich bin der [color:red]Toad-Suchtrupp Kapitän[defcolor]![pagebreak]",
+        "Auf unserer [color:red]neo-galaktischen[defcolor] Reise",
+        "sind wir auf diese gruselige",
+        "Höhle gestoßen. Was ein Abenteuer!"
+      ],
+      "EuItalian": [
+        "[size:large]AAAH![pagebreak]",
+        "[size:normal][player:0]?! Sei proprio tu?![pagebreak]",
+        "Io sono il [color:red]Capitano Toad[defcolor]![pagebreak]",
+        "Nel nostro viaggio [color:red]neo-galattico[defcolor],",
+        "abbiamo trovato questa grotta oscura.",
+        "Che avventura!"
+      ],
+      "EuDutch": [
+        "[size:large]WOAH![pagebreak]",
+        "[size:normal]It's you... [player:0], right?[pagebreak]",
+        "I am the [color:red]Toad Brigade Captain[defcolor]![pagebreak]",
+        "On our [color:red]neo-galactic[defcolor] journey, we",
+        "came across this gloomy cave.",
+        "What an adventure!"
+      ],
+      "JpJapanese": [
+        "[size:large]あ～～～！[pagebreak]",
+        "[size:normal][player:0]さんじゃないですか！[pagebreak]",
+        "ワタシは [color:red]キノピオ[ruby:隊長;たいちょう][defcolor]！[pagebreak]",
+        "[ruby:我々;われわれ]もこの[color:red]新[ruby:たなる銀;ネオギャラクシー]河[defcolor]を[ruby:探検;たんけん]しようとあちこち[ruby:駆;か]け[ruby:巡;めぐ]ってたらこのうす[ruby:暗;くら]い[ruby:洞窟;どうくつ]に行きついたんですよ[pagebreak]",
+        "ワタシ・・・ワクワクが[ruby:止;と]まりません！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Kinopio000_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_SURPRISE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[size:large]Woah![size:normal] There's a ghost ship!"
+      ],
+      "EuEnglish": [
+        "[size:large]Woah![size:normal] There's a ghost ship!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "[size:large]WOW![size:normal] Ein Geisterschiff!"
+      ],
+      "EuItalian": [
+        "[size:large]AAAH![size:normal] C'è una nave fantasma!"
+      ],
+      "EuDutch": [
+        "[size:large]Woah![size:normal] There's a ghost ship!"
+      ],
+      "JpJapanese": [
+        "[size:large]うわ～～っ！ [size:normal][ruby:幽霊船;ゆうれいせん]です！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Kinopio001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I'm searching for the [icon:purple_coin]!"
+      ],
+      "EuEnglish": [
+        "I'm searching for the [icon:purple_coin]!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Ich suche die [icon:purple_coin]!"
+      ],
+      "EuItalian": [
+        "Sto cercando le [icon:purple_coin]!"
+      ],
+      "EuDutch": [
+        "I'm searching for the [icon:purple_coin]!"
+      ],
+      "JpJapanese": [
+        "[icon:purple_coin]はどこだー！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Kinopio002",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_TREMBLE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Eeeep! This place is scary!"
+      ],
+      "EuEnglish": [
+        "Eeeep! This place is scary!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Ihhhh! Dieser Ort ist gruselig!"
+      ],
+      "EuItalian": [
+        "Questa grotta fa paura!"
+      ],
+      "EuDutch": [
+        "Eeeep! This place is scary!"
+      ],
+      "JpJapanese": [
+        "ひぃ～～！　どうしてこんな[ruby:怖;こわ]いところに…"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Kinopio003",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_SLEEP",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Purple Coins... collect... [size:small]Zzzzzz..."
+      ],
+      "EuEnglish": [
+        "Purple Coins... collect... [size:small]Zzzzzz..."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Lila Münzen...sammeln...[size:small]zzzzzz..."
+      ],
+      "EuItalian": [
+        "Monete Viola... raccogli... [size:small]Zzzzzz..."
+      ],
+      "EuDutch": [
+        "Purple Coins... collect... [size:small]Zzzzzz..."
+      ],
+      "JpJapanese": [
+        "パープルコインを... [ruby:集;あつ]め... [size:small]Zzzzzz..."
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Kinopio004",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_WATER",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Don't forget to [color:red]breathe[defcolor]!"
+      ],
+      "EuEnglish": [
+        "Don't forget to [color:red]breathe[defcolor]!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Vergiss nicht zu [color:red]atmen[defcolor]!"
+      ],
+      "EuItalian": [
+        "Non dimenticare di [color:red]respirare[defcolor]!"
+      ],
+      "EuDutch": [
+        "Don't forget to [color:red]breathe[defcolor]!"
+      ],
+      "JpJapanese": [
+        "[color:red][ruby:息;いき][defcolor]つぎを[ruby:忘;わす]れずに!"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Penguin000",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Press [icon:a_button] to [color:red]swim[color:black].[color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "Press [icon:a_button] to [color:red]swim[color:black].[color:red][defcolor]"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Drücke [icon:a_button], um zu [color:red]schwimmen[defcolor]!"
+      ],
+      "EuItalian": [
+        "Per [color:red]nuotare[defcolor], premi [icon:a_button]!"
+      ],
+      "EuDutch": [
+        "Press [icon:a_button] to [color:red]swim[color:black].[color:red][defcolor]"
+      ],
+      "JpJapanese": [
+        "[icon:a_button]でスイスイ [color:blue][ruby:泳;およ]ごう！[color:black][color:red][defcolor]"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Penguin001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:analog_stick] [color:blue]forward[defcolor] to [color:red]swim down[color:black].[color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "[icon:analog_stick] [color:blue]forward[defcolor] to [color:red]swim down[color:black].[color:red][defcolor]"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "[icon:analog_stick] [color:blue]bewegen[defcolor], um in eine Richtung",
+        "[color:red] zu schwimmen[defcolor]."
+      ],
+      "EuItalian": [
+        "[color:blue]Premi[defcolor] [icon:analog_stick] [color:blue]in avanti [defcolor]per",
+        "[color:red]nuotare verso il basso[defcolor]."
+      ],
+      "EuDutch": [
+        "[icon:analog_stick] [color:blue]forward[defcolor] to [color:red]swim down[color:black].[color:red][defcolor]"
+      ],
+      "JpJapanese": [
+        "[icon:analog_stick]スティックを [color:blue][ruby:前;まえ]に[defcolor][ruby:倒;たお]すと [color:red][ruby:下向;したむ]きにおよげるぜ[color:black]！[color:red][defcolor]"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Penguin002",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_PENGUIN_S_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Press [icon:z_button] to [color:red]dive[color:black].[color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "Press [icon:z_button] to [color:red]dive[color:black].[color:red][defcolor]"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Drücke [icon:z_button], um zu [color:red]tauchen[defcolor]."
+      ],
+      "EuItalian": [
+        "Per [color:red]immergerti[defcolor], premi [icon:z_button]!"
+      ],
+      "EuDutch": [
+        "Press [icon:z_button] to [color:red]dive[color:black].[color:red][defcolor]"
+      ],
+      "JpJapanese": [
+        "[icon:z_button]で[color:blue]もぐる[color:black]！[color:red][defcolor]"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Penguin003",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_PENGUIN_S_TALK_SAD",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Where are the [icon:silver_star]?"
+      ],
+      "EuEnglish": [
+        "Where are the [icon:silver_star]?"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Wo sind die [icon:silver_star]?"
+      ],
+      "EuItalian": [
+        "Dovo sono le [icon:silver_star]?"
+      ],
+      "EuDutch": [
+        "Where are the [icon:silver_star]?"
+      ],
+      "JpJapanese": [
+        "[icon:silver_star]どこにあるんだろう・・・"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Penguin004",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_PENGUIN_S_TALK_ANGRY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:red]Bubbles[defcolor] give you air!"
+      ],
+      "EuEnglish": [
+        "[color:red]Bubbles[defcolor] give you air!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "[color:red]Blasen[defcolor] geben dir Luft!"
+      ],
+      "EuItalian": [
+        "Raggiungi le [color:red]bolle[defcolor] per",
+        "prendere un po' d'aria!"
+      ],
+      "EuDutch": [
+        "[color:red]Bubbles[defcolor] give you air!"
+      ],
+      "JpJapanese": [
+        "[color:blue][ruby:空気;くうき][ruby:減;へ]ったら [defcolor][color:red]アワ[defcolor] で[ruby:回復;かいふく]！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "PenguinCoach000_Flow000",
+    "attributes": {
+      "talk_type": "GLOBAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_PENGUIN_L_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You here to take the [color:blue]swimmin'",
+        "school[defcolor]'s [color:red]final exam[defcolor]?[pagebreak]",
+        "In this exam, you must collect all",
+        "the [icon:silver_star] [color:gray]Silver Stars[defcolor]!"
+      ],
+      "EuEnglish": [
+        "You here to take the [color:blue]swimmin'",
+        "school[defcolor]'s [color:red]final exam[defcolor]?[pagebreak]",
+        "In this exam, you must collect all",
+        "the [icon:silver_star] [color:gray]Silver Stars[defcolor]!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Du legst auch die [color:red]Abschlussprüfung[defcolor]",
+        "für die [color:blue]Schwimmklasse[defcolor] ab, stimmt's?[pagebreak]",
+        "Die Prüfung besteht darin, alle",
+        "[icon:silver_star] [color:gray]Silbersterne[defcolor] einzusammeln!"
+      ],
+      "EuItalian": [
+        "Provi a prendere il [color:red]brevetto[defcolor]",
+        "della [color:blue]scuola di nuoto[defcolor]?[pagebreak]",
+        "In questo brevetto, devi raccogliere",
+        "tutte le [color:gray]Stelle Argento[defcolor] [icon:silver_star]!"
+      ],
+      "EuDutch": [
+        "You here to take the [color:blue]swimmin'",
+        "school[defcolor]'s [color:red]final exam[defcolor]?[pagebreak]",
+        "In this exam, you must collect all",
+        "the [icon:silver_star] [color:gray]Silver Stars[defcolor]!"
+      ],
+      "JpJapanese": [
+        "キミは[color:blue][ruby:水泳教室;すいえいきょうしつ][defcolor]の[color:red][ruby:卒業試験;そつぎょうしけん][defcolor]を[ruby:受;う]けにきたのかい?[pagebreak]",
+        "[ruby:試験;しけん]は[icon:silver_star][color:red]シルバースター[ruby:集;あつ]め[defcolor]！ [pagebreak]",
+        "[icon:silver_star][color:gray]シルバースター[defcolor]をぜんぶ[ruby:集;あつ]めよう!"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "PenguinCoach000_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_PENGUIN_L_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Collect all the [icon:silver_star] [color:gray]Silver Stars[defcolor]!"
+      ],
+      "EuEnglish": [
+        "Collect all the [icon:silver_star] [color:gray]Silver Stars[defcolor]!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Sammle alle [icon:silver_star] [color:gray]Silbersterne[defcolor]!"
+      ],
+      "EuItalian": [
+        "Raccogli tutte le [icon:silver_star] [color:gray]Stelle Argento[defcolor]!"
+      ],
+      "EuDutch": [
+        "Collect all the [icon:silver_star] [color:gray]Silver Stars[defcolor]!"
+      ],
+      "JpJapanese": [
+        "[icon:silver_star][color:gray]シルバースター[defcolor]をぜんぶ[ruby:集;あつ]めよう!"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "PenguinCoach000_Flow002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_PENGUIN_L_TALK_PLEASED",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Congratulations!",
+        "You passed the exam!"
+      ],
+      "EuEnglish": [
+        "Congratulations!",
+        "You passed the exam!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Meine Glückwünsche!",
+        "Du hast die Prüfung bestanden!"
+      ],
+      "EuItalian": [
+        "Congratulazioni!",
+        "Hai superato l'esame!"
+      ],
+      "EuDutch": [
+        "Congratulations!",
+        "You passed the exam!"
+      ],
+      "JpJapanese": [
+        "おめでとう！",
+        "キミは[ruby:合格;ごうかく]だ！"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "PenguinMaster000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_PENGUIN_OLD_GREET",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The key to the [color:yellow]golden treasure[defcolor]",
+        "has been lost for ages..."
+      ],
+      "EuEnglish": [
+        "The key to the [color:yellow]golden treasure[defcolor]",
+        "has been lost for ages..."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Der Schlüssel zum [color:yellow]goldenen Schatz[defcolor]",
+        "ist seit Ewigkeiten verschollen..."
+      ],
+      "EuItalian": [
+        "La chiave del [color:yellow]tesoro dorato[defcolor] è",
+        "andata perduta per secoli..."
+      ],
+      "EuDutch": [
+        "The key to the [color:yellow]golden treasure[defcolor]",
+        "has been lost for ages..."
+      ],
+      "JpJapanese": [
+        "[color:yellow][ruby:黄金;おうごん]の[ruby:宝;たから][defcolor]のてがかりは[ruby:遠;とお]～い[ruby:昔;むかし]に",
+        "[ruby:失;うし]われてしまったのじゃ..."
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  }
+]

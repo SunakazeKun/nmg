@@ -1,0 +1,206 @@
+[
+  {
+    "label": "Moc000_Flow000",
+    "attributes": {
+      "talk_type": "AUTO",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Take [icon:star] [color:yellow]sign[defcolor] of courage!"
+      ],
+      "EuEnglish": [
+        "Take [icon:star] [color:yellow]sign[defcolor] of courage!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Nimm [icon:star] [color:yellow]Beweis[defcolor] für Mut!"
+      ],
+      "EuItalian": [
+        "Prendi [icon:star] [color:yellow]segno[defcolor] di coraggio!"
+      ],
+      "EuDutch": [
+        "Take [icon:star] [color:yellow]sign[defcolor] of courage!"
+      ],
+      "JpJapanese": [
+        "[ruby:勇者;ゆうしゃ]のあかし [icon:star] [color:yellow]コレ[defcolor] アズケル"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Moc000_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You are courage."
+      ],
+      "EuEnglish": [
+        "You are courage."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Du bist Mut."
+      ],
+      "EuItalian": [
+        "Tu sei coraggioso."
+      ],
+      "EuDutch": [
+        "You are courage."
+      ],
+      "JpJapanese": [
+        "ユウキ あるナ"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Moc001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Parkour difficult.",
+        "Good luck!"
+      ],
+      "EuEnglish": [
+        "Parkour difficult.",
+        "Good luck!"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Parkour ist anspruchsvoll.",
+        "Viel Glück!"
+      ],
+      "EuItalian": [
+        "Parkour difficile. Buona fortuna!"
+      ],
+      "EuDutch": [
+        "Parkour difficult.",
+        "Good luck!"
+      ],
+      "JpJapanese": [
+        "パルクール むずかしイ ガンバレ"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Moc002",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Half finished.",
+        "Well done."
+      ],
+      "EuEnglish": [
+        "Half finished.",
+        "Well done."
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Hälfte geschafft.",
+        "Gute Arbeit."
+      ],
+      "EuItalian": [
+        "Sei a metà strada.",
+        "Buon lavoro."
+      ],
+      "EuDutch": [
+        "Half finished.",
+        "Well done."
+      ],
+      "JpJapanese": [
+        "ハンブン おわリ キをぬくナ"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "Moc003",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "What is nail for?"
+      ],
+      "EuEnglish": [
+        "What is nail for?"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Wofür ist Nagel?"
+      ],
+      "EuItalian": [
+        "A cosa serve chiodo?"
+      ],
+      "EuDutch": [
+        "What is nail for?"
+      ],
+      "JpJapanese": [
+        "クギ なんノ タメ？"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  }
+]

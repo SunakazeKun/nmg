@@ -1,0 +1,158 @@
+[
+  {
+    "label": "HelperWitchOption_DaredevilMode",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Daredevil"
+      ],
+      "EuEnglish": [
+        "Daredevil"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Schabernack"
+      ],
+      "EuItalian": [
+        "Pericolo"
+      ],
+      "EuDutch": [
+        "Daredevil"
+      ],
+      "JpJapanese": [
+        "サドンデス"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "HelperWitchOption_NormalMode",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Normal"
+      ],
+      "EuEnglish": [
+        "Normal"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Normal"
+      ],
+      "EuItalian": [
+        "Normale"
+      ],
+      "EuDutch": [
+        "Normal"
+      ],
+      "JpJapanese": [
+        "ノーマル"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "HelperWitchOption_PlayerLuigi",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Luigi"
+      ],
+      "EuEnglish": [
+        "Luigi"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Luigi"
+      ],
+      "EuItalian": [
+        "Luigi"
+      ],
+      "EuDutch": [
+        "Luigi"
+      ],
+      "JpJapanese": [
+        "ルイージ"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  },
+  {
+    "label": "HelperWitchOption_PlayerMario",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Mario"
+      ],
+      "EuEnglish": [
+        "Mario"
+      ],
+      "UsSpanish": null,
+      "EuSpanish": null,
+      "UsFrench": null,
+      "EuFrench": null,
+      "EuGerman": [
+        "Mario"
+      ],
+      "EuItalian": [
+        "Mario"
+      ],
+      "EuDutch": [
+        "Mario"
+      ],
+      "JpJapanese": [
+        "マリオ"
+      ],
+      "KrKorean": null,
+      "AsTradChinese": null
+    }
+  }
+]
