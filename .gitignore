@@ -3,10 +3,10 @@
 .private
 __pycache__
 workspace
-game
-dist
-build
-bin
+/game
+/dist
+/build
+/bin
 
 .env
 *.env

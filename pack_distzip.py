@@ -23,7 +23,7 @@ __all__ = ["pack_zip_archive"]
 
 ########################################################################################################################
 
-RIIVOLUTION_CONFIG_PATH = Path("data/nmg.xml")
+DIST_BASE_DATA_PATH = Path("data/dist")
 VANILLA_FILE_HASHES_PATH = Path("data/vanilla_file_hashes.json")
 
 
@@ -43,7 +43,7 @@ def pack_zip_archive(game_path: Path, dist_path: Path):
 
     vanilla_file_hashes = read_json(VANILLA_FILE_HASHES_PATH)
 
-    shutil.copy(RIIVOLUTION_CONFIG_PATH, riivolution_path / "nmg.xml")
+    shutil.copytree(DIST_BASE_DATA_PATH, dist_path, dirs_exist_ok=True)
     __traverse_game_folder(game_path / "files", nmg_path, "", vanilla_file_hashes)
 
     # ------------------------------------------------------
