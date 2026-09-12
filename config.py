@@ -17,10 +17,11 @@ logging.basicConfig(
 PROJECT_TITLE = "NMG_2026"
 PROJECT_VERSION = "1.0.0"
 
-GAME_PATH = Path(os.getenv("GAME_PATH"))
+GAME_PATH = Path(os.getenv("GAME_PATH")).absolute()
 
-MWCCEPPC_PATH = Path(os.getenv("MWCCEPPC_PATH"))
-KAMEK_PATH = Path(os.getenv("KAMEK_PATH"))
+MWCCEPPC_PATH = Path(os.getenv("MWCCEPPC_PATH")).absolute()
+MWASMEPPC_PATH = Path(os.getenv("MWASMEPPC_PATH")).absolute()
+KAMEK_PATH = Path(os.getenv("KAMEK_PATH")).absolute()
 
 ORG_LOCALIZE_DATA_PATH = Path(os.getenv("ORG_LOCALIZE_DATA_PATH"))
 

@@ -1,4 +1,5 @@
 .idea
+.vs
 .venv
 .private
 __pycache__
@@ -14,4 +15,6 @@ workspace
 *.zip
 *.o
 *.d
+CustomCode_*.map
+CustomCode_*.bin
 sandbox*.py
