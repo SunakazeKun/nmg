@@ -26,7 +26,7 @@ def build_message_data(message_data_path: Path, game_files_path: Path):
     for language in SUPPORTED_LANGUAGES:
         for folder_path in filter(lambda p: p.is_dir(), message_data_path.iterdir()):
             archive_name = folder_path.name
-            archive_subpath = f'{language}/MessageData/{archive_name}.arc'
+            archive_subpath = f'LocalizeData/{language}/MessageData/{archive_name}.arc'
 
             if archive_name in PARTIAL_REPLACEMENTS:
                 archive = from_archive_file(str(ORG_LOCALIZE_DATA_PATH / archive_subpath))
