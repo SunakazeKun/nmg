@@ -1,0 +1,52 @@
+﻿<wiidisc version="1">
+	<id game="SB4">
+		<region type="E"/>
+		<region type="J"/>
+		<region type="P"/>
+		<region type="W"/>
+		<region type="K"/>
+	</id>
+	<options>
+		<section name="Neo Mario Galaxy">
+			<option name="Game">
+				<choice name="Enabled">
+					<patch id="nmg"/>
+				</choice>
+			</option>
+		</section>
+	</options>
+	<patch id="nmg" root="/nmg">
+		<savegame external="SaveGame/{$__gameid}{$__region}{$__maker}" clone="false"/>
+		<folder external="AudioRes" disc="/AudioRes" create="true"/>
+		<folder external="CustomCode" disc="/CustomCode" create="true"/>
+		<folder external="LayoutData" disc="/LayoutData" create="true"/>
+		<folder external="LocalizeData" disc="/LocalizeData" create="true"/>
+		<folder external="ObjectData" disc="/ObjectData" create="true"/>
+		<folder external="ParticleData" disc="/ParticleData" create="true"/>
+		<folder external="StageData" disc="/StageData" create="true"/>
+		<folder external="SystemData" disc="/SystemData" create="true"/>
+		<!-- ErrorMessageArchive -->
+		<memory offset="0x8064E220" valuefile="LayoutData/ErrorMessageArchive{$__region}.arc" original="52415243"/> <!-- E, J, P -->
+		<!-- Crash debugger -->
+		<memory offset="0x804B7D90" value="60000000" original="98040068"/> <!-- E, J, P -->
+		<memory offset="0x804B7E54" value="60000000" original="4082FFB8"/>
+		<memory offset="0x805B63A8" value="60000000" original="80BD0000"/>
+		<memory offset="0x805B66B4" value="60000000" original="48000160"/>
+		<memory offset="0x804B7E00" value="60000000" original="98040068"/> <!-- W, K -->
+		<memory offset="0x804B7EC4" value="60000000" original="4082FFB8"/>
+		<memory offset="0x805B64A8" value="60000000" original="80BD0000"/>
+		<memory offset="0x805B67B4" value="60000000" original="48000160"/>
+		<!-- Syati loader -->
+		<memory offset="0x804BCFE8" value="4BB448DD" original="4BFFFE59"/> <!-- E, J, P -->
+		<memory offset="0x804BCE70" value="4BB44A89" original="4BFFFAC1"/>
+		<memory offset="0x804BCED0" value="4BB44A51" original="480083E1"/>
+		<memory offset="0x804BCED4" value="7C7F1B78" original="3FE3FFB0"/>
+		<memory offset="0x804B7D38" value="4BB49C3C" original="4E800020"/>
+		<memory offset="0x804BD058" value="4BB4486D" original="4BFFFE59"/> <!-- W, K -->
+		<memory offset="0x804BCEE0" value="4BB44A19" original="4BFFFAC1"/>
+		<memory offset="0x804BCF40" value="4BB449E1" original="48008401"/>
+		<memory offset="0x804BCF44" value="7C7F1B78" original="3FE3FFB0"/>
+		<memory offset="0x804B7DA8" value="4BB49BCC" original="4E800020"/>
+		<memory offset="0x80001800" valuefile="CustomCode/Loader{$__region}.bin"/>
+	</patch>
+</wiidisc>

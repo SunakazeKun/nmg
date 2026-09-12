@@ -15,7 +15,7 @@ logging.basicConfig(
 ########################################################################################################################
 
 PROJECT_TITLE = "NMG_2026"
-PROJECT_VERSION = "1.0"
+PROJECT_VERSION = "1.0.0"
 
 GAME_PATH = Path(os.getenv("GAME_PATH"))
 
@@ -76,4 +76,33 @@ PARTIAL_REPLACEMENTS = [
     "SystemMessage",
     "LayoutMessage",
     "SceneCommonMessage",
+]
+
+
+# ======================================================================================================================
+# Deployment
+# ======================================================================================================================
+
+IGNORE_FILES = [
+    "/galaxies.json",
+    "/objectdb.json",
+    "/CustomCode/CustomCode_JPN.map",
+    "/CustomCode/CustomCode_PAL.map",
+    "/CustomCode/CustomCode_USA.map",
+    "/CustomCode/CustomCode_KOR.map",
+    "/CustomCode/CustomCode_TWN.map",
+    "/LayoutData/DestroyCounter.arc",
+    "/LayoutData/GameSet.arc",
+    "/LayoutData/PrologueText.arc",
+    "/ObjectData/LifeUpHeart.arc",
+    "/ObjectData/SoundSyncGhostStepD.arc",
+    "/ObjectData/SoundSyncGhostStepG.arc",
+    "/ObjectData/SoundSyncGhostStepI.arc",
+    "/ObjectData/SoundSyncGhostStepJ.arc",
+    "/ObjectData/TestGalaxyPlanet.arc"
+]
+
+IGNORE_FOLDERS = [
+    "/UseResourceLogs",
+    "/StageData/TestGalaxy"
 ]

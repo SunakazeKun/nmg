@@ -4,6 +4,7 @@
 __pycache__
 workspace
 game
+dist
 build
 bin
 
