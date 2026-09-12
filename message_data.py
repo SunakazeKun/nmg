@@ -26,7 +26,7 @@ def build_message_data(message_data_path: Path, game_files_path: Path):
     for language in SUPPORTED_LANGUAGES:
         for folder_path in filter(lambda p: p.is_dir(), message_data_path.iterdir()):
             archive_name = folder_path.name
-            archive_subpath = f'LocalizeData/{language}/MessageData/{archive_name}.arc'
+            archive_subpath = f'{language}/MessageData/{archive_name}.arc'
 
             if archive_name in PARTIAL_REPLACEMENTS:
                 archive = from_archive_file(str(ORG_LOCALIZE_DATA_PATH / archive_subpath))
@@ -40,7 +40,7 @@ def build_message_data(message_data_path: Path, game_files_path: Path):
                 __pack_msb_into_archive(archive, language, archive_name, msb_name,
                                         json_path, msbf_path)
 
-            archive_path = game_files_path / archive_subpath
+            archive_path = game_files_path / "LocalizeData" / archive_subpath
             archive_path.parent.mkdir(parents=True, exist_ok=True)
             write_archive_file(archive, str(archive_path))
 
