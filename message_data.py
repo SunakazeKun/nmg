@@ -13,6 +13,8 @@ from tools.dataio import read_json, read_bin
 from pathlib import Path
 from typing import Callable
 
+import logging
+
 __all__ = ["build_message_data"]
 
 
@@ -62,7 +64,14 @@ def __pack_msb_into_archive(archive: JKRArchive, language: str, archive_name: st
         message.attributes["unk7"]         = json_msg["attributes"]["unk7"]
         message.attributes["comment"]      = json_msg["attributes"]["comment"]
 
-        message.text = "\n".join(json_msg["languages"][language])
+        text_lines = json_msg["languages"][language]
+
+        if text_lines is None:
+            message.text = f'!MISSING! {message.label}'
+            logging.warning("Missing text: %s/%s/%s/%s",
+                            language, archive_name, msb_name, message.label)
+        else:
+            message.text = "\n".join(text_lines)
 
         msbt_labels.append(message.label)
 

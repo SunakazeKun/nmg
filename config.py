@@ -2,8 +2,14 @@ from dotenv import load_dotenv
 from pathlib import Path
 
 import os
+import logging
 
 load_dotenv()
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(levelname)s : %(message)s"
+)
 
 
 ########################################################################################################################
@@ -49,18 +55,18 @@ SUPPORTED_LANGUAGES = [
     "EuEnglish",
     "EuGerman",
     "EuItalian",
-#   "EuSpanish",
-#   "EuFrench",
+    "EuSpanish",
+    "EuFrench",
     "EuDutch",
     "UsEnglish",
-#   "UsSpanish",
-#   "UsFrench",
+    "UsSpanish",
+    "UsFrench",
 #   "UsPortuguese",   # Switch only
     "JpJapanese",
-#   "KrKorean",
+    "KrKorean",
 #   "CnSimpChinese",  # Switch only
 #   "CnTradChinese",  # Unused
-#   "AsTradChinese",
+    "AsTradChinese",
 ]
 
 PARTIAL_REPLACEMENTS = [
