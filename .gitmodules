@@ -1,0 +1,3 @@
+[submodule "syati/Syati"]
+	path = syati/Syati
+	url = https://github.com/SMGCommunity/Syati
