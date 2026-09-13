@@ -1,15 +1,13 @@
 #include "Game/NPC/TalkMessageInfo.h"
 #include "kamek/hooks.h"
 
-// TODO: Fix balloon type ID
-
 namespace {
     // ==================================================================================================================
     // Talk type that displays "Read" instead of "Talk"
     // ==================================================================================================================
 
     bool extTalkStateNormal_prep(TalkMessageInfo *pInfo) {
-        return pInfo->mBalloonType == 3 || pInfo->mBalloonType == 5;
+        return pInfo->mBalloonType == 3 || pInfo->mBalloonType == 9;
     }
 
     kmCall(0x8037CA9C, extTalkStateNormal_prep);

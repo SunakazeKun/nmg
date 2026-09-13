@@ -622,6 +622,7 @@ class BalloonType(IntEnum):
     STORY_BOOK_CENTER = 6
     STORY_BOOK_TOP    = 7
     UNKNOWN_8         = 8
+    LIBRARY_BOOK      = 9
 
 
 class CameraType(IntEnum):

@@ -3,7 +3,7 @@
     "label": "LibraryBook000_Flow000",
     "attributes": {
       "talk_type": "NORMAL",
-      "balloon_type": "STORY_BOOK_BOTTOM",
+      "balloon_type": "LIBRARY_BOOK",
       "sound_id": "NONE",
       "camera_type": "EVENT",
       "camera_id": 0,
@@ -55,7 +55,7 @@
     "label": "LibraryBook000_Flow001",
     "attributes": {
       "talk_type": "NORMAL",
-      "balloon_type": "STORY_BOOK_BOTTOM",
+      "balloon_type": "LIBRARY_BOOK",
       "sound_id": "NONE",
       "camera_type": "EVENT",
       "camera_id": 0,
@@ -161,7 +161,7 @@
     "label": "LibraryBook000_Flow002",
     "attributes": {
       "talk_type": "NORMAL",
-      "balloon_type": "STORY_BOOK_BOTTOM",
+      "balloon_type": "LIBRARY_BOOK",
       "sound_id": "NONE",
       "camera_type": "EVENT",
       "camera_id": 0,
@@ -200,7 +200,7 @@
     "label": "LibraryBook001_Flow000",
     "attributes": {
       "talk_type": "NORMAL",
-      "balloon_type": "STORY_BOOK_BOTTOM",
+      "balloon_type": "LIBRARY_BOOK",
       "sound_id": "NONE",
       "camera_type": "EVENT",
       "camera_id": 0,
@@ -245,7 +245,7 @@
     "label": "LibraryBook001_Flow001",
     "attributes": {
       "talk_type": "NORMAL",
-      "balloon_type": "STORY_BOOK_BOTTOM",
+      "balloon_type": "LIBRARY_BOOK",
       "sound_id": "NONE",
       "camera_type": "EVENT",
       "camera_id": 0,
@@ -478,7 +478,7 @@
     "label": "LibraryBook001_Flow002",
     "attributes": {
       "talk_type": "NORMAL",
-      "balloon_type": "STORY_BOOK_BOTTOM",
+      "balloon_type": "LIBRARY_BOOK",
       "sound_id": "NONE",
       "camera_type": "EVENT",
       "camera_id": 0,
@@ -517,7 +517,7 @@
     "label": "LibraryBook002_Flow000",
     "attributes": {
       "talk_type": "NORMAL",
-      "balloon_type": "STORY_BOOK_BOTTOM",
+      "balloon_type": "LIBRARY_BOOK",
       "sound_id": "NONE",
       "camera_type": "EVENT",
       "camera_id": 0,
@@ -562,7 +562,7 @@
     "label": "LibraryBook002_Flow001",
     "attributes": {
       "talk_type": "NORMAL",
-      "balloon_type": "STORY_BOOK_BOTTOM",
+      "balloon_type": "LIBRARY_BOOK",
       "sound_id": "NONE",
       "camera_type": "EVENT",
       "camera_id": 0,
@@ -729,7 +729,7 @@
     "label": "LibraryBook002_Flow002",
     "attributes": {
       "talk_type": "NORMAL",
-      "balloon_type": "STORY_BOOK_BOTTOM",
+      "balloon_type": "LIBRARY_BOOK",
       "sound_id": "NONE",
       "camera_type": "EVENT",
       "camera_id": 0,
@@ -768,7 +768,7 @@
     "label": "LibraryBook003_Flow000",
     "attributes": {
       "talk_type": "NORMAL",
-      "balloon_type": "STORY_BOOK_BOTTOM",
+      "balloon_type": "LIBRARY_BOOK",
       "sound_id": "NONE",
       "camera_type": "EVENT",
       "camera_id": 0,
@@ -813,7 +813,7 @@
     "label": "LibraryBook003_Flow001",
     "attributes": {
       "talk_type": "NORMAL",
-      "balloon_type": "STORY_BOOK_BOTTOM",
+      "balloon_type": "LIBRARY_BOOK",
       "sound_id": "NONE",
       "camera_type": "EVENT",
       "camera_id": 0,
@@ -1253,7 +1253,7 @@
     "label": "LibraryBook003_Flow002",
     "attributes": {
       "talk_type": "NORMAL",
-      "balloon_type": "STORY_BOOK_BOTTOM",
+      "balloon_type": "LIBRARY_BOOK",
       "sound_id": "NONE",
       "camera_type": "EVENT",
       "camera_id": 0,
