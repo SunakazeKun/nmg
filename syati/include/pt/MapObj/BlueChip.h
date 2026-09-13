@@ -1,8 +1,11 @@
 #pragma once
 
-#include "syati.h"
+#include "Game/MapObj/ChipBase.h"
+#include "Game/MapObj/ChipGroup.h"
 
 #define SCENE_OBJ_BLUE_CHIP_HOLDER 110
+
+class ChipHolder;
 
 namespace pt {
     class BlueChip : public ChipBase {

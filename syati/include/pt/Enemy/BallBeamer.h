@@ -1,6 +1,10 @@
 #pragma once
 
-#include "syati.h"
+#include "Game/LiveActor/LiveActor.h"
+
+class WalkerStateBindStarPointer;
+class ActorStateParamScale;
+class RingBeam;
 
 namespace pt {
     class BallBeamer : public LiveActor {

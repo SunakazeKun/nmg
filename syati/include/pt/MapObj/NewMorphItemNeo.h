@@ -1,6 +1,6 @@
 #pragma once
 
-#include "syati.h"
+#include "Game/MapObj/MorphItemObjNeo.h"
 
 namespace pt {
     class MorphItemNeoIce : public MorphItemObjNeo {

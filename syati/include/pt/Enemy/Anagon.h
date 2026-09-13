@@ -1,6 +1,8 @@
 #pragma once
 
-#include "syati.h"
+#include "Game/LiveActor/LiveActor.h"
+
+class AnimScaleController;
 
 namespace pt {
     class Anagon : public LiveActor {

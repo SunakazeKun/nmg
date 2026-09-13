@@ -1,4 +1,10 @@
-#include "syati.h"
+#include "Game/Player/ModelHolder.h"
+#include "Game/Util/ActorSensorUtil.h"
+#include "Game/Util/JMapUtil.h"
+#include "Game/Util/LiveActorUtil.h"
+#include "Game/Util/PlayerUtil.h"
+#include "Game/Util/ObjUtil.h"
+#include "kamek/hooks.h"
 
 /*
 * Author: Aurum

@@ -1,6 +1,9 @@
 #include "pt/MapObj/TransparentWall.h"
-#include "pt/Util.h"
-#include "Game/Util.h"
+#include "Game/Util/ActorSensorUtil.h"
+#include "Game/Util/JMapUtil.h"
+#include "Game/Util/LiveActorUtil.h"
+#include "Game/Util/PlayerUtil.h"
+#include "pt/Util/PlayerUtil.h"
 
 /*
 * Author: Aurum

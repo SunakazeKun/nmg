@@ -1,6 +1,6 @@
 #pragma once
 
-#include "syati.h"
+#include "Game/LiveActor/LiveActor.h"
 
 namespace pt {
     class PowerStarSpawner : public LiveActor {

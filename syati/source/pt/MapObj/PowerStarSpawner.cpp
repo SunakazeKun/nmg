@@ -1,4 +1,11 @@
 #include "pt/MapObj/PowerStarSpawner.h"
+#include "Game/Util/ActionSoundUtil.h"
+#include "Game/Util/ActorInitUtil.h"
+#include "Game/Util/ActorSwitchUtil.h"
+#include "Game/Util/JMapUtil.h"
+#include "Game/Util/LiveActorUtil.h"
+#include "Game/Util/ObjUtil.h"
+#include "Game/Util/PlayerUtil.h"
 
 /*
 * Authors: Aurum, Evanbowl & Someone
@@ -15,7 +22,9 @@
 */
 
 namespace pt {
-    PowerStarSpawner::PowerStarSpawner(const char *pName) : LiveActor(pName) {
+    PowerStarSpawner::PowerStarSpawner(const char *pName)
+		: LiveActor(pName)
+	{
         mScenario = -1;
         mDelay = 0;
         mFromMario = false;
@@ -92,7 +101,13 @@ namespace pt {
         }
     }
 
+	// =================================================================================================================
+
     namespace NrvPowerStarSpawner {
+		NrvWait(NrvWait::sInstance);
+		NrvPrepare(NrvPrepare::sInstance);
+		NrvSpawn(NrvSpawn::sInstance);
+
         void NrvWait::execute(Spine *pSpine) const {}
 
         void NrvPrepare::execute(Spine *pSpine) const {
@@ -104,9 +119,5 @@ namespace pt {
             PowerStarSpawner *pActor = (PowerStarSpawner*)pSpine->mExecutor;
             pActor->exeSpawn();
         }
-
-        NrvWait(NrvWait::sInstance);
-        NrvPrepare(NrvPrepare::sInstance);
-        NrvSpawn(NrvSpawn::sInstance);
     }
 }

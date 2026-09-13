@@ -4,6 +4,7 @@
 #include "Game/System/ScenarioDataParser.h"
 #include "Game/Util/SceneUtil.h"
 #include "Game/Util/StringUtil.h"
+#include "kamek/hooks.h"
 
 /*
 * Authors: Aurum

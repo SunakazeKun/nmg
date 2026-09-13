@@ -90,7 +90,6 @@ SOURCE_FILES = [
     "pt/Extras/ExtPowerStarColors.cpp",
     "pt/Extras/ExtShellfishItems.cpp",
     "pt/Extras/ExtSuperSpinDriverGreen.cpp",
-    "pt/Extras/MiscExtensions.cpp",
     "pt/Extras/VanillaBugfixes.cpp",
     "pt/MapObj/BlueChip.cpp",
     "pt/MapObj/NewMorphItemNeo.cpp",

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "syati-light.h"
+#include "revolution.h"
 
 namespace pt {
     bool isPlayerElementMode(s32 mode);

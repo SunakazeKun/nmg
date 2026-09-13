@@ -1,5 +1,19 @@
 ﻿#include "pt/Enemy/Anagon.h"
-#include "pt/Util.h"
+#include "Game/Enemy/AnimScaleController.h"
+#include "Game/Util/ActionSoundUtil.h"
+#include "Game/Util/ActorAnimUtil.h"
+#include "Game/Util/ActorInitUtil.h"
+#include "Game/Util/ActorSensorUtil.h"
+#include "Game/Util/ActorSwitchUtil.h"
+#include "Game/Util/EffectUtil.h"
+#include "Game/Util/JMapUtil.h"
+#include "Game/Util/JointUtil.h"
+#include "Game/Util/LiveActorUtil.h"
+#include "Game/Util/ObjUtil.h"
+#include "Game/Util/RailUtil.h"
+#include "Game/Util/SoundUtil.h"
+#include "Game/Util/SupportPlayUtil.h"
+#include "pt/Util/ActorUtil.h"
 
 /*
 * Authors: Aurum
@@ -24,7 +38,9 @@ namespace {
 }
 
 namespace pt {
-    Anagon::Anagon(const char *pName) : LiveActor(pName) {
+    Anagon::Anagon(const char *pName)
+		: LiveActor(pName)
+	{
         for (s32 i = 0; i < 3; i++) {
             mStarPointerTargets[i] = nullptr;
         }
@@ -191,7 +207,14 @@ namespace pt {
         return false;
     }
 
+	// -----------------------------------------------------------------------------------------------------------------
+
     namespace NrvAnagon {
+		NrvSwim(NrvSwim::sInstance);
+		NrvBind(NrvBind::sInstance);
+		NrvBreak(NrvBreak::sInstance);
+		NrvDead(NrvDead::sInstance);
+
         void NrvSwim::execute(Spine *pSpine) const {
             Anagon *pActor = (Anagon*)pSpine->mExecutor;
             pActor->exeSwim();
@@ -216,10 +239,5 @@ namespace pt {
             Anagon *pActor = (Anagon*)pSpine->mExecutor;
             pActor->exeDead();
         }
-
-        NrvSwim(NrvSwim::sInstance);
-        NrvBind(NrvBind::sInstance);
-        NrvBreak(NrvBreak::sInstance);
-        NrvDead(NrvDead::sInstance);
     }
 }

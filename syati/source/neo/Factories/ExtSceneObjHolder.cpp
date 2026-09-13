@@ -1,5 +1,6 @@
 #include "Game/Scene/SceneObjHolder.h"
 #include "pt/MapObj/BlueChip.h"
+#include "kamek/hooks.h"
 
 namespace {
     struct CreateSceneObjEntry {
@@ -19,7 +20,7 @@ namespace {
         { SCENE_OBJ_BLUE_CHIP_HOLDER, pt::createBlueChipHolder }
     };
 
-    const s32 cNewCreateSceneObjTableCount = sizeof(cNewCreateSceneObjTable) / sizeof(CreateActorEntry);
+    const s32 cNewCreateSceneObjTableCount = sizeof(cNewCreateSceneObjTable) / sizeof(CreateSceneObjEntry);
 
 
     // =================================================================================================================

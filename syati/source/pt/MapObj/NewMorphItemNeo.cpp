@@ -1,4 +1,9 @@
 ﻿#include "pt/MapObj/NewMorphItemNeo.h"
+#include "Game/MapObj/MorphItemCollection.h"
+#include "Game/Util/ActionSoundUtil.h"
+#include "Game/Util/EffectUtil.h"
+#include "Game/Util/JMapUtil.h"
+#include "kamek/hooks.h"
 
 /*
 * Author: Aurum
@@ -18,7 +23,9 @@ namespace pt {
     /*
     * Ice Flower
     */
-    MorphItemNeoIce::MorphItemNeoIce(const char *pName) : MorphItemObjNeo(pName) {
+    MorphItemNeoIce::MorphItemNeoIce(const char *pName)
+		: MorphItemObjNeo(pName)
+	{
 
     }
 
@@ -35,7 +42,9 @@ namespace pt {
     /*
     * Flying Star
     */
-    MorphItemNeoFoo::MorphItemNeoFoo(const char *pName) : MorphItemObjNeo(pName) {
+    MorphItemNeoFoo::MorphItemNeoFoo(const char *pName)
+		: MorphItemObjNeo(pName)
+	{
 
     }
 

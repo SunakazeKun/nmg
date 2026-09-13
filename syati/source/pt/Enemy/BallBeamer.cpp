@@ -1,5 +1,21 @@
 ﻿#include "pt/Enemy/BallBeamer.h"
-#include "pt/Util.h"
+#include "Game/Enemy/RingBeam.h"
+#include "Game/Enemy/WalkerStateBindStarPointer.h"
+#include "Game/LiveActor/ActorStateParamScale.h"
+#include "Game/Util/ActionSoundUtil.h"
+#include "Game/Util/ActorAnimUtil.h"
+#include "Game/Util/ActorInitUtil.h"
+#include "Game/Util/ActorMovementUtil.h"
+#include "Game/Util/ActorSensorUtil.h"
+#include "Game/Util/ActorShadowUtil.h"
+#include "Game/Util/ActorStateUtil.h"
+#include "Game/Util/ActorSwitchUtil.h"
+#include "Game/Util/EffectUtil.h"
+#include "Game/Util/JMapUtil.h"
+#include "Game/Util/JointUtil.h"
+#include "Game/Util/LiveActorUtil.h"
+#include "Game/Util/SoundUtil.h"
+#include "pt/Util/MathUtil.h"
 
 /*
 * Authors: Aurum
@@ -18,7 +34,9 @@
 */
 
 namespace pt {
-    BallBeamer::BallBeamer(const char *pName) : LiveActor(pName) {
+    BallBeamer::BallBeamer(const char *pName)
+		: LiveActor(pName)
+	{
         mBindStarPointer = nullptr;
         mParamScale = nullptr;
         mBeams = nullptr;
@@ -191,7 +209,14 @@ namespace pt {
         MR::updateActorStateAndNextNerve(this, (ActorStateBaseInterface*)mBindStarPointer, &NrvBallBeamer::NrvWait::sInstance);
     }
 
+	// -----------------------------------------------------------------------------------------------------------------
+
     namespace NrvBallBeamer {
+		NrvWait(NrvWait::sInstance);
+		NrvAttack(NrvAttack::sInstance);
+		NrvInter(NrvInter::sInstance);
+		NrvBind(NrvBind::sInstance);
+
         void NrvWait::execute(Spine *pSpine) const {
             BallBeamer *pActor = (BallBeamer*)pSpine->mExecutor;
             pActor->exeWait();
@@ -211,10 +236,5 @@ namespace pt {
             BallBeamer *pActor = (BallBeamer*)pSpine->mExecutor;
             pActor->exeBind();
         }
-
-        NrvWait(NrvWait::sInstance);
-        NrvAttack(NrvAttack::sInstance);
-        NrvInter(NrvInter::sInstance);
-        NrvBind(NrvBind::sInstance);
     }
 }

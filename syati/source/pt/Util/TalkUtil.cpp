@@ -1,4 +1,5 @@
 #include "pt/Util/TalkUtil.h"
+#include "Game/NPC/TalkMessageCtrl.h"
 
 /*
 * Author: Aurum

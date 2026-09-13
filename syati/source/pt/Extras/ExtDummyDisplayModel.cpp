@@ -1,7 +1,7 @@
-#include "syati-light.h"
 #include "Game/MapObj/DummyDisplayModel.h"
 #include "Game/Util/ActorAnimUtil.h"
 #include "Game/Util/JMapUtil.h"
+#include "Kamek/hooks.h"
 
 /*
 * Author: Aurum

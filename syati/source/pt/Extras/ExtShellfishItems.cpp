@@ -1,4 +1,8 @@
-﻿#include "pt/MapObj/BlueChip.h"
+﻿#include "Game/MapObj/Shellfish.h"
+#include "Game/MapObj/Coin.h"
+#include "pt/MapObj/BlueChip.h"
+#include "Game/Util/JMapUtil.h"
+#include "kamek/hooks.h"
 
 /*
 * Author: Aurum
