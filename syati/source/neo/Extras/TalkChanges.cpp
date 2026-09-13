@@ -58,15 +58,15 @@ namespace {
 	/*****************************************************************************************************************/
 	/* Ruby spacing fix (3.0 -> -2.0)                                                                                */
 	/*****************************************************************************************************************/
-#if defined(PAL)
+#if defined(SB4P)
 	kmWrite32(0x807E6A24, 0xC0000000);
-#elif defined(USA)
+#elif defined(SB4E)
 	kmWrite32(0x807E1324, 0xC0000000);
-#elif defined(JPN)
+#elif defined(SB4J)
 	kmWrite32(0x807E0AE4, 0xC0000000);
-#elif defined(TWN)
+#elif defined(SB4W)
 	kmWrite32(0x8073A944, 0xC0000000);
-#elif defined(KOR)
+#elif defined(SB4K)
 	kmWrite32(0x807394E4, 0xC0000000);
 #endif
 }

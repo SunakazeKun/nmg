@@ -12,7 +12,7 @@ u32 printSound(const char *pName) {
 	return JGadget::getHashCode(pName);
 }
 
-#if defined(TWN)|| defined(KOR)
+#if defined(SB4W)|| defined(SB4K)
 kmCall(0x804B2050, printArchive);
 #else
 kmCall(0x804B1FE0, printArchive);

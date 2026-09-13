@@ -6,9 +6,9 @@ namespace {
 	/*****************************************************************************************************************/
 	/* Prevent Ghost Appeared message                                                                                */
 	/*****************************************************************************************************************/
-#if defined(PAL) || defined(USA) || defined(JPN)
+#if defined(SB4P) || defined(SB4E) || defined(SB4J)
 	kmWrite32(0x80496144, LI_R3_0);
-#elif defined(TWN) || defined(KOR)
+#elif defined(SB4W) || defined(SB4K)
 	kmWrite32(0x804961B4, LI_R3_0);
 #endif
 
@@ -21,9 +21,9 @@ namespace {
 		MR::hidePane(pActor, "TotalStamp");
 	}
 
-#if defined(PAL) || defined(USA) || defined(JPN)
+#if defined(SB4P) || defined(SB4E) || defined(SB4J)
 	kmCall(0x80496680, hideCounterPanesExt);
-#elif defined(TWN) || defined(KOR)
+#elif defined(SB4W) || defined(SB4K)
 	kmCall(0x804966F0, hideCounterPanesExt);
 #endif
 
@@ -77,13 +77,13 @@ namespace {
 		}
 	}
 
-#if defined(PAL) || defined(USA) || defined(JPN)
+#if defined(SB4P) || defined(SB4E) || defined(SB4J)
 	kmCall(0x8049630C, getNextNerveExt);
 	kmCall(0x80495F88, isPreviousNerveDisappearStampOrCometMedal);
 	kmWrite32(0x80496750, 0x7C070378); // mr r7, r0
 	kmCall(0x80496754, endResultPaneExt);
 	kmWrite32(0x80496758, NOP);
-#elif defined(TWN) || defined(KOR)
+#elif defined(SB4W) || defined(SB4K)
 	kmCall(0x8049637C, getNextNerveExt);
 	kmCall(0x80495FF8, isPreviousNerveDisappearStampOrCometMedal);
 	kmWrite32(0x804967C0, 0x7C070378); // mr r7, r0
@@ -171,11 +171,11 @@ namespace {
 		return "System_ResultGetPowerStar";
 	}
 
-#if defined(PAL) || defined(USA) || defined(JPN)
+#if defined(SB4P) || defined(SB4E) || defined(SB4J)
 	kmCall(0x80494F24, getResultStarMessageName);
 	kmWrite32(0x80494F28, 0x7C651B78);
 	kmWrite32(0x80494F2C, 0x48000060);
-#elif defined(TWN) || defined(KOR)
+#elif defined(SB4W) || defined(SB4K)
 	kmCall(0x80494F94, getResultStarMessageName);
 	kmWrite32(0x80494F98, 0x7C651B78);
 	kmWrite32(0x80494F9C, 0x48000060);

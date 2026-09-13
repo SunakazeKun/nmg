@@ -12,7 +12,7 @@ namespace {
 
 
 	// Prevent player type overwrite
-#if defined(PAL) || defined(USA) || defined(JPN)
+#if defined(SB4P) || defined(SB4E) || defined(SB4J)
 	kmWrite32(0x804B4EBC, LI_R3_1);
 	kmWrite32(0x804B559C, LI_R3_1);
 	kmWrite32(0x804D5DFC, LI_R3_1);
@@ -23,7 +23,7 @@ namespace {
 	kmWrite32(0x804D66FC, LI_R3_1);
 	kmWrite32(0x804D6730, LI_R3_1);
 	kmWrite32(0x804D7F4C, LI_R3_1);
-#elif defined(TWN) || defined(KOR)
+#elif defined(SB4W) || defined(SB4K)
 	kmWrite32(0x804B4F2C, LI_R3_1);
 	kmWrite32(0x804B560C, LI_R3_1);
 	kmWrite32(0x804D5E8C, LI_R3_1);

@@ -10,7 +10,7 @@ namespace MR {
 
 namespace {
 	const MR::StationedFileInfo cStationedFileInfoTableOverwrite[] = {
-#ifdef PAL
+#if defined(SB4P)
 		{ 0, 0, (const char*)0x80702678 }, // "/ModuleData/HomeButtonMenuWrapperRSO.rs"...
 		{ 0, 0, (const char*)0x807026A8 }, // "/ModuleData/product.sel"
 		{ 0, 3, (const char*)0x80701C64 }, // "/ObjectData/Mario.arc"
@@ -271,7 +271,7 @@ namespace {
 		{ 1, 6, "/ObjectData/SuperSpinDriverShadow.arc" },
 		{ 1, 6, "/ObjectData/SupportFlushPoint.arc" },
 		{ 1, 6, "/ObjectData/TicoCoin.arc" },
-#elif defined(USA)
+#elif defined(SB4E)
 		{ 0, 0, (const char*)0x806FCF78 }, // "/ModuleData/HomeButtonMenuWrapperRSO.rs"...
 		{ 0, 0, (const char*)0x806FCFA8 }, // "/ModuleData/product.sel"
 		{ 0, 3, (const char*)0x806FC564 }, // "/ObjectData/Mario.arc"
@@ -532,7 +532,7 @@ namespace {
 		{ 1, 6, "/ObjectData/SuperSpinDriverShadow.arc" },
 		{ 1, 6, "/ObjectData/SupportFlushPoint.arc" },
 		{ 1, 6, "/ObjectData/TicoCoin.arc" },
-#elif defined(JPN)
+#elif defined(SB4J)
 		{ 0, 0, (const char*)0x806FC758 }, // "/ModuleData/HomeButtonMenuWrapperRSO.rs"...
 		{ 0, 0, (const char*)0x806FC788 }, // "/ModuleData/product.sel"
 		{ 0, 3, (const char*)0x806FBD44 }, // "/ObjectData/Mario.arc"
@@ -793,7 +793,7 @@ namespace {
 		{ 1, 6, "/ObjectData/SuperSpinDriverShadow.arc" },
 		{ 1, 6, "/ObjectData/SupportFlushPoint.arc" },
 		{ 1, 6, "/ObjectData/TicoCoin.arc" },
-#elif defined(TWN)
+#elif defined(SB4W)
 		{ 0, 0, (const char*)0x806FD210 }, // "/ModuleData/HomeButtonMenuWrapperRSO.rs"...
 		{ 0, 0, (const char*)0x806FD240 }, // "/ModuleData/product.sel"
 		{ 0, 3, (const char*)0x806FC804 }, // "/ObjectData/Mario.arc"
@@ -1054,7 +1054,7 @@ namespace {
 		{ 1, 6, "/ObjectData/SuperSpinDriverShadow.arc" },
 		{ 1, 6, "/ObjectData/SupportFlushPoint.arc" },
 		{ 1, 6, "/ObjectData/TicoCoin.arc" },
-#elif defined(KOR)
+#elif defined(SB4K)
 		{ 0, 0, (const char*)0x806FD210 }, // "/ModuleData/HomeButtonMenuWrapperRSO.rs"...
 		{ 0, 0, (const char*)0x806FD240 }, // "/ModuleData/product.sel"
 		{ 0, 3, (const char*)0x806FC804 }, // "/ObjectData/Mario.arc"

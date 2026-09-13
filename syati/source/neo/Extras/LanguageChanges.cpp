@@ -1,7 +1,7 @@
 #include "syati-light.h"
 
 namespace {
-#if defined(PAL) || defined(USA) || defined(JPN)
+#if defined(SB4P) || defined(SB4E) || defined(SB4J)
 	kmWritePointer(0x8064CF2C, "UsEnglish");
 	kmWritePointer(0x8064CF34, "UsEnglish");
 
@@ -12,7 +12,7 @@ namespace {
 	kmWritePointer(0x8064CF6C, "UsEnglish");
 	kmWritePointer(0x8064CF74, "UsEnglish");
 	kmWritePointer(0x8064CF7C, "UsEnglish");
-#elif defined(TWN) || defined(KOR)
+#elif defined(SB4W) || defined(SB4K)
 	kmWritePointer(0x8064D4C4, "UsEnglish");
 	kmWritePointer(0x8064D4CC, "UsEnglish");
 

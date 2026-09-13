@@ -1,3 +1,11 @@
+"""
+Syati module builder
+
+Builds Syati modules from the module source and outputs the linked CustomCode binaries in the active game directory.
+The CodeWarrior compiler and assembler are used to generate object binaries and Kamek is used to link them into a
+module binary that can be loaded with Syati. Modules are built for all five versions of SMG2.
+"""
+
 from config import MWCCEPPC_PATH, MWASMEPPC_PATH, KAMEK_PATH, GAME_PATH
 from pathlib import Path
 
@@ -26,9 +34,6 @@ MODULE_REGIONS = [
     "SB4J",
     "SB4W",
     "SB4K",
-]
-MODULE_TARGETS = [
-    "RELEASE",
 ]
 SOURCE_FILES = [
     "init.cpp",
@@ -126,18 +131,7 @@ def build_syati_module(region: str, target: str):
     # ------------------------------------------------------
 
     module_path = GAME_PATH / f'files/CustomCode/CustomCode_{region}.bin'
-    link_cmd = (f'"{KAMEK_PATH}" {" ".join(map(str, link_files))} '
-                f'-externals=Syati/symbols/{region}.txt '
-                f'-output-kamek={module_path}')
-
-    logging.info(link_cmd)
-
-    try:
-        subprocess.run(link_cmd, cwd=MODULE_CWD, check=True, text=True)
-    except subprocess.CalledProcessError as e:
-        logging.error(f"Failed to link {region} {target}")
-        logging.error(f"{e.stderr.strip()}\n")
-        exit(1)
+    __link_module(KAMEK_PATH, module_path, region, link_files)
 
 
 # ======================================================================================================================
@@ -226,19 +220,6 @@ def __make_build_cmd(mw_tool_path: Path, command: str, options: list[str], inclu
     build_cmd += " -I- ".join(map(lambda i: f'-i "{i}"', includes))
     build_cmd += f' -D{region} -D{target}'
 
-    # TODO: Remove this once deprecated define names are fully replaced.
-    match region:
-        case "SB4P":
-            build_cmd += " -DPAL"
-        case "SB4E":
-            build_cmd += " -DUSA"
-        case "SB4J":
-            build_cmd += " -DJPN"
-        case "SB4W":
-            build_cmd += " -DTWN"
-        case "SB4K":
-            build_cmd += " -DKOR"
-
     for def_name, def_val in defines:
         if def_val is None:
             build_cmd += f' -D{def_name}'
@@ -250,12 +231,26 @@ def __make_build_cmd(mw_tool_path: Path, command: str, options: list[str], inclu
     return build_cmd
 
 
+def __link_module(kamek_path: Path, module_path: Path, region: str, link_files: list[Path]):
+    link_cmd = (f'"{kamek_path}" {" ".join(map(str, link_files))} '
+                f'-externals=Syati/symbols/{region}.txt '
+                f'-output-kamek={module_path}')
+
+    logging.info(link_cmd)
+
+    try:
+        subprocess.run(link_cmd, cwd=MODULE_CWD, check=True, text=True)
+    except subprocess.CalledProcessError as e:
+        logging.error(f"Failed to link {region}")
+        logging.error(f"{e.stderr.strip()}\n")
+        exit(1)
+
+
 ########################################################################################################################
 
 def __main():
     for region in MODULE_REGIONS:
-        for target in MODULE_TARGETS:
-            build_syati_module(region, target)
+        build_syati_module(region, "RELEASE")
 
 
 if __name__ == '__main__':

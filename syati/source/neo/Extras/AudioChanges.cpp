@@ -74,11 +74,11 @@ namespace {
 		return false;
 	}
 
-#if defined(PAL) || defined(USA) || defined(JPN)
+#if defined(SB4P) || defined(SB4E) || defined(SB4J)
 	kmCall(0x804B49B0, newStartMarioFaceShipBGM);
 	kmCall(0x804B5378, newStartMarioFaceShipBGM);
 	kmCall(0x804B5BAC, newStartMarioFaceShipBGM);
-#elif defined(TWN) || defined(KOR)
+#elif defined(SB4W) || defined(SB4K)
 	kmCall(0x804B4A20, newStartMarioFaceShipBGM);
 	kmCall(0x804B53E8, newStartMarioFaceShipBGM);
 	kmCall(0x804B5C1C, newStartMarioFaceShipBGM);

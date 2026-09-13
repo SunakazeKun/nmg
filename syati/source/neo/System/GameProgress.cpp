@@ -69,11 +69,11 @@ namespace neo {
 		}
 	}
 
-#if defined(PAL) || defined(USA) || defined(JPN)
+#if defined(SB4P) || defined(SB4E) || defined(SB4J)
 	kmBranch(0x804D2E90, isUnlockComets); // Replace flag check by Power Star requirement
 	kmWrite32(0x804D8B80, LI_R3_1); // Disable hardcoded check for Mimic comets
 	kmWrite32(0x804D8C44, LI_R3_1); // Disable hardcoded check for Purple comets
-#elif defined(TWN) || defined(KOR)
+#elif defined(SB4W) || defined(SB4K)
 	kmBranch(0x804D2F20, isUnlockComets); // Replace flag check by Power Star requirement
 	kmWrite32(0x804D8C10, LI_R3_1); // Disable hardcoded check for Mimic comets
 	kmWrite32(0x804D8CD4, LI_R3_1); // Disable hardcoded check for Purple comets
@@ -90,10 +90,10 @@ namespace neo {
 			&& GameDataFunction::calcTicoCoinNum() >= 8;
 	}
 
-#if defined(PAL) || defined(USA) || defined(JPN)
+#if defined(SB4P) || defined(SB4E) || defined(SB4J)
 	kmBranch(0x804D2D90, isUnlockGreenStars);
 	kmCall(0x804D82A4, isUnlockGreenStars);
-#elif defined(TWN) || defined(KOR)
+#elif defined(SB4W) || defined(SB4K)
 	kmBranch(0x804D2E20, isUnlockGreenStars);
 	kmCall(0x804D8334, isUnlockGreenStars);
 #endif
