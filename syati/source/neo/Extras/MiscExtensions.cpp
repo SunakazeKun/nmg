@@ -1,74 +1,100 @@
-#include "syati.h"
+#include "Game/Util/ActorSensorUtil.h"
+#include "Game/Util/LiveActorUtil.h"
+#include "Game/Util/SceneUtil.h"
+#include "kamek/hooks.h"
 #include "neo/core.h"
 
 namespace {
-	/*****************************************************************************************************************/
-	/* Coins don't replenish health                                                                                  */
-	/*****************************************************************************************************************/
-	// kmWrite32(0x80023AE4, NOP);
+    // =================================================================================================================
+    // Don't disable IslandFleetGalaxy's intro camera
+    // =================================================================================================================
+
+    kmWrite32(0x80142C34, LI_R3_0);
+    kmWrite32(0x80451804, LI_R3_0);
 
 
-	/*****************************************************************************************************************/
-	/* Message responses                                                                                             */
-	/*****************************************************************************************************************/
-	// Petari
-	bool checkPetariPlayerAttacks(u32 msg) {
-		return MR::isMsgFreezeAttack(msg) || MR::isMsgInvincibleAttack(msg);
-	}
+    // ==================================================================================================================
+    // Skippable intro after collecting a Power Star
+    // ==================================================================================================================
 
-	kmCall(0x801E9B80, checkPetariPlayerAttacks);
-
-
-	// Pukupuku
-	bool checkPukupukuPlayerAttacks(u32 msg) {
-		return MR::isMsgYoshiProjectile(msg) || MR::isMsgInvincibleAttack(msg);
-	}
-
-	kmCall(0x801F17F4, checkPukupukuPlayerAttacks);
+    // GameDataFunction::setPowerStar
+#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+    kmWrite32(0x804D254C, 0x60000005);
+#elif defined(SB4W) || defined(SB4K)
+    kmWrite32(0x804D25DC, 0x60000005);
+#endif
 
 
-	/*****************************************************************************************************************/
-	/* Hide fix for Octopus                                                                                          */
-	/*****************************************************************************************************************/
-	kmWrite32(0x801DCBB4, 0x40820014);
+    // ==================================================================================================================
+    // Increase Coin receiver sensors count
+    // ==================================================================================================================
+
+    // Coin::init
+    kmWrite32(0x8028BDC4, 0x38C00008);
 
 
-	/*****************************************************************************************************************/
-	/* Cosmic Spirit also appears when playing as Luigi                                                              */
-	/*****************************************************************************************************************/
-	kmWrite32(0x80360D54, LI_R3_0); // SuperDreamer::init ignores Luigi
-	kmWrite32(0x804D7EAC, LI_R3_0); // GameSequenceFunction::isAllowDreamerInStage ignores Luigi
+    // ==================================================================================================================
+    // Adjust Warp Pipe clipping range
+    // ==================================================================================================================
+
+    bool extSetEarthenPipeClipping(const char* origStageCheck) {
+        register LiveActor* earthenPipe;
+        __asm {
+            mr earthenPipe, r28
+        }
+
+        if (MR::isEqualStageName(STAGE_GLOOMY_GALLEON_GALAXY)) {
+            MR::setClippingTypeSphere(earthenPipe, 2000.0f);
+            return false;
+        }
+        else {
+            return MR::isEqualStageName(origStageCheck);
+        }
+    }
+
+    // EarthenPipe::init
+    kmCall(0x80296F90, extSetEarthenPipeClipping);
 
 
-	/*****************************************************************************************************************/
-	/* Skippable intro after collecting a Power Star                                                                 */
-	/*****************************************************************************************************************/
-	kmWrite32(0x804D254C, 0x60000005);
+    // ==================================================================================================================
+    // Message responses
+    // ==================================================================================================================
+    
+    // Petari
+    bool extPetariCheckPlayerAttacks(u32 msg) {
+        return MR::isMsgFreezeAttack(msg) || MR::isMsgInvincibleAttack(msg);
+    }
+
+    kmCall(0x801E9B80, extPetariCheckPlayerAttacks);
 
 
-	/*****************************************************************************************************************/
-	/* Coin sensors count fix                                                                                        */
-	/*****************************************************************************************************************/
-	kmWrite32(0x8028BDC4, 0x38C00008);
+    // Pukupuku
+    bool extPukupukuCheckPlayerAttacks(u32 msg) {
+        return MR::isMsgYoshiProjectile(msg) || MR::isMsgInvincibleAttack(msg);
+    }
+
+    kmCall(0x801F17F4, extPukupukuCheckPlayerAttacks);
 
 
-	/*****************************************************************************************************************/
-	/* Clipping fix for Warp Pipes in Gloomy Galleon Galaxy                                                          */
-	/*****************************************************************************************************************/
-	bool checkEarthenPipeClipping(const char *origStageCheck) {
-		register LiveActor *earthenPipe;
-		__asm {
-			mr earthenPipe, r28
-		}
+    // ==================================================================================================================
+    // Fix Rocto hide behavior
+    // ==================================================================================================================
 
-		if (MR::isEqualStageName(STAGE_GLOOMY_GALLEON_GALAXY)) {
-			MR::setClippingTypeSphere(earthenPipe, 2000.0f);
-			return false;
-		}
-		else {
-			return MR::isEqualStageName(origStageCheck);
-		}
-	}
+    // OtaRock::tryToHide
+    kmWrite32(0x801DCBB4, 0x40820014);
 
-	kmCall(0x80296F90, checkEarthenPipeClipping);
+
+    // ==================================================================================================================
+    // Cosmic Spirit also appears when playing as Luigi
+    // ==================================================================================================================
+
+    // SuperDreamer::init
+    kmWrite32(0x80360D54, LI_R3_0);
+
+    // GameSequenceFunction::isAllowDreamerInStage
+#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+    kmWrite32(0x804D7EAC, LI_R3_0);
+#elif defined(SB4W) || defined(SB4K)
+    kmWrite32(0x804D7F3C, LI_R3_0);
+#endif
 }

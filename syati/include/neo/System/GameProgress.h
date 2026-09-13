@@ -1,6 +1,8 @@
 #pragma once
 
-#include "syati.h"
+#include "revolution.h"
+
+class UserFile;
 
 namespace neo {
     enum GameProgress {

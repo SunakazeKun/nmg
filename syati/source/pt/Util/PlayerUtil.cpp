@@ -8,11 +8,11 @@
 */
 
 namespace pt {
-	bool isPlayerElementMode(s32 mode) {
-		return MarioAccess::getPlayerActor()->mPlayerMode == mode;
-	}
+    bool isPlayerElementMode(s32 mode) {
+        return MarioAccess::getPlayerActor()->mPlayerMode == mode;
+    }
 
-	bool isPlayerSkating() {
-		return MarioAccess::getPlayerActor()->mMario->isStatusActive(MARIO_SKATE);
-	}
+    bool isPlayerSkating() {
+        return MarioAccess::getPlayerActor()->mMario->isStatusActive(MARIO_SKATE);
+    }
 }

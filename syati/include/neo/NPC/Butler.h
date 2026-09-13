@@ -1,6 +1,6 @@
 #pragma once
 
-#include "syati.h"
+#include "Game/NPC/NPCActor.h"
 
 namespace neo {
     class Butler : public NPCActor {

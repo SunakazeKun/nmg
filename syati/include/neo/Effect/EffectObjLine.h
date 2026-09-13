@@ -1,6 +1,6 @@
 #pragma once
 
-#include "syati.h"
+#include "Game/LiveActor/LiveActor.h"
 
 namespace neo {
     class EffectObjLinePoint;
@@ -41,6 +41,6 @@ namespace neo {
         EffectObjLine* mHost;
         PointType mPointType;
         f32 mPathCoord;
-		TPos3f mEffectMtx;
+        TPos3f mEffectMtx;
     };
 };

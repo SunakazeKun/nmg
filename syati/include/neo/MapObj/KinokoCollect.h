@@ -1,6 +1,6 @@
 #pragma once
 
-#include "syati.h"
+#include "Game/LiveActor/LiveActor.h"
 
 #define KINOKO_COLLECT_APPEAR_FIX 0
 #define KINOKO_COLLECT_APPEAR_THROW 1
@@ -8,6 +8,8 @@
 #define KINOKO_COLLECT_POSE_ROTATE 1
 #define KINOKO_COLLECT_POSE_GRAVITY 2
 #define KINOKO_COLLECT_POSE_CONNECTOR 4
+
+class MapObjConnector;
 
 namespace neo {
     enum KinokoCollectKind {

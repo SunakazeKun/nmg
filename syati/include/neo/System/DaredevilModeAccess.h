@@ -1,6 +1,8 @@
 #pragma once
 
-#include "syati.h"
+#include "revolution.h"
+
+class UserFile;
 
 namespace neo {
     bool isDaredevilMode();
@@ -10,6 +12,4 @@ namespace neo {
 
     bool tryOnDaredevilMode();
     bool tryOffDaredevilMode();
-
-    void changeMarioItemStatusIfNotDaredevil(s32 status);
 };

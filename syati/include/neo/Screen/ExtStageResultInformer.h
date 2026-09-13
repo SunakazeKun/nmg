@@ -1,11 +1,4 @@
-#include "syati.h"
-
-namespace {
-    void exeStageResultInformerExtAppearGetStamp(StageResultInformer *pActor);
-    void exeStageResultInformerExtCountUpStamp(StageResultInformer *pActor);
-    void exeStageResultInformerExtDisplayGetStamp(StageResultInformer *pActor);
-    void exeStageResultInformerExtDisappearGetStamp(StageResultInformer *pActor);
-};
+#include "Game/Screen/StageResultInformer.h"
 
 namespace neo {
     namespace NrvStageResultInformerExt {

@@ -1,73 +1,81 @@
 #include "neo/System/IllustItemAccess.h"
+#include "Game/System/AllData/GameDataFunction.h"
+#include "Game/System/AllData/GameSequenceFunction.h"
+#include "Game/System/AllData/SaveDataHandleSequence.h"
+#include "Game/System/GameData/UserFile.h"
+#include "Game/System/GameSequenceInGame.h"
+#include "Game/System/PlayResultInStageHolder.h"
 
 namespace neo {
-	/*********************************************************************************************************************/
-	/* Temporary in-stage item collection handling                                                                       */
-	/*********************************************************************************************************************/
-	bool isIllustItemInTempStageGet() {
-		PlayResultInStageHolder* playResult = GameSequenceFunction::getGameSequenceInGame()->getPlayResultInStageHolder();
-		return playResult->_63 & (IN_TEMP_STAGE_ILLUST_ITEM_FLAG_COLLECTED | IN_TEMP_STAGE_ILLUST_ITEM_FLAG_SAVED);
-	}
+    // =================================================================================================================
+    // Temporary in-stage item collection handling
+    // =================================================================================================================
 
-	bool isIllustItemInTempStageCollected() {
-		PlayResultInStageHolder* playResult = GameSequenceFunction::getGameSequenceInGame()->getPlayResultInStageHolder();
-		return playResult->_63 & IN_TEMP_STAGE_ILLUST_ITEM_FLAG_COLLECTED;
-	}
+    bool isIllustItemInTempStageGet() {
+        PlayResultInStageHolder* playResult = GameSequenceFunction::getGameSequenceInGame()->getPlayResultInStageHolder();
+        return playResult->_63 & (IN_TEMP_STAGE_ILLUST_ITEM_FLAG_COLLECTED | IN_TEMP_STAGE_ILLUST_ITEM_FLAG_SAVED);
+    }
 
-	bool isIllustItemInTempStageNotify() {
-		PlayResultInStageHolder* playResult = GameSequenceFunction::getGameSequenceInGame()->getPlayResultInStageHolder();
-		return playResult->_63 & IN_TEMP_STAGE_ILLUST_ITEM_FLAG_NOTIFY;
-	}
+    bool isIllustItemInTempStageCollected() {
+        PlayResultInStageHolder* playResult = GameSequenceFunction::getGameSequenceInGame()->getPlayResultInStageHolder();
+        return playResult->_63 & IN_TEMP_STAGE_ILLUST_ITEM_FLAG_COLLECTED;
+    }
 
-	void collectIllustItemInTempStage() {
-		PlayResultInStageHolder* playResult = GameSequenceFunction::getGameSequenceInGame()->getPlayResultInStageHolder();
-		playResult->_63 |= IN_TEMP_STAGE_ILLUST_ITEM_FLAG_COLLECTED;
-	}
+    bool isIllustItemInTempStageNotify() {
+        PlayResultInStageHolder* playResult = GameSequenceFunction::getGameSequenceInGame()->getPlayResultInStageHolder();
+        return playResult->_63 & IN_TEMP_STAGE_ILLUST_ITEM_FLAG_NOTIFY;
+    }
 
-	void tryIllustItemStoreAndNotifyInTempStage() {
-		PlayResultInStageHolder* playResult = GameSequenceFunction::getGameSequenceInGame()->getPlayResultInStageHolder();
+    void collectIllustItemInTempStage() {
+        PlayResultInStageHolder* playResult = GameSequenceFunction::getGameSequenceInGame()->getPlayResultInStageHolder();
+        playResult->_63 |= IN_TEMP_STAGE_ILLUST_ITEM_FLAG_COLLECTED;
+    }
 
-		if (playResult->_63 & IN_TEMP_STAGE_ILLUST_ITEM_FLAG_COLLECTED) {
-			playResult->_63 |= IN_TEMP_STAGE_ILLUST_ITEM_FLAG_SAVED;
+    void tryIllustItemStoreAndNotifyInTempStage() {
+        PlayResultInStageHolder* playResult = GameSequenceFunction::getGameSequenceInGame()->getPlayResultInStageHolder();
 
-			if (!isOnGalaxyFlagIllustItem(playResult->mStageName)) {
-				playResult->_63 |= IN_TEMP_STAGE_ILLUST_ITEM_FLAG_NOTIFY;
-			}
-		}
-	}
+        if (playResult->_63 & IN_TEMP_STAGE_ILLUST_ITEM_FLAG_COLLECTED) {
+            playResult->_63 |= IN_TEMP_STAGE_ILLUST_ITEM_FLAG_SAVED;
+
+            if (!isOnGalaxyFlagIllustItem(playResult->mStageName)) {
+                playResult->_63 |= IN_TEMP_STAGE_ILLUST_ITEM_FLAG_NOTIFY;
+            }
+        }
+    }
 
 
-	/*********************************************************************************************************************/
-	/* Galaxy item collection flags                                                                                      */
-	/*********************************************************************************************************************/
-	bool isOnGalaxyFlagIllustItem(const char *pStageName) {
-		GameDataSomeGalaxyStorage* storage = GameDataFunction::makeSomeGalaxyStorage(pStageName);
-		return storage->mFlag & SOME_GALAXY_STORAGE_FLAG_ILLUST_ITEM;
-	}
+    // =================================================================================================================
+    // Galaxy item collection flags
+    // =================================================================================================================
 
-	void onGalaxyFlagIllustItem(const char *pStageName) {
-		GameDataSomeGalaxyStorage* storage = GameDataFunction::makeSomeGalaxyStorage(pStageName);
-		storage->mFlag |= SOME_GALAXY_STORAGE_FLAG_ILLUST_ITEM;
-	}
+    bool isOnGalaxyFlagIllustItem(const char *pStageName) {
+        GameDataSomeGalaxyStorage* storage = GameDataFunction::makeSomeGalaxyStorage(pStageName);
+        return storage->mFlag & SOME_GALAXY_STORAGE_FLAG_ILLUST_ITEM;
+    }
 
-	s32 calcIllustItemNum() {
-		UserFile* userFile = GameDataFunction::getSaveDataHandleSequence()->getCurrentUserFile();
-		GameDataAllGalaxyStorage* allGalaxyStorage = userFile->mGameDataHolder->mAllGalaxyStorage;
+    void onGalaxyFlagIllustItem(const char *pStageName) {
+        GameDataSomeGalaxyStorage* storage = GameDataFunction::makeSomeGalaxyStorage(pStageName);
+        storage->mFlag |= SOME_GALAXY_STORAGE_FLAG_ILLUST_ITEM;
+    }
 
-		s32 illustItemNum = 0;
+    s32 calcIllustItemNum() {
+        UserFile* userFile = GameDataFunction::getSaveDataHandleSequence()->getCurrentUserFile();
+        GameDataAllGalaxyStorage* allGalaxyStorage = userFile->mGameDataHolder->mAllGalaxyStorage;
 
-		for (int i = 0; i < allGalaxyStorage->mNumGalaxies; i++) {
-			if (allGalaxyStorage->mGalaxyStorages[i]->mFlag & SOME_GALAXY_STORAGE_FLAG_ILLUST_ITEM) {
-				illustItemNum++;
-			}
-		}
+        s32 illustItemNum = 0;
 
-		return illustItemNum;
-	}
+        for (int i = 0; i < allGalaxyStorage->mNumGalaxies; i++) {
+            if (allGalaxyStorage->mGalaxyStorages[i]->mFlag & SOME_GALAXY_STORAGE_FLAG_ILLUST_ITEM) {
+                illustItemNum++;
+            }
+        }
 
-	bool hasIllustItemAndTicoCoinInStage(const char *pStageName) {
-		GameDataSomeGalaxyStorage* storage = GameDataFunction::makeSomeGalaxyStorage(pStageName);
-		u8 mask = SOME_GALAXY_STORAGE_FLAG_TICO_COIN | SOME_GALAXY_STORAGE_FLAG_ILLUST_ITEM;
-		return (storage->mFlag & mask) == mask;
-	}
+        return illustItemNum;
+    }
+
+    bool hasIllustItemAndTicoCoinInStage(const char *pStageName) {
+        GameDataSomeGalaxyStorage* storage = GameDataFunction::makeSomeGalaxyStorage(pStageName);
+        u8 mask = SOME_GALAXY_STORAGE_FLAG_TICO_COIN | SOME_GALAXY_STORAGE_FLAG_ILLUST_ITEM;
+        return (storage->mFlag & mask) == mask;
+    }
 }

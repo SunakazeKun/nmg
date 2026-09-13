@@ -1,72 +1,79 @@
-#include "syati.h"
+#include "Game/NPC/TalkMessageInfo.h"
+#include "kamek/hooks.h"
+
+// TODO: Fix balloon type ID
 
 namespace {
-	/*****************************************************************************************************************/
-	/* Talk type that displays "Read" instead of "Talk"                                                              */
-	/*****************************************************************************************************************/
-	bool isMsgOpenWithRead(TalkMessageInfo *pInfo) {
-		return pInfo->mBalloonType == 3 || pInfo->mBalloonType == 5;
-	}
+    // ==================================================================================================================
+    // Talk type that displays "Read" instead of "Talk"
+    // ==================================================================================================================
 
-	kmCall(0x8037CA9C, isMsgOpenWithRead);
+    bool extTalkStateNormal_prep(TalkMessageInfo *pInfo) {
+        return pInfo->mBalloonType == 3 || pInfo->mBalloonType == 5;
+    }
 
-
-	/*****************************************************************************************************************/
-	/* Integrate for new "YesNo" branch labels                                                                       */
-	/*****************************************************************************************************************/
-	const char* getExtBranchLabel() {
-		register s32 branchId;
-		__asm {
-			mr branchId, r0
-		}
-
-		switch (branchId) {
-		case 18:
-			return "HelperWitchDaredevil";
-		case 19:
-			return "HelperWitchPlayer";
-		default:
-			return NULL;
-		}
-	}
-
-	kmCall(0x8037B670, getExtBranchLabel);
+    kmCall(0x8037CA9C, extTalkStateNormal_prep);
 
 
-	/*****************************************************************************************************************/
-	/* Adjust sounds for new YesNo options                                                                           */
-	/*****************************************************************************************************************/
-	bool isExtSelectYesNo() {
-		register s32 branchId;
-		__asm {
-			mr branchId, r0
-		}
+    // ==================================================================================================================
+    // Integrate new YesNo button labels
+    // ==================================================================================================================
 
-		switch (branchId) {
-		case 18:
-			return false;
-		case 19:
-			return false;
-		default:
-			return true;
-		}
-	}
+    const char* extTalkMessageCtrl_getBranchID() {
+        register s32 branchId;
+        __asm {
+            mr branchId, r0
+        }
 
-	kmCall(0x8037B618, isExtSelectYesNo);
+        switch (branchId) {
+        case 18:
+            return "HelperWitchDaredevil";
+        case 19:
+            return "HelperWitchPlayer";
+        default:
+            return nullptr;
+        }
+    }
+
+    kmCall(0x8037B670, extTalkMessageCtrl_getBranchID);
 
 
-	/*****************************************************************************************************************/
-	/* Ruby spacing fix (3.0 -> -2.0)                                                                                */
-	/*****************************************************************************************************************/
+    // ==================================================================================================================
+    // Adjust sounds for new YesNo options
+    // ==================================================================================================================
+
+    bool extTalkMessageCtrl_isSelectYesNo() {
+        register s32 branchId;
+        __asm {
+            mr branchId, r0
+        }
+
+        switch (branchId) {
+        case 18:
+            return false;
+        case 19:
+            return false;
+        default:
+            return true;
+        }
+    }
+
+    kmCall(0x8037B618, extTalkMessageCtrl_isSelectYesNo);
+
+
+    // ==================================================================================================================
+    // Ruby spacing fix (3.0 -> -2.0)
+    // ==================================================================================================================
+
 #if defined(SB4P)
-	kmWrite32(0x807E6A24, 0xC0000000);
+    kmWrite32(0x807E6A24, 0xC0000000);
 #elif defined(SB4E)
-	kmWrite32(0x807E1324, 0xC0000000);
+    kmWrite32(0x807E1324, 0xC0000000);
 #elif defined(SB4J)
-	kmWrite32(0x807E0AE4, 0xC0000000);
+    kmWrite32(0x807E0AE4, 0xC0000000);
 #elif defined(SB4W)
-	kmWrite32(0x8073A944, 0xC0000000);
+    kmWrite32(0x8073A944, 0xC0000000);
 #elif defined(SB4K)
-	kmWrite32(0x807394E4, 0xC0000000);
+    kmWrite32(0x807394E4, 0xC0000000);
 #endif
 }

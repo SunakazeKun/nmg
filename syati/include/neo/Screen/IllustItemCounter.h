@@ -1,37 +1,39 @@
 #pragma once
 
-#include "syati.h"
+#include "Game/Screen/LayoutActor.h"
+
+class CounterLayoutAppearer;
 
 namespace neo {
-	class IllustItemCounter : public LayoutActor {
-	public:
-		IllustItemCounter();
+    class IllustItemCounter : public LayoutActor {
+    public:
+        IllustItemCounter();
 
-		virtual void init(const JMapInfoIter &rIter);
-		virtual void appear();
-		virtual void control();
+        virtual void init(const JMapInfoIter &rIter);
+        virtual void appear();
+        virtual void control();
 
-		void forceAppear();
-		void disappear();
-		bool isWait();
-		void exeHidden();
-		void exeAppear();
-		void exeWait();
-		void exeFlash();
-		void exeDisappear();
+        void forceAppear();
+        void disappear();
+        bool isWait();
+        void exeHidden();
+        void exeAppear();
+        void exeWait();
+        void exeFlash();
+        void exeDisappear();
 
-		CounterLayoutAppearer* mAppearer;
-		bool mAlreadyShown;
-		bool mForceAppear;
-	};
+        CounterLayoutAppearer* mAppearer;
+        bool mAlreadyShown;
+        bool mForceAppear;
+    };
 
-	namespace NrvIllustItemCounter {
-		NERVE(NrvHidden);
-		NERVE(NrvAppear);
-		NERVE(NrvWait);
-		NERVE(NrvFlash);
-		NERVE(NrvDisappear);
-	};
+    namespace NrvIllustItemCounter {
+        NERVE(NrvHidden);
+        NERVE(NrvAppear);
+        NERVE(NrvWait);
+        NERVE(NrvFlash);
+        NERVE(NrvDisappear);
+    };
 };
 
 #define NrvIllustItemCounterHidden &neo::NrvIllustItemCounter::NrvHidden::sInstance

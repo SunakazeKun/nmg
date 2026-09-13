@@ -1,6 +1,6 @@
 #pragma once
 
-#include "syati.h"
+#include "Game/NPC/NPCActor.h"
 
 #define HELPER_WITCH_EVENT_DAREDEVIL_MODE_ON 0
 #define HELPER_WITCH_EVENT_DAREDEVIL_MODE_OFF 1

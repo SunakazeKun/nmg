@@ -1,105 +1,140 @@
-#include "neo/Extras/GreenStarNoBootOut.h"
+#include "Game/MapObj/PowerStar.h"
+#include "Game/System/AllData/GalaxyStatusAccessor.h"
+#include "Game/System/AllData/GameDataFunction.h"
+#include "Game/System/AllData/GameSequenceFunction.h"
+#include "Game/Util/ActionSoundUtil.h"
+#include "Game/Util/ActorSensorUtil.h"
+#include "Game/Util/DemoUtil.h"
+#include "Game/Util/EventUtil.h"
+#include "Game/Util/LiveActorUtil.h"
+#include "Game/Util/ObjUtil.h"
+#include "Game/Util/PlayerUtil.h"
+#include "Game/Util/SceneUtil.h"
 #include "neo/System/InStageSave.h"
-
-
-namespace neo {
-	void GreenStarExeGot(PowerStar *pStar) {
-		pStar->processWait(30.0f);
-
-		if (MR::isFirstStep(pStar)) {
-			MR::tryRumblePadMiddle(pStar, 0);
-			MR::startActionSound(pStar, "SyStarGet", -1, -1, -1);
-		}
-
-		if (MR::isStep(pStar, 20) && !MR::isPlayerDead()) {
-			MR::tryStartDemo(pStar, "GreenStarDemo");
-			GameDataFunction::setPowerStar(MR::getCurrentStageName(), pStar->mPowerStarId);
-			neo::performSaveInStage();
-		}
-
-		if (MR::isGreaterEqualStep(pStar, 20) && !GameSequenceFunction::isActiveSaveDataHandleSequence()) {
-			if (MR::isDemoActive("GreenStarDemo")) {
-				MR::endDemo(pStar, "GreenStarDemo");
-			}
-
-			pStar->setNerve(NrvGreenStarGotDisappear);
-		}
-	}
-
-	void GreenStarExeGotDisappear(PowerStar *pStar) {
-		pStar->processWait(30.0f);
-
-		f32 xz = MR::calcNerveValue(pStar, 20, 1.0f, 0.0001f);
-		f32 y = MR::calcNerveValue(pStar, 20, 1.0f, 5.0f);
-
-		pStar->mScale.set(xz, y, xz);
-
-		if (MR::isGreaterEqualStep(pStar, 20)) {
-			pStar->makeActorDead();
-		}
-	}
-
-	namespace NrvGreenStar {
-		void NrvGot::execute(Spine *pSpine) const {
-			PowerStar* pActor = (PowerStar*)pSpine->mExecutor;
-			GreenStarExeGot(pActor);
-		}
-
-		void NrvGotDisappear::execute(Spine *pSpine) const {
-			PowerStar* pActor = (PowerStar*)pSpine->mExecutor;
-			GreenStarExeGotDisappear(pActor);
-		}
-
-		NrvGot(NrvGot::sInstance);
-		NrvGotDisappear(NrvGotDisappear::sInstance);
-	}
-}
+#include "kamek/hooks.h"
 
 namespace {
-	bool tryDoStarGet(PowerStar* pStar) {
-		if (MR::isPowerStarGreenInCurrentStage(pStar->mPowerStarId)) {
-			const char* stageName = MR::getCurrentStageName();
-			s32 scenarioNo = MR::getCurrentScenarioNo();
-			GalaxyStatusAccessor gsa = MR::makeGalaxyStatusAccessor(stageName);
+    // =================================================================================================================
+    // Green Star nerves
+    // =================================================================================================================
 
-			s32 greenStarsScenarioTotal = 0;
-			s32 greenStarsScenarioOwned = 0;
+    void GreenStar__exeGot(PowerStar* pStar);
+    void GreenStar__exeGotDisappear(PowerStar* pStar);
 
-			for (int i = 0; i < gsa.getPowerStarNum(); i++) {
-				s32 starId = i + 1;
+    namespace NrvGreenStar {
+        NERVE(NrvGot);
+        NERVE(NrvGotDisappear);
 
-				if (gsa.isGreenStar(starId) && gsa.isExistPowerStarAtScenario(scenarioNo, starId)) {
-					greenStarsScenarioTotal++;
+        NrvGot(NrvGot::sInstance);
+        NrvGotDisappear(NrvGotDisappear::sInstance);
 
-					if (gsa.hasPowerStar(starId)) {
-						greenStarsScenarioOwned++;
-					}
-				}
-			}
+        void NrvGot::execute(Spine* pSpine) const {
+            PowerStar* pActor = (PowerStar*)pSpine->mExecutor;
+            GreenStar__exeGot(pActor);
+        }
 
-			if ((greenStarsScenarioTotal - greenStarsScenarioOwned) > 1) {
-				if (pStar->isEndAppearDemo()) {
-					MR::invalidateHitSensors(pStar);
-					pStar->setNerve(NrvGreenStarGot);
-				}
-				return true;
-			}
-		}
-		
-		return false;
-	}
+        void NrvGotDisappear::execute(Spine* pSpine) const {
+            PowerStar* pActor = (PowerStar*)pSpine->mExecutor;
+            GreenStar__exeGotDisappear(pActor);
+        }
 
-	bool canStarMsgRushTakeOver(PowerStar* pStar, u32 msg) {
-		return MR::isMsgIsRushTakeOver(msg) ? !tryDoStarGet(pStar) : false;
-	}
-
-	kmWrite32(0x802E0000, 0x60000000);
-	kmCall(0x802E0008, canStarMsgRushTakeOver);
+#define NrvGreenStarGot &::NrvGreenStar::NrvGot::sInstance
+#define NrvGreenStarGotDisappear &::NrvGreenStar::NrvGotDisappear::sInstance
+    }
 
 
-	bool doGetStar(PowerStar* pStar, const Nerve* pNerve) {
-		return tryDoStarGet(pStar) ? false : pStar->isNerve(pNerve);
-	}
+    // =================================================================================================================
+    // Green Star execution
+    // =================================================================================================================
 
-	kmCall(0x802E0034, doGetStar);
+    void GreenStar__exeGot(PowerStar *pStar) {
+        pStar->processWait(30.0f);
+
+        if (MR::isFirstStep(pStar)) {
+            MR::tryRumblePadMiddle(pStar, 0);
+            MR::startActionSound(pStar, "SyStarGet", -1, -1, -1);
+        }
+
+        if (MR::isStep(pStar, 20) && !MR::isPlayerDead()) {
+            MR::tryStartDemo(pStar, "GreenStarDemo");
+            GameDataFunction::setPowerStar(MR::getCurrentStageName(), pStar->mPowerStarId);
+            neo::performSaveInStage();
+        }
+
+        if (MR::isGreaterEqualStep(pStar, 20) && !GameSequenceFunction::isActiveSaveDataHandleSequence()) {
+            if (MR::isDemoActive("GreenStarDemo")) {
+                MR::endDemo(pStar, "GreenStarDemo");
+            }
+
+            pStar->setNerve(NrvGreenStarGotDisappear);
+        }
+    }
+
+    void GreenStar__exeGotDisappear(PowerStar *pStar) {
+        pStar->processWait(30.0f);
+
+        f32 xz = MR::calcNerveValue(pStar, 20, 1.0f, 0.0001f);
+        f32 y = MR::calcNerveValue(pStar, 20, 1.0f, 5.0f);
+
+        pStar->mScale.set(xz, y, xz);
+
+        if (MR::isGreaterEqualStep(pStar, 20)) {
+            pStar->makeActorDead();
+        }
+    }
+
+
+    // =================================================================================================================
+    // Get Power Star overrides
+    // =================================================================================================================
+
+    bool tryDoStarGet(PowerStar* pStar) {
+        if (MR::isPowerStarGreenInCurrentStage(pStar->mPowerStarId)) {
+            const char* stageName = MR::getCurrentStageName();
+            s32 scenarioNo = MR::getCurrentScenarioNo();
+
+            GalaxyStatusAccessor gsa = MR::makeGalaxyStatusAccessor(stageName);
+
+            s32 greenStarsScenarioTotal = 0;
+            s32 greenStarsScenarioOwned = 0;
+
+            for (int i = 0; i < gsa.getPowerStarNum(); i++) {
+                s32 starId = i + 1;
+
+                if (gsa.isGreenStar(starId) && gsa.isExistPowerStarAtScenario(scenarioNo, starId)) {
+                    greenStarsScenarioTotal++;
+
+                    if (gsa.hasPowerStar(starId)) {
+                        greenStarsScenarioOwned++;
+                    }
+                }
+            }
+
+            if ((greenStarsScenarioTotal - greenStarsScenarioOwned) > 1) {
+                if (pStar->isEndAppearDemo()) {
+                    MR::invalidateHitSensors(pStar);
+                    pStar->setNerve(NrvGreenStarGot);
+                }
+                return true;
+            }
+        }
+        
+        return false;
+    }
+
+    bool canStarMsgRushTakeOver(PowerStar* pStar, u32 msg) {
+        return MR::isMsgIsRushTakeOver(msg) ? !tryDoStarGet(pStar) : false;
+    }
+
+    // PowerStar::receiveOtherMsg
+    kmWrite32(0x802E0000, 0x60000000);
+    kmCall(0x802E0008, canStarMsgRushTakeOver);
+
+
+    bool doGetStar(PowerStar* pStar, const Nerve* pNerve) {
+        return tryDoStarGet(pStar) ? false : pStar->isNerve(pNerve);
+    }
+
+    // PowerStar::receiveOtherMsg
+    kmCall(0x802E0034, doGetStar);
 }

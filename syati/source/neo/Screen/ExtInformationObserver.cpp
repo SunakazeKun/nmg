@@ -1,106 +1,125 @@
 #include "neo/Screen/ExtInformationObserver.h"
+#include "Game/System/AllData/GameDataFunction.h"
+#include "Game/Scene/SceneObjHolder.h"
+#include "Game/Util/BgmUtil.h"
+#include "Game/Util/DemoUtil.h"
+#include "Game/Util/GamePadUtil.h"
+#include "Game/Util/LiveActorUtil.h"
+#include "Game/Util/ScreenUtil.h"
+#include "kamek/hooks.h"
 #include "neo/core.h"
 
+#define INFORMATION_OBSERVER_EXT_ILLUST_ITEM 0
+
 namespace {
-	const InformationObserverExtInfo cInformationObserverExtInfos[] = {
-		{ "InformationObserverStamp", false, NULL, NULL }
-	};
+    struct InformationObserverExtInfo {
+        const char* mMessageName;
+        bool _1;
+        const char* mDispBgmName;
+        const char* mAfterBgmName;
+    };
 
-	const s32 cInformationObserverExtInfosCount = sizeof(cInformationObserverExtInfos) / sizeof(InformationObserverExtInfo);
+    const InformationObserverExtInfo cInformationObserverExtInfos[] = {
+        { "InformationObserverStamp", false, nullptr, nullptr }
+    };
 
-	// ----------------------------------------------------------------------------------------------------------------
+    const s32 cInformationObserverExtInfosCount = sizeof(cInformationObserverExtInfos) / sizeof(InformationObserverExtInfo);
 
-	const Nerve* getNerveForInformationObserverExt(s32 extType) {
-		switch (extType) {
-		case INFORMATION_OBSERVER_EXT_ILLUST_ITEM:
-			return NrvInformationObserverExtDispIllustItem;
-		default:
-			return NULL;
-		}
-	}
+    // -----------------------------------------------------------------------------------------------------------------
 
-	typedef bool (*BoolFunc)(void);
+    const Nerve* getNerveForInformationObserverExt(s32 extType) {
+        switch (extType) {
+        case INFORMATION_OBSERVER_EXT_ILLUST_ITEM:
+            return NrvInformationObserverExtDispIllustItem;
+        default:
+            return nullptr;
+        }
+    }
 
-	void setupInformationObserverExt(InformationObserver *pActor, s32 extType, LiveActor *pHost, bool pauseTimeKeepHostDemo) {
-		pActor->mHost = pHost;
-		pActor->mPauseTimeKeepHostDemo = false;
+    typedef bool (*BoolFunc)(void);
 
-		const Nerve* pNerve = ::getNerveForInformationObserverExt(extType);
+    void setupInformationObserverExt(InformationObserver *pActor, s32 extType, LiveActor *pHost, bool pauseTimeKeepHostDemo) {
+        pActor->mHost = pHost;
+        pActor->mPauseTimeKeepHostDemo = false;
 
-		// Too lazy to document the symbol
-		if (((BoolFunc)0x800210B0)()) {
-			if (pauseTimeKeepHostDemo) {
-				pActor->mPauseTimeKeepHostDemo = true;
-				MR::pauseTimeKeepDemo(pActor->mHost);
-			}
+        const Nerve* pNerve = ::getNerveForInformationObserverExt(extType);
 
-			pActor->setNerve(pNerve);
-		}
-		else {
-			MR::requestStartDemoWithoutCinemaFrame(pActor, "初出表\示", pNerve, &NrvInformationObserver::InformationObserverNrvWait::sInstance);
-		}
+        // Too lazy to document the symbol
+        if (((BoolFunc)0x800210B0)()) {
+            if (pauseTimeKeepHostDemo) {
+                pActor->mPauseTimeKeepHostDemo = true;
+                MR::pauseTimeKeepDemo(pActor->mHost);
+            }
 
-		pActor->makeActorAppeared();
-	}
+            pActor->setNerve(pNerve);
+        }
+        else {
+            MR::requestStartDemoWithoutCinemaFrame(pActor, "初出表\示", pNerve, &NrvInformationObserver::InformationObserverNrvWait::sInstance);
+        }
 
-	// ----------------------------------------------------------------------------------------------------------------
+        pActor->makeActorAppeared();
+    }
 
-	void exeInformationObserverDispExt(InformationObserver *pActor, s32 extType) {
-		InformationObserverExtInfo info = cInformationObserverExtInfos[extType];
+    // -----------------------------------------------------------------------------------------------------------------
 
-		if (MR::isFirstStep(pActor)) {
-			MR::appearInformationMessageUp(info.mMessageName, true);
-			MR::disableCloseInformationMessage();
+    void exeInformationObserverDispExt(InformationObserver *pActor, s32 extType) {
+        InformationObserverExtInfo info = cInformationObserverExtInfos[extType];
 
-			if (info.mDispBgmName) {
-				MR::stopSubBGM(0);
-				MR::startSubBGM(info.mDispBgmName, false);
-			}
+        if (MR::isFirstStep(pActor)) {
+            MR::appearInformationMessageUp(info.mMessageName, true);
+            MR::disableCloseInformationMessage();
 
-			pActor->mAButtonDelay = 30;
-		}
+            if (info.mDispBgmName) {
+                MR::stopSubBGM(0);
+                MR::startSubBGM(info.mDispBgmName, false);
+            }
 
-		if (pActor->mAButtonDelay >= 0) {
-			pActor->mAButtonDelay--;
-		}
+            pActor->mAButtonDelay = 30;
+        }
 
-		if (MR::testCorePadTriggerA(0) && pActor->mAButtonDelay < 0) {
-			if (info.mAfterBgmName) {
-				MR::startSubBGM(info.mAfterBgmName, false);
-			}
+        if (pActor->mAButtonDelay >= 0) {
+            pActor->mAButtonDelay--;
+        }
 
-			pActor->setNerve(&NrvInformationObserver::InformationObserverNrvEnd::sInstance);
-		}
-	}
+        if (MR::testCorePadTriggerA(0) && pActor->mAButtonDelay < 0) {
+            if (info.mAfterBgmName) {
+                MR::startSubBGM(info.mAfterBgmName, false);
+            }
 
-	// ----------------------------------------------------------------------------------------------------------------
+            pActor->setNerve(&NrvInformationObserver::InformationObserverNrvEnd::sInstance);
+        }
+    }
 
-	bool isInformationObserverActiveCheckNerve(InformationObserver *pActor) {
-		return !pActor->isNerve(&NrvInformationObserver::InformationObserverNrvWait::sInstance);
-	}
+    // -----------------------------------------------------------------------------------------------------------------
 
-	kmCall(0x80479CD8, isInformationObserverActiveCheckNerve);
+    bool isInformationObserverActiveCheckNerve(InformationObserver *pActor) {
+        return !pActor->isNerve(&NrvInformationObserver::InformationObserverNrvWait::sInstance);
+    }
+
+    kmCall(0x80479CD8, isInformationObserverActiveCheckNerve);
 }
 
+// ---------------------------------------------------------------------------------------------------------------------
+
 namespace neo {
-	bool explainIllustItemIfAtFirst(LiveActor *pHost) {
-		if (!GameDataFunction::isOnGameEventFlag(GAME_EVENT_FLAG_EXPLAIN_ILLUST_ITEM_AT_FIRST)) {
-			InformationObserver *pObserver = (InformationObserver*)MR::getSceneObjHolder()->getObj(SCENE_OBJ_INFORMATION_OBSERVER);
-			::setupInformationObserverExt(pObserver, INFORMATION_OBSERVER_EXT_ILLUST_ITEM, pHost, true);
+    bool explainIllustItemIfAtFirst(LiveActor *pHost) {
+        if (!GameDataFunction::isOnGameEventFlag(GAME_EVENT_FLAG_EXPLAIN_ILLUST_ITEM_AT_FIRST)) {
+            InformationObserver *pObserver = (InformationObserver*)MR::getSceneObjHolder()->getObj(SCENE_OBJ_INFORMATION_OBSERVER);
+            ::setupInformationObserverExt(pObserver, INFORMATION_OBSERVER_EXT_ILLUST_ITEM, pHost, true);
 
-			GameDataFunction::onGameEventFlag(GAME_EVENT_FLAG_EXPLAIN_ILLUST_ITEM_AT_FIRST);
-			return true;
-		}
+            GameDataFunction::onGameEventFlag(GAME_EVENT_FLAG_EXPLAIN_ILLUST_ITEM_AT_FIRST);
+            return true;
+        }
 
-		return false;
-	}
+        return false;
+    }
 
-	namespace NrvInformationObserverExt {
-		void NrvDispIllustItem::execute(Spine *pSpine) const {
-			InformationObserver *pActor = (InformationObserver*)pSpine->mExecutor;
-			::exeInformationObserverDispExt(pActor, INFORMATION_OBSERVER_EXT_ILLUST_ITEM);
-		}
+    namespace NrvInformationObserverExt {
+        NrvDispIllustItem(NrvDispIllustItem::sInstance);
 
-		NrvDispIllustItem(NrvDispIllustItem::sInstance);
-	}
+        void NrvDispIllustItem::execute(Spine *pSpine) const {
+            InformationObserver *pActor = (InformationObserver*)pSpine->mExecutor;
+            ::exeInformationObserverDispExt(pActor, INFORMATION_OBSERVER_EXT_ILLUST_ITEM);
+        }
+    }
 }

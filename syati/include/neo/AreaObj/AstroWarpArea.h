@@ -1,6 +1,7 @@
 #pragma once
 
-#include "syati.h"
+#include "Game/AreaObj/AreaObj.h"
+#include "Game/LiveActor/Spine.h"
 
 namespace neo {
     class AstroWarpArea : public AreaObj {

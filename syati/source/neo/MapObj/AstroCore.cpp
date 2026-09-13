@@ -1,29 +1,35 @@
 #include "neo/MapObj/AstroCore.h"
+#include "Game/Util/ActorInitUtil.h"
+#include "Game/Util/ActorSensorUtil.h"
+#include "Game/Util/ActorSwitchUtil.h"
+#include "Game/Util/ObjUtil.h"
 
 namespace neo {
-	AstroCore::AstroCore(const char *pName) : LiveActor(pName) {
-		mStarSpawned = false;
-	}
+    AstroCore::AstroCore(const char *pName)
+        : LiveActor(pName)
+    {
+        mStarSpawned = false;
+    }
 
-	void AstroCore::init(const JMapInfoIter &rIter) {
-		MR::processInitFunction(this, rIter, false);
+    void AstroCore::init(const JMapInfoIter &rIter) {
+        MR::processInitFunction(this, rIter, false);
 
-		if (MR::useStageSwitchReadA(this, rIter)) {
-			MR::declarePowerStar(this);
-			MR::listenStageSwitchOnA(this, MR::Functor(this, &appearPowerStar));
-		}
+        if (MR::useStageSwitchReadA(this, rIter)) {
+            MR::declarePowerStar(this);
+            MR::listenStageSwitchOnA(this, MR::Functor(this, &appearPowerStar));
+        }
 
-		makeActorAppeared();
-	}
+        makeActorAppeared();
+    }
 
-	void AstroCore::attackSensor(HitSensor *pSender, HitSensor *pReceiver) {
-		MR::sendMsgPush(pReceiver, pSender);
-	}
+    void AstroCore::attackSensor(HitSensor *pSender, HitSensor *pReceiver) {
+        MR::sendMsgPush(pReceiver, pSender);
+    }
 
-	void AstroCore::appearPowerStar() {
-		if (!mStarSpawned) {
-			MR::requestAppearPowerStar(this);
-			mStarSpawned = true;
-		}
-	}
+    void AstroCore::appearPowerStar() {
+        if (!mStarSpawned) {
+            MR::requestAppearPowerStar(this);
+            mStarSpawned = true;
+        }
+    }
 }

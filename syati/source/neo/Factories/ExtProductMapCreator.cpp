@@ -1,13 +1,10 @@
-#pragma once
-
+#include "Game/Map/ProductMapCreator.h"
+#include "Game/Util/StringUtil.h"
+#include "kamek/hooks.h"
 #include "neo/Effect/EffectObjLine.h"
 #include "neo/MapObj/PhantomShipBridge.h"
 #include "pt/MapObj/TransparentWall.h"
 
-/*
-* SMG2 actor class definitions for use with "NameObjFactory::createNameObj". We only need these declarations. The actual
-* templated functions already exist so the linker will do the remaining work for us.
-*/
 class AirFar100m;
 class AssemblyBlock;
 class BallOpener;
@@ -27,9 +24,14 @@ class WoodBox;
 
 namespace {
     template<typename T>
-    NameObj* createExtActor(const char *pName) {
+    NameObj* createExtActor(const char* pName) {
         return new T(pName);
     }
+
+
+    // =================================================================================================================
+    // Creator table extension
+    // =================================================================================================================
 
     const CreateActorEntry cNewCreateMapObjTable[] = {
         { "AirFar100m", NameObjFactory::createNameObj<AirFar100m> },
@@ -54,4 +56,28 @@ namespace {
     };
 
     const s32 cNewCreateMapObjTableCount = sizeof(cNewCreateMapObjTable) / sizeof(CreateActorEntry);
-};
+
+
+    // =================================================================================================================
+    // ProductMapCreator extension
+    // =================================================================================================================
+
+    CreateActorFunc* getProductMapCreator(ProductMapCreator *pFactory, const char *pName) {
+        CreateActorFunc* creator = pFactory->getProductMapCreator(pName);
+
+        if (!creator) {
+            for (s32 i = 0; i < cNewCreateMapObjTableCount; i++) {
+                const CreateActorEntry entry = cNewCreateMapObjTable[i];
+
+                if (MR::isEqualString(entry.pActorName, pName)) {
+                    creator = entry.mCreationFunc;
+                    break;
+                }
+            }
+        }
+
+        return creator;
+    }
+
+    kmCall(0x8026305C, getProductMapCreator);
+}

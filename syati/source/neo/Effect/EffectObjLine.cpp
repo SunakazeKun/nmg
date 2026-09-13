@@ -1,142 +1,155 @@
 #include "neo/Effect/EffectObjLine.h"
+#include "Game/Util/ActionSoundUtil.h"
+#include "Game/Util/ActorInitUtil.h"
+#include "Game/Util/ActorSwitchUtil.h"
+#include "Game/Util/EffectUtil.h"
+#include "Game/Util/JMapUtil.h"
+#include "Game/Util/LiveActorUtil.h"
+#include "Game/Util/MtxUtil.h"
+#include "Game/Util/ObjUtil.h"
+#include "Game/Util/RailUtil.h"
 
 namespace neo {
-	EffectObjLine::EffectObjLine(const char *pName) : LiveActor(pName) {
-		mGroupName = NULL;
-		mPointsArray = NULL;
-		mPointsCount = 0;
-	}
+    EffectObjLine::EffectObjLine(const char *pName)
+        : LiveActor(pName)
+    {
+        mGroupName = nullptr;
+        mPointsArray = nullptr;
+        mPointsCount = 0;
+    }
 
-	void EffectObjLine::init(const JMapInfoIter &rIter) {
-		MR::initDefaultPos(this, rIter);
-		MR::connectToSceneMapObjMovement(this);
+    void EffectObjLine::init(const JMapInfoIter &rIter) {
+        MR::initDefaultPos(this, rIter);
+        MR::connectToSceneMapObjMovement(this);
 
-		MR::getObjectName(&mGroupName, rIter);
-		initRailRider(rIter);
-		initPoints(rIter);
-		initClipping(rIter);
+        MR::getObjectName(&mGroupName, rIter);
+        initRailRider(rIter);
+        initPoints(rIter);
+        initClipping(rIter);
 
-		MR::useStageSwitchAwake(this, rIter);
-		MR::useStageSwitchSyncAppear(this, rIter);
-	}
+        MR::useStageSwitchAwake(this, rIter);
+        MR::useStageSwitchSyncAppear(this, rIter);
+    }
 
-	void EffectObjLine::initPoints(const JMapInfoIter &rIter) {
-		s32 middleCount = 0;
-		MR::getJMapInfoArg0NoInit(rIter, &middleCount);
+    void EffectObjLine::initPoints(const JMapInfoIter &rIter) {
+        s32 middleCount = 0;
+        MR::getJMapInfoArg0NoInit(rIter, &middleCount);
 
-		if (middleCount < 0) {
-			middleCount = 0;
-		}
+        if (middleCount < 0) {
+            middleCount = 0;
+        }
 
-		mPointsCount = 2 + middleCount;
-		mPointsArray = new EffectObjLinePoint*[mPointsCount];
+        mPointsCount = 2 + middleCount;
+        mPointsArray = new EffectObjLinePoint*[mPointsCount];
 
-		f32 totalLength = mRailRider->getTotalLength();
-		f32 dividedLength = totalLength / (mPointsCount - 1);
+        f32 totalLength = mRailRider->getTotalLength();
+        f32 dividedLength = totalLength / (mPointsCount - 1);
 
-		for (s32 i = 0; i < mPointsCount; i++) {
-			EffectObjLinePoint::PointType pointType;
+        for (s32 i = 0; i < mPointsCount; i++) {
+            EffectObjLinePoint::PointType pointType;
 
-			if (i == 0) {
-				pointType = EffectObjLinePoint::StartPoint;
-			}
-			else if (i == (mPointsCount - 1)) {
-				pointType = EffectObjLinePoint::EndPoint;
-			}
-			else {
-				pointType = EffectObjLinePoint::MiddlePoint;
-			}
+            if (i == 0) {
+                pointType = EffectObjLinePoint::StartPoint;
+            }
+            else if (i == (mPointsCount - 1)) {
+                pointType = EffectObjLinePoint::EndPoint;
+            }
+            else {
+                pointType = EffectObjLinePoint::MiddlePoint;
+            }
 
-			EffectObjLinePoint* point = new EffectObjLinePoint(this, pointType, i * dividedLength);
-			point->initWithoutIter();
-			mPointsArray[i] = point;
-		}
-	}
+            EffectObjLinePoint* point = new EffectObjLinePoint(this, pointType, i * dividedLength);
+            point->initWithoutIter();
+            mPointsArray[i] = point;
+        }
+    }
 
-	void EffectObjLine::initClipping(const JMapInfoIter &rIter) {
-		TVec3f dirStartToEnd = mRailRider->mEndPos - mRailRider->mStartPos;
-		f32 distStartEnd = PSVECMag(dirStartToEnd);
+    void EffectObjLine::initClipping(const JMapInfoIter &rIter) {
+        TVec3f dirStartToEnd = mRailRider->mEndPos - mRailRider->mStartPos;
+        f32 distStartEnd = PSVECMag(dirStartToEnd);
 
-		f32 clippingRadius = distStartEnd * 0.5f + 500.0f;
-		mTranslation = mRailRider->mStartPos + dirStartToEnd * 0.5f;
+        f32 clippingRadius = distStartEnd * 0.5f + 500.0f;
+        mTranslation = mRailRider->mStartPos + dirStartToEnd * 0.5f;
 
-		MR::setClippingTypeSphere(this, clippingRadius);
-		MR::setClippingFar50m(this);
-	}
+        MR::setClippingTypeSphere(this, clippingRadius);
+        MR::setClippingFar50m(this);
+    }
 
-	void EffectObjLine::makeActorAppeared() {
-		LiveActor::makeActorAppeared();
+    void EffectObjLine::makeActorAppeared() {
+        LiveActor::makeActorAppeared();
 
-		for (s32 i = 0; i < mPointsCount; i++) {
-			mPointsArray[i]->makeActorAppeared();
-		}
-	}
+        for (s32 i = 0; i < mPointsCount; i++) {
+            mPointsArray[i]->makeActorAppeared();
+        }
+    }
 
-	void EffectObjLine::makeActorDead() {
-		LiveActor::makeActorDead();
+    void EffectObjLine::makeActorDead() {
+        LiveActor::makeActorDead();
 
-		for (s32 i = 0; i < mPointsCount; i++) {
-			mPointsArray[i]->makeActorDead();
-		}
-	}
+        for (s32 i = 0; i < mPointsCount; i++) {
+            mPointsArray[i]->makeActorDead();
+        }
+    }
 
-	void EffectObjLine::startClipped() {
-		LiveActor::startClipped();
+    void EffectObjLine::startClipped() {
+        LiveActor::startClipped();
 
-		for (s32 i = 0; i < mPointsCount; i++) {
-			mPointsArray[i]->startClipped();
-		}
-	}
+        for (s32 i = 0; i < mPointsCount; i++) {
+            mPointsArray[i]->startClipped();
+        }
+    }
 
-	void EffectObjLine::endClipped() {
-		LiveActor::endClipped();
+    void EffectObjLine::endClipped() {
+        LiveActor::endClipped();
 
-		for (s32 i = 0; i < mPointsCount; i++) {
-			mPointsArray[i]->endClipped();
-		}
-	}
+        for (s32 i = 0; i < mPointsCount; i++) {
+            mPointsArray[i]->endClipped();
+        }
+    }
 
-	// ----------------------------------------------------------------------------------------------------------------
+    // ----------------------------------------------------------------------------------------------------------------
 
-	EffectObjLinePoint::EffectObjLinePoint(EffectObjLine *pHost, PointType pointType, f32 pathCoord) : LiveActor("EffectObjLinePoint") {
-		mHost = pHost;
-		mPointType = pointType;
-		mPathCoord = pathCoord;
-		mEffectMtx.identity();
-	}
+    EffectObjLinePoint::EffectObjLinePoint(EffectObjLine *pHost, PointType pointType, f32 pathCoord)
+        : LiveActor("EffectObjLinePoint")
+    {
+        mHost = pHost;
+        mPointType = pointType;
+        mPathCoord = pathCoord;
+        mEffectMtx.identity();
+    }
 
-	void EffectObjLinePoint::init(const JMapInfoIter &rIter) {
-		MR::connectToSceneMapObjMovement(this);
-		MR::invalidateClipping(this);
+    void EffectObjLinePoint::init(const JMapInfoIter &rIter) {
+        MR::connectToSceneMapObjMovement(this);
+        MR::invalidateClipping(this);
 
-		MR::calcRailPosAtCoord(&mTranslation, mHost, mPathCoord);
+        MR::calcRailPosAtCoord(&mTranslation, mHost, mPathCoord);
 
-		initEffectKeeper(0, mHost->mGroupName, false);
-		initSound(4, mHost->mGroupName, NULL, TVec3f(0.0f, 0.0f, 0.0f));
+        initEffectKeeper(0, mHost->mGroupName, false);
+        initSound(4, mHost->mGroupName, nullptr, TVec3f(0.0f, 0.0f, 0.0f));
 
-		MR::calcGravity(this);
-		MR::makeMtxUpNoSupportPos(&mEffectMtx, -mGravity, mTranslation);
-		MR::setEffectHostMtx(this, getTriggerName(), mEffectMtx);
+        MR::calcGravity(this);
+        MR::makeMtxUpNoSupportPos(&mEffectMtx, -mGravity, mTranslation);
+        MR::setEffectHostMtx(this, getTriggerName(), mEffectMtx);
 
-		makeActorAppeared();
-	}
+        makeActorAppeared();
+    }
 
-	void EffectObjLinePoint::control() {
-		const char* triggerName = getTriggerName();
-		MR::emitEffect(this, triggerName);
-		MR::startActionSound(this, triggerName, -1, -1, -1);
-	}
+    void EffectObjLinePoint::control() {
+        const char* triggerName = getTriggerName();
+        MR::emitEffect(this, triggerName);
+        MR::startActionSound(this, triggerName, -1, -1, -1);
+    }
 
-	const char* EffectObjLinePoint::getTriggerName() const {
-		switch (mPointType) {
-		case StartPoint:
-			return "Start";
-		case EndPoint:
-			return "End";
-		case MiddlePoint:
-			return "Middle";
-		}
+    const char* EffectObjLinePoint::getTriggerName() const {
+        switch (mPointType) {
+        case StartPoint:
+            return "Start";
+        case EndPoint:
+            return "End";
+        case MiddlePoint:
+            return "Middle";
+        }
 
-		return NULL;
-	}
+        return nullptr;
+    }
 };

@@ -1,11 +1,6 @@
-#include "syati.h"
+#include "Game/LiveActor/LiveActor.h"
 
-class StringSpider : public LiveActor {
-public:
-    StringSpider(const char *pName);
-
-    u8 _90[0xD0 - 0x90];
-};
+class StringSpider;
 
 namespace neo {
     class StringSpiderAttachPoint : public LiveActor {
