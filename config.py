@@ -87,6 +87,15 @@ PARTIAL_REPLACEMENTS = [
 # Deployment
 # ======================================================================================================================
 
+RIIVOLUTION_TARGETS = [
+    # ID    Region  ErrorMessageArchive address
+    ("SB4", "P",    0x8064E220),
+    ("SB4", "E",    0x8064E220),
+    ("SB4", "J",    0x8064E220),
+    ("SB4", "W",    None),  # TODO: Add SB4W ErrorMessageArchive address
+    ("SB4", "K",    None),  # TODO: Add SB4K ErrorMessageArchive address
+]
+
 IGNORE_FILES = [
     "/galaxies.json",
     "/objectdb.json",
