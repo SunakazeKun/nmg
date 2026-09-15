@@ -1,8 +1,14 @@
 #include "Game/Util/ActorSensorUtil.h"
+#include "Game/Util/JMapUtil.h"
 #include "Game/Util/LiveActorUtil.h"
 #include "Game/Util/SceneUtil.h"
 #include "kamek/hooks.h"
 #include "neo/core.h"
+
+
+extern "C" {
+	bool getJMapInfoArg6NoInit__2MRFRC12JMapInfoIterPb(const JMapInfoIter&, bool*);
+}
 
 namespace {
     // =================================================================================================================
@@ -54,6 +60,43 @@ namespace {
 
     // EarthenPipe::init
     kmCall(0x80296F90, extSetEarthenPipeClipping);
+
+
+	// ==================================================================================================================
+	// Penguins carry Gold Shells when Obj_arg6 is set
+	// 
+	// Expected registers:
+	//   - r3: RemovableTurtle*
+	//   - r5: bool "isGolden"
+	//   - r28: JMapInfoIter&
+	//   - r30: Penguin*
+	// ==================================================================================================================
+
+	static __asm void extPenguinInitGetRemovableTurtleType() {
+		nofralloc;
+		stwu r1, -0x10(r1);
+		mflr r0;
+		stw r0, 0x14(r1);
+
+		li r0, 0;
+		stb r0, 0x8(r1);
+		stw r3, 0xC(r1);
+
+		mr r3, r28;
+		addi r4, r1, 0x8;
+		bl getJMapInfoArg6NoInit__2MRFRC12JMapInfoIterPb;
+
+		lbz r5, 0x8(r1);
+		lwz r3, 0xC(r1);
+		mr r4, r30;
+
+		lwz r0, 0x14(r1);
+		mtlr r0;
+		addi r1, r1, 0x10;
+		blr;
+	}
+
+	kmCall(0x80357D3C, extPenguinInitGetRemovableTurtleType);
 
 
     // ==================================================================================================================
