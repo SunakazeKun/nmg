@@ -54,7 +54,6 @@ SOURCE_FILES = [
     "neo/Extras/PrologueChanges.cpp",
     "neo/Extras/ScoreAttackChanges.cpp",
     "neo/Extras/StarPieceColors.cpp",
-    "neo/Extras/StationedFileInfo.cpp",
     "neo/Extras/TalkChanges.cpp",
     "neo/Extras/UnlockLuigi.cpp",
     "neo/Factories/ExtNameObjFactory.cpp",
@@ -83,6 +82,7 @@ SOURCE_FILES = [
     "neo/System/IllustItemAccess.cpp",
     "neo/System/IllustItemExtensions.cpp",
     "neo/System/InStageSave.cpp",
+    "neo/System/StationedFileInfo.cpp",
 
     "pt/Enemy/Anagon.cpp",
     "pt/Enemy/BallBeamer.cpp",
