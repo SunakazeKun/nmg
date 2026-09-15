@@ -1,6 +1,6 @@
 [
   {
-    "label": "SignBoard005",
+    "label": "SignBoard000",
     "attributes": {
       "talk_type": "NORMAL",
       "balloon_type": "WHITE_BUBBLE",
@@ -76,7 +76,7 @@
     }
   },
   {
-    "label": "SignBoard050",
+    "label": "SignBoard001",
     "attributes": {
       "talk_type": "NORMAL",
       "balloon_type": "WHITE_BUBBLE",
