@@ -4,6 +4,7 @@
 
 ### Changes
 
+- Removed the death barrier between the airship and boss sections of Kraken King Galaxy.
 - When collecting a Green Star, the player will be booted out only if there are any uncollected Green Stars left that can be reached without resetting or falling into death.
 - Several dialogues and texts have been updated and cleaned up.
 - Various internal adjustments were made to make things cleaner from a developer standpoint.

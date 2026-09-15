@@ -7,9 +7,9 @@ namespace {
     // =================================================================================================================
 
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWritePointer(0x8064DFD8, "ExplainIllustItemAtFirst");
+    kmWritePointer(0x8064DFD8, GAME_EVENT_FLAG_EXPLAIN_ILLUST_ITEM_AT_FIRST);
 #elif defined(SB4W) || defined(SB4K)
-    kmWritePointer(0x8064E588, "ExplainIllustItemAtFirst");
+    kmWritePointer(0x8064E588, GAME_EVENT_FLAG_EXPLAIN_ILLUST_ITEM_AT_FIRST);
 #endif
 
 
@@ -18,9 +18,9 @@ namespace {
     // =================================================================================================================
 
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWritePointer(0x8064DFDC, "DaredevilModeOn");
+    kmWritePointer(0x8064DFDC, GAME_EVENT_FLAG_DAREDEVIL_MODE_ON);
 #elif defined(SB4W) || defined(SB4K)
-    kmWritePointer(0x8064E58C, "DaredevilModeOn");
+    kmWritePointer(0x8064E58C, GAME_EVENT_FLAG_DAREDEVIL_MODE_ON);
 #endif
 
 
