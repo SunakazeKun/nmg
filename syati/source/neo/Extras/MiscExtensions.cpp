@@ -1,5 +1,6 @@
 #include "Game/Util/ActorSensorUtil.h"
 #include "Game/Util/JMapUtil.h"
+#include "Game/Util/LayoutUtil.h"
 #include "Game/Util/LiveActorUtil.h"
 #include "Game/Util/SceneUtil.h"
 #include "kamek/hooks.h"
@@ -28,6 +29,27 @@ namespace {
     kmWrite32(0x804D254C, 0x60000005);
 #elif defined(SB4W) || defined(SB4K)
     kmWrite32(0x804D25DC, 0x60000005);
+#endif
+
+
+	// =================================================================================================================
+	// Don't display World names
+	// =================================================================================================================
+
+	void setTextBoxMessageAndHidePaneRecursive(LayoutActor *pLayout, const char *pPaneName, const wchar_t *pMessage) {
+		MR::setTextBoxMessageRecursive(pLayout, pPaneName, pMessage);
+		MR::hidePaneRecursive(pLayout, pPaneName);
+	}
+
+	kmCall(0x8045E318, setTextBoxMessageAndHidePaneRecursive);
+#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+	kmWrite32(0x80486FE0, NOP);
+	kmBranch(0x804A9CAC, setTextBoxMessageAndHidePaneRecursive);
+	kmWrite32(0x804A9C00, BLR);
+#elif defined(SB4W) || defined(SB4K)
+	kmWrite32(0x80486FF0, NOP);
+	kmBranch(0x804A9D1C, setTextBoxMessageAndHidePaneRecursive);
+	kmWrite32(0x804A9C70, BLR);
 #endif
 
 
