@@ -58,7 +58,7 @@ namespace {
         if (MR::isStep(pStar, 20) && !MR::isPlayerDead()) {
             MR::tryStartDemo(pStar, "GreenStarDemo");
             GameDataFunction::setPowerStar(MR::getCurrentStageName(), pStar->mPowerStarId);
-            neo::performSaveInStage();
+            neo::performInStageSave();
         }
 
         if (MR::isGreaterEqualStep(pStar, 20) && !GameSequenceFunction::isActiveSaveDataHandleSequence()) {
@@ -89,34 +89,12 @@ namespace {
     // =================================================================================================================
 
     bool tryDoStarGet(PowerStar* pStar) {
-        if (MR::isPowerStarGreenInCurrentStage(pStar->mPowerStarId)) {
-            const char* stageName = MR::getCurrentStageName();
-            s32 scenarioNo = MR::getCurrentScenarioNo();
-
-            GalaxyStatusAccessor gsa = MR::makeGalaxyStatusAccessor(stageName);
-
-            s32 greenStarsScenarioTotal = 0;
-            s32 greenStarsScenarioOwned = 0;
-
-            for (int i = 0; i < gsa.getPowerStarNum(); i++) {
-                s32 starId = i + 1;
-
-                if (gsa.isGreenStar(starId) && gsa.isExistPowerStarAtScenario(scenarioNo, starId)) {
-                    greenStarsScenarioTotal++;
-
-                    if (gsa.hasPowerStar(starId)) {
-                        greenStarsScenarioOwned++;
-                    }
-                }
+        if (neo::allowInStageSave(pStar->mPowerStarId)) {
+            if (pStar->isEndAppearDemo()) {
+                MR::invalidateHitSensors(pStar);
+                pStar->setNerve(NrvGreenStarGot);
             }
-
-            if ((greenStarsScenarioTotal - greenStarsScenarioOwned) > 1) {
-                if (pStar->isEndAppearDemo()) {
-                    MR::invalidateHitSensors(pStar);
-                    pStar->setNerve(NrvGreenStarGot);
-                }
-                return true;
-            }
+            return true;
         }
         
         return false;

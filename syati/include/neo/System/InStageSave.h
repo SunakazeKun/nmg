@@ -1,5 +1,8 @@
 #pragma once
 
+#include "revolution.h"
+
 namespace neo {
-    void performSaveInStage();
+    bool allowInStageSave(s32 powerStarId);
+    void performInStageSave();
 }
