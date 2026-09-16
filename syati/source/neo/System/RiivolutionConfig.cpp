@@ -1,11 +1,13 @@
 #include "neo/System/RiivolutionConfig.h"
 
+#define RVL_CFG_LOCALE_MASK_VALIDITY (1 << 31)
+#define RVL_CFG_LOCALE_MASK_LANGUAGE (~RVL_CFG_LOCALE_MASK_VALIDITY)
+
 namespace neo {
     namespace {
         struct RiivolutionConfig {
-            bool mLocaleValid : 1;
-            u32 mLocaleCode : 31;
-            u8 mReserved[36];
+            u32 mLocale;
+            u8 mReserved[60];
         };
 
         static const RiivolutionConfig* sRiivolutionConfig = (RiivolutionConfig *)0x80003FC0;
@@ -14,8 +16,8 @@ namespace neo {
     // -----------------------------------------------------------------------------------------------------------------
 
     bool getRiivolutionConfigLocale(u32 *pDest) {
-        if (sRiivolutionConfig->mLocaleValid) {
-            *pDest = sRiivolutionConfig->mLocaleCode;
+        if (sRiivolutionConfig->mLocale & RVL_CFG_LOCALE_MASK_VALIDITY) {
+            *pDest = sRiivolutionConfig->mLocale & RVL_CFG_LOCALE_MASK_LANGUAGE;
             return true;
         }
 
