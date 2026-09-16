@@ -15,14 +15,14 @@
 
 namespace pt {
     BlueChip::BlueChip(const char *pName)
-		: ChipBase(pName, CHIP_BLUE, "BlueChip")
-	{
+        : ChipBase(pName, CHIP_BLUE, "BlueChip")
+    {
 
     }
 
     BlueChipGroup::BlueChipGroup(const char *pName)
-		: ChipGroup(pName, CHIP_BLUE)
-	{
+        : ChipGroup(pName, CHIP_BLUE)
+    {
 
     }
 

@@ -12,8 +12,8 @@
 
 namespace neo {
     HelperWitch::HelperWitch(const char *pName)
-		: NPCActor(pName)
-	{
+        : NPCActor(pName)
+    {
         mRestartId.mId = -1;
         mRestartId.mZoneId = 0;
         mShouldReset = false;

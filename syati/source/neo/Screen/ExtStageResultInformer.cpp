@@ -11,9 +11,9 @@
 #include "neo/core.h"
 
 namespace {
-	// =================================================================================================================
+    // =================================================================================================================
     // Prevent "Ghost Appeared" message
-	// =================================================================================================================
+    // =================================================================================================================
 
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
     kmWrite32(0x80496144, LI_R3_0);
@@ -22,9 +22,9 @@ namespace {
 #endif
 
 
-	// =================================================================================================================
+    // =================================================================================================================
     // Hide Stamp counter except when needed
-	// =================================================================================================================
+    // =================================================================================================================
 
     void hideCounterPanesExt(LayoutActor *pActor, const char *pOrgPane) {
         MR::hidePane(pActor, pOrgPane);
@@ -38,9 +38,9 @@ namespace {
 #endif
 
 
-	// =================================================================================================================
+    // =================================================================================================================
     // Decide new nerves
-	// =================================================================================================================
+    // =================================================================================================================
 
     const Nerve* getNextNerveExt(StageResultInformer *pActor) {
         // Check sequence
@@ -103,9 +103,9 @@ namespace {
 #endif
 
 
-	// =================================================================================================================
+    // =================================================================================================================
     // New Nerve functionality
-	// =================================================================================================================
+    // =================================================================================================================
 
     void exeStageResultInformerExtAppearGetStamp(StageResultInformer *pActor) {
         if (MR::isFirstStep(pActor)) {
@@ -153,9 +153,9 @@ namespace {
     }
 
 
-	// =================================================================================================================
+    // =================================================================================================================
     // Choose Power Star message
-	// =================================================================================================================
+    // =================================================================================================================
 
     const char* getResultStarMessageName(GalaxyStatusAccessor &gsa, s32 scenarioId) {
         if (gsa.isOwnBronzeStar(scenarioId)) {
@@ -199,11 +199,11 @@ namespace {
 
 namespace neo {
     namespace NrvStageResultInformerExt {
-		NrvAppearGetStamp(NrvAppearGetStamp::sInstance);
-		NrvWaitBeforeCountUpStamp(NrvWaitBeforeCountUpStamp::sInstance);
-		NrvCountUpStamp(NrvCountUpStamp::sInstance);
-		NrvDisplayGetStamp(NrvDisplayGetStamp::sInstance);
-		NrvDisappearGetStamp(NrvDisappearGetStamp::sInstance);
+        NrvAppearGetStamp(NrvAppearGetStamp::sInstance);
+        NrvWaitBeforeCountUpStamp(NrvWaitBeforeCountUpStamp::sInstance);
+        NrvCountUpStamp(NrvCountUpStamp::sInstance);
+        NrvDisplayGetStamp(NrvDisplayGetStamp::sInstance);
+        NrvDisappearGetStamp(NrvDisappearGetStamp::sInstance);
 
         void NrvAppearGetStamp::execute(Spine *pSpine) const {
             StageResultInformer *pActor = (StageResultInformer*)pSpine->mExecutor;

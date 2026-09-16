@@ -39,8 +39,8 @@ namespace {
 
 namespace pt {
     Anagon::Anagon(const char *pName)
-		: LiveActor(pName)
-	{
+        : LiveActor(pName)
+    {
         for (s32 i = 0; i < 3; i++) {
             mStarPointerTargets[i] = nullptr;
         }
@@ -207,13 +207,13 @@ namespace pt {
         return false;
     }
 
-	// -----------------------------------------------------------------------------------------------------------------
+    // -----------------------------------------------------------------------------------------------------------------
 
     namespace NrvAnagon {
-		NrvSwim(NrvSwim::sInstance);
-		NrvBind(NrvBind::sInstance);
-		NrvBreak(NrvBreak::sInstance);
-		NrvDead(NrvDead::sInstance);
+        NrvSwim(NrvSwim::sInstance);
+        NrvBind(NrvBind::sInstance);
+        NrvBreak(NrvBreak::sInstance);
+        NrvDead(NrvDead::sInstance);
 
         void NrvSwim::execute(Spine *pSpine) const {
             Anagon *pActor = (Anagon*)pSpine->mExecutor;

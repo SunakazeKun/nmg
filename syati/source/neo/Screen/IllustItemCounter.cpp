@@ -9,13 +9,13 @@
 // Syati's header for this class has faulty includes
 class CounterLayoutController : public LayoutActor {
 public:
-	static bool isWaitToDisappearCounter(const LayoutActor* pLayout);
+    static bool isWaitToDisappearCounter(const LayoutActor* pLayout);
 };
 
 namespace neo {
     IllustItemCounter::IllustItemCounter()
-		: LayoutActor("IllustItemCounter", true)
-	{
+        : LayoutActor("IllustItemCounter", true)
+    {
         mAppearer = nullptr;
         mAlreadyShown = false;
         mForceAppear = false;
@@ -130,14 +130,14 @@ namespace neo {
         }
     }
 
-	// -----------------------------------------------------------------------------------------------------------------
+    // -----------------------------------------------------------------------------------------------------------------
 
     namespace NrvIllustItemCounter {
-		NrvHidden(NrvHidden::sInstance);
-		NrvAppear(NrvAppear::sInstance);
-		NrvWait(NrvWait::sInstance);
-		NrvFlash(NrvFlash::sInstance);
-		NrvDisappear(NrvDisappear::sInstance);
+        NrvHidden(NrvHidden::sInstance);
+        NrvAppear(NrvAppear::sInstance);
+        NrvWait(NrvWait::sInstance);
+        NrvFlash(NrvFlash::sInstance);
+        NrvDisappear(NrvDisappear::sInstance);
 
         void NrvHidden::execute(Spine *pSpine) const {
             IllustItemCounter *pActor = (IllustItemCounter*)pSpine->mExecutor;

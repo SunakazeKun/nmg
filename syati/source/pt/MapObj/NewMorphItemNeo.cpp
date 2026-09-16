@@ -24,8 +24,8 @@ namespace pt {
     * Ice Flower
     */
     MorphItemNeoIce::MorphItemNeoIce(const char *pName)
-		: MorphItemObjNeo(pName)
-	{
+        : MorphItemObjNeo(pName)
+    {
 
     }
 
@@ -43,8 +43,8 @@ namespace pt {
     * Flying Star
     */
     MorphItemNeoFoo::MorphItemNeoFoo(const char *pName)
-		: MorphItemObjNeo(pName)
-	{
+        : MorphItemObjNeo(pName)
+    {
 
     }
 

@@ -3,8 +3,8 @@
 
 namespace neo {
     LibraryBook::LibraryBook(const char *pName)
-		: NPCActor(pName)
-	{
+        : NPCActor(pName)
+    {
 
     }
 
@@ -15,15 +15,15 @@ namespace neo {
         capabilities.mBodySensorRadius = 20.f;
         capabilities.mInitSphereShadow = false;
         capabilities.mInitYoshiLockOnTarget = false;
-		capabilities.mInitStarPointerTarget = false;
+        capabilities.mInitStarPointerTarget = false;
 
         initialize(rIter, capabilities, nullptr, nullptr, false);
     }
 
-	// -----------------------------------------------------------------------------------------------------------------
+    // -----------------------------------------------------------------------------------------------------------------
 
     namespace NrvLibraryBook {
-		NrvWait(NrvWait::sInstance);
+        NrvWait(NrvWait::sInstance);
 
         void NrvWait::execute(Spine *pSpine) const {
             LibraryBook *pActor = (LibraryBook*)pSpine->mExecutor;

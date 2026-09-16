@@ -8,8 +8,8 @@
 
 namespace neo {
     TicoManiac::TicoManiac(const char *pName)
-		: NPCActor(pName)
-	{
+        : NPCActor(pName)
+    {
 
     }
 
@@ -87,7 +87,7 @@ namespace neo {
         return true;
     }
 
-	// -----------------------------------------------------------------------------------------------------------------
+    // -----------------------------------------------------------------------------------------------------------------
 
     namespace NrvTicoManiac {
         void NrvMeta::execute(Spine *pSpine) const {

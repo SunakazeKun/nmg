@@ -37,13 +37,13 @@ namespace {
 
 
     // Don't give Life-Up in Daredevil mode or comet
-	void changePlayerItemLifeUpIfNotDaredevil(s32 status) {
-		if (!neo::isDaredevilModeOrComet()) {
-			MarioAccess::changeItemStatus(status);
-		}
+    void changePlayerItemLifeUpIfNotDaredevil(s32 status) {
+        if (!neo::isDaredevilModeOrComet()) {
+            MarioAccess::changeItemStatus(status);
+        }
 
-		MR::incPlayerOxygen(8);
-	}
+        MR::incPlayerOxygen(8);
+    }
 
     kmBranch(0x800502E4, changePlayerItemLifeUpIfNotDaredevil);
 }

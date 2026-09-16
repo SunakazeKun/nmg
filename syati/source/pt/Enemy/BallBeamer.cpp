@@ -35,8 +35,8 @@
 
 namespace pt {
     BallBeamer::BallBeamer(const char *pName)
-		: LiveActor(pName)
-	{
+        : LiveActor(pName)
+    {
         mBindStarPointer = nullptr;
         mParamScale = nullptr;
         mBeams = nullptr;
@@ -209,13 +209,13 @@ namespace pt {
         MR::updateActorStateAndNextNerve(this, (ActorStateBaseInterface*)mBindStarPointer, &NrvBallBeamer::NrvWait::sInstance);
     }
 
-	// -----------------------------------------------------------------------------------------------------------------
+    // -----------------------------------------------------------------------------------------------------------------
 
     namespace NrvBallBeamer {
-		NrvWait(NrvWait::sInstance);
-		NrvAttack(NrvAttack::sInstance);
-		NrvInter(NrvInter::sInstance);
-		NrvBind(NrvBind::sInstance);
+        NrvWait(NrvWait::sInstance);
+        NrvAttack(NrvAttack::sInstance);
+        NrvInter(NrvInter::sInstance);
+        NrvBind(NrvBind::sInstance);
 
         void NrvWait::execute(Spine *pSpine) const {
             BallBeamer *pActor = (BallBeamer*)pSpine->mExecutor;

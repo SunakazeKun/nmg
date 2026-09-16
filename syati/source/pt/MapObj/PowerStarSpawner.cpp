@@ -23,8 +23,8 @@
 
 namespace pt {
     PowerStarSpawner::PowerStarSpawner(const char *pName)
-		: LiveActor(pName)
-	{
+        : LiveActor(pName)
+    {
         mScenario = -1;
         mDelay = 0;
         mFromMario = false;
@@ -101,12 +101,12 @@ namespace pt {
         }
     }
 
-	// =================================================================================================================
+    // =================================================================================================================
 
     namespace NrvPowerStarSpawner {
-		NrvWait(NrvWait::sInstance);
-		NrvPrepare(NrvPrepare::sInstance);
-		NrvSpawn(NrvSpawn::sInstance);
+        NrvWait(NrvWait::sInstance);
+        NrvPrepare(NrvPrepare::sInstance);
+        NrvSpawn(NrvSpawn::sInstance);
 
         void NrvWait::execute(Spine *pSpine) const {}
 
