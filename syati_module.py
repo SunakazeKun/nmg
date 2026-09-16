@@ -82,6 +82,8 @@ SOURCE_FILES = [
     "neo/System/IllustItemAccess.cpp",
     "neo/System/IllustItemExtensions.cpp",
     "neo/System/InStageSave.cpp",
+    "neo/System/Language.cpp",
+    "neo/System/RiivolutionConfig.cpp",
     "neo/System/StationedFileInfo.cpp",
 
     "pt/Enemy/Anagon.cpp",
@@ -141,6 +143,7 @@ DEFINES = [
 INCLUDES = [
     "Syati/include",
     "include",
+    "source",
 ]
 
 COMPILER_OPTIONS = [

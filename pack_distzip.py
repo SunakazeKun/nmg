@@ -6,7 +6,8 @@ necessary for loading and playing Neo Mario Galaxy. Edited and new files are eff
 active game files against known file names and hashes from the unmodified SMG2 games.
 """
 
-from config import PROJECT_TITLE, PROJECT_VERSION, GAME_PATH, RIIVOLUTION_TARGETS, IGNORE_FILES, IGNORE_FOLDERS
+from config import (PROJECT_TITLE, PROJECT_VERSION, GAME_PATH, RiivolutionTarget, RIIVO_TARGETS, RIIVO_CONFIG_LOCALE_ADDR,
+                    RIIVO_CONFIG_LOCALE_INFO, IGNORE_FILES, IGNORE_FOLDERS)
 from xml.etree import ElementTree as ET
 from tools.dataio import read_json
 from pathlib import Path
@@ -61,10 +62,10 @@ def pack_zip_archive():
 
     # ------------------------------------------------------
 
-    for game_id, game_region, error_message_archive_addr in RIIVOLUTION_TARGETS:
-        __make_riivolution_xml(game_id, game_region, error_message_archive_addr,
-                               SYATI_LOADER_PATH / f'riivo_{game_id}{game_region}.xml',
-                               DIST_RIIVO_PATH / f'nmg-{game_id}{game_region}.xml')
+    for target_info in RIIVO_TARGETS:
+        __make_riivolution_xml(target_info,
+                               SYATI_LOADER_PATH / f'riivo_{target_info.id}{target_info.region}.xml',
+                               DIST_RIIVO_PATH / f'nmg-{target_info.id}{target_info.region}.xml')
 
     # ------------------------------------------------------
 
@@ -128,11 +129,16 @@ def __is_file_to_include(src_file_path: Path, iso_file_path: str, vanilla_file_h
 
 # ----------------------------------------------------------------------------------------------------------------------
 
-def __make_riivolution_xml(game_id: str, game_region: str, error_message_archive_addr: int | None,
-                           syati_loader_xml_path: Path, riivolution_xml_path: Path):
+def __make_riivolution_xml(target_info: RiivolutionTarget, syati_loader_xml_path: Path, riivolution_xml_path: Path):
+    game_id = target_info.id
+    game_region = target_info.region
+    language_options = target_info.language_options
+    error_message_archive_addr = target_info.error_message_archive_addr
+
     logging.info("Generating Riivolution XML for %s%s", game_id, game_region)
 
-    # Load Syati memory patches
+    # ------------------------------------------------------
+
     if not syati_loader_xml_path.is_file():
         logging.error(f'%s was not build, cannot create Riivolution XML!', syati_loader_xml_path.name)
         exit(1)
@@ -140,21 +146,32 @@ def __make_riivolution_xml(game_id: str, game_region: str, error_message_archive
     with open(syati_loader_xml_path, "r") as f:
         syati_loader_xml_root = ET.fromstring("<root>" + f.read() + "</root>")
 
-    # Create main Riivolution tree
+    # ------------------------------------------------------
+
     wiidisc_node = ET.Element("wiidisc", {"version": "1"})
 
     id_node = ET.SubElement(wiidisc_node, "id", {"game": game_id})
     ET.SubElement(id_node, "region", {"type": game_region})
 
-    # Create options branch
-    options_node = ET.SubElement(wiidisc_node, "options")
+    # ------------------------------------------------------
 
+    options_node = ET.SubElement(wiidisc_node, "options")
     section_node = ET.SubElement(options_node, "section", {"name": f"NMG ({game_id}{game_region})"})
+
     option_node = ET.SubElement(section_node, "option", {"name": "Neo Mario Galaxy"})
     choice_node = ET.SubElement(option_node, "choice", {"name": "Enabled"})
     ET.SubElement(choice_node, "patch", {"id": "nmg_core"})
 
-    # Create patch branch
+    if language_options:
+        option_node = ET.SubElement(section_node, "option", {"name": "Override Language"})
+
+        for language_prefix in language_options:
+            _, language_name = RIIVO_CONFIG_LOCALE_INFO[language_prefix]
+            choice_node = ET.SubElement(option_node, "choice", {"name": language_name})
+            ET.SubElement(choice_node, "patch", {"id": f'nmg_locale_{language_prefix}'})
+
+    # ------------------------------------------------------
+
     patch_node = ET.SubElement(wiidisc_node, "patch", {"id": "nmg_core", "root": "/nmg"})
 
     ET.SubElement(patch_node, "savegame", {"external": f'save/{game_id}{game_region}', "clone": "false"})
@@ -168,9 +185,8 @@ def __make_riivolution_xml(game_id: str, game_region: str, error_message_archive
     ET.SubElement(patch_node, "folder", {"disc": "/StageData",    "external": "game/StageData",    "create": "true"})
     ET.SubElement(patch_node, "folder", {"disc": "/SystemData",   "external": "game/SystemData",   "create": "true"})
 
-    if error_message_archive_addr is not None:
-        ET.SubElement(patch_node, "memory", {"offset": f'0x{error_message_archive_addr:08X}', "original": "52415243",
-                                             "valuefile": f'memory/ErrorMessageArchive{game_id}{game_region}.arc'})
+    ET.SubElement(patch_node, "memory", {"offset": f'0x{error_message_archive_addr:08X}', "original": "52415243",
+                                         "valuefile": f'memory/ErrorMessageArchive{game_id}{game_region}.arc'})
 
     for syati_xml_node in iter(syati_loader_xml_root):
         offset = syati_xml_node.attrib["offset"]
@@ -178,7 +194,16 @@ def __make_riivolution_xml(game_id: str, game_region: str, error_message_archive
 
         ET.SubElement(patch_node, "memory", {"offset": offset, "value": value})
 
-    # Write Riivolution XML
+    if language_options:
+        for language_prefix in language_options:
+            language_locale, _ = RIIVO_CONFIG_LOCALE_INFO[language_prefix]
+            patch_node = ET.SubElement(wiidisc_node, "patch", {"id": f'nmg_locale_{language_prefix}'})
+
+            ET.SubElement(patch_node, "memory", {"offset": f'0x{RIIVO_CONFIG_LOCALE_ADDR:08X}',
+                                                 "value": f'0x{language_locale:08X}'})
+
+    # ------------------------------------------------------
+
     tree = ET.ElementTree(wiidisc_node)
     ET.indent(tree, space="\t", level=0)
     tree.write(riivolution_xml_path, encoding="utf-8")
