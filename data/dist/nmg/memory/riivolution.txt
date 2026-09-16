@@ -1,0 +1,3 @@
+		<!-- ErrorMessageArchive -->
+		<memory offset="0x8064E220" valuefile="LayoutData/ErrorMessageArchive{$__region}.arc" original="52415243"/> <!-- E, J, P -->
+		<memory offset="0x8064E7C0" valuefile="LayoutData/ErrorMessageArchive{$__region}.arc" original="52415243"/> <!-- K, W -->
