@@ -24,6 +24,10 @@ __all__ = ["build_message_data"]
 # ======================================================================================================================
 
 SRC_MESSAGE_DATA_PATH = Path("data/MessageData")
+IGNORE_MESSAGES = [
+    ("KrKorean",      "SystemMessage", "GalaxyNameShort", "GalaxyNameShort_New"),
+    ("AsTradChinese", "SystemMessage", "GalaxyNameShort", "GalaxyNameShort_New"),
+]
 
 
 def build_message_data():
@@ -57,7 +61,12 @@ def __pack_msb_into_archive(archive: JKRArchive, language: str, archive_name: st
     # ------------------------------------------------------
 
     for json_msg in read_json(json_path):
-        message = document.new_message(json_msg["label"])
+        label = json_msg["label"]
+
+        if (language, archive_name, msb_name, label) in IGNORE_MESSAGES:
+            continue
+
+        message = document.new_message(label)
 
         message.attributes["talk_type"]    = TalkType[json_msg["attributes"]["talk_type"]]
         message.attributes["balloon_type"] = BalloonType[json_msg["attributes"]["balloon_type"]]

@@ -2622,8 +2622,14 @@
         "なんだいこりゃ！ [ruby:目;め]のついた[ruby:青;あお]い[ruby:花;はな]だなんて・・・",
         "こんなの[ruby:初;はじ]めて[ruby:見;み]たよ"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "우와! 눈이 달린 파란 꽃이라고?!",
+        " 이런 건 처음 보는걸."
+      ],
+      "AsTradChinese": [
+        "哇！這朵藍色花居然有長眼睛！",
+        "之前從來沒見過呢！"
+      ]
     }
   },
   {
@@ -2668,8 +2674,14 @@
         "[color:red]アイスフラワー[defcolor]というのかい？ ふーん・・・[delay:15]",
         "なんだか[ruby:見;み]てるとワタシまで[ruby:寒;さむ]くなってきたよ"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "이게 [color:red]아이스플라워[defcolor]인가? 흠...[delay:15]",
+        " 제법 멋져 보이는데? 하하!"
+      ],
+      "AsTradChinese": [
+        "原來這是[color:red]冰之花[defcolor]？嗯…[delay:15]",
+        "看起來挺酷的，對吧？哈哈！"
+      ]
     }
   },
   {
@@ -2835,8 +2847,12 @@
       "JpJapanese": [
         "うーん・・・[delay:15] コイツはどこかで[ruby:見;み]たことあるねえ・・・"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "흠... [delay:15] 전에 본 적이 있는 것 같은데..."
+      ],
+      "AsTradChinese": [
+        "嗯…[delay:15]總覺得好像在哪裡看過這個…"
+      ]
     }
   },
   {
@@ -2879,8 +2895,13 @@
       "JpJapanese": [
         "ああ[ruby:思;おも]い[ruby:出;だ]した！ [ruby:赤;あか]いチコのチカラが[ruby:宿;やど]っているあの[color:red]レッドスター[defcolor]じゃないか！"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "알겠다! 이건 빨강 치코의 힘이 잠들어있는",
+        " [color:red]레드스타[defcolor]야!"
+      ],
+      "AsTradChinese": [
+        "我知道了！這是蘊含著紅色奇可力量的[color:red]紅色星星[defcolor]哦！"
+      ]
     }
   },
   {

@@ -486,8 +486,14 @@
         "なんと [color:red]フライング[player:0][color:black]になった!",
         "[color:red]ジャンプ[ruby:中;ちゅう]に [color:red]スピン[color:black]すれば [ruby:空;そら]を[ruby:飛;と]ぶ!"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "야호! [color:red]플라잉[player:0][color:black]가 되었다!",
+        " [color:red]점프 도중[color:black]에 [color:red]스핀[color:black]하면 하늘을 난다!"
+      ],
+      "AsTradChinese": [
+        "變成[color:red]飛翔[player:0][color:black]了！",
+        "在[color:red]跳躍[color:black]時[color:red]轉圈圈[color:black]就能飛行哦！"
+      ]
     }
   },
   {
@@ -604,8 +610,14 @@
         "[ruby:一定時間;いっていじかん] [ruby:水;みず]の[ruby:上;うえ]を[ruby:歩;ある]ける!",
         "[icon:wiimote][color:black]をふって、[color:red]スケート[defcolor]だ!"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "야호! [color:red]아이스[player:0][color:black]가 되었다!",
+        " [icon:wiimote]를 흔들어 [color:red]스케이트[color:black]!"
+      ],
+      "AsTradChinese": [
+        "變成[color:red]冰凍[player:0][color:black]了！",
+        "揮動[icon:wiimote]就能[color:red]溜冰[color:black]哦！"
+      ]
     }
   },
   {
@@ -1041,8 +1053,14 @@
         "[icon:stamp][color:blue] スタンプ[color:black]を[ruby:手;て]に[ruby:入;い]れた!",
         "ぜんぶ[ruby:集;あつ]めたらなにかが[ruby:起;お]こる...?!"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "야호! [icon:stamp][color:blue] 스탬프[color:black]를 얻었다!",
+        " 모두 모으면 무슨 일이 일어날까?"
+      ],
+      "AsTradChinese": [
+        "得到[icon:stamp][color:blue]印章[color:black]了！",
+        "收集全部的話，搞不好會有好事發生。"
+      ]
     }
   },
   {

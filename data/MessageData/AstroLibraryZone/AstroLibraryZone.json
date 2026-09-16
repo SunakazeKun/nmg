@@ -47,8 +47,16 @@
         "[delay:30][ruby:著者;ちょしゃ]は・・・[delay:30][icon:polari] [color:black]バトラー[color:gray]のようだ)[defcolor][pagebreak]",
         "この[ruby:本;ほん]を[ruby:開;ひら]きますか？"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[color:gray](제목은 [color:blue]더 네오 스타[color:gray]라고 적혀 있다.",
+        " [icon:polari] [color:black]버틀러[color:gray]가 쓴 것 같다.)[defcolor]",
+        " 읽어 볼까?"
+      ],
+      "AsTradChinese": [
+        "[color:gray]（書名是[color:blue]《新星》[color:gray]。",
+        "看起來是由[icon:polari] [color:black]Polari[color:gray]所寫。）[defcolor]",
+        "要讀這本書嗎？"
+      ]
     }
   },
   {
@@ -153,8 +161,28 @@
         "そうすれば、遂に我が父はワタシのことを誇りに思ってくれるであろう・・・[pagebreak]",
         "・・・そして、皆もワタシのことをようやく尊敬の目で見てくれるようになるであろう"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "아버지의 이야기에 따르면, 우리 우주는 어떤 신비로운 천체에 의해 유지되고 있다고 한다.[pagebreak]",
+        " 아버지는 그것을 [color:blue]네오 스타[defcolor]라고 불렀다.[pagebreak]",
+        " 그 엄청난 에너지의 일부만을 밝게 빛나는 빛의 형태로 볼 수 있다고 하셨다.[pagebreak]",
+        " 언젠가... 나는 밖으로 나가 그 경이로운 에너지를 느껴 보고 싶다...[pagebreak]",
+        " 그러면 아버지도 드디어 나를 자랑스럽게 여기실 것이다...[pagebreak]",
+        " ...그리고 모두가 마침내 나를 존중해 줄 것이다."
+      ],
+      "AsTradChinese": [
+        "根據爸爸的說法，我們的",
+        "宇宙是由某個神秘的",
+        "天體維繫著。[pagebreak]",
+        "爸爸稱它為[color:blue]新星[defcolor]。[pagebreak]",
+        "他說，我們只能從它明亮的光芒中",
+        "窺見那龐大的能量。[pagebreak]",
+        "總有一天……我一定要出發",
+        "去感受它奇妙的能量……[pagebreak]",
+        "這樣爸爸終於會",
+        "以我為榮了……[pagebreak]",
+        "……而大家也終於會",
+        "尊重我了。"
+      ]
     }
   },
   {
@@ -192,8 +220,12 @@
       "JpJapanese": [
         "[color:gray]([ruby:面白;おもしろ]そうだけど・・・)[defcolor]"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[color:gray](흥미로운 이야기인 것 같긴 한데...)[defcolor]"
+      ],
+      "AsTradChinese": [
+        "[color:gray]（聽起來很有趣，不過……）[defcolor]"
+      ]
     }
   },
   {
@@ -237,8 +269,14 @@
         "[color:gray]([color:blue]NMG Trivia[color:gray]というタイトルの[ruby:本;ほん]がある・・・)[delay:30][defcolor]",
         "この[ruby:本;ほん]を[ruby:開;ひら]きますか？"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[color:gray](제목은 [color:blue]NMG 이모저모[color:gray]라고 적혀 있다.)[defcolor]",
+        " 책을 읽어 볼까?"
+      ],
+      "AsTradChinese": [
+        "[color:gray]（書名是[color:blue]NMG 冷知識[color:gray]。）[defcolor]",
+        "要讀這本書嗎？"
+      ]
     }
   },
   {
@@ -470,8 +508,51 @@
         "この改造マリオにおける[color:yellow]Aurum[defcolor]氏のお気に入りのギャラクシーは[pagebreak]",
         "[color:red]ぐるぐるもくざいギャラクシー[defcolor]と[color:red]ぼんやりゆうれい船ギャラクシー[defcolor]です"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[color:red]갤럭틱 가든 갤럭시[defcolor]의 원래 버전은 단 하룻밤 만에 만들어졌다.[pagebreak]",
+        " [color:red]스위트 트리트 갤럭시[defcolor]에는 [color:yellow]소탕 혜성[defcolor]을 등장시킬 예정이었다. 이 아이디어는 보너스 구역에 재활용되었다.[pagebreak]",
+        " [color:red]글루미 갤리온 갤럭시[defcolor]는 2017년 개발 후반에 추가되었으며, 최종본에서 빠질 뻔했다.[pagebreak]",
+        " 원래 그 자리에는 [color:blue]슈퍼 마리오 선샤인[defcolor]의 병 레벨을 리메이크한 미완성 스테이지가 들어갈 예정이었다.[pagebreak]",
+        " [color:red]글루미 갤리온 갤럭시[defcolor]의 숨겨진 [color:yellow]파워스타[defcolor]는 원래 [color:blue]부끄부끄[defcolor] 안에 들어 있었다.[pagebreak]",
+        " [color:red]글루미 갤리온 갤럭시[defcolor]의 보너스 룸은 거의 6년 동안 파일 속에 사용되지 않은 채 남아 있었다.[pagebreak]",
+        " [color:red]배틀 블래스트 갤럭시[defcolor]의 적과 보스 구성은 개발 과정에서 매우 자주 변경되었다.[pagebreak]",
+        " [color:blue]파이어 디노뻐끔[defcolor]과 [color:blue]꽈당킹[defcolor]이 이 갤럭시의 보스로 고려되기도 했다.[pagebreak]",
+        " [color:red]이프 비프 갤럭시[defcolor]에는 원래 [color:blue]형님귀신[defcolor]과 싸우는 세 번째 [color:yellow]파워스타[defcolor]가 있었다.[pagebreak]",
+        " 하지만 이 보스전이 갤럭시의 테마와 어울리지 않아 2020년 업데이트에서 삭제되었다.[pagebreak]",
+        " 황금색 [color:blue]옥토범바[defcolor]의 \"공식\" 이름은 [color:yellow]아우룸바[defcolor]다.[pagebreak]",
+        " [color:yellow]아우룸[defcolor]이 이 모드에서 가장 좋아하는 갤럭시는 [color:red]턴로그 갤럭시[defcolor]와 [color:red]클루미 갤리온 갤럭시[defcolor]다."
+      ],
+      "AsTradChinese": [
+        "原版的[color:red]星際庭園銀河[defcolor]是在",
+        "一個晚上完成的。[pagebreak]",
+        "[color:red]甜蜜點心銀河[defcolor]原本計畫加入一顆",
+        "[color:yellow]搗蛋彗星[defcolor]。這個點子後來",
+        "被沿用到了獎勵區域。[pagebreak]",
+        "[color:red]陰森幽船銀河[defcolor]是在 2017 年開發後期加入的，",
+        "差點沒能趕上最終版本。[pagebreak]",
+        "它的位置原本被一個未完成的",
+        "[color:blue]超級瑪利歐陽光[defcolor]",
+        "瓶中關卡重製版佔據。[pagebreak]",
+        "[color:red]陰森幽船銀河[defcolor]的隱藏[color:yellow]力量星星[defcolor]",
+        "原本藏在一隻[color:blue]害羞幽靈[defcolor]體內。[pagebreak]",
+        "[color:red]陰森幽船銀河[defcolor]的獎勵房間",
+        "在檔案中閒置了將近六年。[pagebreak]",
+        "[color:red]戰鬥爆破銀河[defcolor]的敵人與頭目陣容",
+        "曾經頻繁變動。[pagebreak]",
+        "[color:blue]火焰恐龍吞食花[defcolor]和[color:blue]砰砰王[defcolor]",
+        "都曾被考慮作為",
+        "該銀河的頭目。[pagebreak]",
+        "[color:red]嗶嗶驚魂銀河[defcolor]原本有第三顆[color:yellow]力量星星[defcolor]，",
+        "內容是與[color:blue]岩石幽靈(Bouldergeist)[defcolor]戰鬥。[pagebreak]",
+        "由於這場頭目戰與",
+        "銀河的主題不太相符，",
+        "因此在 2020 年更新中被移除。[pagebreak]",
+        "金色[color:blue]章魚小兵[defcolor]的「官方」",
+        "名稱是[color:yellow]Auroomba[defcolor]。[pagebreak]",
+        "[color:yellow]Aurum[defcolor]最喜歡的銀河是",
+        "[color:red]旋轉積木銀河[defcolor]和",
+        "[color:red]陰森幽船銀河[defcolor]。"
+      ]
     }
   },
   {
@@ -509,8 +590,12 @@
       "JpJapanese": [
         "[color:gray](あなたは[ruby:本;ほん]を そっと[ruby:本棚;ほんだな]に[ruby:戻;もど]した)[defcolor]"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[color:gray](책을 책장에 다시 꽂았다...)[defcolor]"
+      ],
+      "AsTradChinese": [
+        "[color:gray]（你把書放回書架……）[defcolor]"
+      ]
     }
   },
   {
@@ -554,8 +639,14 @@
         "[color:gray]([color:blue]NMG Credits[color:gray]というタイトルの[ruby:本;ほん]がある・・・)[delay:30][defcolor]",
         "この[ruby:本;ほん]を[ruby:開;ひら]きますか？"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[color:gray](제목은 [color:blue]NMG 크레딧[color:gray]라고 적혀 있다.)[defcolor]",
+        " 책을 읽어 볼까?"
+      ],
+      "AsTradChinese": [
+        "[color:gray]（書名是[color:blue]NMG 製作人員名單[color:gray]。）[defcolor]",
+        "要讀這本書嗎？"
+      ]
     }
   },
   {
@@ -721,8 +812,44 @@
         "[color:blue]Gabbo[defcolor]: イタリア語への翻訳[pagebreak]",
         "スペシャルサンクス: [color:blue]Splitwirez[defcolor]"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[color:yellow]Aurum[defcolor]: 프로젝트 창립자, 레벨 디자인 및 제작, 프로그래밍, 독일어 번역.[pagebreak]",
+        " [color:blue]SY24[defcolor]: UI 디자인, 로고, 음악 이식, 테스트.[pagebreak]",
+        " [color:blue]MTLenz[defcolor]: 테스트.[pagebreak]",
+        " [color:blue]Mixlas[defcolor]: 모델링.[pagebreak]",
+        " [color:blue]Super Hackio[defcolor]: 카메라, 모델 이식.[pagebreak]",
+        " [color:blue]froggo[defcolor]: 스탬프 모델, 테스트, 각종 모델 수정.[pagebreak]",
+        " [color:blue]Alex SMG[defcolor], [color:blue]Floaty[defcolor]: [color:red]이프 비프 갤럭시[defcolor] 모델.[pagebreak]",
+        " [color:blue]Super o' Brothers[defcolor]: [color:red]갤럭틱 가든 갤럭시[defcolor] 및 [color:red]글루미 갤리온 갤럭시[defcolor] 음악.[pagebreak]",
+        " [color:blue]MikaMusic[defcolor]: [color:red]스위트 트리트 갤럭시[defcolor] 음악.[pagebreak]",
+        " [color:blue]Zyphron G.[defcolor]: [color:red]이프 비프 갤럭시[defcolor] 음악 이식, 자동 저장 그린스타의 원본 버전.[pagebreak]",
+        " [color:blue]Mr. BMY[defcolor]: 일본어 번역.[pagebreak]",
+        " [color:blue]Gabbo[defcolor]: 이탈리아어 번역.[pagebreak]",
+        " [color:blue]Splitwirez[defcolor]에게 특별히 감사드립니다."
+      ],
+      "AsTradChinese": [
+        "[color:yellow]Aurum[defcolor]：專案創辦人、關卡",
+        "設計與製作、程式設計、德文翻譯。[pagebreak]",
+        "[color:blue]SY24[defcolor]：UI 設計、標誌、音樂匯入、",
+        "測試。[pagebreak]",
+        "[color:blue]MTLenz[defcolor]：測試。[pagebreak]",
+        "[color:blue]Mixlas[defcolor]：模型製作。[pagebreak]",
+        "[color:blue]Super Hackio[defcolor]：鏡頭、模型匯入。[pagebreak]",
+        "[color:blue]froggo[defcolor]：印章模型、測試、各種模型修改。[pagebreak]",
+        "[color:blue]Alex SMG[defcolor]、[color:blue]Floaty[defcolor]：",
+        "[color:red]嗶嗶驚魂銀河[defcolor]的模型。[pagebreak]",
+        "[color:blue]Super o' Brothers[defcolor]：",
+        "[color:red]銀河花園[defcolor]和",
+        "[color:red]陰森幽船銀河[defcolor]的音樂。[pagebreak]",
+        "[color:blue]MikaMusic[defcolor]：",
+        "[color:red]甜蜜點心銀河[defcolor]的音樂。[pagebreak]",
+        "[color:blue]Zyphron G.[defcolor]：",
+        "[color:red]嗶嗶驚魂銀河[defcolor]音樂匯入、",
+        "自動儲存綠星星功能的原始版本。[pagebreak]",
+        "[color:blue]Mr. BMY[defcolor]：日文翻譯。[pagebreak]",
+        "[color:blue]Gabbo[defcolor]：義大利文翻譯。[pagebreak]",
+        "特別感謝[color:blue]Splitwirez[defcolor]。"
+      ]
     }
   },
   {
@@ -760,8 +887,12 @@
       "JpJapanese": [
         "[color:gray](あなたは[ruby:本;ほん]を そっと[ruby:本棚;ほんだな]に[ruby:戻;もど]した)[defcolor]"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[color:gray](책을 책장에 다시 꽂았다...)[defcolor]"
+      ],
+      "AsTradChinese": [
+        "[color:gray]（你把書放回書架……）[defcolor]"
+      ]
     }
   },
   {
@@ -805,8 +936,14 @@
         "[color:gray]([color:blue]NMG Historia[color:gray]というタイトルの[ruby:本;ほん]がある・・・)[delay:30][defcolor]",
         "この[ruby:本;ほん]を[ruby:開;ひら]きますか？"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[color:gray](제목은 [color:blue]NMG의 역사[color:gray]라고 적혀 있다.)[defcolor]",
+        " 책을 읽어 볼까?"
+      ],
+      "AsTradChinese": [
+        "[color:gray]（書名是[color:blue]NMG 編年史[color:gray]。）[defcolor]",
+        "要讀這本書嗎？"
+      ]
     }
   },
   {
@@ -1245,8 +1382,87 @@
         "[color:gray](なんとまあ壮大な旅なんでしょうか・・・[defcolor][pagebreak]",
         "[color:gray]この改造マリオが10年弱も続いていると考えると気がおかしくなりそうです！)[defcolor]"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[color:blue]네오 마리오 갤럭시[defcolor]의 개발은 2014년 6월경에 시작되었다.[pagebreak]",
+        " 하지만 처음에는 프로젝트 이름이 [color:blue]슈퍼 마리오 갤럭시 3.A[defcolor]였다.[pagebreak]",
+        " 초기에 세 개의 레벨이 만들어졌다: [color:red]프로즌 에어쉽 갤럭시[defcolor], [color:red]슈퍼 테스트 갤럭시[defcolor], [color:red]데스 스톰 갤럭시[defcolor].[pagebreak]",
+        " 많은 다른 갤럭시도 기획되었지만, 대부분은 세상의 빛을 보지 못했다.[pagebreak]",
+        " 그중에는 [color:red]갤럭시 센터[defcolor]의 초기 버전도 있었다. 원래는 첫 번째 갤럭시가 될 예정이었다.[pagebreak]",
+        " 2014년 8월, 프로젝트의 최종 이름이 공개되었다: [color:blue]네오 마리오 갤럭시[defcolor].[pagebreak]",
+        " 같은 해 [color:blue]네오 마리오 갤럭시 보드[defcolor]가 설립되었다.[pagebreak]",
+        " 우리는 이 보드의 포럼을 이용해 팀을 조직하고 레벨 아이디어를 공유했다.[pagebreak]",
+        " 하지만 안타깝게도 일이 제대로 진행되지는 않았다...[pagebreak]",
+        " 2015년 1월, 첫 번째 게임에서 [color:red]별똥별 천문대[defcolor]를 이식했다.[pagebreak]",
+        " 2015년 3월에는 스핀오프 개발이 시작되었다. [color:red]턴로그 갤럭시[defcolor]는 그 프로젝트에서 재활용되었다.[pagebreak]",
+        " 2015년 11월에는 [color:red]비프 박스 갤럭시[defcolor]가 만들어졌고, 이후 [color:red]이프 비프 갤럭시[defcolor]가 되었다.[pagebreak]",
+        " 2016년 초에는 더 많은 갤럭시의 개발이 시작되었다...[pagebreak]",
+        " ...바로 [color:red]스위트 트리트 갤럭시[defcolor]와 폐기된 [color:red]데스 스톰 갤럭시[defcolor] 및 [color:red]갤럭시 센터[defcolor] 리메이크 버전이었다.[pagebreak]",
+        " [color:red]갤럭시 센터[defcolor]의 아이디어 대부분은 이 모드의 다른 여러 갤럭시에 재활용되었다.[pagebreak]",
+        " 2016년 8월, [color:red]배틀 블래스트 갤럭시[defcolor]가 만들어졌다. 다만 당시에는 적 구성이 달랐다.[pagebreak]",
+        " 2017년 5월, 아우룸은 자신의 최고의 아이디어와 완성된 레벨을 하나로 모으기로 했다.[pagebreak]",
+        " 그때까지 8개 갤럭시 중 4개가 이미 완성되었거나 플레이 가능한 상태였다.[pagebreak]",
+        " 나머지 갤럭시는 놀랍게도 두 달도 채 되지 않는 기간에 완성되었다.[pagebreak]",
+        " 비슷한 시기에 [color:blue]네오 마리오 갤럭시 디스코드 서버[defcolor]가 설립되었다.[pagebreak]",
+        " 이 서버는 훗날 [color:blue]Luma's Workshop[defcolor]이 되었다.[pagebreak]",
+        " 2017년 7월, 최초의 버전이 공개되었고 큰 성공을 거두었다.[pagebreak]",
+        " 완성된 이후에도 프로젝트에는 간헐적으로 새로운 업데이트가 이루어졌다.[pagebreak]",
+        " 2020년에는 새로운 모델과 아이디어, 그린스타가 추가되었다.[pagebreak]",
+        " 모딩 환경이 발전하면서 [color:blue]네오 마리오 갤럭시[defcolor]는 2023년에 다시 한 번 업데이트되었다.[pagebreak]",
+        " [color:gray](정말 긴 여정이었군! 이 모드의 역사가 거의 10년이나 되었다니 생각만 해도 놀랍다!)[defcolor]"
+      ],
+      "AsTradChinese": [
+        "[color:blue]新瑪利歐銀河[defcolor]的開發",
+        "大約始於 2014 年 6 月。[pagebreak]",
+        "不過，這個專案最初的名稱是",
+        "[color:blue]Super Mario Galaxy 3.A[defcolor]。[pagebreak]",
+        "早期製作了三個關卡：",
+        "[color:red]冰凍飛船銀河[defcolor]、[color:red]超級試驗銀河[defcolor]以及[color:red]死亡風暴銀河[defcolor]。[pagebreak]",
+        "還設計了許多其他銀河，",
+        "但大多數都沒能問世。[pagebreak]",
+        "其中包括[color:red]銀河中心[defcolor]的早期版本，",
+        "它原本計畫成為第一個銀河。[pagebreak]",
+        "2014 年 8 月，專案的",
+        "最終名稱正式公布：",
+        "[color:blue]新瑪利歐銀河[defcolor]。[pagebreak]",
+        "同年，[color:blue]新瑪利歐銀河討論板[defcolor]成立。[pagebreak]",
+        "我們利用板上論壇來",
+        "組織團隊並分享關卡構想。[pagebreak]",
+        "然而很遺憾，",
+        "事情始終沒有真正進展……[pagebreak]",
+        "2015 年 1 月，[color:red]長尾星天文台[defcolor]從一代遊戲移植了過來。[pagebreak]",
+        "2015 年 3 月，一款衍生計畫",
+        "開始開發。[color:red]旋轉積木銀河[defcolor]就是從那個計畫回收利用的。[pagebreak]",
+        "2015 年 11 月，製作了[color:red]嗶嗶盒子銀河[defcolor]，",
+        "後來成為了[color:red]嗶嗶驚魂銀河[defcolor]。[pagebreak]",
+        "2016 年初，更多銀河的",
+        "開發開始了……[pagebreak]",
+        "……也就是[color:red]甜蜜點心銀河[defcolor]，以及",
+        "[color:red]死亡風暴銀河[defcolor]和[color:red]銀河中心[defcolor]的",
+        "擱置重製版。[pagebreak]",
+        "[color:red]銀河中心[defcolor]的大部分構想後來都重新用於本模組的",
+        "其他銀河。[pagebreak]",
+        "2016 年 8 月，製作了[color:red]爆破戰鬥銀河[defcolor]，不過當時",
+        "使用了不同的敵人陣容。[pagebreak]",
+        "2017 年 5 月，Aurum 決定",
+        "將自己最棒的構想和",
+        "已完成的關卡全部整合起來。[pagebreak]",
+        "到了那時，八個銀河中已有四個",
+        "處於完全可遊玩的狀態。[pagebreak]",
+        "剩餘的銀河也在不到兩個月的",
+        "驚人時間內完成。[pagebreak]",
+        "大約就在那時，[color:blue]新瑪利歐",
+        "銀河[defcolor] 的Discord 伺服器成立了。[pagebreak]",
+        "該伺服器後來改名為",
+        "[color:blue]Luma's Workshop[defcolor]。[pagebreak]",
+        "2017 年 7 月，第一個版本正式發布，並取得了空前的成功。[pagebreak]",
+        "儘管專案已經完成，之後仍不時推出新的更新。[pagebreak]",
+        "2020 年，專案加入了",
+        "新的模型、構想和綠星星。[pagebreak]",
+        "隨著模組製作圈不斷發展，",
+        "[color:blue]新瑪利歐銀河[defcolor]又在 2023 年再次更新。[pagebreak]",
+        "[color:gray]（真是一段漫長的旅程！真難想像這個模組的歷史",
+        "幾乎有十年之久！）[defcolor]"
+      ]
     }
   },
   {
@@ -1284,8 +1500,12 @@
       "JpJapanese": [
         "[color:gray](あなたは[ruby:本;ほん]を そっと[ruby:本棚;ほんだな]に[ruby:戻;もど]した)[defcolor]"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[color:gray](책을 책장에 다시 꽂았다...)[defcolor]"
+      ],
+      "AsTradChinese": [
+        "[color:gray]（你把書放回書架……）[defcolor]"
+      ]
     }
   },
   {
@@ -1331,8 +1551,13 @@
         "あら、こんにちは！ ママの[ruby:書斎;しょさい]にはたくさんの[ruby:本;ほん]が",
         "あるの! [delay:30] [ruby:自由;じゆう]に[ruby:読;よ]んでいいよ♪"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "아, 안녕! 엄마의 도서관에는 책이 정말 많아. 마음껏 골라서 읽어 봐!"
+      ],
+      "AsTradChinese": [
+        "喔，哈囉！媽媽的圖書室裡",
+        "有好多書。想讀哪一本都可以哦！"
+      ]
     }
   }
 ]

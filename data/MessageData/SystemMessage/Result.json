@@ -624,8 +624,16 @@
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
         "[color:red]レッドスター[defcolor]を[ruby:手;て]に[ruby:入;い]れた!"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[color:red]레드스타[defcolor]를 얻었다!",
+        " [color:blue][stringvar:1;1;0x00000000][defcolor]",
+        " [stringvar:0;0;0x00000000]"
+      ],
+      "AsTradChinese": [
+        "得到[color:red]紅色星星[defcolor]了！",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ]
     }
   },
   {
@@ -663,8 +671,12 @@
       "JpJapanese": [
         "[color:blue]スタンプ[defcolor]を [ruby:手;て]に[ruby:入;い]れた!"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[color:blue]스탬프[defcolor]를 얻었다!"
+      ],
+      "AsTradChinese": [
+        "得到[color:blue]印章[defcolor]了！"
+      ]
     }
   },
   {

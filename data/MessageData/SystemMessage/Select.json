@@ -442,8 +442,12 @@
       "JpJapanese": [
         "ノーマル"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "일반"
+      ],
+      "AsTradChinese": [
+        "普通"
+      ]
     }
   },
   {
@@ -481,8 +485,12 @@
       "JpJapanese": [
         "サドンデス"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "데스"
+      ],
+      "AsTradChinese": [
+        "死神"
+      ]
     }
   },
   {
@@ -520,8 +528,12 @@
       "JpJapanese": [
         "[icon:mario] マリオ"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[icon:mario] 마리오"
+      ],
+      "AsTradChinese": [
+        "[icon:mario]瑪利歐"
+      ]
     }
   },
   {
@@ -559,8 +571,12 @@
       "JpJapanese": [
         "[icon:luigi] ルイージ"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[icon:luigi] 루이지"
+      ],
+      "AsTradChinese": [
+        "[icon:luigi]路易吉"
+      ]
     }
   },
   {

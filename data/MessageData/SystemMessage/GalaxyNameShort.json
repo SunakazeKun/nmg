@@ -34,8 +34,12 @@
       "JpJapanese": [
         "カチカチブロック"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "이프 비프"
+      ],
+      "AsTradChinese": [
+        "嗶嗶驚魂"
+      ]
     }
   },
   {
@@ -73,8 +77,12 @@
       "JpJapanese": [
         "ほうき星の天文台"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "별똥별 천문대"
+      ],
+      "AsTradChinese": [
+        "彗星天文台"
+      ]
     }
   },
   {
@@ -112,8 +120,12 @@
       "JpJapanese": [
         "ぼんやりゆうれい船"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "글루미 갤리온"
+      ],
+      "AsTradChinese": [
+        "陰森幽船"
+      ]
     }
   },
   {
@@ -151,8 +163,12 @@
       "JpJapanese": [
         "ギャラクティックガーデン"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "갤러틱 가든"
+      ],
+      "AsTradChinese": [
+        "星際花園"
+      ]
     }
   },
   {
@@ -190,8 +206,12 @@
       "JpJapanese": [
         "バトルブラスト"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "배틀 블래스트"
+      ],
+      "AsTradChinese": [
+        "戰鬥爆破"
+      ]
     }
   },
   {
@@ -276,8 +296,12 @@
       "JpJapanese": [
         "ぐるぐるもくざい"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "턴로그"
+      ],
+      "AsTradChinese": [
+        "旋轉積木"
+      ]
     }
   },
   {
@@ -366,8 +390,12 @@
       "JpJapanese": [
         "オタキングの要塞"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "크라켄 킹"
+      ],
+      "AsTradChinese": [
+        "章魚霸主"
+      ]
     }
   },
   {
@@ -405,8 +433,12 @@
       "JpJapanese": [
         "わくわくスイーツ"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "스위트 트리트"
+      ],
+      "AsTradChinese": [
+        "甜蜜點心"
+      ]
     }
   }
 ]

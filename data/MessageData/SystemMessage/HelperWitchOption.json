@@ -34,8 +34,12 @@
       "JpJapanese": [
         "サドンデス"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "데스"
+      ],
+      "AsTradChinese": [
+        "死神"
+      ]
     }
   },
   {
@@ -73,8 +77,12 @@
       "JpJapanese": [
         "ノーマル"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "일반"
+      ],
+      "AsTradChinese": [
+        "普通"
+      ]
     }
   },
   {
@@ -112,8 +120,12 @@
       "JpJapanese": [
         "ルイージ"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "루이지"
+      ],
+      "AsTradChinese": [
+        "路易吉"
+      ]
     }
   },
   {
@@ -151,8 +163,12 @@
       "JpJapanese": [
         "マリオ"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "마리오"
+      ],
+      "AsTradChinese": [
+        "瑪利歐"
+      ]
     }
   }
 ]

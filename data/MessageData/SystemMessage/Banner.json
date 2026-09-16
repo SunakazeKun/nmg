@@ -34,8 +34,12 @@
       "JpJapanese": [
         "NEO MARIO GALAXY"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "NEO MARIO GALAXY"
+      ],
+      "AsTradChinese": [
+        "NEO MARIO GALAXY"
+      ]
     }
   },
   {
@@ -73,8 +77,12 @@
       "JpJapanese": [
         "新たなる銀河へまたまた大冒険!!"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "새로운 갤럭시 모험!"
+      ],
+      "AsTradChinese": [
+        "一場新銀河的冒險！"
+      ]
     }
   }
 ]

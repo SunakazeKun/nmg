@@ -88,8 +88,24 @@
         "[icon:mario] [color:red]マリオ[defcolor] 、 [icon:luigi] [color:green]ルイージ[defcolor] のどちらでプレイしますか",
         "[color:gray](いま: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[player:0]님, 어서 오세요...",
+        " [color:red]새로운 은하계[color:black]로 모험을 떠날 준비가 되셨나요?[pagebreak]",
+        " 제 뒤에는 [icon:launch_star] [color:yellow]스타링[defcolor]이 있습니다.",
+        " 이걸 타면 머나먼 갤럭시로 가실 수 있습니다.[pagebreak]",
+        " 출발하기 전에 몇 가지 질문을 드릴게요.[pagebreak]",
+        " [icon:mario] [color:red]마리오[defcolor]와 [icon:luigi] [color:green]루이지[defcolor] 중 누구로 플레이 하실건가요?",
+        " [color:gray](현재: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "AsTradChinese": [
+        "歡迎回來，[player:0]…",
+        "準備好要來一場[color:red]新銀河[defcolor]的冒險之旅嗎？[pagebreak]",
+        "我背後有一個[icon:launch_star] [color:yellow]超級彈射星[defcolor]，",
+        "它會帶你到一個遙遠的銀河。[pagebreak]",
+        "在開始之前，我有幾個問題要問你。[pagebreak]",
+        "你想要以[icon:mario] [color:red]瑪利歐[defcolor]還是[icon:luigi] [color:green]路易吉[defcolor]來遊玩？",
+        "[color:gray](目前為：[defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ]
     }
   },
   {
@@ -178,8 +194,23 @@
         "また、[icon:checkpoint_flag][color:blue][ruby:中間;ちゅうかん]ポイント[defcolor]も[ruby:削除;さくじょ]されます[pagebreak]",
         "[color:blue]ノーマル[defcolor] 、 [color:red]サドンデス[defcolor] のどちらのモードでプレイしますか?[color:gray] (いま: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[color:red]데스[defcolor] 모드로 플레이할 수도 있습니다. 조금 더 어려운 모드이죠...[pagebreak]",
+        " 이 모드에서는 각 미션의 체력이 [color:red]1칸[color:black]으로 제한됩니다.",
+        " [color:red]데스 혜성[defcolor]과 똑같은 조건이죠.[pagebreak]",
+        " 게다가 모든 [icon:checkpoint_flag] [color:blue]체크포인트 깃발[defcolor]이 사라지게 됩니다...[pagebreak]",
+        " [color:blue]일반[defcolor]과 [color:red]데스[defcolor] 중 어느 모드를 선택하시겠습니까?",
+        " [color:gray](현재: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "AsTradChinese": [
+        "你也可以選擇遊玩[color:red]死神[defcolor]模式，",
+        "這個模式難度會非常困難哦…[pagebreak]",
+        "每個關卡內你只有會有1點體力，",
+        "就像[color:red]死神彗星[defcolor]的關卡一樣。[pagebreak]",
+        "而且，所有的[icon:checkpoint_flag] [color:blue]中間點[defcolor]都會被移除…[pagebreak]",
+        "你想要玩[color:blue]普通[defcolor]還是[color:red]死神[defcolor]模式？",
+        "[color:gray](目前為：[defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ]
     }
   },
   {
@@ -254,8 +285,18 @@
         "[ruby:星;ほし]くずの[ruby:恵;めぐ]みがありますよう・・・ では さようなら",
         ""
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "좋습니다. 여기서 나가시면",
+        " [color:blue]난이도[color:black]는 바꾸실 수 없습니다.[pagebreak]",
+        " 하지만 플레이하실 캐릭터는 언제든지 바꾸실 수 있습니다![pagebreak]",
+        " 여러분에게 축복의 별똥별이 쏟아지기를… 안녕히."
+      ],
+      "AsTradChinese": [
+        "這樣啊。",
+        "一旦你離開這裡，你就不能再更改難度模式了。[pagebreak]",
+        "不過，你依然能隨時更換想要遊玩的角色哦！[pagebreak]",
+        "願星塵保佑你…再會。"
+      ]
     }
   },
   {
@@ -298,8 +339,12 @@
       "JpJapanese": [
         "[ruby:設定;せってい]を[ruby:変更;へんこう]しますか？"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "설정을 변경하실건가요?"
+      ],
+      "AsTradChinese": [
+        "你想要更改你的設定嗎?"
+      ]
     }
   },
   {
@@ -348,8 +393,14 @@
         "[icon:mario] [color:red]マリオ[defcolor] 、 [icon:luigi] [color:green]ルイージ[defcolor] のどちらでプレイしますか",
         "[color:gray](いま: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[icon:mario] [color:red]마리오[defcolor]와 [icon:luigi] [color:green]루이지[defcolor] 중 누구로 플레이 하실건가요?",
+        " [color:gray](현재: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ],
+      "AsTradChinese": [
+        "你想要以[icon:mario] [color:red]瑪利歐[defcolor]還是[icon:luigi] [color:green]路易吉[defcolor]來遊玩？",
+        "[color:gray](目前為：[defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+      ]
     }
   }
 ]

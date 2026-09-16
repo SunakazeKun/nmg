@@ -187,8 +187,12 @@
       "JpJapanese": [
         "新たなる銀河へ 出発!"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "새로운 갤럭시 모험이 시작된다!"
+      ],
+      "AsTradChinese": [
+        "展開一場新銀河的冒險之旅！"
+      ]
     }
   },
   {
@@ -583,8 +587,12 @@
       "JpJapanese": [
         "マスター オブ ネオギャラクシー!"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "네오 마리오 갤럭시 마스터!"
+      ],
+      "AsTradChinese": [
+        "新瑪利歐銀河大師！"
+      ]
     }
   },
   {

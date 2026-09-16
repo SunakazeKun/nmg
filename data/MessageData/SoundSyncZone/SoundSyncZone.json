@@ -35,8 +35,12 @@
       "JpJapanese": [
         "ここまでの[icon:purple_coin]は[color:red]64[ruby:枚;まい][defcolor]です! "
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[color:red]64[defcolor]개의 [icon:purple_coin] [color:purple]보라색 코인[defcolor]을 모았어?"
+      ],
+      "AsTradChinese": [
+        "你有[color:red]64[defcolor]枚[icon:purple_coin] [color:purple]紫金幣[defcolor]了嗎？"
+      ]
     }
   }
 ]

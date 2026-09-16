@@ -34,8 +34,12 @@
       "JpJapanese": [
         "ピッピッピッ! ガチャン!"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "삐삐에게 다가가!"
+      ],
+      "AsTradChinese": [
+        "隨拍驚跳"
+      ]
     }
   },
   {
@@ -73,8 +77,12 @@
       "JpJapanese": [
         "パープルコインに[ruby:舞;ま]って"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "퍼플코인 댄스"
+      ],
+      "AsTradChinese": [
+        "紫金幣之舞"
+      ]
     }
   },
   {
@@ -112,8 +120,12 @@
       "JpJapanese": [
         "[player:0]とレッドスター"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[player:0]와 레드스타"
+      ],
+      "AsTradChinese": [
+        "[player:0]與紅色星星"
+      ]
     }
   },
   {
@@ -151,8 +163,12 @@
       "JpJapanese": [
         "[ruby:銀河;ぎんが]に[ruby:灯;とも]る ノスタルジア"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "갤럭시를 넘나드는 추억"
+      ],
+      "AsTradChinese": [
+        "星際的鄉愁"
+      ]
     }
   },
   {
@@ -190,8 +206,12 @@
       "JpJapanese": [
         "ゆうれい[ruby:船;せん]の シルバースター"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "유령의 실버스타"
+      ],
+      "AsTradChinese": [
+        "被詛咒的銀色星星"
+      ]
     }
   },
   {
@@ -229,8 +249,12 @@
       "JpJapanese": [
         "かき[ruby:集;あつ]めて! パープルコイン"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "퍼플코인을 훔쳐라"
+      ],
+      "AsTradChinese": [
+        "紫金幣掠奪戰"
+      ]
     }
   },
   {
@@ -268,8 +292,12 @@
       "JpJapanese": [
         "ゆうれい[ruby:船;せん]に[ruby:眠;ねむ]る[ruby:黄金;おうごん]の[ruby:秘宝;ひほう]"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "유령선의 황금 보물"
+      ],
+      "AsTradChinese": [
+        "幽靈船的黃金寶藏"
+      ]
     }
   },
   {
@@ -460,8 +488,12 @@
       "JpJapanese": [
         "[ruby:青空;あおぞら]に[ruby:眠;ねむ]る ディノパックン"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "디노뻐끔"
+      ],
+      "AsTradChinese": [
+        "恐龍吞食花"
+      ]
     }
   },
   {
@@ -499,8 +531,12 @@
       "JpJapanese": [
         "[ruby:風;かぜ][ruby:吹;ふ]く[ruby:空;そら]の シルバースター"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "폭풍 언덕의 실버스타"
+      ],
+      "AsTradChinese": [
+        "呼嘯之巔上的銀色星星"
+      ]
     }
   },
   {
@@ -538,8 +574,12 @@
       "JpJapanese": [
         "タイムアタック! [ruby:青空;あおぞら]に[ruby:眠;ねむ]る ディノパックン"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "길 잃은 아이 스피드런"
+      ],
+      "AsTradChinese": [
+        "限時挑戰！迷路的孩子"
+      ]
     }
   },
   {
@@ -577,8 +617,12 @@
       "JpJapanese": [
         "たおせ! けちらせ! つきすすめ! "
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "몬스터 플래닛 초스피드런"
+      ],
+      "AsTradChinese": [
+        "擊敗敵人！怪獸星球"
+      ]
     }
   },
   {
@@ -616,8 +660,12 @@
       "JpJapanese": [
         "たおせ! けちらせ! つきすすめ! とまるな! "
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "몬스터 플래닛 스피드런"
+      ],
+      "AsTradChinese": [
+        "限時挑戰！怪獸星球"
+      ]
     }
   },
   {
@@ -655,8 +703,12 @@
       "JpJapanese": [
         "よけろ! ビリビリトラップ"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "일렉트론 어택!"
+      ],
+      "AsTradChinese": [
+        "電子攻擊！"
+      ]
     }
   },
   {
@@ -694,8 +746,12 @@
       "JpJapanese": [
         "スピン! ジャンプ! スピン！"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "스핀, 점프, 스핀"
+      ],
+      "AsTradChinese": [
+        "轉呀轉，跳呀跳，又轉呀轉"
+      ]
     }
   },
   {
@@ -733,8 +789,12 @@
       "JpJapanese": [
         "カゲに[ruby:追;お]われて どこまでも"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "끝없는 회전과 분신!"
+      ],
+      "AsTradChinese": [
+        "無盡轉動，冒牌追襲！"
+      ]
     }
   },
   {
@@ -772,8 +832,12 @@
       "JpJapanese": [
         "メンテナンスは お[ruby:手;て]の[ruby:物;もの]！"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "최후의 한 못까지"
+      ],
+      "AsTradChinese": [
+        "登峰極刺"
+      ]
     }
   },
   {
@@ -811,8 +875,12 @@
       "JpJapanese": [
         "[ruby:要塞;ようさい]を[ruby:守;まも]る オタキング"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "비밀 가득한 한 접시"
+      ],
+      "AsTradChinese": [
+        "秘密之船"
+      ]
     }
   },
   {
@@ -850,8 +918,12 @@
       "JpJapanese": [
         "デスマッチ! [ruby:要塞;ようさい]を[ruby:守;まも]る オタキング"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "옥토킹의 데스 런"
+      ],
+      "AsTradChinese": [
+        "魔鬼挑戰！擊敗八爪王"
+      ]
     }
   },
   {
@@ -889,8 +961,12 @@
       "JpJapanese": [
         "ハッピーバースデー [player:0]?"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "생일 축하해... [player:0]?"
+      ],
+      "AsTradChinese": [
+        "生日快樂…[player:0]？"
+      ]
     }
   },
   {
@@ -928,8 +1004,12 @@
       "JpJapanese": [
         "ゴキゲンななめ? オタプリンス"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "옥토프린스의 화끈한 심술"
+      ],
+      "AsTradChinese": [
+        "火爆的八爪王子"
+      ]
     }
   },
   {
@@ -967,8 +1047,12 @@
       "JpJapanese": [
         "つぎつぎ モグポン けとばして"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "자유로운 유랑자의 스케이트 도전"
+      ],
+      "AsTradChinese": [
+        "放浪遊人的溜冰挑戰"
+      ]
     }
   }
 ]

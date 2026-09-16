@@ -34,8 +34,12 @@
       "JpJapanese": [
         "[ruby:勇者;ゆうしゃ]のあかし [icon:star] [color:yellow]コレ[defcolor] アズケル"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[icon:star] [color:yellow]용기의 증표[defcolor] 받아!"
+      ],
+      "AsTradChinese": [
+        "勇氣[icon:star] [color:yellow]證明[defcolor]給你！"
+      ]
     }
   },
   {
@@ -73,8 +77,12 @@
       "JpJapanese": [
         "ユウキ あるナ"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "너 용기 있구나."
+      ],
+      "AsTradChinese": [
+        "你是勇氣。"
+      ]
     }
   },
   {
@@ -116,8 +124,14 @@
       "JpJapanese": [
         "パルクール むずかしイ ガンバレ"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "파쿠르 어렵다.",
+        " 행운을 빌어!"
+      ],
+      "AsTradChinese": [
+        "跑酷困難。",
+        "祝好運！"
+      ]
     }
   },
   {
@@ -160,8 +174,14 @@
       "JpJapanese": [
         "ハンブン おわリ キをぬくナ"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "절반 완료.",
+        " 잘했어."
+      ],
+      "AsTradChinese": [
+        "一半了。",
+        "厲害。"
+      ]
     }
   },
   {
@@ -199,8 +219,12 @@
       "JpJapanese": [
         "クギ なんノ タメ？"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "못 어디에 쓰는 거지?"
+      ],
+      "AsTradChinese": [
+        "釘子，做什麼？"
+      ]
     }
   }
 ]

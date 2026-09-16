@@ -34,8 +34,12 @@
       "JpJapanese": [
         "[icon:star_chip] を[ruby:集;あつ]めるピョン！"
       ],
-      "KrKorean": null,
-      "AsTradChinese": null
+      "KrKorean": [
+        "[icon:star_chip]을 모아주세요!"
+      ],
+      "AsTradChinese": [
+        "收集[icon:star_chip]！"
+      ]
     }
   }
 ]
