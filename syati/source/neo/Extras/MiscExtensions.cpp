@@ -141,6 +141,14 @@ namespace {
     kmCall(0x801F17F4, extPukupukuCheckPlayerAttacks);
 
 
+	// BasaBasaIce
+	bool extBasaBasaIceCheckPlayerSpinAttackOnly(u32 msg) {
+		return MR::isMsgPlayerSpinAttack(msg);
+	}
+
+	kmCall(0x801583F4, extBasaBasaIceCheckPlayerSpinAttackOnly);
+
+
     // ==================================================================================================================
     // Fix Rocto hide behavior
     // ==================================================================================================================

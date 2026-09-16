@@ -16,6 +16,7 @@
 
 ### Bugfixes
 
+- Ice Bats can now be defeated by Co-Star Luma's Spin Attack.
 - The Stamp in Battle Blast Galaxy no longer appears during the Comet mission.
 - In the German localization, the Bigmouth Galaxy Luma now has German text.
 - The pop-in of objects in various galaxies have been fixed.
