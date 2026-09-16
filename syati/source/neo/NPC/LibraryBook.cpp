@@ -15,6 +15,7 @@ namespace neo {
         capabilities.mBodySensorRadius = 20.f;
         capabilities.mInitSphereShadow = false;
         capabilities.mInitYoshiLockOnTarget = false;
+		capabilities.mInitStarPointerTarget = false;
 
         initialize(rIter, capabilities, nullptr, nullptr, false);
     }
