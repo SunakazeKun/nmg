@@ -31,7 +31,9 @@ def copy_simple_tree_to_game(iso_folder_subpath: Path, src_folder_path: Path):
 
 def __main():
     copy_simple_tree_to_game(Path("LayoutData"), Path("data/LayoutData"))
-    copy_simple_tree_to_game(Path("ObjectData"), Path("data/ObjectData"))
+    copy_simple_tree_to_game(Path("ObjectData"), Path("data/ObjectData/SMG1"))
+    copy_simple_tree_to_game(Path("ObjectData"), Path("data/ObjectData/Edited"))
+    copy_simple_tree_to_game(Path("ObjectData"), Path("data/ObjectData/Custom"))
 
 
 if __name__ == '__main__':
