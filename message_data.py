@@ -6,7 +6,8 @@ folder. For some archives, the original archives are used as a base to add in ne
 """
 
 from pymsb import LMSFlows, LMSEntryNode, LMSMessageNode, LMSBranchNode, LMSEventNode, LMSDocument, LMSFlowNode
-from pyjkernel import JKRArchive, JKRArchiveFile, create_new_archive, from_archive_file, write_archive_file
+from pyjkernel import (JKRArchive, JKRArchiveFile, JKRCompression, create_new_archive, from_archive_file,
+                       write_archive_file)
 from msb_adapter import NeoMarioGalaxyAdapter, TalkType, BalloonType, SoundID, CameraType
 from config import GAME_PATH, ORG_LOCALIZE_DATA_PATH, SUPPORTED_LANGUAGES, PARTIAL_REPLACEMENTS
 from tools.dataio import read_json, read_bin
@@ -22,9 +23,12 @@ __all__ = ["build_message_data"]
 # Archive generation
 # ======================================================================================================================
 
-def build_message_data(message_data_path: Path, game_files_path: Path):
+SRC_MESSAGE_DATA_PATH = Path("data/MessageData")
+
+
+def build_message_data():
     for language in SUPPORTED_LANGUAGES:
-        for folder_path in filter(lambda p: p.is_dir(), message_data_path.iterdir()):
+        for folder_path in filter(lambda p: p.is_dir(), SRC_MESSAGE_DATA_PATH.iterdir()):
             archive_name = folder_path.name
             archive_subpath = f'{language}/MessageData/{archive_name}.arc'
 
@@ -40,9 +44,9 @@ def build_message_data(message_data_path: Path, game_files_path: Path):
                 __pack_msb_into_archive(archive, language, archive_name, msb_name,
                                         json_path, msbf_path)
 
-            archive_path = game_files_path / "LocalizeData" / archive_subpath
+            archive_path = GAME_PATH / "files/LocalizeData" / archive_subpath
             archive_path.parent.mkdir(parents=True, exist_ok=True)
-            write_archive_file(archive, str(archive_path))
+            write_archive_file(archive, str(archive_path), big_endian=True, compression=JKRCompression.NONE)
 
 
 def __pack_msb_into_archive(archive: JKRArchive, language: str, archive_name: str, msb_name: str,
@@ -485,12 +489,5 @@ def flows_UnderwaterCaveZone(flows: LMSFlows):
 
 ########################################################################################################################
 
-def __main():
-    game_files_path = GAME_PATH / "files"
-    message_data_path = Path("data/MessageData")
-
-    build_message_data(message_data_path, game_files_path)
-
-
 if __name__ == '__main__':
-    __main()
+    build_message_data()
