@@ -40,6 +40,8 @@ STAGE_NAME_TURNLOG_GALAXY         = "RedBlueExGalaxy"
 STAGE_NAME_KRAKEN_KING_GALAXY     = "VsKoopaJrLv1Galaxy"
 STAGE_NAME_COMET_OBSERVATORY      = "AstroGalaxy"
 STAGE_NAME_ROSALINA_INTRO         = "PeachCastleGalaxy"
+STAGE_NAME_STARSHIP_MARIO         = "MarioFaceShipGalaxy"
+STAGE_NAME_FILE_SELECT            = "FileSelect"
 
 USE_RESOURCE_STAGE_INFOS = [
     # Stage name                        Scenarios  Use common?
@@ -51,7 +53,9 @@ USE_RESOURCE_STAGE_INFOS = [
     (STAGE_NAME_TURNLOG_GALAXY,                 2, True),
     (STAGE_NAME_KRAKEN_KING_GALAXY,             2, True),
     (STAGE_NAME_COMET_OBSERVATORY,              2, True),
-    (STAGE_NAME_ROSALINA_INTRO,                 3, False)
+    (STAGE_NAME_ROSALINA_INTRO,                 3, False),
+    (STAGE_NAME_STARSHIP_MARIO,                 4, False),
+    (STAGE_NAME_FILE_SELECT,                    1, False),
 ]
 
 

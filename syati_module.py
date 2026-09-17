@@ -81,6 +81,7 @@ SOURCE_FILES = [
     "neo/System/GameProgress.cpp",
     "neo/System/IllustItemAccess.cpp",
     "neo/System/IllustItemExtensions.cpp",
+    "neo/System/HeapMemory.cpp",
     "neo/System/InStageSave.cpp",
     "neo/System/Language.cpp",
     "neo/System/RiivolutionConfig.cpp",
