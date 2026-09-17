@@ -33,7 +33,7 @@ namespace pt {
         * in SMG1 to mark its position before all green stars are collected. However, we have no use of this property in SMG2,
         * so we can safely disable this here. This also improves memory usage since this model would be loaded at all times.
         */
-        kmWrite32(0x8031E2A4, 0x60000000); // NOP call to initEmptyModel.
+        kmWrite32(0x8031E2A4, PPC_NOP); // NOP call to initEmptyModel.
     }
 
     NameObj* createSuperSpinDriverGreen(const char *pName) {

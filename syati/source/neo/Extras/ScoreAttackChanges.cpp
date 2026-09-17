@@ -3,10 +3,10 @@
 
 namespace {
     // Ignore MokumokuValleyGalaxy in MR::isStageScoreAttack
-    kmWrite32(0x80056954, LI_R3_0);
+    kmWrite32(0x80056954, PPC_LI(3, 0));
 
     // Ignore TaskEvent check for MokumokuValleyGalaxy
-    kmWrite32(0x800253C8, LI_R3_0);
+    kmWrite32(0x800253C8, PPC_LI(3, 0));
 
     // Ignore MokumokuValleyGalaxy's entry in TaskEvent table
     kmWrite32(0x8035B844, 0x38000006);

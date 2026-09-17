@@ -55,7 +55,7 @@ namespace {
 
     kmCall(0x8046DD44, reflectFileSelectInfoExt);
     kmCall(0x80250550, setFileSelectFileInfoExt);
-    kmWrite32(0x80251190, NOP); // read proper MissCount number
+    kmWrite32(0x80251190, PPC_NOP); // read proper MissCount number
     kmWrite32(0x8046DB94, 0x991E00C9);
 
 

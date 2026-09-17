@@ -84,16 +84,16 @@ namespace neo {
 
     // Disable hardcoded check for Mimic comets
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x804D8B80, LI_R3_1);
+    kmWrite32(0x804D8B80, PPC_LI(3, 1));
 #elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x804D8C10, LI_R3_1);
+    kmWrite32(0x804D8C10, PPC_LI(3, 1));
 #endif
 
     // Disable hardcoded check for Purple comets
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x804D8C44, LI_R3_1);
+    kmWrite32(0x804D8C44, PPC_LI(3, 1));
 #elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x804D8CD4, LI_R3_1);
+    kmWrite32(0x804D8CD4, PPC_LI(3, 1));
 #endif
 
 

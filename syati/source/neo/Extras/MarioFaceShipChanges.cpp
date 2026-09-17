@@ -9,17 +9,17 @@ namespace {
     // =================================================================================================================
 
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x804B4E08, LI_R3_0);
-    kmWrite32(0x804B52D4, LI_R3_0);
-    kmWrite32(0x804B5720, LI_R3_0);
-    kmWrite32(0x804B58F8, LI_R3_0);
-    kmWrite32(0x804D66F0, LI_R3_0);
+    kmWrite32(0x804B4E08, PPC_LI(3, 0));
+    kmWrite32(0x804B52D4, PPC_LI(3, 0));
+    kmWrite32(0x804B5720, PPC_LI(3, 0));
+    kmWrite32(0x804B58F8, PPC_LI(3, 0));
+    kmWrite32(0x804D66F0, PPC_LI(3, 0));
 #elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x804B4E78, LI_R3_0);
-    kmWrite32(0x804B5344, LI_R3_0);
-    kmWrite32(0x804B5790, LI_R3_0);
-    kmWrite32(0x804B5968, LI_R3_0);
-    kmWrite32(0x804D6780, LI_R3_0);
+    kmWrite32(0x804B4E78, PPC_LI(3, 0));
+    kmWrite32(0x804B5344, PPC_LI(3, 0));
+    kmWrite32(0x804B5790, PPC_LI(3, 0));
+    kmWrite32(0x804B5968, PPC_LI(3, 0));
+    kmWrite32(0x804D6780, PPC_LI(3, 0));
 #endif
 
 
@@ -58,6 +58,6 @@ namespace {
     // Disable Postman Toad appearance
     // =================================================================================================================
 
-    kmWrite32(0x8034F620, LI_R3_0);
-    kmWrite32(0x8034FA74, LI_R3_0);
+    kmWrite32(0x8034F620, PPC_LI(3, 0));
+    kmWrite32(0x8034FA74, PPC_LI(3, 0));
 }

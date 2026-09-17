@@ -1,6 +1,6 @@
 #pragma once
 
-#include "revolution.h"
+#include "revolution/types.h"
 
 #define SOME_GALAXY_STORAGE_FLAG_ILLUST_ITEM 4
 

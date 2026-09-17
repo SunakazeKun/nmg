@@ -77,7 +77,7 @@ namespace pt {
     * Stars and extended it with our colors.
     */
     kmCall(0x802DFC14, getPowerStarColorCurrentStage); // redirection hook
-    kmWrite32(0x802DFC20, 0x60000000);                 // NOP-out returning green all the time
+    kmWrite32(0x802DFC20, PPC_NOP);                 // NOP-out returning green all the time
     
 
     /*

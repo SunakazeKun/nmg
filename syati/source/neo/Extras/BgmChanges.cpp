@@ -47,5 +47,5 @@ namespace {
     // Prevent playing BGM_BOSSRUSH02 after defeating SMG1 bosses
     // =================================================================================================================
 
-    kmWrite32(0x8001BB20, BLR);
+    kmWrite32(0x8001BB20, PPC_BLR);
 }

@@ -2,6 +2,7 @@
 .gitignore eol=lf
 .gitmodules eol=lf
 .env.example eol=lf
+.editorconfig eol=lf
 
 *.py text eol=lf
 *.pyd text eol=lf

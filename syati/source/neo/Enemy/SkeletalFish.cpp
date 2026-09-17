@@ -1,4 +1,5 @@
 #include "neo/Enemy/SkeletalFish.h"
+#include "Game/Enemy/AnimScaleController.h"
 #include "Game/Util/ActionSoundUtil.h"
 #include "Game/Util/ActorAnimUtil.h"
 #include "Game/Util/ActorInitUtil.h"

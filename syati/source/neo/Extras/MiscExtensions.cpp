@@ -16,8 +16,8 @@ namespace {
     // Don't disable IslandFleetGalaxy's intro camera
     // =================================================================================================================
 
-    kmWrite32(0x80142C34, LI_R3_0);
-    kmWrite32(0x80451804, LI_R3_0);
+    kmWrite32(0x80142C34, PPC_LI(3, 0));
+    kmWrite32(0x80451804, PPC_LI(3, 0));
 
 
     // ==================================================================================================================
@@ -43,13 +43,13 @@ namespace {
 
     kmCall(0x8045E318, setTextBoxMessageAndHidePaneRecursive);
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x80486FE0, NOP);
+    kmWrite32(0x80486FE0, PPC_NOP);
     kmBranch(0x804A9CAC, setTextBoxMessageAndHidePaneRecursive);
-    kmWrite32(0x804A9C00, BLR);
+    kmWrite32(0x804A9C00, PPC_BLR);
 #elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x80486FF0, NOP);
+    kmWrite32(0x80486FF0, PPC_NOP);
     kmBranch(0x804A9D1C, setTextBoxMessageAndHidePaneRecursive);
-    kmWrite32(0x804A9C70, BLR);
+    kmWrite32(0x804A9C70, PPC_BLR);
 #endif
 
 
@@ -179,12 +179,12 @@ namespace {
     // ==================================================================================================================
 
     // SuperDreamer::init
-    kmWrite32(0x80360D54, LI_R3_0);
+    kmWrite32(0x80360D54, PPC_LI(3, 0));
 
     // GameSequenceFunction::isAllowDreamerInStage
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x804D7EAC, LI_R3_0);
+    kmWrite32(0x804D7EAC, PPC_LI(3, 0));
 #elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x804D7F3C, LI_R3_0);
+    kmWrite32(0x804D7F3C, PPC_LI(3, 0));
 #endif
 }

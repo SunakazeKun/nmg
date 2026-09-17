@@ -1,3 +1,5 @@
+#pragma once
+
 #include "Game/Screen/InformationObserver.h"
 
 namespace neo {

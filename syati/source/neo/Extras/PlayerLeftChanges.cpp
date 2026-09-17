@@ -50,17 +50,17 @@ namespace {
 
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
     kmWrite32(0x804A8E20, 0x48000020);
-    kmWrite32(0x804A8E78, NOP);
+    kmWrite32(0x804A8E78, PPC_NOP);
     kmWrite32(0x804A8F04, 0x48000014);
-    kmWrite32(0x804A8F68, NOP);
+    kmWrite32(0x804A8F68, PPC_NOP);
     kmWrite32(0x804A8FDC, 0x48000014);
     kmWrite32(0x804A9060, 0x48000024);
     kmWrite32(0x804A9214, 0x4800003C);
 #elif defined(SB4W) || defined(SB4K)
     kmWrite32(0x804A8E90, 0x48000020);
-    kmWrite32(0x804A8EE8, NOP);
+    kmWrite32(0x804A8EE8, PPC_NOP);
     kmWrite32(0x804A8F74, 0x48000014);
-    kmWrite32(0x804A8FD8, NOP);
+    kmWrite32(0x804A8FD8, PPC_NOP);
     kmWrite32(0x804A904C, 0x48000014);
     kmWrite32(0x804A90D0, 0x48000024);
     kmWrite32(0x804A9284, 0x4800003C);
@@ -72,12 +72,12 @@ namespace {
     // =================================================================================================================
 
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x804D9200, NOP);
-    kmWrite32(0x804B325C, NOP);
+    kmWrite32(0x804D9200, PPC_NOP);
+    kmWrite32(0x804B325C, PPC_NOP);
     kmWrite32(0x804B43A4, 0x48000058);
 #elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x804D9290, NOP);
-    kmWrite32(0x804B32CC, NOP);
+    kmWrite32(0x804D9290, PPC_NOP);
+    kmWrite32(0x804B32CC, PPC_NOP);
     kmWrite32(0x804B4414, 0x48000058);
 #endif
 
@@ -88,16 +88,16 @@ namespace {
 
     // GameDataPlayerStatus::addPlayerLeft stub
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x804DE030, BLR); 
+    kmWrite32(0x804DE030, PPC_BLR); 
 #elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x804DE0C0, BLR);
+    kmWrite32(0x804DE0C0, PPC_BLR);
 #endif
 
     // MR::addPlayerLeft stub
-    kmWrite32(0x80023890, BLR);
+    kmWrite32(0x80023890, PPC_BLR);
 
     // Prevent SE_SY_1UP/5UP sounds
-    kmWrite32(0x80059970, BLR);
+    kmWrite32(0x80059970, PPC_BLR);
 
     // MR::addStarPiece doesn't grant 1-Ups
     kmWrite32(0x80023A30, 0x48000024);

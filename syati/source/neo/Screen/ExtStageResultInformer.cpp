@@ -16,9 +16,9 @@ namespace {
     // =================================================================================================================
 
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x80496144, LI_R3_0);
+    kmWrite32(0x80496144, PPC_LI(3, 0));
 #elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x804961B4, LI_R3_0);
+    kmWrite32(0x804961B4, PPC_LI(3, 0));
 #endif
 
 
@@ -93,13 +93,13 @@ namespace {
     kmCall(0x80495F88, isPreviousNerveDisappearStampOrCometMedal);
     kmWrite32(0x80496750, 0x7C070378); // mr r7, r0
     kmCall(0x80496754, endResultPaneExt);
-    kmWrite32(0x80496758, NOP);
+    kmWrite32(0x80496758, PPC_NOP);
 #elif defined(SB4W) || defined(SB4K)
     kmCall(0x8049637C, getNextNerveExt);
     kmCall(0x80495FF8, isPreviousNerveDisappearStampOrCometMedal);
     kmWrite32(0x804967C0, 0x7C070378); // mr r7, r0
     kmCall(0x804967C4, endResultPaneExt);
-    kmWrite32(0x804967C8, NOP);
+    kmWrite32(0x804967C8, PPC_NOP);
 #endif
 
 

@@ -1,7 +1,8 @@
 #pragma once
 
 #include "Game/LiveActor/LiveActor.h"
-#include "Game/Enemy/AnimScaleController.h"
+
+class AnimScaleController;
 
 namespace neo {
     class SkeletalFish : public LiveActor {
