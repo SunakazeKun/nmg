@@ -54,7 +54,6 @@ ARCHIVE /ObjectData/CutWaferStepSquareA.arc
 ARCHIVE /ObjectData/CrystalCageOpa.arc
 ARCHIVE /ObjectData/CrystalCageOpaBreak.arc
 ARCHIVE /ObjectData/MechanicKoopaMini.arc
-ARCHIVE /ObjectData/PowerUpInvincible.arc
 ARCHIVE /ObjectData/TakoHeiInk.arc
 ARCHIVE /ObjectData/TakoHei.arc
 ARCHIVE /ObjectData/Takobo.arc

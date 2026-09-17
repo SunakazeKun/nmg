@@ -67,7 +67,6 @@ ARCHIVE /ObjectData/StarDustStepA.arc
 ARCHIVE /ObjectData/LavaTransparentPlanet.arc
 ARCHIVE /ObjectData/RelayPlanetC.arc
 ARCHIVE /ObjectData/SpaceDustWoodA.arc
-ARCHIVE /ObjectData/PowerUpInvincible.arc
 ARCHIVE /ObjectData/ElectricRail.arc
 ARCHIVE /ObjectData/ElectricRailPoint.arc
 ARCHIVE /ObjectData/CoinBlock.arc

@@ -79,6 +79,7 @@ namespace {
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, "/ObjectData/PowerUpFoo.arc" },
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, STATIONED_FILE_PATH_OBJECTDATA_POWERUPHOPPER_ARC },
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, "/ObjectData/PowerUpIce.arc" },
+        { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, "/ObjectData/PowerUpInvincible.arc" },
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, STATIONED_FILE_PATH_OBJECTDATA_POWERUPROCK_ARC },
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, STATIONED_FILE_PATH_OBJECTDATA_POWERUPTERESA_ARC },
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, STATIONED_FILE_PATH_OBJECTDATA_RAILPOINT_ARC },

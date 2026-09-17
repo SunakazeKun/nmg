@@ -87,7 +87,6 @@ ARCHIVE /ObjectData/ItemDice.arc
 ARCHIVE /ObjectData/Kuribo.arc
 ARCHIVE /ObjectData/RelayPlanetI.arc
 ARCHIVE /ObjectData/RelayPlanetILow.arc
-ARCHIVE /ObjectData/PowerUpInvincible.arc
 ARCHIVE /ObjectData/PackunFlower.arc
 ARCHIVE /ObjectData/PackunLeaf.arc
 ARCHIVE /ObjectData/PetitPorterPlanetA.arc
