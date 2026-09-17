@@ -1,4 +1,3 @@
-#include "Game/Util/JMapInfo.h" // to fix missing identifiers
 #include "Game/Util/SceneUtil.h"
 #include "kamek/hooks.h"
 #include "neo/core.h"
@@ -19,15 +18,13 @@ namespace {
         { STAGE_COMET_OBSERVATORY,     0 }
     };
 
-    const s32 cStarChanceExceptInfosCount = sizeof(cStarChanceExceptInfos) / sizeof(StarChanceExceptInfo);
-
     bool extIsStagePlayStarChance() {
         register s32 powerStarId;
         __asm {
             mr powerStarId, r30
         }
 
-        for (s32 i = 0; i < cStarChanceExceptInfosCount; i++) {
+        for (s32 i = 0; i < ARRAY_SIZE(cStarChanceExceptInfos); i++) {
             StarChanceExceptInfo exceptInfo = cStarChanceExceptInfos[i];
 
             if (MR::isEqualStageName(exceptInfo.mStageName)) {

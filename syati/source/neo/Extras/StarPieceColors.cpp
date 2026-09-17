@@ -20,13 +20,11 @@ namespace {
         { 0xD8, 0x56, 0x00, 0xFF }, // orange
     };
 
-    const s32 cStarPieceColorsCount = sizeof(cStarPieceColors) / sizeof(GXColor);
-
     // ----------------------------------------------------------------------------------------------------------------
 
     void initStarPieceColor(StarPiece *pActor, s32 color) {
-        if (color < 0 || color >= cStarPieceColorsCount) {
-            color = MR::getRandom(0, cStarPieceColorsCount);
+        if (color < 0 || color >= ARRAY_SIZE(cStarPieceColors)) {
+            color = MR::getRandom(0, ARRAY_SIZE(cStarPieceColors));
         }
 
         pActor->mColor = ::cStarPieceColors[color];
@@ -37,14 +35,14 @@ namespace {
     }
 
     // StarPiece::init
-    kmWrite32(0x80311220, 0x80810018); // r4 = color
-    kmWrite32(0x80311224, 0x7FA3EB78); // r3 = StarPiece*
+    kmWrite32(0x80311220, PPC_LWZ(4, 0x18, 1)); // r4 = color
+    kmWrite32(0x80311224, PPC_MR(3, 29)); // r3 = StarPiece*
     kmCall(0x80311228, initStarPieceColor);
-    kmWrite32(0x8031122C, 0x48000058); // skip garbage
+    kmWrite32(0x8031122C, PPC_B(0x58)); // skip garbage
 
     // StarPiece::setColor
     kmBranch(0x803116C0, setStarPieceColor);
 
     // StarPiece::getNumColor
-    kmWrite32(0x80311700, 0x38600000 | cStarPieceColorsCount);
+    kmWrite32(0x80311700, PPC_LI(3, ARRAY_SIZE(cStarPieceColors)));
 }

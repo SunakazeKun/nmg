@@ -9,7 +9,7 @@ namespace {
     kmWrite32(0x800253C8, PPC_LI(3, 0));
 
     // Ignore MokumokuValleyGalaxy's entry in TaskEvent table
-    kmWrite32(0x8035B844, 0x38000006);
+    kmWrite32(0x8035B844, PPC_LI(0, 6));
 
 
     // Make Star Select show score for Sweet Treat Galaxy 3

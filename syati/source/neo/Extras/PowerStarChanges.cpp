@@ -105,7 +105,7 @@ namespace {
     }
 
     // PowerStar::receiveOtherMsg
-    kmWrite32(0x802E0000, 0x60000000);
+    kmWrite32(0x802E0000, PPC_NOP);
     kmCall(0x802E0008, canStarMsgRushTakeOver);
 
 

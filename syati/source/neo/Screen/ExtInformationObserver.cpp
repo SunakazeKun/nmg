@@ -23,8 +23,6 @@ namespace {
         { "InformationObserverStamp", false, nullptr, nullptr }
     };
 
-    const s32 cInformationObserverExtInfosCount = sizeof(cInformationObserverExtInfos) / sizeof(InformationObserverExtInfo);
-
     // -----------------------------------------------------------------------------------------------------------------
 
     const Nerve* getNerveForInformationObserverExt(s32 extType) {

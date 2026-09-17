@@ -91,13 +91,13 @@ namespace {
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
     kmCall(0x8049630C, getNextNerveExt);
     kmCall(0x80495F88, isPreviousNerveDisappearStampOrCometMedal);
-    kmWrite32(0x80496750, 0x7C070378); // mr r7, r0
+    kmWrite32(0x80496750, PPC_MR(7, 0));
     kmCall(0x80496754, endResultPaneExt);
     kmWrite32(0x80496758, PPC_NOP);
 #elif defined(SB4W) || defined(SB4K)
     kmCall(0x8049637C, getNextNerveExt);
     kmCall(0x80495FF8, isPreviousNerveDisappearStampOrCometMedal);
-    kmWrite32(0x804967C0, 0x7C070378); // mr r7, r0
+    kmWrite32(0x804967C0, PPC_MR(7, 0));
     kmCall(0x804967C4, endResultPaneExt);
     kmWrite32(0x804967C8, PPC_NOP);
 #endif
@@ -186,12 +186,12 @@ namespace {
 
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
     kmCall(0x80494F24, getResultStarMessageName);
-    kmWrite32(0x80494F28, 0x7C651B78);
-    kmWrite32(0x80494F2C, 0x48000060);
+    kmWrite32(0x80494F28, PPC_MR(5, 3));
+    kmWrite32(0x80494F2C, PPC_B(0x60));
 #elif defined(SB4W) || defined(SB4K)
     kmCall(0x80494F94, getResultStarMessageName);
-    kmWrite32(0x80494F98, 0x7C651B78);
-    kmWrite32(0x80494F9C, 0x48000060);
+    kmWrite32(0x80494F98, PPC_MR(5, 3));
+    kmWrite32(0x80494F9C, PPC_B(0x60));
 #endif
 }
 

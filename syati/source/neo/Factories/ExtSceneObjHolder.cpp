@@ -20,8 +20,6 @@ namespace {
         { SCENE_OBJ_BLUE_CHIP_HOLDER, pt::createBlueChipHolder }
     };
 
-    const s32 cNewCreateSceneObjTableCount = sizeof(cNewCreateSceneObjTable) / sizeof(CreateSceneObjEntry);
-
 
     // =================================================================================================================
     // SceneObjHolder extension
@@ -31,7 +29,7 @@ namespace {
         NameObj* sceneObj = pHolder->newEachObj(type);
 
         if (!sceneObj) {
-            for (s32 i = 0; i < cNewCreateSceneObjTableCount; i++) {
+            for (s32 i = 0; i < ARRAY_SIZE(cNewCreateSceneObjTable); i++) {
                 const CreateSceneObjEntry entry = cNewCreateSceneObjTable[i];
 
                 if (entry.mSlotId == type) {

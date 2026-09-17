@@ -49,21 +49,21 @@ namespace {
     // =================================================================================================================
 
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x804A8E20, 0x48000020);
+    kmWrite32(0x804A8E20, PPC_B(0x20));
     kmWrite32(0x804A8E78, PPC_NOP);
-    kmWrite32(0x804A8F04, 0x48000014);
+    kmWrite32(0x804A8F04, PPC_B(0x14));
     kmWrite32(0x804A8F68, PPC_NOP);
-    kmWrite32(0x804A8FDC, 0x48000014);
-    kmWrite32(0x804A9060, 0x48000024);
-    kmWrite32(0x804A9214, 0x4800003C);
+    kmWrite32(0x804A8FDC, PPC_B(0x14));
+    kmWrite32(0x804A9060, PPC_B(0x24));
+    kmWrite32(0x804A9214, PPC_B(0x3C));
 #elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x804A8E90, 0x48000020);
+    kmWrite32(0x804A8E90, PPC_B(0x20));
     kmWrite32(0x804A8EE8, PPC_NOP);
-    kmWrite32(0x804A8F74, 0x48000014);
+    kmWrite32(0x804A8F74, PPC_B(0x14));
     kmWrite32(0x804A8FD8, PPC_NOP);
-    kmWrite32(0x804A904C, 0x48000014);
-    kmWrite32(0x804A90D0, 0x48000024);
-    kmWrite32(0x804A9284, 0x4800003C);
+    kmWrite32(0x804A904C, PPC_B(0x14));
+    kmWrite32(0x804A90D0, PPC_B(0x24));
+    kmWrite32(0x804A9284, PPC_B(0x3C));
 #endif
 
 
@@ -74,11 +74,11 @@ namespace {
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
     kmWrite32(0x804D9200, PPC_NOP);
     kmWrite32(0x804B325C, PPC_NOP);
-    kmWrite32(0x804B43A4, 0x48000058);
+    kmWrite32(0x804B43A4, PPC_B(0x58));
 #elif defined(SB4W) || defined(SB4K)
     kmWrite32(0x804D9290, PPC_NOP);
     kmWrite32(0x804B32CC, PPC_NOP);
-    kmWrite32(0x804B4414, 0x48000058);
+    kmWrite32(0x804B4414, PPC_B(0x58));
 #endif
 
 
@@ -100,7 +100,7 @@ namespace {
     kmWrite32(0x80059970, PPC_BLR);
 
     // MR::addStarPiece doesn't grant 1-Ups
-    kmWrite32(0x80023A30, 0x48000024);
+    kmWrite32(0x80023A30, PPC_B(0x24));
 
     // MarioLauncherTarget grants a Life-Up instead
     kmCall(0x802CFC4C, changePlayerItemLifeUp);
@@ -109,11 +109,11 @@ namespace {
     kmCall(0x8041793C, changePlayerItemLifeUp);
 
     // Disable Bank Toad 1-Up check
-    kmWrite32(0x8034EC20, 0x38600000);
-    kmWrite32(0x8034EC24, 0x480000AC);
+    kmWrite32(0x8034EC20, PPC_LI(3, 0));
+    kmWrite32(0x8034EC24, PPC_B(0xAC));
 
     // Disable Bank Toad 1-Up reward
-    kmWrite32(0x8034EE54, 0x48000038);
+    kmWrite32(0x8034EE54, PPC_B(0x38));
 
 
     // =================================================================================================================
@@ -121,11 +121,11 @@ namespace {
     // =================================================================================================================
 
     // ItemDice creates Life Mushroom
-    kmWrite32(0x802B4978, 0x48000018); // skip garbage
+    kmWrite32(0x802B4978, PPC_B(0x18)); // skip garbage
     kmCall(0x802B4990, createBenefitItemLifeUp);
 
     // TreasureBoxCracked creates Life Mushroom
     kmCall(0x8032561C, createBenefitItemLifeUp);
-    kmWrite32(0x80325620, 0x7C7F1B78); // r31 = BenefitItemLifeUp*
-    kmWrite32(0x80325624, 0x4800002C); // skip garbage
+    kmWrite32(0x80325620, PPC_MR(31, 3)); // r31 = BenefitItemLifeUp*
+    kmWrite32(0x80325624, PPC_B(0x2C)); // skip garbage
 }

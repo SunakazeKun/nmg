@@ -121,8 +121,6 @@ namespace {
         { "TicoManiac", createExtActor<neo::TicoManiac> }
     };
 
-    const s32 cNewCreateNameObjTableCount = sizeof(cNewCreateNameObjTable) / sizeof(CreateActorEntry);
-
 
     // =================================================================================================================
     // Prevent creation in Daredevil Mode
@@ -147,8 +145,6 @@ namespace {
         "TicoShopDice"
     };
 
-    const s32 cDaredevilIgnoreObjsCount = sizeof(cDaredevilIgnoreObjs) / sizeof(const char *);
-
 
     // =================================================================================================================
     // NameObjFactory extension
@@ -158,7 +154,7 @@ namespace {
         CreateActorFunc* creator = NameObjFactory::getCreator(pName);
 
         if (!creator) {
-            for (s32 i = 0; i < cNewCreateNameObjTableCount; i++) {
+            for (s32 i = 0; i < ARRAY_SIZE(cNewCreateNameObjTable); i++) {
                 const CreateActorEntry entry = cNewCreateNameObjTable[i];
 
                 if (MR::isEqualString(entry.pActorName, pName)) {
@@ -169,7 +165,7 @@ namespace {
         }
 
         if (neo::isDaredevilMode()) {
-            for (s32 i = 0; i < cDaredevilIgnoreObjsCount; i++) {
+            for (s32 i = 0; i < ARRAY_SIZE(cDaredevilIgnoreObjs); i++) {
                 if (MR::isEqualString(cDaredevilIgnoreObjs[i], pName)) {
                     return nullptr;
                 }

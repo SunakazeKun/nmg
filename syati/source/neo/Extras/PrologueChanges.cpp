@@ -9,16 +9,16 @@ namespace {
 
     // No Power Stars collected -> Starship Mario
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x804D6314, 0x40820058);
+    kmWrite32(0x804D6314, PPC_COND_BRANCH(PPC_COND_NE, 0x58));
 #elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x804D63A4, 0x40820058);
+    kmWrite32(0x804D63A4, PPC_COND_BRANCH(PPC_COND_NE, 0x58));
 #endif
 
     // VsKoopaLv3Galaxy cleared -> Starship Mario
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x804D66A8, 0x4182007C);
+    kmWrite32(0x804D66A8, PPC_COND_BRANCH(PPC_COND_EQ, 0x7C));
 #elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x804D6738, 0x4182007C);
+    kmWrite32(0x804D6738, PPC_COND_BRANCH(PPC_COND_EQ, 0x7C));
 #endif
 
 
@@ -26,7 +26,7 @@ namespace {
     // Disables StoryBook layout for PeachCastleGalaxy
     // =================================================================================================================
 
-    kmWrite32(0x80056BF0, 0x4800008C);
+    kmWrite32(0x80056BF0, PPC_B(0x8C));
 
 
     // =================================================================================================================

@@ -55,8 +55,6 @@ namespace {
         { "WoodBox", NameObjFactory::createNameObj<WoodBox> }
     };
 
-    const s32 cNewCreateMapObjTableCount = sizeof(cNewCreateMapObjTable) / sizeof(CreateActorEntry);
-
 
     // =================================================================================================================
     // ProductMapCreator extension
@@ -66,7 +64,7 @@ namespace {
         CreateActorFunc* creator = pFactory->getProductMapCreator(pName);
 
         if (!creator) {
-            for (s32 i = 0; i < cNewCreateMapObjTableCount; i++) {
+            for (s32 i = 0; i < ARRAY_SIZE(cNewCreateMapObjTable); i++) {
                 const CreateActorEntry entry = cNewCreateMapObjTable[i];
 
                 if (MR::isEqualString(entry.pActorName, pName)) {

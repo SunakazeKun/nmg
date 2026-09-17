@@ -90,8 +90,9 @@ namespace neo {
 
         // Store Star Bits & Coins and clear their in-stage counts
         GameDataFunction::tryOnGameEventFlagStarPieceCounterStop(resultInStage->mClearedStarPieceNum);
-        resultInStage->mClearedStarPieceNum = 0;
         GameDataFunction::tryOnGameEventFlagCoinCounterStop(resultInStage->mClearedCoinNum);
+
+        resultInStage->mClearedStarPieceNum = 0;
         resultInStage->mClearedCoinNum = 0;
 
         // Save the game

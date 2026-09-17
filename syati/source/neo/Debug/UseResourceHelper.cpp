@@ -1,4 +1,3 @@
-#include "revolution.h"
 #include "kamek/hooks.h"
 #include "Game/Util/FileUtil.h"
 #include "JSystem/JGadget/hashcode.h"
