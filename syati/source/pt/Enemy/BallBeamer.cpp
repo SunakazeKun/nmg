@@ -11,6 +11,7 @@
 #include "Game/Util/ActorStateUtil.h"
 #include "Game/Util/ActorSwitchUtil.h"
 #include "Game/Util/EffectUtil.h"
+#include "Game/Util/Functor.h"
 #include "Game/Util/JMapUtil.h"
 #include "Game/Util/JointUtil.h"
 #include "Game/Util/LiveActorUtil.h"

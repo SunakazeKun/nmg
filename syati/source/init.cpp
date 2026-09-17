@@ -1,4 +1,4 @@
-#include "revolution.h"
+#include "revolution/types.h"
 #include "kamek/hooks.h"
 
 typedef void (*Func)();

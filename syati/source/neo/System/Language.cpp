@@ -5,6 +5,8 @@
 #include "revolution/sc.h"
 #include "kamek/hooks.h"
 
+#define SC_LANG_COUNT (10)
+
 namespace {
     const u8 cSCLangToIPLCode[SC_LANG_COUNT] = {
 #if defined(SB4P)

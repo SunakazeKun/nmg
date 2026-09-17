@@ -2,6 +2,7 @@
 #include "Game/Util/ActionSoundUtil.h"
 #include "Game/Util/ActorInitUtil.h"
 #include "Game/Util/ActorSwitchUtil.h"
+#include "Game/Util/Functor.h"
 #include "Game/Util/JMapUtil.h"
 #include "Game/Util/LiveActorUtil.h"
 #include "Game/Util/ObjUtil.h"
