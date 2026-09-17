@@ -1,14 +1,12 @@
 #include "neo/System/Language.h"
 #include "neo/System/Language.inc"
 #include "neo/System/RiivolutionConfig.h"
-#include "Game/System/Language.h"
-#include "revolution/sc.h"
 #include "kamek/hooks.h"
 
 #define SC_LANG_COUNT (10)
 
 namespace {
-    const u8 cSCLangToIPLCode[SC_LANG_COUNT] = {
+    const u8 cSCLanguage2GameLanguageTable[SC_LANG_COUNT] = {
 #if defined(SB4P)
         LANGUAGE_JP_JAPANESE,
         LANGUAGE_EU_ENGLISH,
@@ -82,7 +80,6 @@ namespace {
         { LANGUAGE_KR_KOREAN,       LOCALE_PREFIX_KR_KOREAN },
         { LANGUAGE_AS_TRAD_CHINESE, LOCALE_PREFIX_AS_TRAD_CHINESE },
     };
-    const u32 cLanguagesCount = sizeof(cLanguages) / sizeof(Language);
 
 
     // =================================================================================================================
@@ -94,7 +91,7 @@ namespace {
         u32 locale;
 
         if (!neo::getRiivolutionConfigLocale(&locale)) {
-            locale = cSCLangToIPLCode[language];
+            locale = cSCLanguage2GameLanguageTable[language];
         }
 
         return locale;
@@ -137,7 +134,7 @@ namespace {
     const char* extGetCurrentLanguagePrefix() {
         u32 locale = MR::getLanguage();
 
-        for (int i = 0; i < cLanguagesCount; i++) {
+        for (int i = 0; i < ARRAY_SIZE(cLanguages); i++) {
             if (cLanguages[i].mLocale == locale) {
                 return cLanguages[i].mName;
             }
@@ -180,9 +177,9 @@ namespace {
     // =================================================================================================================
 
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite16(0x804BD392, cLanguagesCount);
+    kmWrite16(0x804BD392, ARRAY_SIZE(cLanguages));
 #elif defined(SB4W) || defined(SB4K)
-    kmWrite16(0x804BD422, cLanguagesCount);
+    kmWrite16(0x804BD422, ARRAY_SIZE(cLanguages));
 #endif
 
 

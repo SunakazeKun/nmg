@@ -10,7 +10,7 @@ class StringSpider : public LiveActor {
 public:
     StringSpider(const char* pName);
 
-    u8 _90[0xD0 - 0x90];
+    u8 _90[0xD0 - sizeof(LiveActor)];
 };
 
 namespace neo {

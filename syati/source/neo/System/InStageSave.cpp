@@ -33,8 +33,6 @@ namespace neo {
         { STAGE_KRAKEN_KING_GALAXY,     3, {  4, -1 } },
     };
 
-    const s32 cAllowInStageSaveInfosCount = sizeof(cAllowInStageSaveInfos) / sizeof(AllowInStageSaveInfo);
-
     bool allowInStageSave(s32 powerStarId) {
         if (!MR::isPowerStarGreenInCurrentStage(powerStarId)) {
             return false;
@@ -44,7 +42,7 @@ namespace neo {
         s32 scenarioNo = MR::getCurrentScenarioNo();
         GalaxyStatusAccessor gsa = MR::makeGalaxyStatusAccessor(stageName);
 
-        for (int i = 0; i < cAllowInStageSaveInfosCount; i++) {
+        for (int i = 0; i < ARRAY_SIZE(cAllowInStageSaveInfos); i++) {
             const AllowInStageSaveInfo& info = cAllowInStageSaveInfos[i];
 
             if (!MR::isEqualString(info.mStageName, stageName)) {
