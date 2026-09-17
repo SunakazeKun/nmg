@@ -1,8 +1,8 @@
 """
 UseResource archive generator
 
-Generates UseResource archives for all configured stages based on asset loading logs. The logs are loaded from
-'<GAME_PATH>/files/UseResourceLogs' and are processed using 'smguseres'.
+Generates UseResource archives for all configured stages based on asset loading logs. The log files are copied from the
+UseResourceLogs folder and processed using 'smguseres'.
 """
 
 from config import GAME_PATH, USE_RESOURCE_STAGE_INFOS
@@ -10,19 +10,38 @@ from smguseres import UseResourceGenerator
 from argparse import ArgumentParser
 from pathlib import Path
 
-__all__ = ["repack_use_resource_archives", "clear_all_use_resource_archives"]
+import shutil
+import logging
+
+__all__ = ["repack_use_resource_archives", "clear_use_resource_archives"]
 
 
 ########################################################################################################################
 
-def repack_use_resource_archives(game_files_path: Path):
+SRC_USE_RESOURCE_LOGS_PATH = Path("data/UseResourceLogs")
+
+
+def repack_use_resource_archives():
+    game_files_path = GAME_PATH / "files"
+    game_use_resource_logs_path = game_files_path / "UseResourceLogs"
+
+    if game_use_resource_logs_path.exists():
+        shutil.rmtree(game_use_resource_logs_path)
+    shutil.copytree(SRC_USE_RESOURCE_LOGS_PATH, game_use_resource_logs_path)
+
     for stage_name, unique_scenarios_count, use_common, in USE_RESOURCE_STAGE_INFOS:
+        logging.info("Generating UseResource archive for %s", stage_name)
+
         builder = UseResourceGenerator(str(game_files_path), stage_name, unique_scenarios_count, use_common)
         builder.write_analyzed()
 
 
-def clear_all_use_resource_archives(game_files_path: Path):
+def clear_use_resource_archives():
+    game_files_path = GAME_PATH / "files"
+
     for stage_name, unique_scenarios_count, use_common in USE_RESOURCE_STAGE_INFOS:
+        logging.info("Clearing UseResource archive for %s", stage_name)
+
         builder = UseResourceGenerator(str(game_files_path), stage_name, unique_scenarios_count, use_common)
         builder.write_dummy()
 
@@ -30,19 +49,17 @@ def clear_all_use_resource_archives(game_files_path: Path):
 ########################################################################################################################
 
 def __main():
-    game_files_path = GAME_PATH / "files"
-
     parser = ArgumentParser()
-    sub_parsers = parser.add_subparsers(dest="command", required=True)
-
-    repack_parser = sub_parsers.add_parser("repack")
-    repack_parser.set_defaults(func=lambda a: repack_use_resource_archives(game_files_path))
-
-    clear_parser = sub_parsers.add_parser("clear")
-    clear_parser.set_defaults(func=lambda a: clear_all_use_resource_archives(game_files_path))
-
+    parser.add_argument("command", choices=["repack", "clear"])
     args = parser.parse_args()
-    args.func(args)
+
+    match args.command:
+        case "repack":
+            repack_use_resource_archives()
+        case "clear":
+            clear_use_resource_archives()
+        case _:
+            exit(1)
 
 
 if __name__ == '__main__':
