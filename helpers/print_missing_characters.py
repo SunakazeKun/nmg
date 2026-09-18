@@ -77,10 +77,14 @@ def collect_used_characters(language: str) -> set[str]:
 
             for message in json_data:
                 label = message["label"]
-                lines = message["languages"][language]
 
                 if (archive_name, bank_name, label) in IGNORE_LABELS:
                     continue
+
+                lines = message["languages"].get(language)
+
+                if lines is None:
+                    lines = message["languages"].get("default")
                 if lines is None:
                     continue
 

@@ -11,7 +11,7 @@
 - Aurum
 
 # NMG 3D DESIGN
-- AlexSMG
+- Alex SMG
 - Floaty
 - froggo
 - Mixlas
