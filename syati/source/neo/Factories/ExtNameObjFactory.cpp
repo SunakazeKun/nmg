@@ -1,4 +1,4 @@
-Ôªø#include "Game/NameObj/NameObjFactory.h"
+#include "Game/NameObj/NameObjFactory.h"
 #include "Game/Util/StringUtil.h"
 #include "neo/System/DaredevilModeAccess.h"
 #include "kamek/hooks.h"
@@ -38,12 +38,12 @@ namespace {
 
     template<>
     NameObj* createExtActor<pt::MorphItemNeoFoo>(const char *pName) {
-        return new pt::MorphItemNeoFoo("È£õË°å„Ç™„Éñ„Ç∏„Çß");
+        return new pt::MorphItemNeoFoo("îÚçsÉIÉuÉWÉF");
     }
 
     template<>
     NameObj* createExtActor<pt::MorphItemNeoIce>(const char *pName) {
-        return new pt::MorphItemNeoIce("„Ç¢„Ç§„Çπ„Ç™„Éñ„Ç∏„Çß");
+        return new pt::MorphItemNeoIce("ÉAÉCÉXÉIÉuÉWÉF");
     }
 
     template<>

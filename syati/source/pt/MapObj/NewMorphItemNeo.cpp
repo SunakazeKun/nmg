@@ -1,4 +1,4 @@
-﻿#include "pt/MapObj/NewMorphItemNeo.h"
+#include "pt/MapObj/NewMorphItemNeo.h"
 #include "Game/MapObj/MorphItemCollection.h"
 #include "Game/Util/ActionSoundUtil.h"
 #include "Game/Util/EffectUtil.h"

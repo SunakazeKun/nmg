@@ -1,4 +1,4 @@
-ï»¿#include "pt/Enemy/BallBeamer.h"
+#include "pt/Enemy/BallBeamer.h"
 #include "Game/Enemy/RingBeam.h"
 #include "Game/Enemy/WalkerStateBindStarPointer.h"
 #include "Game/LiveActor/ActorStateParamScale.h"
@@ -87,7 +87,7 @@ namespace pt {
         mAttackDuration = mNumMaxBeams * 120;
 
         for (s32 i = 0; i < mNumMaxBeams; i++) {
-            RingBeam* beam = new RingBeam("ãƒªãƒ³ã‚°ãƒ“ãƒ¼ãƒ ", this, true, useShadow, true, true, nullptr);
+            RingBeam* beam = new RingBeam("ƒŠƒ“ƒOƒr[ƒ€", this, true, useShadow, true, true, nullptr);
             beam->initWithParamScale(rIter, mParamScale);
             beam->setSpeed(speed);
             beam->setLife(duration);

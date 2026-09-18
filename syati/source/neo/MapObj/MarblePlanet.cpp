@@ -1,4 +1,4 @@
-ï»¿#include "neo/MapObj/MarblePlanet.h"
+#include "neo/MapObj/MarblePlanet.h"
 #include "Game/LiveActor/ModelObj.h"
 #include "Game/Util/ActionSoundUtil.h"
 #include "Game/Util/ActorAnimUtil.h"
@@ -91,7 +91,7 @@ namespace neo {
 
     void MarblePlanet::initCoreAndElectron() {
         // Initialize core
-        mMarblePlanetCore = MR::createModelObjMapObj("ãƒ“ãƒ¼çŽ‰æƒ‘æ˜Ÿã‚³ã‚¢", "MarblePlanetCore", (MtxPtr)getBaseMtx());
+        mMarblePlanetCore = MR::createModelObjMapObj("ƒr[‹Ê˜f¯ƒRƒA", "MarblePlanetCore", (MtxPtr)getBaseMtx());
         MR::invalidateClipping(mMarblePlanetCore);
         MR::startBckAndSetFrameAndStop(mMarblePlanetCore, "MarblePlanetCore", 0.0f);
         MR::startBtkAndSetFrameAndStop(mMarblePlanetCore, "MarblePlanetCore", 0.0f);
@@ -116,7 +116,7 @@ namespace neo {
             rotation.setAll(i * (360.0f / mNumElectrons));
 
             // Construct electron
-            MarblePlanetElectron* electron = new MarblePlanetElectron(this, translation, rotation, "ãƒ“ãƒ¼çŽ‰æƒ‘æ˜Ÿé›»å­");
+            MarblePlanetElectron* electron = new MarblePlanetElectron(this, translation, rotation, "ƒr[‹Ê˜f¯“dŽq");
             electron->initWithoutIter();
             mMarblePlanetElectrons[i] = electron;
         }
@@ -215,7 +215,7 @@ namespace neo {
         initSound(4, "MarblePlanet", false, TVec3f(0.0f, 0.0f, 0.0f));
         MR::invalidateClipping(this);
 
-        mShadow = new MarblePlanetElectronShadow(this, mHost->mTranslation, "é›»å­å½±");
+        mShadow = new MarblePlanetElectronShadow(this, mHost->mTranslation, "“dŽq‰e");
         mShadow->initWithoutIter();
 
         MR::calcGravity(this);

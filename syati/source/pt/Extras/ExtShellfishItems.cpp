@@ -1,4 +1,4 @@
-ï»¿#include "Game/MapObj/Shellfish.h"
+#include "Game/MapObj/Shellfish.h"
 #include "Game/MapObj/Coin.h"
 #include "pt/MapObj/BlueChip.h"
 #include "Game/Util/JMapUtil.h"
@@ -22,7 +22,7 @@ namespace pt {
                 s32 group = -1;
                 MR::getJMapInfoArg0NoInit(rIter, &group);
 
-                BlueChip *chip = new BlueChip("ãƒ–ãƒ«ãƒ¼ãƒãƒƒãƒ—");
+                BlueChip *chip = new BlueChip("ƒuƒ‹[ƒ`ƒbƒv");
                 chip->setHost(pActor);
                 chip->setGroupID(group);
                 chip->initWithoutIter();
@@ -31,7 +31,7 @@ namespace pt {
                 pActor->mItemType = 2;
             }
             else if (MR::isObjectName(rIter, "ShellfishPurpleCoin")) {
-                LiveActor *coin = MR::createPurpleCoin(pActor, "ãƒ‘ãƒ¼ãƒ—ãƒ«ã‚³ã‚¤ãƒ³");
+                LiveActor *coin = MR::createPurpleCoin(pActor, "ƒp[ƒvƒ‹ƒRƒCƒ“");
                 coin->initWithoutIter();
 
                 pActor->mItem = coin;

@@ -52,7 +52,7 @@ namespace {
             pActor->setNerve(pNerve);
         }
         else {
-            MR::requestStartDemoWithoutCinemaFrame(pActor, "初出表\示", pNerve, &NrvInformationObserver::InformationObserverNrvWait::sInstance);
+            MR::requestStartDemoWithoutCinemaFrame(pActor, "初出表示", pNerve, &NrvInformationObserver::InformationObserverNrvWait::sInstance);
         }
 
         pActor->makeActorAppeared();

@@ -1,4 +1,4 @@
-﻿#include "pt/MapObj/BlueChip.h"
+#include "pt/MapObj/BlueChip.h"
 #include "Game/MapObj/ChipHolder.h"
 #include "Game/MapObj/ChipCounter.h"
 #include "Game/Scene/SceneObjHolder.h"

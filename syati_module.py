@@ -154,6 +154,7 @@ INCLUDES = [
 
 COMPILER_OPTIONS = [
     "-proc gekko",
+    "-enc SJIS",
     "-nodefaults",
     "-O4,s",
     "-inline on",
@@ -169,6 +170,7 @@ COMPILER_OPTIONS = [
 
 ASSEMBLER_OPTIONS = [
     "-proc gekko",
+    "-enc SJIS",
     "-DGEKKO",
     "-DMTX_USE_PS",
 ]

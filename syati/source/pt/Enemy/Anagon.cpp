@@ -1,4 +1,4 @@
-﻿#include "pt/Enemy/Anagon.h"
+#include "pt/Enemy/Anagon.h"
 #include "Game/Enemy/AnimScaleController.h"
 #include "Game/Util/ActionSoundUtil.h"
 #include "Game/Util/ActorAnimUtil.h"

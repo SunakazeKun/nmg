@@ -88,7 +88,7 @@ namespace {
 
     // GameDataPlayerStatus::addPlayerLeft stub
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x804DE030, PPC_BLR); 
+    kmWrite32(0x804DE030, PPC_BLR);
 #elif defined(SB4W) || defined(SB4K)
     kmWrite32(0x804DE0C0, PPC_BLR);
 #endif
