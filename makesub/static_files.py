@@ -10,10 +10,10 @@ __all__ = ["copy_static_files_to_game", "copy_simple_tree_to_game"]
 ########################################################################################################################
 
 def copy_static_files_to_game():
-    copy_simple_tree_to_game(Path("LayoutData"), Path("data/LayoutData"))
-    copy_simple_tree_to_game(Path("ObjectData"), Path("data/ObjectData/SMG1"))
-    copy_simple_tree_to_game(Path("ObjectData"), Path("data/ObjectData/Edited"))
-    copy_simple_tree_to_game(Path("ObjectData"), Path("data/ObjectData/Custom"))
+    copy_simple_tree_to_game(Path("LayoutData"), Path("data/arcs/LayoutData"))
+    copy_simple_tree_to_game(Path("ObjectData"), Path("data/arcs/ObjectData/SMG1"))
+    copy_simple_tree_to_game(Path("ObjectData"), Path("data/arcs/ObjectData/Edited"))
+    copy_simple_tree_to_game(Path("ObjectData"), Path("data/arcs/ObjectData/Custom"))
 
 
 def copy_simple_tree_to_game(iso_folder_subpath: Path, src_folder_path: Path):

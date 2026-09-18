@@ -25,4 +25,5 @@
 *.bcsv binary
 *.tbl binary
 *.arc binary
+*.jpc binary
 *.brfnt binary

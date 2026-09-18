@@ -1,0 +1,14 @@
+EventType:String:0,FlagType:String:0,StageName:String:0,ScenarioNo:Int:0,PowerStarNum:Int:0,WatchedEventNo:Int:0,SwitchNo:Int:0,EventNo:Int:0,ReturnType:String:0,OrStageName:String:0,OrScenarioNo:Int:0,UseTimeKeepDemo:Char:0
+注目会話,イエロースター120個,IslandFleetGalaxy,-1,-1,-1,1017,701,下,IslandFleetGalaxy,-1,0
+会話,コメットオープン,IslandFleetGalaxy,-1,-1,-1,-1,51,上,IslandFleetGalaxy,-1,0
+注目会話,特殊,IslandFleetGalaxy,-1,-1,-1,1009,301,上,IslandFleetGalaxy,-1,1
+注目会話,スター数,IslandFleetGalaxy,-1,8,-1,1004,104,上,IslandFleetGalaxy,-1,0
+注目会話,スター数,IslandFleetGalaxy,-1,22,-1,1025,11,上,IslandFleetGalaxy,-1,0
+注目会話[注目先行],シナリオ,IslandFleetGalaxy,2,-1,-1,1006,201,アイテム惑星,IslandFleetGalaxy,-1,0
+注目会話,シナリオ,IslandFleetGalaxy,3,-1,-1,1002,102,下,IslandFleetGalaxy,-1,0
+注目会話[注目先行],シナリオ,YosshiHomeGalaxy,2,-1,-1,1012,401,アイテム惑星,IslandFleetGalaxy,-1,0
+注目会話,シナリオ,DigMineGalaxy,1,-1,-1,1010,302,下,IslandFleetGalaxy,-1,0
+注目会話,シナリオ,DigMineGalaxy,2,-1,-1,1000,100,下,IslandFleetGalaxy,-1,1
+注目会話[注目先行],シナリオ,MokumokuValleyGalaxy,1,-1,-1,1021,204,アイテム惑星,IslandFleetGalaxy,-1,0
+注目会話,シナリオ,RedBlueExGalaxy,1,-1,-1,1008,300,下,IslandFleetGalaxy,-1,0
+注目会話[注目先行],シナリオ,AstroGalaxy,1,-1,-1,1023,403,アイテム惑星,IslandFleetGalaxy,-1,0

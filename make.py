@@ -1,21 +1,17 @@
 def __main():
-    from copy_to_game import copy_static_files_to_game
-    from font_archives import pack_font_archives
-    from message_data import build_message_data
-    from heap_memory import update_heap_memory_bcsv_files
-    from pack_distzip import pack_zip_archive
-    from syati_module import build_syati_release_modules
-    from use_resource import pack_use_resource_archives
+    from makesub.static_files import copy_static_files_to_game
+    from makesub.use_resource import pack_use_resource_archives
+    from makesub.other_archives import pack_other_archives
+    from makesub.message_data import build_message_data
+    from makesub.syati_module import build_syati_release_modules
+    from makesub.pack_distzip import pack_zip_archive
 
     copy_static_files_to_game()
-
+    pack_use_resource_archives()
+    pack_other_archives()
     build_message_data()
-    pack_font_archives()
 
     build_syati_release_modules()
-
-    update_heap_memory_bcsv_files()
-    pack_use_resource_archives()
 
     pack_zip_archive()
 
