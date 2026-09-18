@@ -12,7 +12,7 @@ from pathlib import Path
 import logging
 import subprocess
 
-__all__ = ["build_syati_module"]
+__all__ = ["build_syati_release_modules", "build_syati_module"]
 
 
 # ======================================================================================================================
@@ -105,6 +105,11 @@ SOURCE_FILES = [
 
 
 # ======================================================================================================================
+
+def build_syati_release_modules():
+    for region in MODULE_REGIONS:
+        build_syati_module(region, "RELEASE")
+
 
 def build_syati_module(region: str, target: str):
     link_files = []
@@ -250,10 +255,5 @@ def __link_module(kamek_path: Path, module_path: Path, region: str, link_files: 
 
 ########################################################################################################################
 
-def __main():
-    for region in MODULE_REGIONS:
-        build_syati_module(region, "RELEASE")
-
-
 if __name__ == '__main__':
-    __main()
+    build_syati_release_modules()

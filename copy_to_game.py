@@ -4,10 +4,17 @@ from config import GAME_PATH, SUPPORTED_LANGUAGES
 
 import logging
 
-__all__ = ["copy_simple_tree_to_game"]
+__all__ = ["copy_static_files_to_game", "copy_simple_tree_to_game"]
 
 
 ########################################################################################################################
+
+def copy_static_files_to_game():
+    copy_simple_tree_to_game(Path("LayoutData"), Path("data/LayoutData"))
+    copy_simple_tree_to_game(Path("ObjectData"), Path("data/ObjectData/SMG1"))
+    copy_simple_tree_to_game(Path("ObjectData"), Path("data/ObjectData/Edited"))
+    copy_simple_tree_to_game(Path("ObjectData"), Path("data/ObjectData/Custom"))
+
 
 def copy_simple_tree_to_game(iso_folder_subpath: Path, src_folder_path: Path):
     logging.info("Copying into game %s from %s", iso_folder_subpath, src_folder_path)
@@ -29,12 +36,5 @@ def copy_simple_tree_to_game(iso_folder_subpath: Path, src_folder_path: Path):
 
 ########################################################################################################################
 
-def __main():
-    copy_simple_tree_to_game(Path("LayoutData"), Path("data/LayoutData"))
-    copy_simple_tree_to_game(Path("ObjectData"), Path("data/ObjectData/SMG1"))
-    copy_simple_tree_to_game(Path("ObjectData"), Path("data/ObjectData/Edited"))
-    copy_simple_tree_to_game(Path("ObjectData"), Path("data/ObjectData/Custom"))
-
-
 if __name__ == '__main__':
-    __main()
+    copy_static_files_to_game()
