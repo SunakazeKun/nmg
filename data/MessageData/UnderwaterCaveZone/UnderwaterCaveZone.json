@@ -56,6 +56,9 @@
         "came across this gloomy cave.",
         "What an adventure!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[size:large]あ～～～！[pagebreak]",
         "[size:normal][player:0]さんじゃないですか！[pagebreak]",
@@ -70,6 +73,7 @@
         " 저희가 [color:red]새로운 은하계[color:black]를 여행하다가 이 어두컴컴한 동굴을 발견했어요.",
         " 정말 멋진 모험이었죠!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[size:large]哇啊！[pagebreak]",
         "[size:normal]原來是你啊…是[player:0]對吧？[pagebreak]",
@@ -112,12 +116,16 @@
       "EuDutch": [
         "[size:large]Woah![size:normal] There's a ghost ship!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[size:large]うわ～～っ！ [size:normal][ruby:幽霊船;ゆうれいせん]です！"
       ],
       "KrKorean": [
         "[size:large]우와![size:normal] 유령선이다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[size:large]哇！[size:normal]那裡有一艘幽靈船！"
       ]
@@ -155,12 +163,16 @@
       "EuDutch": [
         "I'm searching for the [icon:purple_coin]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[icon:purple_coin]はどこだー！"
       ],
       "KrKorean": [
         "[icon:purple_coin]을 찾고 있어요!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "我正在找[icon:purple_coin]哦！"
       ]
@@ -198,12 +210,16 @@
       "EuDutch": [
         "Eeeep! This place is scary!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ひぃ～～！　どうしてこんな[ruby:怖;こわ]いところに…"
       ],
       "KrKorean": [
         "으아악! 여기 무서워!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "呀啊！這地方可真可怕！"
       ]
@@ -241,12 +257,16 @@
       "EuDutch": [
         "Purple Coins... collect... [size:small]Zzzzzz..."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "パープルコインを... [ruby:集;あつ]め... [size:small]Zzzzzz..."
       ],
       "KrKorean": [
         "퍼플코인... 모아야 해... [size:small]쿨쿨..."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "收集…紫金幣…[size:small]Zzzzzz……"
       ]
@@ -284,12 +304,16 @@
       "EuDutch": [
         "Don't forget to [color:red]breathe[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:息;いき][defcolor]つぎを[ruby:忘;わす]れずに!"
       ],
       "KrKorean": [
         "[color:red]숨 쉬는 거[color:black] 잊지 마세요!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "別忘了要注意[color:red]空氣餘量[defcolor]哦！"
       ]
@@ -327,12 +351,16 @@
       "EuDutch": [
         "Press [icon:a_button] to [color:red]swim[color:black].[color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[icon:a_button]でスイスイ [color:blue][ruby:泳;およ]ごう！[color:black][color:red][defcolor]"
       ],
       "KrKorean": [
         "[icon:a_button]을 눌러 [color:red]수영[color:black]할 수 있어.[color:red][defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "按[icon:a_button]可以[color:red]游泳[color:black]！[color:red][defcolor]"
       ]
@@ -372,12 +400,16 @@
       "EuDutch": [
         "[icon:analog_stick] [color:blue]forward[defcolor] to [color:red]swim down[color:black].[color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[icon:analog_stick]スティックを [color:blue][ruby:前;まえ]に[defcolor][ruby:倒;たお]すと [color:red][ruby:下向;したむ]きにおよげるぜ[color:black]！[color:red][defcolor]"
       ],
       "KrKorean": [
         "[icon:analog_stick]을 [color:blue]앞으로[defcolor] 기울여 [color:red]아래로 헤엄쳐 봐.[color:black].[color:red][defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[icon:analog_stick] [color:blue]往前[defcolor]可以[color:red]往下游[color:black]！[color:red][defcolor]"
       ]
@@ -415,12 +447,16 @@
       "EuDutch": [
         "Press [icon:z_button] to [color:red]dive[color:black].[color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[icon:z_button]で[color:blue]もぐる[color:black]！[color:red][defcolor]"
       ],
       "KrKorean": [
         "[icon:z_button]을 눌러 [color:red]잠수[color:black]해봐.[color:red][defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "要按[icon:z_button]來[color:red]潛水[color:black]！[color:red][defcolor]"
       ]
@@ -458,12 +494,16 @@
       "EuDutch": [
         "Where are the [icon:silver_star]?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[icon:silver_star]どこにあるんだろう・・・"
       ],
       "KrKorean": [
         "[icon:silver_star]는 어디 있지?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[icon:silver_star]在哪裡呀？"
       ]
@@ -502,12 +542,16 @@
       "EuDutch": [
         "[color:red]Bubbles[defcolor] give you air!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:blue][ruby:空気;くうき][ruby:減;へ]ったら [defcolor][color:red]アワ[defcolor] で[ruby:回復;かいふく]！"
       ],
       "KrKorean": [
         "[color:red]공기방울[defcolor]을 먹으면 공기를 보충할 수 있어!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:red]泡泡[defcolor]可以恢復空氣哦！"
       ]
@@ -560,6 +604,9 @@
         "In this exam, you must collect all",
         "the [icon:silver_star] [color:gray]Silver Stars[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "キミは[color:blue][ruby:水泳教室;すいえいきょうしつ][defcolor]の[color:red][ruby:卒業試験;そつぎょうしけん][defcolor]を[ruby:受;う]けにきたのかい?[pagebreak]",
         "[ruby:試験;しけん]は[icon:silver_star][color:red]シルバースター[ruby:集;あつ]め[defcolor]！ [pagebreak]",
@@ -569,6 +616,7 @@
         "[color:blue]수영 학교[defcolor]의 [color:red]최종 시험[defcolor]을 보러 왔니?[pagebreak]",
         " 이 시험에서는 모든 [icon:silver_star] [color:gray]실버스타[defcolor]를 모아야 해!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你來參加[color:blue]游泳學校[defcolor]的[color:red]最終考驗[defcolor]嗎？[pagebreak]",
         "在這個考驗中，你要收集所有的",
@@ -608,12 +656,16 @@
       "EuDutch": [
         "Collect all the [icon:silver_star] [color:gray]Silver Stars[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[icon:silver_star][color:gray]シルバースター[defcolor]をぜんぶ[ruby:集;あつ]めよう!"
       ],
       "KrKorean": [
         "모든 [icon:silver_star] [color:gray]실버스타[defcolor]를 모아!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "收集所有的[icon:silver_star] [color:gray]銀色星星[defcolor]！"
       ]
@@ -656,6 +708,9 @@
         "Congratulations!",
         "You passed the exam!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "おめでとう！",
         "キミは[ruby:合格;ごうかく]だ！"
@@ -664,6 +719,7 @@
         "축하해!",
         " 시험에 합격했어!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "恭喜過關！",
         "你通過考驗了！"
@@ -707,6 +763,9 @@
         "The key to the [color:yellow]golden treasure[defcolor]",
         "has been lost for ages..."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:yellow][ruby:黄金;おうごん]の[ruby:宝;たから][defcolor]のてがかりは[ruby:遠;とお]～い[ruby:昔;むかし]に",
         "[ruby:失;うし]われてしまったのじゃ..."
@@ -715,6 +774,7 @@
         "[color:yellow]황금 보물[defcolor]의 열쇠는",
         " 아주 오래전에 사라졌어..."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "通往[color:yellow]黃金寶藏[defcolor]",
         "的鑰匙已經失傳已久啦……"

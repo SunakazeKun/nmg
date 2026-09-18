@@ -78,6 +78,9 @@
         "[icon:mario] [color:red]Mario[defcolor] or [icon:luigi] [color:green]Luigi[defcolor]?",
         "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "お[ruby:帰;かえ]りなさい [player:0] [delay:45]",
         "[color:red]新[ruby:たなる銀;ネオギャラクシー]河[defcolor]へ[ruby:旅立;たびだ]つ[ruby:準備;じゅんび]は[ruby:整;ととの]いましたか[pagebreak]",
@@ -97,6 +100,7 @@
         " [icon:mario] [color:red]마리오[defcolor]와 [icon:luigi] [color:green]루이지[defcolor] 중 누구로 플레이 하실건가요?",
         " [color:gray](현재: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "歡迎回來，[player:0]…",
         "準備好要來一場[color:red]新銀河[defcolor]的冒險之旅嗎？[pagebreak]",
@@ -186,6 +190,9 @@
         "[color:blue]Normal[defcolor] or [color:red]Daredevil[defcolor] mode?",
         "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "つぎに、より[ruby:難;むずか]しい[color:red]サドンデス[defcolor]モードでプレイする",
         "こともできます[pagebreak]",
@@ -202,6 +209,7 @@
         " [color:blue]일반[defcolor]과 [color:red]데스[defcolor] 중 어느 모드를 선택하시겠습니까?",
         " [color:gray](현재: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你也可以選擇遊玩[color:red]死神[defcolor]模式，",
         "這個模式難度會非常困難哦…[pagebreak]",
@@ -279,6 +287,9 @@
         "May the stars shine",
         "down on you. Farewell."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:分;わ]かりました・・・この[ruby:場所;ばしょ]を[ruby:離;はな]れてしまうと、プレイするモードを[ruby:変更;へんこう]することは[ruby:出来;でき]ません[pagebreak]",
         "ですが、プレイするキャラクターは[ruby:後;あと]でいつでも[ruby:変更;へんこう]することができます[pagebreak]",
@@ -291,6 +302,7 @@
         " 하지만 플레이하실 캐릭터는 언제든지 바꾸실 수 있습니다![pagebreak]",
         " 여러분에게 축복의 별똥별이 쏟아지기를… 안녕히."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "這樣啊。",
         "一旦你離開這裡，你就不能再更改難度模式了。[pagebreak]",
@@ -336,12 +348,16 @@
         "Would you like to change",
         "your settings?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:設定;せってい]を[ruby:変更;へんこう]しますか？"
       ],
       "KrKorean": [
         "설정을 변경하실건가요?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你想要更改你的設定嗎?"
       ]
@@ -389,6 +405,9 @@
         "[icon:mario] [color:red]Mario[defcolor] or [icon:luigi] [color:green]Luigi[defcolor]?",
         "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[icon:mario] [color:red]マリオ[defcolor] 、 [icon:luigi] [color:green]ルイージ[defcolor] のどちらでプレイしますか",
         "[color:gray](いま: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
@@ -397,6 +416,7 @@
         "[icon:mario] [color:red]마리오[defcolor]와 [icon:luigi] [color:green]루이지[defcolor] 중 누구로 플레이 하실건가요?",
         " [color:gray](현재: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你想要以[icon:mario] [color:red]瑪利歐[defcolor]還是[icon:luigi] [color:green]路易吉[defcolor]來遊玩？",
         "[color:gray](目前為：[defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"

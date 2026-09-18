@@ -31,12 +31,16 @@
       "EuDutch": [
         "Take [icon:star] [color:yellow]sign[defcolor] of courage!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:勇者;ゆうしゃ]のあかし [icon:star] [color:yellow]コレ[defcolor] アズケル"
       ],
       "KrKorean": [
         "[icon:star] [color:yellow]용기의 증표[defcolor] 받아!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "勇氣[icon:star] [color:yellow]證明[defcolor]給你！"
       ]
@@ -74,12 +78,16 @@
       "EuDutch": [
         "You are courage."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ユウキ あるナ"
       ],
       "KrKorean": [
         "너 용기 있구나."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你是勇氣。"
       ]
@@ -121,6 +129,9 @@
         "Parkour difficult.",
         "Good luck!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "パルクール むずかしイ ガンバレ"
       ],
@@ -128,6 +139,7 @@
         "파쿠르 어렵다.",
         " 행운을 빌어!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "跑酷困難。",
         "祝好運！"
@@ -171,6 +183,9 @@
         "Half finished.",
         "Well done."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ハンブン おわリ キをぬくナ"
       ],
@@ -178,6 +193,7 @@
         "절반 완료.",
         " 잘했어."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "一半了。",
         "厲害。"
@@ -216,12 +232,16 @@
       "EuDutch": [
         "What is nail for?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "クギ なんノ タメ？"
       ],
       "KrKorean": [
         "못 어디에 쓰는 거지?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "釘子，做什麼？"
       ]

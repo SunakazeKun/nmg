@@ -157,6 +157,9 @@
         "",
         "Play Time: [stringvar:5;1;0x00000000]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "表彰状",
         "",
@@ -196,6 +199,7 @@
         "",
         "플레이 시간: [stringvar:5;1;0x00000000]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "Dear [stringvar:4;0;0x00000000],",
         "",
@@ -379,6 +383,9 @@
         "",
         "Play Time: [stringvar:5;1;0x00000000]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "表彰状",
         "",
@@ -429,6 +436,7 @@
         "",
         "플레이 시간: [stringvar:5;1;0x00000000]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "Dear [stringvar:4;0;0x00000000],",
         "",
@@ -492,12 +500,16 @@
         "Message sent to the Wii Message",
         "Board!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "Wii[ruby:伝言板;でんごんばん]にメッセージを[ruby:送;おく]りました!"
       ],
       "KrKorean": [
         "Wii 알림판에 메시지를 보냈습니다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "訊息已傳送至Wii留言板！"
       ]
@@ -543,6 +555,9 @@
       "EuDutch": [
         "Super Mario Galaxy 2"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "スーパーマリオギャラクシー２"
       ],
@@ -550,6 +565,7 @@
         "슈퍼 마리오 Wii 2",
         "갤럭시 어드벤처 투게더"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "Super Mario Galaxy 2"
       ]
@@ -595,12 +611,16 @@
       "EuDutch": [
         "Player"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "遊んでくれたプレイヤー"
       ],
       "KrKorean": [
         "플레이어"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "Player"
       ]

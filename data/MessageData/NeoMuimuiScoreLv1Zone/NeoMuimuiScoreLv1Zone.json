@@ -98,6 +98,9 @@
         "Simple enough, right? So you ready to",
         "experience this?!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "よく[ruby:来;き]たな!",
         "おれさまは、 [color:red]さすらいの[ruby:遊;あそ]び[ruby:人;にん][defcolor][pagebreak]",
@@ -118,6 +121,7 @@
         "…준비됐어?",
         "자! [color:blue]내가 만든 게임[defcolor]을 만끽해 줘!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "終於見到你啦！",
         "本少爺是[color:red]放浪遊人[color:black]。[color:red][defcolor][color:black][pagebreak]",
@@ -181,6 +185,9 @@
         "You got [color:red][color:red][intvar:3;0;0] [color:red]points[color:black]! Wow! [color:red][defcolor]Next",
         "time, try to top that [color:red]h[defcolor][color:red][color:red]igh[color:red] score[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red][intvar:3;0;0][ruby:点;てん][defcolor]なのだ!",
         "また [color:red]ハイスコア[defcolor]を[ruby:狙;ねら]いに、 [ruby:遊;あそ]びに[ruby:来;く]るんだぞ!"
@@ -189,6 +196,7 @@
         "[color:red][intvar:3;0;0]점[defcolor]이야!",
         "[color:red]하이스코어[defcolor]를 따러 또 놀러 와!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:red][intvar:3;0;0]分[defcolor]哦！",
         "記得再來挑戰[color:red]最高紀錄[defcolor]啊！"
@@ -259,6 +267,9 @@
         "go, but just know that when you're",
         "ready, [color:red]The Chimp[defcolor] will be waiting."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ぬなっ! まぁ [ruby:今日;きょう]は[ruby:気分;きぶん]がいいから[ruby:許;ゆる]してやる!",
         "でも、 また[color:red]チャレンジ[defcolor][color:red][color:black]しろ[color:red][color:black]よな[color:red][defcolor]! [delay:15]わかったな!"
@@ -267,6 +278,7 @@
         "에헴! 뭐, 오늘은 기분이 좋으니까 용서해 주지!",
         "하지만 [color:red]도전[defcolor][color:black]하러 또 와야 돼! [defcolor][delay:15]알았지?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "哼！今天心情不錯，放過你吧！",
         "不過，再來[color:red]挑戰[defcolor][color:black]啊[defcolor]！[delay:15]知道嗎！"
@@ -313,12 +325,16 @@
       "EuDutch": [
         "Try to get [color:red][intvar:2;0;0] points[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:目標;もくひょう]は[color:red][intvar:2;0;0][ruby:点;てん][color:black]なのだ[color:red][defcolor]!"
       ],
       "KrKorean": [
         "목표는 [color:red][intvar:2;0;0]점[color:black]이야![color:red][defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "目標是[color:red][intvar:2;0;0]分[defcolor]！"
       ]
@@ -375,6 +391,9 @@
         "[color:black]Wanna play? [delay:15][color:red]You want to[color:black]! I can see",
         "it in your eyes![defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "…やっぱりやるよな?",
         "[delay:15]オマエなら [color:red]やるはず[defcolor]なのだ!"
@@ -383,6 +402,7 @@
         "…역시 할 거구나?",
         "[delay:15]너라면 [color:red]당연히 해[defcolor]야지!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "…你要挑戰吧?",
         "[delay:15]你一定[color:red]會挑戰[defcolor]的啦！"
@@ -455,6 +475,9 @@
         "[color:red]shining rival[defcolor]! I may not like it, but I",
         "promised...so you can take this [icon:star]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "お[ruby:見事;みごと]! [color:red][intvar:2;0;0][ruby:点;てん][defcolor]なのだ![pagebreak]",
         "おれさまの[color:red]ピカいち[defcolor][color:red]ライバル [defcolor]と[ruby:認;みと]めてやるぞ!",
@@ -465,6 +488,7 @@
         "나의 [color:red]반짝반짝 라이벌[defcolor]로 인정해 줄게!",
         "그 증거로 [color:yellow][icon:star]이것[color:black]을 줘야겠어![color:yellow][defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "厲害！[color:red][intvar:2;0;0]分[defcolor]哦！[pagebreak]",
         "承認你是本少爺的[color:red]頭號[defcolor][color:red]對手[defcolor]！",
@@ -542,6 +566,9 @@
         "[size:normal]You got [color:red][color:red][intvar:3;0;0][color:red] points[defcolor]! As",
         "promised, you can take [color:yellow][color:black]this[color:yellow] [defcolor][icon:star]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "・・・ややや?![delay:15]",
         "[color:red][size:large]ハイスコア[color:black]だぞ[color:red][defcolor]!![pagebreak]",
@@ -554,6 +581,7 @@
         "[size:normal][color:red][intvar:2;0;0]점[defcolor]!",
         "약속한 대로 [icon:star][color:yellow]이것[defcolor]을 줄게!!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "唉呀?![delay:15]",
         "[color:red][size:large]最高紀錄[color:black]哦!![color:red][defcolor][pagebreak]",
@@ -615,6 +643,9 @@
         "I'll give you a [color:yellow][color:red][icon:star][color:yellow] [color:red][color:yellow][color:black]if you can get",
         "[color:yellow][defcolor][color:red][intvar:2;0;0] points or more[defcolor][color:black]! [defcolor]Good luck!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red][intvar:2;0;0][ruby:点以上;てんいじょう][color:black]で[color:red][color:yellow] [icon:star][color:red][color:yellow]コレ[color:black]を[color:yellow][color:black]やるからな[color:yellow][color:red][defcolor][color:black]!",
         "[defcolor]がんばれよ!"
@@ -623,6 +654,7 @@
         "[color:red][intvar:2;0;0]점 이상 [color:black]따면[color:red][color:yellow] [icon:star][color:red][color:yellow]이것[color:black]을 줄 테니까[color:yellow][color:red][defcolor][color:black]",
         "열심히 해 봐![defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "拿到[color:red][intvar:2;0;0]分以上[color:black]，[color:red]",
         "[color:yellow][icon:star]這個[color:red][color:black]就給你[color:red][defcolor][color:black]！加油啦[defcolor]！"
@@ -687,6 +719,9 @@
         "Wanna try again? You gotta focus on",
         "[color:blue]skating in a clean line[defcolor]! That's the key!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:残念;ざんねん]! [color:red][intvar:3;0;0][ruby:点;てん][color:black]なの[color:red][defcolor]だ![pagebreak]",
         "もう[ruby:一回;いっかい] [color:red]チャレンジ[defcolor]するか?",
@@ -697,6 +732,7 @@
         "다시 한 번 [color:red]도전[defcolor]할래? [color:blue]깔끔한 동선으로",
         "스케이팅하는 것[defcolor][color:black]이 성공의 열쇠야![defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "可惜！只拿到[color:red][intvar:3;0;0]分[defcolor]！[pagebreak]",
         "要不要再[color:red]挑戰[defcolor]一次?",
@@ -747,12 +783,16 @@
       "EuDutch": [
         "[color:orange]P2[defcolor]! You [color:red]help[defcolor], too!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:orange]2P[defcolor]も[color:red]アタック[defcolor]!"
       ],
       "KrKorean": [
         "[color:orange]2P[defcolor]도 [color:red]어택[defcolor]!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:orange]2P[defcolor]也來[color:red]幫忙[defcolor]！"
       ]

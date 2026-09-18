@@ -39,10 +39,22 @@
       "EuDutch": [
         "[icon:silver_crown]"
       ],
+      "UsPortuguese": [
+        "[icon:silver_crown]"
+      ],
+      "EuPortuguese": [
+        "[icon:silver_crown]"
+      ],
+      "EuRussian": [
+        "[icon:silver_crown]"
+      ],
       "JpJapanese": [
         "[icon:silver_crown]"
       ],
       "KrKorean": [
+        "[icon:silver_crown]"
+      ],
+      "CnSimpChinese": [
         "[icon:silver_crown]"
       ],
       "AsTradChinese": [
@@ -90,10 +102,22 @@
       "EuDutch": [
         "[icon:gold_crown]"
       ],
+      "UsPortuguese": [
+        "[icon:gold_crown]"
+      ],
+      "EuPortuguese": [
+        "[icon:gold_crown]"
+      ],
+      "EuRussian": [
+        "[icon:gold_crown]"
+      ],
       "JpJapanese": [
         "[icon:gold_crown]"
       ],
       "KrKorean": [
+        "[icon:gold_crown]"
+      ],
+      "CnSimpChinese": [
         "[icon:gold_crown]"
       ],
       "AsTradChinese": [
@@ -141,10 +165,22 @@
       "EuDutch": [
         "[icon:platinum_crown]"
       ],
+      "UsPortuguese": [
+        "[icon:platinum_crown]"
+      ],
+      "EuPortuguese": [
+        "[icon:platinum_crown]"
+      ],
+      "EuRussian": [
+        "[icon:platinum_crown]"
+      ],
       "JpJapanese": [
         "[icon:platinum_crown]"
       ],
       "KrKorean": [
+        "[icon:platinum_crown]"
+      ],
+      "CnSimpChinese": [
         "[icon:platinum_crown]"
       ],
       "AsTradChinese": [
@@ -184,12 +220,16 @@
       "EuDutch": [
         "A Neo-Galactic Journey Begins!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "新たなる銀河へ 出発!"
       ],
       "KrKorean": [
         "새로운 갤럭시 모험이 시작된다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "展開一場新銀河的冒險之旅！"
       ]
@@ -235,12 +275,16 @@
       "EuDutch": [
         "World 2: Shooting Through the Stars"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "新たなる宇宙 ワールド2"
       ],
       "KrKorean": [
         "월드 2: 새로운 우주"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "前往新宇宙  World 2"
       ]
@@ -286,12 +330,16 @@
       "EuDutch": [
         "World 3: The Far Reaches of the Universe"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "星をめぐるぼうけん ワールド3"
       ],
       "KrKorean": [
         "월드 3: 별을 둘러싼 모험"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "環遊星球冒險  World 3"
       ]
@@ -337,12 +385,16 @@
       "EuDutch": [
         "World 4: The Many Mysteries of the Cosmos"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ふしぎのせかい ワールド4"
       ],
       "KrKorean": [
         "월드 4: 신비로운 세계"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "不可思議的世界  World 4"
       ]
@@ -388,12 +440,16 @@
       "EuDutch": [
         "World 5: Trial of the Galaxies"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "しれんの銀河 ワールド5"
       ],
       "KrKorean": [
         "월드 5: 시련의 갤럭시"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "銀河考驗  World 5"
       ]
@@ -439,12 +495,16 @@
       "EuDutch": [
         "World 6: Bowser in Your Sights"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "クッパをめざして ワールド6"
       ],
       "KrKorean": [
         "월드 6: 쿠파를 향해 전진"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "尋找庫巴  World 6"
       ]
@@ -490,12 +550,16 @@
       "EuDutch": [
         "World S: Here We Go!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "レッツゴー スペシャルワールド!"
       ],
       "KrKorean": [
         "스페셜 월드: 다시 한 번 출발!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "邁向 World S!"
       ]
@@ -541,12 +605,16 @@
       "EuDutch": [
         "The Green Star Challenge Is On!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "グリーンスター チャレンジ!"
       ],
       "KrKorean": [
         "그린스타 챌린지!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "挑戰綠星星!"
       ]
@@ -584,12 +652,16 @@
       "EuDutch": [
         "Neo Mario Galaxy Master!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "マスター オブ ネオギャラクシー!"
       ],
       "KrKorean": [
         "네오 마리오 갤럭시 마스터!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "新瑪利歐銀河大師！"
       ]
@@ -635,10 +707,22 @@
       "EuDutch": [
         "[icon:star][icon:x_mark][intvar:2;0;0]"
       ],
+      "UsPortuguese": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuPortuguese": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuRussian": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
       "JpJapanese": [
         "[icon:star][icon:x_mark][intvar:2;0;0]"
       ],
       "KrKorean": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "CnSimpChinese": [
         "[icon:star][icon:x_mark][intvar:2;0;0]"
       ],
       "AsTradChinese": [

@@ -61,6 +61,9 @@
         "You know the only way through is to",
         "[color:red]defeat every enemy[defcolor], right?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "よぉ!![delay:15] ココに[ruby:来;き]ちまったんだな?!",
         "[color:red]アイツらを[ruby:倒;たお]していく[defcolor][ruby:以外;いがい]に [ruby:道;みち]はないゼ?"
@@ -69,6 +72,7 @@
         "여!! [delay:15]여기까지 왔군!",
         "[color:red]저 녀석들을 쓰러뜨리는 것 [defcolor]외에 길은 없어!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "嗨！[delay:15]你來到這裡了啊?!",
         "除了[color:red]打倒它們[defcolor]，別無他法啦。"
@@ -135,6 +139,9 @@
         "[delay:15]Well, same deal... The only way",
         "through is to [color:red]defeat every enemy[color:black].[color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "また[ruby:来;き]たのか?![delay:30] あんた、 おもしれェな!",
         "[delay:15][ruby:今度;こんど]も さっさと[color:red]アイツらを[ruby:倒;たお]して[color:black]くれよ[color:red][defcolor]"
@@ -143,6 +150,7 @@
         "또 왔어?! [delay:30]너도 참 대단하다!",
         "[delay:15]이번에도 팍팍 [color:red]저 녀석들을 쓰러뜨려 [color:black]줘[color:red][defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你又來啦?![delay:30]你真有趣啊！",
         "[delay:15]這次也要三兩下就[color:red]解決它們[color:black]啊！[color:red][defcolor]"

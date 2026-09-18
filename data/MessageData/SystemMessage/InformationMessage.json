@@ -42,12 +42,16 @@
       "EuDutch": [
         "[color:green]Prankster Comets [defcolor]have appeared!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:green]いたずら[ruby:彗星;すいせい][defcolor]が [ruby:現;あらわ]れた!"
       ],
       "KrKorean": [
         "[color:green]장난꾸러기 혜성[defcolor]이 나타났다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "出現[color:green]搗蛋彗星[defcolor]！"
       ]
@@ -94,6 +98,9 @@
       "EuDutch": [
         "You can play as Luigi!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "プレイヤーキャラクターを",
         "ルイージに[ruby:変更;へんこう]できます"
@@ -102,6 +109,7 @@
         "플레이어 캐릭터를 루이지로",
         "변경할 수 있습니다"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "可將玩家角色更換成路易吉。"
       ]
@@ -156,6 +164,9 @@
         "You transformed into [color:red]Bee [player:0][defcolor]!",
         "[color:blue]Hold [defcolor][icon:a_button] to buzz around."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]ハチ[player:0][defcolor]になった!",
         "[color:blue][icon:a_button]ボタンを[ruby:長;なが]～く[ruby:押;お]して [defcolor][ruby:宙;ちゅう]に[ruby:浮;う]かぶ!"
@@ -164,6 +175,7 @@
         "[color:red]꿀벌[player:0][defcolor]가 되었다!",
         "[color:blue][icon:a_button]를 길～게 누르면 [defcolor]하늘로 뜬다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "變成[color:red]蜜蜂[player:0][defcolor]！",
         "[color:blue]長按著[defcolor][color:blue][icon:a_button][defcolor]就能浮在空中！"
@@ -228,6 +240,9 @@
         "[color:blue]Shake [color:black][defcolor][icon:wiimote] to create up to [color:red]three",
         "cloud platforms [defcolor]out of thin air!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red][ruby:雲;くも][player:0][defcolor]になった! [color:blue][icon:wiimote]をふれば",
         "[defcolor][color:red]3つまで [ruby:雲;くも]の[ruby:床;ゆか]がつくれる[color:black]ぞ[color:red][defcolor]!"
@@ -236,6 +251,7 @@
         "야호! [color:red]구름[player:0][defcolor]가 되었다! [color:blue][icon:wiimote]을 흔들면",
         "[defcolor][color:red]구름 발판을 3개까지 [defcolor][color:black]만들 수 있다![defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "變成[color:red]雲朵[player:0][defcolor]！[color:blue]揮動[defcolor][color:blue][icon:wiimote]",
         "[color:red]最多[color:blue][color:red][color:black]可以做[color:red]三次雲朵[color:blue][defcolor]！"
@@ -296,6 +312,9 @@
         "You got a [icon:comet_medal][color:red] Comet Medal[color:black]!",
         "Collect them to make [color:red][color:red]comets [color:black]appear.[color:red][color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[icon:comet_medal][color:red][ruby:彗星;すいせい]メダル[defcolor]を [ruby:手;て]に[ruby:入;い]れた!",
         "[ruby:集;あつ]めると、 いつか[color:red][ruby:彗星;すいせい][defcolor]がやってくる!"
@@ -304,6 +323,7 @@
         "[icon:comet_medal][color:red]혜성메달[defcolor]을 획득했다!",
         "모으다 보면 언젠가 [color:red]혜성[defcolor]이 찾아온다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "獲得[icon:comet_medal][color:red]彗星獎章[defcolor]！",
         "持續收集，某天終會遇見[color:red]彗星[defcolor]！"
@@ -361,6 +381,9 @@
         "You got a [color:red]Spin Drill[defcolor]! [color:blue]Shake [defcolor][icon:wiimote] to",
         "start drilling!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]ドリル[defcolor]を [ruby:手;て]に[ruby:入;い]れた!",
         "[icon:wiimote][color:blue]Wiiリモコンをふって [defcolor][ruby:掘;ほ]りまくれ!"
@@ -369,6 +392,7 @@
         "[color:red]드릴[defcolor]을 획득했다!",
         "[icon:wiimote][color:blue]Wii 리모컨을 흔들어 [defcolor]바닥을 뚫자!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "獲得[color:red]旋轉鑽頭[defcolor]！",
         "[color:blue]揮動[icon:wiimote][defcolor][color:blue]Wii遙控器[color:black]，[color:blue][defcolor]盡量[color:black]鑽[defcolor]！"
@@ -430,6 +454,9 @@
         "You transformed into [color:red]Fire [color:red][player:0][color:black]!",
         "Shake [icon:wiimote] to shoot [color:red]fireballs[color:black].[color:red][color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red]ファイア[player:0][defcolor]になった! [ruby:一定時間;いっていじかん]",
         "[icon:wiimote][color:black]をふれば [defcolor][color:red]ファイアボール[defcolor]を[ruby:放;はな]てる!"
@@ -438,6 +465,7 @@
         "야호! [color:red]파이어[player:0][defcolor]가 되었다! 일정 시간",
         "[icon:wiimote][color:black]을 흔들면 [defcolor][color:red]파이어볼[defcolor]을 던진다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "變成[color:red]火焰[player:0][defcolor]！",
         "限時內[color:blue]揮動[defcolor][color:blue][icon:wiimote][color:black]就[color:blue][color:red][color:black]可以投擲[color:red]火焰球[color:blue][defcolor]！"
@@ -482,6 +510,9 @@
         "You transformed into [color:red]Flying [player:0][color:black]!",
         "[color:red]Spin[color:black] when [color:red]jumping [color:black]to fly!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red]フライング[player:0][color:black]になった!",
         "[color:red]ジャンプ[ruby:中;ちゅう]に [color:red]スピン[color:black]すれば [ruby:空;そら]を[ruby:飛;と]ぶ!"
@@ -490,6 +521,7 @@
         "야호! [color:red]플라잉[player:0][color:black]가 되었다!",
         " [color:red]점프 도중[color:black]에 [color:red]스핀[color:black]하면 하늘을 난다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "變成[color:red]飛翔[player:0][color:black]了！",
         "在[color:red]跳躍[color:black]時[color:red]轉圈圈[color:black]就能飛行哦！"
@@ -553,6 +585,9 @@
         "[color:red][player:0][color:black]! [color:blue]Press [color:black][icon:a_button] at the right",
         "moment to bounce high. BOOOOING![color:red][color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red]バネ[player:0][defcolor]になった!",
         "タイミングよく [color:blue][icon:a_button]ボタン[defcolor][color:blue]を[ruby:押;お]して [defcolor]ボヨヨ～ン!"
@@ -561,6 +596,7 @@
         "야호! [color:red]스프링[player:0][defcolor]가 되었다!",
         "타이밍을 맞춰 [color:blue][icon:a_button]를 누르면 [defcolor]콩콩콩～!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "變成[color:red]彈簧[player:0][defcolor]！",
         "看好時機[color:blue]按[defcolor][color:blue][icon:a_button][color:black]做[color:blue][defcolor][color:black]彈簧跳[defcolor]！"
@@ -605,6 +641,9 @@
         "You transformed into [color:red]Ice [player:0][color:black]!",
         "Shake [icon:wiimote] to [color:red]skate[color:black]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red]アイス[player:0][defcolor]になった! ",
         "[ruby:一定時間;いっていじかん] [ruby:水;みず]の[ruby:上;うえ]を[ruby:歩;ある]ける!",
@@ -614,6 +653,7 @@
         "야호! [color:red]아이스[player:0][color:black]가 되었다!",
         " [icon:wiimote]를 흔들어 [color:red]스케이트[color:black]!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "變成[color:red]冰凍[player:0][color:black]了！",
         "揮動[icon:wiimote]就能[color:red]溜冰[color:black]哦！"
@@ -670,6 +710,9 @@
         "You transformed into [color:red]Rainbow [color:red][player:0][color:black]!",
         "You're invincible![color:red][color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red]レインボー[player:0][defcolor]になった!",
         "[ruby:七色;なないろ]の[ruby:光;ひかり]は どんな[ruby:敵;てき]もよせつけない!"
@@ -678,6 +721,7 @@
         "야호! [color:red]레인보우[player:0][defcolor]가 되었다!",
         "일곱 색깔 빛은 무적이 되었다는 증거!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "變成[color:red]彩虹[player:0][defcolor]！",
         "七色光可不怕任何敵人攻擊！"
@@ -737,6 +781,9 @@
         "You now have[color:red] 6 health[defcolor]! If it drops",
         "below 4, it will go back to normal."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:体力;たいりょく]が6[defcolor]に [ruby:増;ふ]えた!",
         "[ruby:体力;たいりょく]が3になると [ruby:元;もと]にもどる"
@@ -745,6 +792,7 @@
         "[color:red]체력이 6[defcolor]으로 늘어났다!",
         "체력이 3으로 줄면 원래대로 돌아온다"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:red]體力上[color:red]升到6[color:red][defcolor]！",
         "體力下降到3，就會恢復原狀。"
@@ -804,6 +852,9 @@
         "You now have[color:red] 6 health[defcolor]! If it drops",
         "below 4, it will go back to normal."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:体力;たいりょく]が6[defcolor]に [ruby:増;ふ]えた!",
         "[ruby:体力;たいりょく]が3になると [ruby:元;もと]にもどる"
@@ -812,6 +863,7 @@
         "[color:red]체력이 6[defcolor]으로 늘어났다!",
         "체력이 3으로 줄면 원래대로 돌아온다"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:red]體力上升到6[defcolor]！",
         "體力下降到3，就會恢復原狀。"
@@ -870,6 +922,9 @@
         "[color:black]Lubba's crew rebuilt the spaceship to",
         "look just like Mario![defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:black]マリオそっくりの[ruby:星船;ほしぶね]ができた![defcolor]"
       ],
@@ -877,6 +932,7 @@
         "마리오와 붕어빵처럼 닮은",
         "우주선이 만들어졌다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "一艘極像瑪利歐的星艦出現了！"
       ]
@@ -924,12 +980,16 @@
       "EuDutch": [
         "You got an[color:red] extra[defcolor] [color:red]life[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[player:0]の[ruby:残;のこ]り[ruby:数;すう]が [color:red]1[defcolor][color:red] [ruby:増;ふ]えた[defcolor]!"
       ],
       "KrKorean": [
         "남은 [player:0]의 수가 [color:red]하나 늘었다[defcolor]!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[player:0]剩餘數 上升[color:red]1[defcolor]！"
       ]
@@ -993,6 +1053,9 @@
         "[color:blue]Shake the[defcolor] [icon:wiimote] [color:blue]Wii Remote [color:black]to roll over",
         "your enemies![color:blue][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red]ゴロ[ruby:岩;いわ][player:0][defcolor]になった!",
         "[icon:wiimote][color:blue]Wiiリモコンをふって [defcolor][color:black]ゴロゴロアタック![defcolor]"
@@ -1001,6 +1064,7 @@
         "야호! [color:red]데굴바위[player:0][defcolor]가 되었다!",
         "[icon:wiimote][color:blue]Wii 리모컨을 흔들면 [defcolor][color:black]데굴데굴 공격![defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "變成[color:red]滾滾石[player:0][defcolor]！",
         "[color:blue]揮動[defcolor][color:blue][icon:wiimote]Wii遙控器[color:black]，[color:blue][color:black]滾滾撞[color:blue][defcolor]！"
@@ -1049,6 +1113,9 @@
         "Who knows what happens",
         "when you collect all of them."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[icon:stamp][color:blue] スタンプ[color:black]を[ruby:手;て]に[ruby:入;い]れた!",
         "ぜんぶ[ruby:集;あつ]めたらなにかが[ruby:起;お]こる...?!"
@@ -1057,6 +1124,7 @@
         "야호! [icon:stamp][color:blue] 스탬프[color:black]를 얻었다!",
         " 모두 모으면 무슨 일이 일어날까?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "得到[icon:stamp][color:blue]印章[color:black]了！",
         "收集全部的話，搞不好會有好事發生。"
@@ -1113,6 +1181,9 @@
         "You transformed into [color:red]Boo [color:red][player:0][color:black]!",
         "[color:blue]Shake [color:black][icon:wiimote] to vanish.[color:red][color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red]オバケ[player:0][defcolor]になった!",
         "[icon:wiimote][color:blue]Wiiリモコンをふったら [defcolor]スッケスケ!"
@@ -1121,6 +1192,7 @@
         "야호! [color:red]유령[player:0][defcolor]가 되었다!",
         "[icon:wiimote][color:blue]Wii 리모컨을 흔들면 [defcolor]투명해진다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "變成[color:red]幽靈[player:0][defcolor]！",
         "[color:blue]揮動[defcolor][icon:wiimote][color:blue]Wii遙控器[color:black]，變透明[color:blue][defcolor]！"
@@ -1167,12 +1239,16 @@
       "EuDutch": [
         "[color:green]Yoshi [defcolor]hatched from the egg!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "タマゴから [color:green]ヨッシー[defcolor]が[ruby:出;で]てきた!"
       ],
       "KrKorean": [
         "알에서 [color:green]요시[defcolor]가 나왔다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:green]耀西[defcolor][color:black]破殼而出！[defcolor]"
       ]
@@ -1218,12 +1294,16 @@
       "EuDutch": [
         "A [color:red]new planet [defcolor]was born!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:新;あたら]しい[ruby:惑星;ほし][defcolor]が [ruby:生;う]まれた!"
       ],
       "KrKorean": [
         "[color:red]새로운 행성[defcolor]이 탄생했다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:red]新行星[defcolor]誕生！"
       ]
@@ -1269,12 +1349,16 @@
       "EuDutch": [
         "A [color:red]new galaxy[defcolor] was born!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:新;あたら]しい[ruby:銀河;ギャラクシー][defcolor]が [ruby:生;う]まれた!"
       ],
       "KrKorean": [
         "[color:red]새로운 갤럭시[defcolor]가 탄생했다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:red]新銀河[defcolor]誕生！"
       ]
@@ -1323,12 +1407,16 @@
       "EuDutch": [
         "You opened [color:red]Special W[defcolor][color:red]orld[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]スペシャルワールド[defcolor]が オープンした!"
       ],
       "KrKorean": [
         "[color:red]스페셜 월드[defcolor]가 열렸다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "開啟[color:red]World S[defcolor]！"
       ]

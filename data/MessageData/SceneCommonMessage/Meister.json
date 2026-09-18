@@ -58,6 +58,9 @@
         "[defcolor]I was wondering what happened to",
         "the little feller after he fell off..."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "お! [color:blue][color:yellow][icon:luma]うちの[ruby:若;わか]いの[color:black]が[color:yellow] [color:blue][color:black][ruby:帰;かえ]ってきたじゃないか[color:blue][defcolor]!",
         "[ruby:落;お]っこちてから、 どうなったかと[ruby:思;おも]ってたが…"
@@ -66,6 +69,7 @@
         "오! [color:blue][color:yellow][icon:luma]우리 어린 친구[color:blue][color:black]가 돌아왔구나![color:blue][defcolor]",
         "헤어진 후에 어떻게 됐나 걱정했는데…"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "哇！[color:yellow][icon:luma]我們的小傢伙[color:black]回來啦[color:yellow][defcolor]！",
         "他掉下去後，不知道有沒有事…"
@@ -127,6 +131,9 @@
         "He built a ship to get back, huh?",
         "That's [color:yellow][color:black]my [color:yellow]crew [defcolor]for you!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:船;ふね]を[ruby:作;つく]って [ruby:戻;もど]ってくるたぁ",
         "さすがは [color:yellow]うち[defcolor][color:yellow]のコたち[defcolor]だねえ"
@@ -135,6 +142,7 @@
         "우주선을 만들어서 돌아왔네!",
         "역시 [color:yellow]우리 친구[defcolor]다워"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "竟能造了船後再回來！",
         "不愧是[color:yellow]我們奇可一族的成員[color:black]。[color:yellow][defcolor]"
@@ -189,6 +197,9 @@
         "Uh... [color:red]Those [defcolor][color:red][color:red]guys[color:red] [color:black]are all friends of",
         "yours, right[color:red][defcolor]?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "しかし、 [color:red][icon:toad]あの[ruby:連中;れんちゅう][defcolor]は だれだい?! ",
         "アンタの[ruby:知;し]り[ruby:合;あ]いかい?"
@@ -197,6 +208,7 @@
         "그런데 [color:red][icon:toad]저 아이들[defcolor]은 누구지? ",
         "너와 아는 사이인 거야?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:red][icon:toad]那些人[defcolor]到底是誰啊?! ",
         "你認識嗎?"
@@ -255,6 +267,9 @@
         "If you ever want to visit [color:red]that ship[defcolor],",
         "you can get there with the [color:green]Warp Pad[defcolor]."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]あの[ruby:船;ふね][color:black]に[color:red][color:black][ruby:行;い]きたいなら[color:red][defcolor]",
         "そこの[color:green]ワープポッド[color:black]を[ruby:使;つか]う[color:green][defcolor][color:black]といいさ[defcolor]"
@@ -263,6 +278,7 @@
         "[color:red]저 우주선[color:black]에 가고 싶다면[color:red][defcolor]",
         "저기 있는 [color:green]워프스팟[color:black]을 이용하면 돼[color:green][defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "想去[color:red]那艘船[defcolor]的話[color:black]，[defcolor][color:black]",
         "[defcolor]可以用那[color:green]傳送口[color:black]。[color:green][defcolor]"
@@ -320,12 +336,16 @@
         "Say, I don't mean to pry or anything...",
         "but what is that thing over there?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ありゃ、 なんだい?"
       ],
       "KrKorean": [
         "저건 뭐지?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "那…是什麼?"
       ]
@@ -388,6 +408,9 @@
         "[color:black]I mean, be straight with me, pal. You",
         "hatching [color:green]alien eggs [color:black]now? Har har![defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:green][color:green][ruby:変;へん]なタマゴ[color:green][defcolor]を[ruby:持;も]ち[ruby:込;こ]んで",
         "こっそり[ruby:遊;あそ]ぶコンタンだね?"
@@ -396,6 +419,7 @@
         "[color:green]이상한 알[defcolor]을 가져와서는",
         "몰래 갖고 놀 생각이구나?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你帶[color:green]奇怪蛋[defcolor]回來，",
         "難道打算偷偷地跟他玩嗎?"
@@ -477,12 +501,16 @@
         "Nothing, that's what! Har har har!",
         "Did I get ya on that one?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:星;ほし]ウサギ[defcolor]を [ruby:連;つ]れてきたのかい?"
       ],
       "KrKorean": [
         "[color:red]스타토끼[defcolor]를 데려온 거야?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你把[color:red]星星兔[defcolor]帶來了啊?"
       ]
@@ -540,12 +568,16 @@
         "Well, it looks to me like that cute",
         "critter wants to tell you something."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "アンタに[ruby:話;はな]したいことがあるみたいだよ"
       ],
       "KrKorean": [
         "너에게 할 말이 있나 봐"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "他好像有事想對你說呢！"
       ]
@@ -603,6 +635,9 @@
         "I see you brought us back a really",
         "[color:red]LOUD[defcolor][color:red] bird[defcolor] this time. Har har!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "アンタ",
         "[color:red]うるさい[ruby:鳥;とり][defcolor]を[ruby:連;つ]れてきたね"
@@ -610,6 +645,7 @@
       "KrKorean": [
         "너 [color:red]시끄러운 새[defcolor]를 데려왔구나"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你把[color:red]吵鬧鳥[defcolor]帶來啦！"
       ]
@@ -694,6 +730,9 @@
         "trying to get it to pipe down for a",
         "bit?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "あれは[color:red]ピーチャン[defcolor]だね",
         "ちょっと[ruby:黙;だま]らしといておくれ"
@@ -702,6 +741,7 @@
         "[color:red]재잘버드[defcolor]라고 한다지?",
         "조용히 하라고 좀 말해 주지 않겠어?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "他就是[color:red]吱吱雀[color:black]?[color:red][defcolor]",
         "叫他給我安靜一點！"
@@ -757,12 +797,16 @@
         "All right, listen up. 'Cause I don't",
         "wanna say this more than once..."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ねえ、 [ruby:聞;き]いておくれよ"
       ],
       "KrKorean": [
         "저기 말이야"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "我告訴你！"
       ]
@@ -845,6 +889,9 @@
         "or something. Why don't you go over",
         "there and check it out for me?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "あの [color:blue]キノピオ[ruby:探検隊;たんけんたい] [color:black]・・・だっけね?[color:blue][defcolor][color:black]",
         "[defcolor][color:purple][icon:purple_starbit][color:red]スターピース[color:purple][defcolor][color:red]を [ruby:集;あつ]めだした[color:black]よ[color:red][defcolor][pagebreak]",
@@ -857,6 +904,7 @@
         "혼자 갖기라도 하겠다는 건가?",
         "성격 참 이상도 하지…"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "那好像是[color:blue]奇諾比奧探險隊[color:black]…吧?[color:blue][defcolor][color:black]",
         "他們竟然開始收集[defcolor][color:purple][icon:purple_starbit][color:red]星塵[color:black]。[color:red][color:purple][defcolor][pagebreak]",
@@ -994,6 +1042,9 @@
         "So if ya want a [color:yellow][icon:orange_luma] [color:orange]partner[color:yellow][defcolor], don't be",
         "shy about asking a friend to jump in!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "わたしが[ruby:助言;じょげん]するのも はばかるがね…[pagebreak]",
         "[color:blue][color:black]アンタでも[color:blue]",
@@ -1018,6 +1069,7 @@
         "그 정도 일은 할 줄 알아[pagebreak]",
         "[color:orange][icon:orange_luma]파트너[defcolor]가 필요할 때 추천이야!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "我提出建議…好像不太恰當啦…[pagebreak]",
         "一個人[color:blue]單打獨鬥[color:black]，",
@@ -1091,6 +1143,9 @@
         "those [icon:star] [color:yellow]Power Stars[defcolor], huh? We'll",
         "keep [color:red]track[defcolor] of [color:blue]how many[defcolor] ya got."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[icon:star][color:yellow]パワースター[color:black]が [color:yellow][defcolor]だいぶ[ruby:集;あつ]まってきたね",
         "[color:red][color:blue][ruby:集;あつ]めた[ruby:数;かず][color:red][color:black]を [color:red][color:black]うちのコたちが[color:red][ruby:記録;きろく][defcolor]してるよ"
@@ -1099,6 +1154,7 @@
         "[icon:star][color:yellow]파워스타[color:black]를 꽤 많이 모았구나[color:yellow][defcolor]",
         "[color:red][color:blue]몇 개를 모았는지 [color:red][color:black]우리 친구들이 [color:red]기록[defcolor]하고 있어"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:black]收集不少[defcolor][icon:star][color:yellow]力量星星[color:black]了嘛。[color:yellow][defcolor]",
         "[color:blue][color:black]我們的小傢伙[color:blue][color:black]都有[color:red]記[color:black][color:blue][color:red]錄[color:blue][color:black]總數[color:blue][color:black]哦！[color:blue][defcolor]"
@@ -1179,6 +1235,9 @@
         "[color:blue]some other [defcolor][color:blue][color:blue][icon:star] Power Stars[color:blue][color:black], if you're",
         "interested.[color:blue][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:操縦席;そうじゅうせき]のとなりにある[ruby:看板;かんばん][defcolor]が そうさ[pagebreak]",
         "[color:blue][icon:star][color:blue]がどこにあるか [color:blue][defcolor][color:red][color:black]も[ruby:書;か]いてある[color:red][color:black]し、[color:red][defcolor]",
@@ -1189,6 +1248,7 @@
         "[color:blue][icon:star][color:blue]가 어디에 있는지[color:blue][defcolor][color:black]도 적혀 있으니까[defcolor]",
         "궁금할 때 보는 건 어때?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "就[color:black]是[defcolor][color:black]掌舵席旁邊的[color:red]告示板[color:black][defcolor]啦！[pagebreak]",
         "上面有[color:blue][icon:star][color:black]的[color:blue][color:blue]所在地[color:blue][defcolor][color:black]，記得要看啊！[defcolor]"
@@ -1248,6 +1308,9 @@
         "Hey - looks like there's a few changes",
         "to the [color:red]World Map[defcolor]! Let's check it out!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "アンタが[ruby:冒険;ぼうけん]に[ruby:行;い]ってる[ruby:間;あいだ]に、 [color:red]ワールドマップ[defcolor]を",
         "ちょいと[ruby:変;か]えといたよ! [ruby:後;あと]で[ruby:見;み]といておくれ!"
@@ -1256,6 +1319,7 @@
         "네가 모험을 떠나고 없는 사이에 [color:red]월드 맵[defcolor]을",
         "조금 바꿔 봤어! 나중에 한번 봐 봐!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "趁你出外冒險時，",
         "我改了[color:red]大銀河地圖[defcolor]！待會記得看啊！"
@@ -1318,6 +1382,9 @@
         "back? It looks like he's moonlighting",
         "as some kind of cosmic postman now."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "アンタのツレの[color:purple]キノピオ[color:black]ってヤツは[color:purple][defcolor][color:black]",
         "[defcolor]さっきから 【[color:red][ruby:手紙;てがみ][defcolor]】【[color:red][ruby:手紙;てがみ][defcolor]】と ウルさいねえ"
@@ -1326,6 +1393,7 @@
         "네가 데려온 [color:purple]키노피오[color:black]라는 녀석은[color:purple][defcolor][color:black]",
         "아까부터 시끄럽게 자꾸 [defcolor]【[color:red]편지[defcolor]】, 【[color:red]편지[defcolor]】래"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你那個叫[color:purple]奇諾比奧[color:black]的伙伴，[color:purple][defcolor][color:black]",
         "一直吵著[defcolor] 【[color:red]信件[defcolor]】【[color:red]信件[defcolor]】啦！"
@@ -1383,12 +1451,16 @@
         "Go ahead and humour him. Maybe",
         "he's got something for you!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:話;はなし]を[ruby:聞;き]いて さっさと[ruby:静;しず]めておくれよ"
       ],
       "KrKorean": [
         "가서 얘기 듣고 어서 조용히 시켜"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "去聽聽他說什麼，讓他趕快閉嘴！"
       ]
@@ -1443,12 +1515,16 @@
         "Lookit that! [color:black]I see you brought back",
         "some kind of, uhh...[color:red]floaty souvenir[color:black].[defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:black]こりゃ、 [defcolor][color:red]フワフワした[ruby:土産;みやげ][defcolor]だね"
       ],
       "KrKorean": [
         "이건 [color:red]폭신해 보이는 물건[defcolor]이구나"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "這[color:red]禮物軟綿綿[defcolor]的啊！"
       ]
@@ -1507,12 +1583,16 @@
         "It's a [color:red]Cloud Flower[defcolor]? Wow, there sure",
         "is some [color:red][color:black]weird stuff [color:red][color:black]out there, huh?[color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "アンタ、 [color:red]ヘンなもの[defcolor][ruby:集;あつ]めてくるねえ・・・"
       ],
       "KrKorean": [
         "너도 참 [color:red]희한한 물건[defcolor]을 모으는구나…"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你還真愛收集[color:red]稀奇玩意[color:black]…[color:red][defcolor]"
       ]
@@ -1576,12 +1656,16 @@
         "a [color:red]Gearmo [defcolor]with you this time![delay:15] Well,",
         "put it somewhere out of the way..."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "まさか [color:red]パマタリアン[defcolor]を[ruby:連;つ]れてきたのかい?!"
       ],
       "KrKorean": [
         "설마 [color:red]파맘마[defcolor]를 데려온 거야?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你該不會把[color:red]捲髮大姐[defcolor]帶回來了?!"
       ]
@@ -1634,12 +1718,16 @@
       "EuDutch": [
         "Maybe it'll wanna relax for a bit...?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "こりゃまた、 [ruby:騒;さわ]がしくなるねえ・・・"
       ],
       "KrKorean": [
         "허허, 거 참 시끄러워지겠는걸…"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "這下子又不得安寧了…"
       ]
@@ -1701,6 +1789,9 @@
         "whuzzat? A [color:red]rock[color:black], huh? [delay:15]Yeah...[delay:30]",
         "Good work there, pal... I guess.[defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:black][ruby:今度;こんど]は[color:red]",
         "[ruby:岩;いわ][color:black]を[ruby:持;も]ってきたんだねえ[defcolor]"
@@ -1709,6 +1800,7 @@
         "[color:black]이번엔[color:red]",
         "바위[color:black]를 갖고 왔잖아?[defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "這次帶了[color:red]岩石[color:black]回[color:red][color:black]來[color:red][defcolor]?"
       ]
@@ -1766,6 +1858,9 @@
         "Well, looks like we got the room for",
         "it, so I don't mind having it around!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:black]アンタの[ruby:趣味;しゅみ]が",
         "わからなくなってきたよ・・・[defcolor]"
@@ -1774,6 +1869,7 @@
         "네가 뭘 좋아하는지[color:black]",
         "점점 더 모르겠어…[defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "越來越不能理解你的品味…"
       ]
@@ -1837,6 +1933,9 @@
         "universe is that thing?! It looks like a",
         "[color:red]flower with a face[defcolor]! Wow..."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ありゃなんだい",
         "[color:red][ruby:顔;かお]のついた[ruby:花;はな][defcolor]なんて[ruby:気持;きも]ち[ruby:悪;わる]いねえ・・・"
@@ -1845,6 +1944,7 @@
         "저건 뭐야?",
         "[color:red]얼굴이 그려진 꽃[defcolor]이라니 징그럽잖아…"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "那是…什麼?",
         "[color:red]有[defcolor][color:red]臉的花[defcolor]還真噁心…"
@@ -1909,6 +2009,9 @@
         "say there, you collect some of the",
         "most [color:red]interesting stuff[defcolor] I've ever seen!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "アンタ・・・",
         "[ruby:本当;ほんとう]に[color:red]ヘンなもの[defcolor][ruby:集;あつ]めてくるねえ・・・"
@@ -1917,6 +2020,7 @@
         "너…",
         "정말로 [color:red]희한한 물건[defcolor]을 모으는구나…"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你還真…",
         "愛收集[color:red]奇怪東西[defcolor]…"
@@ -1975,6 +2079,9 @@
         "Looks like you brought back a [color:red]Whittle[defcolor]",
         "with you! I love those guys!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red][color:black]アンタ",
         "[color:red]モック[color:black]を[ruby:連;つ]れてきたね[color:red][defcolor]"
@@ -1982,6 +2089,7 @@
       "KrKorean": [
         "너, [color:red]무나[color:black]를 데려왔네?[color:red][defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你把[color:red]木古[defcolor]帶回來了啦！"
       ]
@@ -2046,6 +2154,9 @@
         "[color:red][icon:comet_medal] [defcolor][color:red]Comet Medals[color:black].[color:red][defcolor] Go give him a",
         "listen. Shouldn't take long."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red][icon:comet_medal][ruby:彗星;すいせい]メダル[color:black]のことで",
         "アンタに[ruby:話;はなし]があるようだ[color:red][defcolor]! [delay:15][ruby:話;はなし]を[ruby:聞;き]いておやりよ"
@@ -2054,6 +2165,7 @@
         "[color:red][icon:comet_medal]혜성메달[color:black]에 대해서 하고 싶은 말이 있나 봐!",
         "[color:red][defcolor][delay:15]가서 이야기를 들어 주고 와"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "關於[color:red][icon:comet_medal]彗星獎章[color:black]，",
         "他[color:red][color:black]有話對你說，[color:red][defcolor][delay:15]聽聽看吧！"
@@ -2111,6 +2223,9 @@
         "Hey, weren't you just wearing",
         "[color:green]green clothes[defcolor] a second ago?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "アンタ、 さっき[color:green]",
         "[ruby:緑色;みどりいろ]の[ruby:服;ふく][defcolor]を[ruby:着;き]てなかったかい?"
@@ -2119,6 +2234,7 @@
         "너 아까 전에[color:green]",
         "초록색 옷[defcolor]을 입고 있지 않았어?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你剛才不是穿[color:green]綠衣服[defcolor]?"
       ]
@@ -2165,12 +2281,16 @@
       "EuDutch": [
         "Maybe I was just mistaken..."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "わたしの[ruby:思;おも]い[ruby:違;ちが]いかねえ・・・"
       ],
       "KrKorean": [
         "내가 잘못 봤나…?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "是我搞錯了嗎…"
       ]
@@ -2226,12 +2346,16 @@
         "Hrm. A sassy [color:red]penguin [color:black]on board a",
         "spaceship...? That's a new one on me![color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:生意気;なまいき]そうな[color:red]ペンギン[color:black]を[ruby:連;つ]れてきたね[color:red][defcolor]"
       ],
       "KrKorean": [
         "건방져 보이는 [color:red]펭귄[color:black]을 데리고 왔구나![color:red][defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你帶回來的這隻[color:red]企鵝[color:black]，",
         "[color:red][color:black]看起來[color:red][color:black]很驕傲哦![color:red][defcolor]"
@@ -2288,6 +2412,9 @@
         "Well, he seems to want a word with",
         "you. I wouldn't keep that one waiting."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "アンタと[ruby:話;はなし]がしたいんだってさ",
         "[ruby:聞;き]いておやりよ"
@@ -2296,6 +2423,7 @@
         "너와 얘기가 하고 싶은가 봐",
         "가서 들어 주고 와"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "他有事找你，",
         "聽聽他要說什麼吧！"
@@ -2352,6 +2480,9 @@
         "What's that? A striped [color:red]mushroom[defcolor]?[delay:15]",
         "I've never seen one of those before!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "しま[ruby:模様;もよう]の[color:red]キノコ[color:black]か[color:red][defcolor]",
         "うーん・・・"
@@ -2360,6 +2491,7 @@
         "줄무늬 [color:red]버섯[color:black]이라…[color:red][defcolor]",
         "흐음…"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "條紋的[color:red]蘑菇[color:black]嗎[color:red][defcolor]…嗯這…"
       ]
@@ -2416,6 +2548,9 @@
         "You, uhh... Yeah. Have fun with your",
         "[color:red]unusual[defcolor][color:red] toy [color:black]there[color:red][defcolor]. [delay:15]I ain't judging!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "アンタ・・・",
         "[ruby:本当;ほんとう]に[color:red]ヘンなもの[defcolor][ruby:集;あつ]めてくるねえ・・・"
@@ -2424,6 +2559,7 @@
         "너…",
         "정말로 [color:red]희한한 물건[defcolor]을 모으는구나…"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你還真…",
         "愛收集[color:red]奇怪東西[defcolor]…"
@@ -2480,6 +2616,9 @@
         "Looks like we've got another [color:red]hungry",
         "mouth to feed here[color:black]![color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]ハラをすかせたヤツ[defcolor]が",
         "まよいこんできてね"
@@ -2488,6 +2627,7 @@
         "[color:red]배가 쫄쫄 굶은 녀석[defcolor]이",
         "어쩌다가 여기까지 오게 됐어"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "有個[color:red]愛吃的傢伙[defcolor]闖進來了！"
       ]
@@ -2562,6 +2702,9 @@
         "If you want to check it out, just head",
         "down that [color:green]pipe [defcolor]over there."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "とりあえず [color:blue]うち[defcolor][color:blue][color:blue]で[color:blue]あずかる[color:black]ことにしたんだ",
         "よろしくたのんだよ、 [ruby:船長;せんちょう][pagebreak]",
@@ -2574,6 +2717,7 @@
         "만나 보고 싶으면",
         "저기에 있는 [color:green]토관[color:black]으로 들어가 봐[defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "總之[color:blue]先收留他[defcolor][color:black]。",
         "艦長！拜託你啦！[pagebreak]",
@@ -2618,6 +2762,9 @@
         "Woah! A blue flower with eyes?!",
         "I've never seen this before."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "なんだいこりゃ！ [ruby:目;め]のついた[ruby:青;あお]い[ruby:花;はな]だなんて・・・",
         "こんなの[ruby:初;はじ]めて[ruby:見;み]たよ"
@@ -2626,6 +2773,7 @@
         "우와! 눈이 달린 파란 꽃이라고?!",
         " 이런 건 처음 보는걸."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "哇！這朵藍色花居然有長眼睛！",
         "之前從來沒見過呢！"
@@ -2670,6 +2818,9 @@
         "It's an [color:red]Ice Flower[defcolor]? Hrm...[delay:15]",
         "It looks pretty cool, huh? Har har!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]アイスフラワー[defcolor]というのかい？ ふーん・・・[delay:15]",
         "なんだか[ruby:見;み]てるとワタシまで[ruby:寒;さむ]くなってきたよ"
@@ -2678,6 +2829,7 @@
         "이게 [color:red]아이스플라워[defcolor]인가? 흠...[delay:15]",
         " 제법 멋져 보이는데? 하하!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "原來這是[color:red]冰之花[defcolor]？嗯…[delay:15]",
         "看起來挺酷的，對吧？哈哈！"
@@ -2739,12 +2891,16 @@
         "Keep it away from me! I'm allergic!",
         "If I get stung, I'll swell right up."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "この[ruby:船;ふね]に[color:red]ハチ[defcolor]がやってきたみたいだね"
       ],
       "KrKorean": [
         "우리 우주선에 [color:red]벌[defcolor]이 왔나 봐"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:red]蜜蜂[defcolor]似乎來到星艦上了啊?"
       ]
@@ -2800,12 +2956,16 @@
         "I do like watching him, though. Think",
         "he knows any good bee tricks?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:飛;と]び[ruby:方;かた]のコツでも[ruby:教;おし]えてもらおうかね?"
       ],
       "KrKorean": [
         "하늘을 나는 비법을 한번 배워 볼까?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "向他請教如何飛行吧?"
       ]
@@ -2844,12 +3004,16 @@
       "EuDutch": [
         "Hmmm... [delay:15] I think I've seen this before..."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "うーん・・・[delay:15] コイツはどこかで[ruby:見;み]たことあるねえ・・・"
       ],
       "KrKorean": [
         "흠... [delay:15] 전에 본 적이 있는 것 같은데..."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "嗯…[delay:15]總覺得好像在哪裡看過這個…"
       ]
@@ -2892,6 +3056,9 @@
         "I got it! It's a [color:red]Red Star[defcolor] that",
         "holds the power of the Red Lumas!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ああ[ruby:思;おも]い[ruby:出;だ]した！ [ruby:赤;あか]いチコのチカラが[ruby:宿;やど]っているあの[color:red]レッドスター[defcolor]じゃないか！"
       ],
@@ -2899,6 +3066,7 @@
         "알겠다! 이건 빨강 치코의 힘이 잠들어있는",
         " [color:red]레드스타[defcolor]야!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "我知道了！這是蘊含著紅色奇可力量的[color:red]紅色星星[defcolor]哦！"
       ]
@@ -2953,6 +3121,9 @@
         "Got yourself a pretty cool[color:red] cloud",
         "thingie [color:black]there! Looks like some fun![color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "なんだい [ruby:結局;けっきょく]",
         "[color:red]あのヘンな[ruby:雲;くも][defcolor]で [ruby:遊;あそ]びたくなっちまったのかい?"
@@ -2961,6 +3132,7 @@
         "뭐야? 너 [color:red]저 이상한 구름[defcolor]을",
         "갖고 놀고 싶어진 거야?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "啊?結果，",
         "你還是想跟[color:red]那朵奇怪的雲[color:black]玩[color:red][defcolor][color:black]嗎[defcolor]?"
@@ -3017,12 +3189,16 @@
       "EuDutch": [
         "Try to stay grounded! Har har!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:気;き]がすむまで [ruby:飛;と]び[ruby:回;まわ]るといいさ"
       ],
       "KrKorean": [
         "원하는 만큼 공중에서 뛰어 놀아 봐"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你愛怎麼飛就怎麼飛吧！"
       ]
@@ -3082,12 +3258,16 @@
         "Is that a [color:red]Gearmo[color:black]?! [delay:15]Well, I hope it",
         "doesn't try to put everyone to work![color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "まさか [color:red]パマタリアン[defcolor]を[ruby:連;つ]れてきたのかい?!"
       ],
       "KrKorean": [
         "설마 [color:red]파맘마[defcolor]를 데려온 거야?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "該不會…",
         "把那[color:red]捲髮大姐[defcolor]帶回來了吧?"
@@ -3140,12 +3320,16 @@
         "Maybe it will finally want to relax",
         "for a change...?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "こりゃまた、 [ruby:騒;さわ]がしくなるねえ・・・"
       ],
       "KrKorean": [
         "허허, 거 참 시끄러워지겠는걸…"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "這下子…",
         "耳根難以清靜了啊！"
@@ -3202,6 +3386,9 @@
         "What do we have here...? [delay:15]Looks like a",
         "soft, white [color:red]mushroom[defcolor], eh?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ありゃ なんだい?",
         "[ruby:真;ま]っ[ruby:白;しろ]い[color:red]キノコ[defcolor]だけど…"
@@ -3210,6 +3397,7 @@
         "저건 뭐야?",
         "새하얀 [color:red]버섯[defcolor]이네…"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "那是什麼?",
         "雪白的[color:red]蘑菇[defcolor]…?"
@@ -3272,12 +3460,16 @@
         "is pretty [color:red]weird[defcolor]... [delay:15]But I guess that's",
         "just the universe we live in, right?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "アンタ、 [color:red]ヘンなもの[defcolor][ruby:集;あつ]めてくるねえ・・・"
       ],
       "KrKorean": [
         "너, [color:red]희한한 물건[defcolor]을 모으는구나…"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你還真…",
         "愛收集[color:red]奇怪東西[defcolor]…"
@@ -3415,6 +3607,9 @@
         "Now you can work on getting a[color:red] [color:black][icon:star]",
         "from every [color:red]comet[color:black]! [delay:15]Go for it, Captain![defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]いたずら[ruby:彗星;すいせい][defcolor]が[ruby:現;あらわ]れたよ![pagebreak]",
         "・・・ってことは アンタ、",
@@ -3435,6 +3630,7 @@
         "[color:red]장난꾸러기 혜성[color:black]의 [color:red][icon:star][color:yellow]파워스타[color:red][defcolor]도 모아 줘[delay:15]",
         "부탁해, 캡틴!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:red]搗蛋彗星[color:black]出[color:red][defcolor]現了！[pagebreak]",
         "你…[color:black]收集到[defcolor][color:blue][color:blue][icon:comet_medal][color:blue][color:blue]彗星獎章[color:black]了吧[color:blue][color:blue][defcolor][color:black]?[defcolor][pagebreak]",
@@ -3496,6 +3692,9 @@
         "AY-O! What're you doing bringing",
         "[color:red]hazardous materials[defcolor] aboard?!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "アンタ!",
         "[color:red]ヤバいもん[defcolor]、 [ruby:連;つ]れてきたんじゃないかい?!"
@@ -3503,6 +3702,7 @@
       "KrKorean": [
         "너, [color:red]위험한 것[defcolor]을 데려왔잖아?!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "喂！",
         "這[color:red]危險傢伙[color:black]是你帶回來的[color:red][defcolor][color:black]?[defcolor]"
@@ -3567,6 +3767,9 @@
         "calm! I don't want an angry [color:red]Bob-omb",
         "Buddy [color:black]on this ship![defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]あかボムへい[defcolor]・・・ [color:black][ruby:爆発;ばくはつ][defcolor]しないだろうねえ?!",
         "[color:red]あんなヤツ[defcolor]と[ruby:道連;みちづ]れなんて、 わたしゃ ヤダよ"
@@ -3575,6 +3778,7 @@
         "[color:red]빨간폭탄병[defcolor]… [color:black]설마 폭발하는 건 아니겠지?[defcolor]",
         "[color:red]저런 녀석[defcolor]이랑 같이 터지는 건 싫은데!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:red]紅炸彈兵[defcolor]…不會爆炸吧?!",
         "我可不想跟[color:red]那傢伙[color:black]一起爆炸[color:red][defcolor]！"
@@ -3635,6 +3839,9 @@
         "Another [color:red]hungry mouth to feed[color:black]?",
         "I hope you know what you're doing![color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]ハラをすかせたヤツ[defcolor]がまた",
         "まよいこんできてね"
@@ -3643,6 +3850,7 @@
         "[color:red]배가 쫄쫄 굶은 녀석[defcolor]이 또",
         "어디선가 여기까지 오게 됐어"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "又有個[color:black][color:red]愛吃的傢伙[color:black]闖進[defcolor][color:black]來[defcolor]了！"
       ]
@@ -3698,6 +3906,9 @@
         "Looks like our latest addition wants",
         "to have a word with you, Captain!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "これまた おおぐらいなやつなんだ",
         "かまってやっておくれよ [ruby:船長;せんちょう]"
@@ -3706,6 +3917,7 @@
         "배가 많이 고파 보이니까",
         "잘 보살펴 줘, 캡틴"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "這傢伙胃口很大，",
         "艦長，好好照顧他一下。"
@@ -3766,6 +3978,9 @@
         "[color:black]Looks like a [color:green]green one [color:black]followed you",
         "back! Don't see those fellers often![defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:green][color:black][ruby:珍;めずら]しいねえ・・・[color:green]",
         "[ruby:緑;みどり]のコ[defcolor]が やってきたよ"
@@ -3774,6 +3989,7 @@
         "[color:green][color:black]어쩐 일이지…?[color:green]",
         "초록색 친구[defcolor]가 왔어"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "真稀奇…這次來的是[color:green]綠色傢伙[color:black]。[color:green][defcolor]"
       ]
@@ -3833,6 +4049,9 @@
         "I bet he's got some interesting tales",
         "to tell. Why don't you go say hello?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:面白;おもしろ]い[ruby:話;はなし]がきけるかもしれないよ",
         "ちょいと[ruby:声;こえ]かけたら どうだい?"
@@ -3841,6 +4060,7 @@
         "재미있는 얘기를 들려줄지도 몰라",
         "가서 말을 걸어 보는 건 어때?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "或許會聽到有趣的事呢?",
         "跟他說個話吧。"
@@ -3905,6 +4125,9 @@
         "are really rare! I am--[delay:15] I'm just--[delay:15]",
         "speechless! [delay:15]...Wow. Nice work!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ほほう・・・[color:green]",
         "[ruby:緑;みどり]のコ[defcolor]が また[ruby:来;き]たのかい?"
@@ -3913,6 +4136,7 @@
         "호오…[color:green]",
         "초록색 친구[defcolor]가 또 왔네?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "這下…又是[color:green]綠色傢伙[defcolor]?"
       ]
@@ -3966,6 +4190,9 @@
         "Looks like he has something he needs",
         "to talk to you about..."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "どうやら、",
         "アンタに[ruby:話;はなし]があるらしいねえ・・・"
@@ -3974,6 +4201,7 @@
         "아무래도",
         "너에게 할 말이 있나 봐…"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "他好像有話對你說…"
       ]
@@ -4036,12 +4264,16 @@
         "brought [color:black]t[defcolor][color:red][color:black]he[color:red] [color:black]lady of the shooting",
         "stars[color:red] [defcolor]right to our own little ship!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]ほうき[ruby:星;ぼし]の[ruby:魔女;まじょ][defcolor]を[ruby:呼;よ]んだのは アンタかい?"
       ],
       "KrKorean": [
         "네가 [color:red]별똥별의 마녀[defcolor]를 불렀어?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:red][color:black]是你把[color:red]神秘[defcolor][color:red][color:red]女[color:red]巫[color:black]叫[color:red][defcolor]來的嗎?"
       ]
@@ -4100,6 +4332,9 @@
         "Feels like forever since we've seen",
         "each other. But she hasn't changed!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:black]お[ruby:会;あ]いするのは[ruby:久方;ひさかた]ぶりだが",
         "[ruby:変;か]わってないねえ[defcolor]"
@@ -4108,6 +4343,7 @@
         "정말로 오랜만에 본 건데[color:black]",
         "하나도 안 변했어[defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "好久不見。",
         "妳都沒變啊?"
@@ -4190,6 +4426,9 @@
         "[color:red]power of that Grand Star [defcolor]to travel",
         "to another [color:blue]world[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "でかした! [icon:grand_star][color:yellow][ruby:大物;おおもの][defcolor]を[ruby:見;み]つけたね![pagebreak]",
         "[icon:grand_star][sound:SE_SV_D_MEISTER_WE_HAVE_TO_GO][color:yellow][color:red]グランドスターの[ruby:力;ちから][color:yellow][color:black]で[color:yellow][defcolor] [ruby:時空;じくう]を[ruby:越;こ]えられるよ",
@@ -4200,6 +4439,7 @@
         "[icon:grand_star][sound:SE_SV_D_MEISTER_WE_HAVE_TO_GO][color:yellow][color:red]그랜드스타의 힘[color:yellow][color:black]은 시공을 건널 수 있어[color:yellow][defcolor]",
         "이제 멀리 있는 [color:blue]월드[defcolor]에 갈 수 있겠어!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "做得好！這次找到[icon:grand_star][color:yellow]珍寶[defcolor]！[pagebreak]",
         "用[icon:grand_star][sound:SE_SV_D_MEISTER_WE_HAVE_TO_GO][color:red]光榮星星之力[defcolor]可以穿越時空！",
@@ -4284,6 +4524,9 @@
         "[color:red]unknown [defcolor][color:red]world [color:black]we go[color:red][defcolor]![delay:15] I'm jiggling just",
         "thinking about it! [delay:15]Ready, Captain?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:少;すこ]しだけ",
         "[color:blue]アンタの[ruby:大切;たいせつ]なヒト[defcolor]に[ruby:近;ちか]づけるね[pagebreak]",
@@ -4296,6 +4539,7 @@
         "[sound:SE_SV_D_MEISTER_LETS_GO_DIALOG]자! 시공을 건너",
         "[color:red]미지의 월드[defcolor]로 가 볼까, [delay:15]캡틴?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "總算能稍稍靠近[color:blue][color:black]你[color:blue]最重要的人[color:black]，[color:blue][defcolor][color:black][pagebreak]",
         "[defcolor][sound:SE_SV_D_MEISTER_LETS_GO_DIALOG]來吧！艦長！[delay:15]",
@@ -4402,6 +4646,9 @@
         "Star[defcolor], we can keep going through time",
         "and space, no problem!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "やったじゃないか![pagebreak]",
         "なんだい?! [delay:15][color:red][icon:bowser][ruby:巨大;きょだい]なアイツ[defcolor]と[ruby:戦;たたか]ったって?",
@@ -4420,6 +4667,7 @@
         "[icon:grand_star][color:yellow]그랜드스타의 힘[color:black]은",
         "시공을 건널 수 있어![color:yellow][defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "真是太好了！[pagebreak]",
         "什麼?!跟[delay:15][color:red][icon:bowser]巨大傢伙[defcolor]對打?",
@@ -4499,6 +4747,9 @@
         "[color:black][sound:SE_SV_D_MEISTER_LETS_GO_DIALOG]Well, let's not just sit around gettin'",
         "older! Let's get goin', Captain![defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:blue]アンタの[ruby:大切;たいせつ]なヒト[defcolor]は",
         "[color:red][icon:bowser]アイツ[defcolor]といっしょにいるはずさ[pagebreak]",
@@ -4511,6 +4762,7 @@
         "[sound:SE_SV_D_MEISTER_LETS_GO_DIALOG]자, 이러고 있을 시간이 없어!!",
         "지금 바로 가 볼까, 캡틴?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:blue][color:blue]你[color:blue]最重要的人[defcolor]應該和[color:red][icon:bowser]他[color:black]在[color:red][defcolor]一起，[pagebreak]",
         "[sound:SE_SV_D_MEISTER_LETS_GO_DIALOG]好了！別在這裡等！",
@@ -4569,6 +4821,9 @@
         "Great work, pal! That's your [color:red]thi[defcolor][color:red]rd",
         "[defcolor][icon:grand_star] [color:yellow]Grand Star[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "よくやった!",
         "[color:red]3つ[ruby:目;め][defcolor]の[icon:grand_star][color:yellow]グランドスター[defcolor]だね"
@@ -4577,6 +4832,7 @@
         "수고했어!",
         "[color:red]3번째 [defcolor][icon:grand_star][color:yellow]그랜드스타[defcolor]야"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "太棒了！",
         "這是[color:red]第3顆[defcolor][icon:grand_star][color:yellow]光榮星星[color:black]。[color:yellow][defcolor]"
@@ -4657,6 +4913,9 @@
         "[color:black][sound:SE_SV_D_MEISTER_LETS_GO_DIALOG][color:black]So let's ship out to the next world,",
         "Captain![defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:blue][ruby:時空;じくう]を[ruby:越;こ]える[color:black][ruby:準備;じゅんび]はできたよ[color:blue][defcolor][color:black]",
         "[defcolor][color:red][icon:bowser]アイツ[defcolor]は まだまだ[ruby:先;さき]にいるさね[pagebreak]",
@@ -4669,6 +4928,7 @@
         "[sound:SE_SV_D_MEISTER_LETS_GO_DIALOG]자, [color:blue]다음 월드[defcolor]로",
         "힘차게 출발해 볼까, 캡틴?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:blue][color:black]準備好[color:blue]穿越時空[color:black]了。[color:blue][defcolor][color:black]",
         "[defcolor][color:red][icon:bowser]那傢伙[defcolor]還在前方！[pagebreak]",
@@ -4773,6 +5033,9 @@
         "[sound:SE_SV_D_MEISTER_WE_HAVE_TO_GO]We need to stop [color:red][icon:bowser] [defcolor]before he",
         "gets any more powerful!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "でかした!",
         "[color:red]4つ[ruby:目;め][defcolor]の[icon:grand_star][color:yellow]グランドスター[color:black]だ[color:yellow][defcolor]ね![pagebreak]",
@@ -4793,6 +5056,7 @@
         "[color:red][icon:bowser][sound:SE_SV_D_MEISTER_WE_HAVE_TO_GO]녀석[defcolor]이 더 강력한 힘을 얻기 전에",
         "어서 쫓아가자!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "做得好！",
         "這是[color:red]第4顆[defcolor][icon:grand_star][color:yellow]光榮[defcolor][color:yellow]星星[defcolor]！[pagebreak]",
@@ -4855,6 +5119,9 @@
         "All right then! Let's hit it! On the",
         "double, Captain!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "よおし! [ruby:気合;きあい]を[ruby:入;い]れなおして、",
         "いこうじゃないか [ruby:船長;せんちょう]"
@@ -4863,6 +5130,7 @@
         "좋아! 각오 단단히 하고",
         "이동해 볼까, 캡틴?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "好了！艦長，",
         "我們可要重新振作了！"
@@ -4969,6 +5237,9 @@
         "[sound:SE_SV_D_MEISTER_WE_HAVE_TO_GO]So let's get those [icon:star] [color:yellow]Power Stars",
         "[defcolor]and save [color:blue]your special one[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "これで[color:red]5つ[ruby:目;め][defcolor]の[color:red][icon:grand_star][color:yellow]グランドスター[color:black]だね[color:yellow][color:red][defcolor]",
         "アンタなら やってくれると[ruby:思;おも]ってたよ[pagebreak]",
@@ -4985,6 +5256,7 @@
         "[sound:SE_SV_D_MEISTER_WE_HAVE_TO_GO]하지만 우리는 가야만 해",
         "[icon:star][color:yellow]파워스타[defcolor]와 [color:blue]너의 소중한 사람[defcolor]을 위하여!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "這是[color:red]第5顆[defcolor][color:red][icon:grand_star][color:yellow][color:yellow]光榮[color:yellow]星星[color:red][defcolor]，",
         "我就知道你一定做得到。[pagebreak]",
@@ -5044,6 +5316,9 @@
         "The big fight awaits... The helm is",
         "yours, Captain!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "さあ!",
         "[ruby:気持;きも]ちの[ruby:準備;じゅんび]はできたかい? [ruby:船長;せんちょう]"
@@ -5052,6 +5327,7 @@
         "자!",
         "각오는 돼 있겠지, 캡틴?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "嗨！艦長準備好了嗎?"
       ]
@@ -5106,12 +5382,16 @@
         "All right then! Grab that wheel, and",
         "let's head out, Captain!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "さ! [ruby:舵;かじ]をにぎって[ruby:出航;しゅっこう]だ!"
       ],
       "KrKorean": [
         "자! 키를 잡고 출발하자!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "來！掌舵出航吧！"
       ]
@@ -5210,6 +5490,9 @@
         "Onwards, then! There are still more",
         "[icon:star] [color:yellow]Power Stars [defcolor]out there, [color:red]Captain[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "やっぱり[ruby:帰;かえ]ってきたね",
         "どうせ[ruby:戻;もど]ってくると[ruby:思;おも]ってたんだ[pagebreak]",
@@ -5234,6 +5517,7 @@
         "[color:red]이 우주선 마리오호의 캡틴[defcolor]은 너니까!",
         "잘 부탁해, 캡틴!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你果然回來了。",
         "我就知道你一定會回來。[pagebreak]",
@@ -5326,6 +5610,9 @@
         "[color:red][size:normal][color:black]Welcome back, Captain! It's a pleasure",
         "to see you, and congratulations![color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "やっぱり[ruby:帰;かえ]ってきたね",
         "どうせ[ruby:戻;もど]ってくると[ruby:思;おも]ってたんだ[pagebreak]",
@@ -5338,6 +5625,7 @@
         "이 우주선 마리오호의 캡틴은 [color:red]너[defcolor]니까!",
         "잘 부탁해, 캡틴!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你回來了。",
         "我就知道你會回來，[pagebreak]",
@@ -5408,6 +5696,9 @@
         "[color:red]Prankster Comets[defcolor] are swarming all",
         "over the universe! See for yourself!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "アンタ、 とんでもないことをしでかしたね[pagebreak]",
         "[ruby:宇宙;うちゅう]のあちこちに、",
@@ -5420,6 +5711,7 @@
         "[color:red]장난꾸러기 혜성[defcolor]이 나타난 것 말이야![pagebreak]",
         "직접 눈으로 확인해 봐!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "這下你闖大禍了啦！[pagebreak]",
         "聽說宇宙四處出現[color:red]搗蛋彗星[defcolor]。[pagebreak]",
@@ -5480,6 +5772,9 @@
         "[color:black]Hungry for [color:blue]more adventure[color:black], eh?",
         "The helm is yours, Captain![defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:blue]もっと[ruby:冒険;ぼうけん]したい[color:black]んだろ?[color:blue][defcolor]",
         "まかせたからね! [ruby:船長;せんちょう]"
@@ -5488,6 +5783,7 @@
         "[color:blue]모험을 더 하고 싶은 것 [color:black]맞지?[color:blue][defcolor]",
         "그럼 부탁해, 캡틴!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:black]想再去[color:blue]冒[color:black][color:blue]險[color:black]吧?[defcolor]",
         "那就交給你囉！艦長！"
@@ -5557,6 +5853,9 @@
         "Luma[color:black]. Hope you've got a stack of",
         "Star Bits, 'cause those guys can EAT![color:red][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red][icon:hungry_luma]ハラペコチコ[color:black]を[ruby:呼;よ]んだんだね[color:red][defcolor]",
         "たーんと[ruby:食;く]わせてやんな!"
@@ -5565,6 +5864,7 @@
         "[color:red][icon:hungry_luma]꼬르륵치코[color:black]를 불렀구나?[color:red][defcolor]",
         "배부르게 먹여 줘야 돼!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你找來[color:red][icon:hungry_luma]貪吃奇可[color:black]啊！[color:red][defcolor]",
         "要讓人家吃飽哦！"

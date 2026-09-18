@@ -42,6 +42,9 @@
         "It appears to be written by [icon:polari] [color:black]Polari[color:gray].)[defcolor]",
         "Would you like to read it?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:gray]([color:blue]The Neo Star[color:gray]というタイトルの[ruby:本;ほん]がある・・・",
         "[delay:30][ruby:著者;ちょしゃ]は・・・[delay:30][icon:polari] [color:black]バトラー[color:gray]のようだ)[defcolor][pagebreak]",
@@ -52,6 +55,7 @@
         " [icon:polari] [color:black]버틀러[color:gray]가 쓴 것 같다.)[defcolor]",
         " 읽어 볼까?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:gray]（書名是[color:blue]《新星》[color:gray]。",
         "看起來是由[icon:polari] [color:black]Polari[color:gray]所寫。）[defcolor]",
@@ -152,6 +156,9 @@
         "... and everybody would finally",
         "treat me with respect."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "我が父の話してくれたことには、宇宙は不思議な天体によって支えられているとのことだ[pagebreak]",
         "父はそれを、[color:blue]Neo Star[defcolor]と呼んだ[pagebreak]",
@@ -169,6 +176,7 @@
         " 그러면 아버지도 드디어 나를 자랑스럽게 여기실 것이다...[pagebreak]",
         " ...그리고 모두가 마침내 나를 존중해 줄 것이다."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "根據爸爸的說法，我們的",
         "宇宙是由某個神秘的",
@@ -217,12 +225,16 @@
       "EuDutch": [
         "[color:gray](It sounds interesting, though...)[defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:gray]([ruby:面白;おもしろ]そうだけど・・・)[defcolor]"
       ],
       "KrKorean": [
         "[color:gray](흥미로운 이야기인 것 같긴 한데...)[defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:gray]（聽起來很有趣，不過……）[defcolor]"
       ]
@@ -265,6 +277,9 @@
         "[color:gray](The title reads [color:blue]NMG Trivia[color:gray].)[defcolor]",
         "Would you like to read the book?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:gray]([color:blue]NMG Trivia[color:gray]というタイトルの[ruby:本;ほん]がある・・・)[delay:30][defcolor]",
         "この[ruby:本;ほん]を[ruby:開;ひら]きますか？"
@@ -273,6 +288,7 @@
         "[color:gray](제목은 [color:blue]NMG 이모저모[color:gray]라고 적혀 있다.)[defcolor]",
         " 책을 읽어 볼까?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:gray]（書名是[color:blue]NMG 冷知識[color:gray]。）[defcolor]",
         "要讀這本書嗎？"
@@ -484,6 +500,9 @@
         "mod are [color:red]Turnlog Galaxy[defcolor] and",
         "[color:red]Gloomy Galleon Galaxy[defcolor]."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]ギャラクティックガーデンギャラクシー[defcolor]のオリジナルバージョンは一夜にして制作されました[pagebreak]",
         "[color:red]わくわくスイーツギャラクシー[defcolor]では[color:yellow]敵キャラを全滅させるタイプのいたずら彗星[defcolor]を導入する予定でした[pagebreak]",
@@ -522,6 +541,7 @@
         " 황금색 [color:blue]옥토범바[defcolor]의 \"공식\" 이름은 [color:yellow]아우룸바[defcolor]다.[pagebreak]",
         " [color:yellow]아우룸[defcolor]이 이 모드에서 가장 좋아하는 갤럭시는 [color:red]턴로그 갤럭시[defcolor]와 [color:red]클루미 갤리온 갤럭시[defcolor]다."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "原版的[color:red]星際庭園銀河[defcolor]是在",
         "一個晚上完成的。[pagebreak]",
@@ -587,12 +607,16 @@
       "EuDutch": [
         "[color:gray](You put the book back on the shelf...)[defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:gray](あなたは[ruby:本;ほん]を そっと[ruby:本棚;ほんだな]に[ruby:戻;もど]した)[defcolor]"
       ],
       "KrKorean": [
         "[color:gray](책을 책장에 다시 꽂았다...)[defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:gray]（你把書放回書架……）[defcolor]"
       ]
@@ -635,6 +659,9 @@
         "[color:gray](The title reads [color:blue]NMG Credits[color:gray].)[defcolor]",
         "Would you like to read the book?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:gray]([color:blue]NMG Credits[color:gray]というタイトルの[ruby:本;ほん]がある・・・)[delay:30][defcolor]",
         "この[ruby:本;ほん]を[ruby:開;ひら]きますか？"
@@ -643,6 +670,7 @@
         "[color:gray](제목은 [color:blue]NMG 크레딧[color:gray]라고 적혀 있다.)[defcolor]",
         " 책을 읽어 볼까?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:gray]（書名是[color:blue]NMG 製作人員名單[color:gray]。）[defcolor]",
         "要讀這本書嗎？"
@@ -793,6 +821,9 @@
         "[color:blue]Gabbo[defcolor]: Italian translation.[pagebreak]",
         "Special thanks to [color:blue]Splitwirez[defcolor]."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:yellow]Aurum[defcolor]: プロジェクト設立、 ステージのデザイン、",
         "制作、プログラミング、ドイツ語への翻訳[pagebreak]",
@@ -827,6 +858,7 @@
         " [color:blue]Gabbo[defcolor]: 이탈리아어 번역.[pagebreak]",
         " [color:blue]Splitwirez[defcolor]에게 특별히 감사드립니다."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:yellow]Aurum[defcolor]：專案創辦人、關卡",
         "設計與製作、程式設計、德文翻譯。[pagebreak]",
@@ -884,12 +916,16 @@
       "EuDutch": [
         "[color:gray](You put the book back on the shelf...)[defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:gray](あなたは[ruby:本;ほん]を そっと[ruby:本棚;ほんだな]に[ruby:戻;もど]した)[defcolor]"
       ],
       "KrKorean": [
         "[color:gray](책을 책장에 다시 꽂았다...)[defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:gray]（你把書放回書架……）[defcolor]"
       ]
@@ -932,6 +968,9 @@
         "[color:gray](The title reads [color:blue]NMG Historia[color:gray].)[defcolor]",
         "Would you like to read the book?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:gray]([color:blue]NMG Historia[color:gray]というタイトルの[ruby:本;ほん]がある・・・)[delay:30][defcolor]",
         "この[ruby:本;ほん]を[ruby:開;ひら]きますか？"
@@ -940,6 +979,7 @@
         "[color:gray](제목은 [color:blue]NMG의 역사[color:gray]라고 적혀 있다.)[defcolor]",
         " 책을 읽어 볼까?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:gray]（書名是[color:blue]NMG 編年史[color:gray]。）[defcolor]",
         "要讀這本書嗎？"
@@ -1329,6 +1369,9 @@
         "that this mod's life spans",
         "almost ten years!)[defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:blue]Neo Mario Galaxy[defcolor]の開発は2014年6月あたりのある日から始まりました[pagebreak]",
         "初めは、このプロジェクトは",
@@ -1410,6 +1453,7 @@
         " 모딩 환경이 발전하면서 [color:blue]네오 마리오 갤럭시[defcolor]는 2023년에 다시 한 번 업데이트되었다.[pagebreak]",
         " [color:gray](정말 긴 여정이었군! 이 모드의 역사가 거의 10년이나 되었다니 생각만 해도 놀랍다!)[defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:blue]新瑪利歐銀河[defcolor]的開發",
         "大約始於 2014 年 6 月。[pagebreak]",
@@ -1497,12 +1541,16 @@
       "EuDutch": [
         "[color:gray](You put the book back on the shelf...)[defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:gray](あなたは[ruby:本;ほん]を そっと[ruby:本棚;ほんだな]に[ruby:戻;もど]した)[defcolor]"
       ],
       "KrKorean": [
         "[color:gray](책을 책장에 다시 꽂았다...)[defcolor]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:gray]（你把書放回書架……）[defcolor]"
       ]
@@ -1547,6 +1595,9 @@
         "Oh, hello! Mama's library is filled with",
         "lots of books. Feel free to read one!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "あら、こんにちは！ ママの[ruby:書斎;しょさい]にはたくさんの[ruby:本;ほん]が",
         "あるの! [delay:30] [ruby:自由;じゆう]に[ruby:読;よ]んでいいよ♪"
@@ -1554,6 +1605,7 @@
       "KrKorean": [
         "아, 안녕! 엄마의 도서관에는 책이 정말 많아. 마음껏 골라서 읽어 봐!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "喔，哈囉！媽媽的圖書室裡",
         "有好多書。想讀哪一本都可以哦！"

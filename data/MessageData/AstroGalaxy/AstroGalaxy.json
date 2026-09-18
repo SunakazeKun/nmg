@@ -36,6 +36,9 @@
         "Would you like to see th-[delay:30]-[delay:30]",
         "[size:large]WHAT?[size:normal][delay:60] [sound:SE_SV_BUTLER_TALK_WORRIED]Where's the map?!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "はいはい、[color:blue][ruby:MAP;マップ][defcolor]で[delay:30]ー[delay:30]",
         "[size:large]なんじゃと？！[size:normal][delay:60] [sound:SE_SV_BUTLER_TALK_WORRIED][color:blue][ruby:MAP;マップ][defcolor]はどこへ[ruby:行;い]った？！"
@@ -44,6 +47,7 @@
         "네! 맵을 보신-[delay:30]-[delay:30]",
         " [size:large]뭐야!?[size:normal][delay:60] [sound:SE_SV_BUTLER_TALK_WORRIED]맵이 어디 갔지?!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你要看一下…[delay:30]咦？[delay:30]",
         "[size:large]什麼？[size:normal][delay:60] ",
@@ -83,6 +87,9 @@
       "EuDutch": [
         "Open the door! Let me in!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "なんでドア[ruby:閉;し]まってんねん！",
         " [ruby:中;なか]に[ruby:入;はい]られへんやないか！"
@@ -90,6 +97,7 @@
       "KrKorean": [
         "문 열어! 나도 들여보내 줘!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "快開門！放我進去！"
       ]
@@ -131,12 +139,16 @@
         "The [color:red]Starshroom[defcolor] is",
         "fully operational!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]キノコ[ruby:船;せん][defcolor]の[ruby:修理;しゅうり]が[ruby:終;お]わりました！"
       ],
       "KrKorean": [
         "[color:red]버섯호[defcolor]는 이상 무 입니다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:red]蘑菇飛船[defcolor]正常運作中！"
       ]
@@ -178,6 +190,9 @@
         "Huh? What are those [color:green]Lumas[defcolor] even",
         "talking about?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "この[color:green]チコたち[defcolor]はいったい[ruby:何;なに]を[ruby:言;い]ってるんでしょうか",
         "・・・?"
@@ -185,6 +200,7 @@
       "KrKorean": [
         "뭐지? 저 [color:green]치코[color:black]들은 대체 무슨 이야기를 하는 걸까요?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "嗯？那些[color:green]奇可[defcolor]到底",
         "在說些什麼？"
@@ -229,6 +245,9 @@
         "Have you seen [color:red]My Beautiful Laundrette[defcolor]?",
         "It's a classic, don't you think?"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]マイ・ビューティフル・ランドレット[defcolor]を",
         "[ruby:見;み]たことありますか？[pagebreak]",
@@ -238,6 +257,7 @@
         "[color:red]거침없이 하이킥[defcolor] 보셨어요?",
         " 명작이죠. 안 그래요?"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你看過[color:red]《我的美麗洗衣店》[defcolor]嗎？",
         "這可是經典之作，你不覺得嗎？"
@@ -281,6 +301,9 @@
         "An [icon:a_button] press is an [icon:a_button] press...[pagebreak]",
         "[size:small]Parallel universes... Zzzzzz...."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[icon:a_button]を[ruby:押;お]したのなら・・・それは[icon:a_button]を1[ruby:回;かい][ruby:押;お]したことに・・・",
         "なるんじゃないんですか・・・[pagebreak]",
@@ -290,6 +313,7 @@
         "[icon:a_button]을 누른다는 것은 [icon:a_button]을 누르는 것...[pagebreak]",
         " [size:small]그것이 누르는 것이니까… Zzz...…"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "按一下[icon:a_button]就是按一下[icon:a_button]……[pagebreak]",
         "[size:small]平行宇宙……Zzzzzz……"
@@ -344,6 +368,9 @@
         "playing [color:red]Neo Mario Galaxy[defcolor].[pagebreak]",
         "Please take this [icon:star] [color:yellow]Power Star[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]Neo Mario Galaxy[defcolor]をプレイしてくださったあなたに、 [ruby:心;こころ]より[ruby:感謝;かんしゃ]いたします・・・[pagebreak]",
         "ぜひ、 この[icon:star][color:yellow]パワースター[defcolor]を[ruby:受;う]け[ruby:取;と]ってください"
@@ -352,6 +379,7 @@
         "[color:red]네오 마리오 갤럭시[defcolor]를 플레이해 주셔서 진심으로 감사드립니다.[pagebreak]",
         " 이 [icon:star] [color:yellow]파워스타[defcolor]를 받아 주세요!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "我打從心底感謝你遊玩[color:red]新超級瑪利歐銀河[defcolor]。[pagebreak]",
         "請收下這顆[icon:star] [color:yellow]力量星星[defcolor]！"
@@ -395,12 +423,16 @@
         "May the stars shine",
         "down on you..."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:星;ほし]の[ruby:恵;めぐ]みがあらんことを・・・"
       ],
       "KrKorean": [
         "여러분에게 축복의 별똥별이 쏟아지기를…"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "願星塵保佑你…"
       ]
@@ -468,6 +500,9 @@
         "While pressing [icon:a_button], you can [color:red]pick the",
         "direction you want to fly[defcolor] with [icon:analog_stick]."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "これは、アタイ[ruby:達;たち]の[ruby:力;ちから]が[ruby:宿;やど]る [color:red]レッドスター[defcolor] ",
         "[color:blue][ruby:空中;くうちゅう]でスピン[defcolor]すれば[color:red][ruby:空;そら]を[ruby:飛;と]べる[defcolor]し、[pagebreak]",
@@ -479,6 +514,7 @@
         " [color:blue]공중에서 스핀[color:black]하면 [color:red]하늘을 날 수 있고[defcolor][pagebreak]",
         " [icon:a_button]을 누른 상태에서 [icon:analog_stick]을 조작하면 진행 [color:red]방향을 정할 수 있어[color:black]."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "這是一顆[color:red]紅色星星[defcolor]。它蘊含著紅色奇可的力量。[pagebreak]",
         "但它真正厲害的地方是，",
@@ -535,6 +571,9 @@
         "Please help us collect all [color:purple]100[defcolor] [icon:purple_coin] to",
         "make the [icon:red_star] [color:red]Red Power Star[defcolor] appear."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "プルリン♪ プルリン♪ [color:purple]パープルコメット[defcolor]が",
         "[color:blue][ruby:天文台;てんもんだい][defcolor]にやってきちゃったのさ～[pagebreak]",
@@ -547,6 +586,7 @@
         "[color:purple]퍼플 혜성[defcolor]이 [color:blue]별똥별 천문대[defcolor]에 나타났어.[pagebreak]",
         " [color:purple]100[defcolor]개의 [icon:purple_coin]을 모두 모아 [icon:red_star] [color:red]레드 파워스타[defcolor]가 나타나게 해 줘."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:purple]紫色彗星[defcolor]出現在",
         "[color:blue]長尾星天文台[defcolor]上。[pagebreak]",
@@ -587,12 +627,16 @@
       "EuDutch": [
         "Collect all [color:purple]100[defcolor] [icon:purple_coin]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[icon:purple_coin][color:purple]パープルコイン[defcolor]を100[ruby:枚;まい][ruby:集;あつ]めちゃお～！"
       ],
       "KrKorean": [
         "[color:purple]100[defcolor]개의 [icon:purple_coin]을 모두 모아줘!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "收集全部[color:purple]100[defcolor]枚[icon:purple_coin]！"
       ]
@@ -630,12 +674,16 @@
       "EuDutch": [
         "Very good, thank you!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:集;あつ]まったね～ ア・リ・ガ・ト～♪"
       ],
       "KrKorean": [
         "아주 잘했어, 고마워!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "非常好，謝謝你！"
       ]
@@ -689,6 +737,9 @@
         "If you want to learn more about",
         "[color:red]Prankster Comets[defcolor], I'm your Luma!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "プルリン♪ プルリン♪ ボクは[color:purple]コメットチコ[defcolor]さ～！",
         "[icon:purple_coin]を集めてくれてアリガト～♪[pagebreak]",
@@ -699,6 +750,7 @@
         " [icon:purple_coin]을 모아 줘서 고마워![pagebreak]",
         " [color:red]장난꾸러기 혜성[defcolor]에 대해 더 알고 싶다면 나를 찾아와!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "嘿呦！我的名字是[color:purple]彗星奇可[defcolor]。",
         "謝謝你收集[icon:purple_coin]！[pagebreak]",
@@ -739,12 +791,16 @@
       "EuDutch": [
         "The [color:blue]Terrace[defcolor] is in here!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]テラス[defcolor]は こちらで～す"
       ],
       "KrKorean": [
         "여기에 [color:blue]테라스[defcolor]가 있어!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:blue]露台[defcolor]就在這邊！"
       ]
@@ -782,12 +838,16 @@
       "EuDutch": [
         "The [color:blue]Fountain[defcolor] is in here!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]バスルーム[defcolor]へなら これに[ruby:乗;の]って"
       ],
       "KrKorean": [
         "여기에 [color:blue]분수[defcolor]가 있어!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:blue]浴室[defcolor]就在這邊！"
       ]
@@ -825,12 +885,16 @@
       "EuDutch": [
         "The [color:blue]Kitchen[defcolor] is in here!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "こちらが [color:red]キッチン[defcolor]で～す"
       ],
       "KrKorean": [
         "여기에 [color:blue]부엌[defcolor]이 있어!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:blue]廚房[defcolor]就在這邊！"
       ]
@@ -868,12 +932,16 @@
       "EuDutch": [
         "The [color:blue]Bedroom[defcolor] is in here!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:blue]ベッドルーム[defcolor]は ここですよ～"
       ],
       "KrKorean": [
         "여기에 [color:blue]침실[defcolor]이 있어!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:blue]臥室[defcolor]就在這邊！"
       ]
@@ -911,12 +979,16 @@
       "EuDutch": [
         "This is the [color:blue]Engine Room[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ここは[color:red]マシンルーム[defcolor]でーす"
       ],
       "KrKorean": [
         "여기가 [color:blue]엔진 룸[defcolor]이야!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "這裡是[color:blue]機房[defcolor]！"
       ]
@@ -954,12 +1026,16 @@
       "EuDutch": [
         "The [color:blue]Garden[defcolor] is in here!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ここは[color:red]ロフト[defcolor]・・・ ひみつの[ruby:部屋;へや]"
       ],
       "KrKorean": [
         "여기에 [color:blue]정원[defcolor]이 있어!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:blue]閣樓[defcolor]就在這邊！"
       ]
@@ -997,12 +1073,16 @@
       "EuDutch": [
         "This is the [color:blue]Gate[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:子供;こども][ruby:部屋;べや][defcolor]ならここで～す！"
       ],
       "KrKorean": [
         "여기가 [color:blue]게이트[defcolor]야!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "這裡是[color:blue]大門[defcolor]！"
       ]
@@ -1041,12 +1121,16 @@
       "EuDutch": [
         "Mama's [color:blue]Library[defcolor] is in here!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ママの[color:red][ruby:書斎;しょさい][defcolor]は こちら～！"
       ],
       "KrKorean": [
         "여기에 엄마의 [color:blue]도서관[defcolor]이 있어!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "媽媽的[color:blue]書房[defcolor]就在這邊！"
       ]
@@ -1089,12 +1173,16 @@
         "We are the guardians of the [color:red]Trial",
         "Galaxies[defcolor]."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:我々;われわれ]は[color:red]チャレンジギャラクシー[defcolor]を[ruby:守;まも]りし[ruby:者;もの]です"
       ],
       "KrKorean": [
         "우리는 [color:red]챌린지 갤럭시[defcolor]의 수호자야."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "我們是[color:red]試煉銀河[defcolor]的守護者。"
       ]
@@ -1133,12 +1221,16 @@
       "EuDutch": [
         "Up there is the [color:green]Planet of Trials[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:上;かみ]に[ruby:見;み]えるもの、それが[ruby:挑戦者;ちょうせんしゃ]に[ruby:課;か]された[color:red][ruby:試練;しれん][defcolor]です"
       ],
       "KrKorean": [
         "저 위에 있는 곳은 [color:green]시련의 문[defcolor]이야!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "上面就是[color:green]試煉星球[defcolor]！"
       ]
@@ -1180,12 +1272,16 @@
         "The [color:red]Trial Galaxies[defcolor]",
         "are very difficult!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]チャレンジギャラクシー[defcolor]を[color:red]チャレンジ[defcolor]たらしめるのは、その[ruby:難易度;なんいど]・・・"
       ],
       "KrKorean": [
         "[color:red]챌린지 갤럭시[defcolor]는 정말 어려워!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:red]試煉銀河[defcolor]非常困難！"
       ]
@@ -1228,12 +1324,16 @@
         "The entrance to [color:blue]Sweet Sweet Galaxy[defcolor]",
         "is not available right now."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:blue]スイーツファクトリーギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:blue]스위트 스위트 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "通往[color:blue]甜點工廠銀河[defcolor]的入口現在無法使用。"
       ]
@@ -1276,12 +1376,16 @@
         "The entrance to [color:blue]Sling Pod Galaxy[defcolor]",
         "is not available right now."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:blue]コクーンアステロイドギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:blue]슬링 포드 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "通往[color:blue]繭形星群銀河[defcolor]的入口現在無法使用。"
       ]
@@ -1324,12 +1428,16 @@
         "The entrance to [color:blue]Drip Drop Galaxy[defcolor]",
         "is not available right now."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:blue]ティアドロップギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:blue]드립 드롭 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "通往[color:blue]淚珠銀河[defcolor]的入口現在無法使用。"
       ]
@@ -1372,12 +1480,16 @@
         "The entrance to [color:blue]Bigmouth Galaxy[defcolor]",
         "is not available right now."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:blue]フィッシュトンネルギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:blue]빅마우스 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "通往[color:blue]大魚隧道銀河[defcolor]的入口現在無法使用。"
       ]
@@ -1421,12 +1533,16 @@
         "The entrance to [color:blue]Sand Spiral Galaxy[defcolor]",
         "is not available right now."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:blue]サンドリバーギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:blue]샌드 스파이럴 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "通往[color:blue]螺旋流沙銀河[defcolor]的入口現在無法使用。"
       ]
@@ -1469,12 +1585,16 @@
         "The entrance to [color:blue]Boo's Boneyard Galaxy[defcolor]",
         "is not available right now."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:blue]デスプロムナードギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:blue]부의 묘지 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "通往[color:blue]死亡散步小徑銀河[defcolor]的入口現在無法使用。"
       ]
@@ -1517,12 +1637,16 @@
         "The entrance to [color:blue]Snow Cap Galaxy[defcolor]",
         "is not available right now."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:blue]スノーカプセルギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:blue]스노 캡 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "通往[color:blue]飄雪彈頭銀河[defcolor]的入口現在無法使用。"
       ]
@@ -1565,12 +1689,16 @@
         "The entrance to [color:green]Bubble Blast Galaxy[defcolor]",
         "is not available right now."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:green]チャレンジバブルギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:green]버블 블래스트 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "通往[color:blue]氣泡挑戰銀河[defcolor]的入口現在無法使用。"
       ]
@@ -1613,12 +1741,16 @@
         "The entrance to [color:green]Rolling Gizmo Galaxy[defcolor]",
         "is not available right now."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:green]チャレンジボールギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:green]롤링 기즈모 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "通往[color:blue]星星球挑戰銀河[defcolor]的入口現在無法使用。"
       ]
@@ -1661,12 +1793,16 @@
         "The entrance to [color:green]Loopdeeswoop Galaxy[defcolor]",
         "is not available right now."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:green]チャレンジサーフィンギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:green]루프디스웁 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "通往[color:blue]衝浪挑戰銀河[defcolor]的入口現在無法使用。"
       ]
@@ -1709,12 +1845,16 @@
         "The entrance to [color:green]Grand Finale Galaxy[defcolor]",
         "is not available right now."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:green]グランドフィナーレギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:green]그랜드 피날레 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "通往[color:blue]歡樂團圓銀河[defcolor]的入口現在無法使用。"
       ]
@@ -1753,12 +1893,16 @@
       "EuDutch": [
         "You can use this [color:red]Red Star[defcolor]."
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]レッドスター[defcolor]、[ruby:使;つか]っていいよ"
       ],
       "KrKorean": [
         "이 [color:red]레드스타[defcolor]를 사용할 수 있어."
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "你可以使用這顆[color:red]紅色星星[defcolor]。"
       ]
@@ -1796,12 +1940,16 @@
       "EuDutch": [
         "He's still sleeping?!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "いつまで[ruby:寝;ね]てるんでしょうか・・・"
       ],
       "KrKorean": [
         "아직도 자고 있어?!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "他還在睡覺？！"
       ]
@@ -1843,12 +1991,16 @@
         "We live here in the",
         "[color:blue]Observatory[defcolor] with Mama!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:私;わたし]たちはこの[color:blue][ruby:天文台;てんもんだい][defcolor]でママと[ruby:暮;く]らしてるの！"
       ],
       "KrKorean": [
         "우리는 엄마와 함께 [color:blue]천문대[defcolor]에서 살고 있어!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "我們和媽媽一起住在[color:blue]天文台[defcolor]！"
       ]
@@ -1886,12 +2038,16 @@
       "EuDutch": [
         "This couch is the comfiest! ♪"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "きゅうけい きゅうけい♪"
       ],
       "KrKorean": [
         "이 소파가 제일 편해! ♪"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "這張沙發最舒服了！♪"
       ]
@@ -1934,12 +2090,16 @@
         "Mama's gonna read",
         "me a [color:blue]storybook[defcolor]! ♪"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ママに [color:blue][ruby:絵本;えほん][defcolor][ruby:読;よ]んでもらうの♪"
       ],
       "KrKorean": [
         "엄마가 [color:blue]동화책[defcolor]을 읽어 줄 거야! ♪"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "媽媽要念[color:blue]故事書[defcolor]給我聽了！♪"
       ]
@@ -1977,12 +2137,16 @@
       "EuDutch": [
         "Mama is the best! ♪"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "ママがいちばん♪"
       ],
       "KrKorean": [
         "엄마가 최고야! ♪"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "媽媽是最棒的！♪"
       ]
@@ -2025,12 +2189,16 @@
         "The [color:blue]Engine Room",
         "[defcolor]is up above us!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "この[ruby:上;うえ]は[color:red]マシンルーム[defcolor]です！"
       ],
       "KrKorean": [
         "[color:blue]엔진 룸[defcolor]은 위쪽에 있어!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:blue]機房",
         "[defcolor]就在我們上面！"
@@ -2070,12 +2238,16 @@
       "EuDutch": [
         "Stand here to go down!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:下;した]に[ruby:行;い]くなら これに[ruby:乗;の]って"
       ],
       "KrKorean": [
         "여기에 서 있으면 아래로 내려갈 수 있어!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "站在這裡就可以下去了！"
       ]
@@ -2129,6 +2301,9 @@
         "The only hope is the",
         "sweet relief of death![sound:SE_SV_TICOFAT_META]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[ruby:時間;じかん]も[ruby:希望;きぼう]も、ただの[ruby:幻想;げんそう]にすぎないんだ[delay:60]",
         "[ruby:逃;に]げ[ruby:道;みち]なんてないよ[pagebreak]",
@@ -2140,6 +2315,7 @@
         "탈출은 없어요.[pagebreak]",
         "유일한 희망은 죽음이 주는 달콤한 휴식뿐.[sound:SE_SV_TICOFAT_META]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "時間就和希望一樣，都只是幻覺。[delay:60]",
         "無處可逃……[pagebreak]",

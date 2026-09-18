@@ -39,12 +39,16 @@
       "EuDutch": [
         "[icon:gold_crown] Galaxy Complete!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[icon:gold_crown]ギャラクシーコンプリート!"
       ],
       "KrKorean": [
         "[icon:gold_crown]갤럭시 제패!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[icon:gold_crown]銀河破關！"
       ]
@@ -90,12 +94,16 @@
       "EuDutch": [
         "[icon:silver_crown] Galaxy Complete!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[icon:silver_crown]ギャラクシーコンプリート!"
       ],
       "KrKorean": [
         "[icon:silver_crown]갤럭시 제패!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[icon:silver_crown]銀河破關！"
       ]
@@ -159,6 +167,9 @@
         "[color:blue][stringvar:1;1;0x00000000][defcolor]",
         "[stringvar:0;0;0x00000000]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[stringvar:0;0;0x00000000]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
@@ -169,6 +180,7 @@
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]의",
         "[color:yellow]브론즈스타[defcolor]를 획득했다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[stringvar:0;0;0x00000000]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]",
@@ -216,12 +228,16 @@
       "EuDutch": [
         "You got some [color:yellow]coins[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:yellow]コイン[defcolor]を[ruby:持;も]ち[ruby:帰;かえ]った!"
       ],
       "KrKorean": [
         "[color:yellow]코인[defcolor]을 가져왔다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "帶回[color:yellow]金幣[defcolor]！"
       ]
@@ -267,12 +283,16 @@
       "EuDutch": [
         "You got a [color:red]C[defcolor][color:red]omet Medal[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:彗星;すいせい][defcolor][color:red]メダル[defcolor]を [ruby:手;て]に[ruby:入;い]れた!"
       ],
       "KrKorean": [
         "[color:red]혜성메달[defcolor]을 획득했다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:red][color:black]獲得[color:red]彗星獎章[defcolor]！"
       ]
@@ -336,6 +356,9 @@
         "[color:blue][stringvar:1;1;0x00000000][defcolor]",
         "[color:black][stringvar:0;0;0x00000000][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[stringvar:0;0;0x00000000]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
@@ -346,6 +369,7 @@
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]의",
         "[color:yellow]그랜드스타[defcolor]를 획득했다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[stringvar:0;0;0x00000000]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]",
@@ -410,6 +434,9 @@
         "[color:blue][stringvar:1;1;0x00000000][defcolor]",
         "[stringvar:0;0;0x00000000]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[stringvar:0;0;0x00000000]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
@@ -420,6 +447,7 @@
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]의",
         "[color:green]그린스타[defcolor]를 획득했다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[stringvar:0;0;0x00000000]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]",
@@ -485,6 +513,9 @@
         "[color:blue][stringvar:1;1;0x00000000][defcolor]",
         "[stringvar:0;0;0x00000000]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[stringvar:0;0;0x00000000]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
@@ -495,6 +526,7 @@
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]의",
         "[color:yellow]숨겨진 스타[defcolor]를 획득했다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[stringvar:0;0;0x00000000]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]",
@@ -560,6 +592,9 @@
         "[color:blue][stringvar:1;1;0x00000000][defcolor]",
         "[color:black][stringvar:0;0;0x00000000][defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:black][stringvar:0;0;0x00000000][defcolor]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
@@ -570,6 +605,7 @@
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]의",
         "[color:yellow]스타[defcolor]를 획득했다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:black][stringvar:0;0;0x00000000]",
         "[defcolor][color:blue]「[stringvar:1;1;0x00000000]」",
@@ -619,6 +655,9 @@
         "[color:blue][stringvar:1;1;0x00000000][defcolor]",
         "[stringvar:0;0;0x00000000]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:black][stringvar:0;0;0x00000000][defcolor]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
@@ -629,6 +668,7 @@
         " [color:blue][stringvar:1;1;0x00000000][defcolor]",
         " [stringvar:0;0;0x00000000]"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "得到[color:red]紅色星星[defcolor]了！",
         "[color:blue][stringvar:1;1;0x00000000][defcolor]",
@@ -668,12 +708,16 @@
       "EuDutch": [
         "You got a [color:blue]Stamp[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:blue]スタンプ[defcolor]を [ruby:手;て]に[ruby:入;い]れた!"
       ],
       "KrKorean": [
         "[color:blue]스탬프[defcolor]를 얻었다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "得到[color:blue]印章[defcolor]了！"
       ]
@@ -720,12 +764,16 @@
       "EuDutch": [
         "You got some [color:purple]Star Bits[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:purple]スターピース[defcolor]を[ruby:持;も]ち[ruby:帰;かえ]った!"
       ],
       "KrKorean": [
         "[color:purple]스타구슬[defcolor]을 가져왔다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "帶回[color:purple]星塵[defcolor]！"
       ]
@@ -780,6 +828,9 @@
         "A [color:green]ghost [defcolor]has appeared in",
         "[color:black][stringvar:0;0;0x00000000]![defcolor]"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:black][stringvar:0;0;0x00000000][defcolor]に",
         "[color:green]ゴースト[defcolor]が[ruby:現;あらわ]れた!"
@@ -788,6 +839,7 @@
         "[color:black][stringvar:0;0;0x00000000][defcolor]에",
         "[color:green]고스트[defcolor]가 나타났다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:black][stringvar:0;0;0x00000000][defcolor]",
         "出現[color:green]幽靈[defcolor]！"
@@ -838,12 +890,16 @@
       "EuDutch": [
         "A portal to the next world opened up!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:時空;じくう]の[ruby:扉;とびら][defcolor]が[ruby:開;ひら]いた!"
       ],
       "KrKorean": [
         "[color:red]시공의 문[defcolor]이 열렸다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:red]時空大門[defcolor]開啟！"
       ]
@@ -890,12 +946,16 @@
       "EuDutch": [
         "New Clear Time!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "クリアタイム[ruby:更新;こうしん]!"
       ],
       "KrKorean": [
         "클리어 기록 경신!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "刷新過關紀錄"
       ]
@@ -942,12 +1002,16 @@
       "EuDutch": [
         "A [color:red]Prankster Comet [defcolor]has appeared!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:red]いたずら[ruby:彗星;すいせい][defcolor]が [ruby:現;あらわ]れた!"
       ],
       "KrKorean": [
         "[color:red]장난꾸러기 혜성[defcolor]이 나타났다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "出現[color:red]搗蛋彗星[defcolor]！"
       ]
@@ -998,12 +1062,16 @@
       "EuDutch": [
         "[color:blue]Starship Mario [defcolor]can now [color:red]advance[defcolor]!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:blue][ruby:星船;ほしぶね][defcolor]の[color:red][ruby:航行範囲;こうこうはんい][defcolor]が[ruby:広;ひろ]がった[color:black]![defcolor]"
       ],
       "KrKorean": [
         "[color:blue]우주선[defcolor]의 [color:red]항해 범위[defcolor]가 넓어졌다!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:blue]星艦[defcolor][color:red][color:black]的[color:red]航行範圍[defcolor]擴大[color:black]！[defcolor]"
       ]

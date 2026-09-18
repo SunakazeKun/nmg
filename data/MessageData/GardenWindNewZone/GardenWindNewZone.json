@@ -41,6 +41,9 @@
         "to fly higher! But only up to [color:red]three",
         "times[defcolor], boiyoing!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "[color:purple]フワフワ[ruby:草;そう][defcolor]は[icon:wiimote][color:red]ふって[defcolor]フワフワ♪[delay:30]",
         "でも、フワフワできるのは [color:red]3[ruby:回;かい][defcolor]だけだピョン！"
@@ -49,6 +52,7 @@
         "[color:purple]팔랑팔랑풀[defcolor]은 [icon:wiimote]를 흔들면 팔랑팔랑♪",
         " 하지만 팔랑팔랑은 [color:red]3번[color:black]까지예요 깡총!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "有了[color:purple]飄飄草[defcolor]，你可以透過揮動[icon:wiimote]",
         "來飛得更高哦！但是最多只能用[color:red]三次[defcolor]哦！"
@@ -88,12 +92,16 @@
       "EuDutch": [
         "You made it. Very good, boiyoing!"
       ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
       "JpJapanese": [
         "とうちゃ～く！ [ruby:上手;じょうず]だったピョン！"
       ],
       "KrKorean": [
         "성공하셨군요, 아주 잘 하셨어요 깡총!"
       ],
+      "CnSimpChinese": null,
       "AsTradChinese": [
         "哇，你成功啦！真厲害！"
       ]
