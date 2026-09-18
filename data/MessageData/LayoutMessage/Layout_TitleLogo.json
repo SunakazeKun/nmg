@@ -12,52 +12,7 @@
       "comment": ""
     },
     "languages": {
-      "UsEnglish": [
-        "Neo Mario Galaxy Team"
-      ],
-      "EuEnglish": [
-        "Neo Mario Galaxy Team"
-      ],
-      "UsSpanish": [
-        "Neo Mario Galaxy Team"
-      ],
-      "EuSpanish": [
-        "Neo Mario Galaxy Team"
-      ],
-      "UsFrench": [
-        "Neo Mario Galaxy Team"
-      ],
-      "EuFrench": [
-        "Neo Mario Galaxy Team"
-      ],
-      "EuGerman": [
-        "Neo Mario Galaxy Team"
-      ],
-      "EuItalian": [
-        "Neo Mario Galaxy Team"
-      ],
-      "EuDutch": [
-        "Neo Mario Galaxy Team"
-      ],
-      "UsPortuguese": [
-        "Neo Mario Galaxy Team"
-      ],
-      "EuPortuguese": [
-        "Neo Mario Galaxy Team"
-      ],
-      "EuRussian": [
-        "Neo Mario Galaxy Team"
-      ],
-      "JpJapanese": [
-        "Neo Mario Galaxy Team"
-      ],
-      "KrKorean": [
-        "Neo Mario Galaxy Team"
-      ],
-      "CnSimpChinese": [
-        "Neo Mario Galaxy Team"
-      ],
-      "AsTradChinese": [
+      "default": [
         "Neo Mario Galaxy Team"
       ]
     }

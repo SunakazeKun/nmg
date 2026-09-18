@@ -12,52 +12,7 @@
       "comment": ""
     },
     "languages": {
-      "UsEnglish": [
-        "[icon:silver_crown]"
-      ],
-      "EuEnglish": [
-        "[icon:silver_crown]"
-      ],
-      "UsSpanish": [
-        "[icon:silver_crown]"
-      ],
-      "EuSpanish": [
-        "[icon:silver_crown]"
-      ],
-      "UsFrench": [
-        "[icon:silver_crown]"
-      ],
-      "EuFrench": [
-        "[icon:silver_crown]"
-      ],
-      "EuGerman": [
-        "[icon:silver_crown]"
-      ],
-      "EuItalian": [
-        "[icon:silver_crown]"
-      ],
-      "EuDutch": [
-        "[icon:silver_crown]"
-      ],
-      "UsPortuguese": [
-        "[icon:silver_crown]"
-      ],
-      "EuPortuguese": [
-        "[icon:silver_crown]"
-      ],
-      "EuRussian": [
-        "[icon:silver_crown]"
-      ],
-      "JpJapanese": [
-        "[icon:silver_crown]"
-      ],
-      "KrKorean": [
-        "[icon:silver_crown]"
-      ],
-      "CnSimpChinese": [
-        "[icon:silver_crown]"
-      ],
-      "AsTradChinese": [
+      "default": [
         "[icon:silver_crown]"
       ]
     }
@@ -75,52 +30,7 @@
       "comment": ""
     },
     "languages": {
-      "UsEnglish": [
-        "[icon:gold_crown]"
-      ],
-      "EuEnglish": [
-        "[icon:gold_crown]"
-      ],
-      "UsSpanish": [
-        "[icon:gold_crown]"
-      ],
-      "EuSpanish": [
-        "[icon:gold_crown]"
-      ],
-      "UsFrench": [
-        "[icon:gold_crown]"
-      ],
-      "EuFrench": [
-        "[icon:gold_crown]"
-      ],
-      "EuGerman": [
-        "[icon:gold_crown]"
-      ],
-      "EuItalian": [
-        "[icon:gold_crown]"
-      ],
-      "EuDutch": [
-        "[icon:gold_crown]"
-      ],
-      "UsPortuguese": [
-        "[icon:gold_crown]"
-      ],
-      "EuPortuguese": [
-        "[icon:gold_crown]"
-      ],
-      "EuRussian": [
-        "[icon:gold_crown]"
-      ],
-      "JpJapanese": [
-        "[icon:gold_crown]"
-      ],
-      "KrKorean": [
-        "[icon:gold_crown]"
-      ],
-      "CnSimpChinese": [
-        "[icon:gold_crown]"
-      ],
-      "AsTradChinese": [
+      "default": [
         "[icon:gold_crown]"
       ]
     }
@@ -138,52 +48,7 @@
       "comment": ""
     },
     "languages": {
-      "UsEnglish": [
-        "[icon:platinum_crown]"
-      ],
-      "EuEnglish": [
-        "[icon:platinum_crown]"
-      ],
-      "UsSpanish": [
-        "[icon:platinum_crown]"
-      ],
-      "EuSpanish": [
-        "[icon:platinum_crown]"
-      ],
-      "UsFrench": [
-        "[icon:platinum_crown]"
-      ],
-      "EuFrench": [
-        "[icon:platinum_crown]"
-      ],
-      "EuGerman": [
-        "[icon:platinum_crown]"
-      ],
-      "EuItalian": [
-        "[icon:platinum_crown]"
-      ],
-      "EuDutch": [
-        "[icon:platinum_crown]"
-      ],
-      "UsPortuguese": [
-        "[icon:platinum_crown]"
-      ],
-      "EuPortuguese": [
-        "[icon:platinum_crown]"
-      ],
-      "EuRussian": [
-        "[icon:platinum_crown]"
-      ],
-      "JpJapanese": [
-        "[icon:platinum_crown]"
-      ],
-      "KrKorean": [
-        "[icon:platinum_crown]"
-      ],
-      "CnSimpChinese": [
-        "[icon:platinum_crown]"
-      ],
-      "AsTradChinese": [
+      "default": [
         "[icon:platinum_crown]"
       ]
     }
@@ -680,52 +545,7 @@
       "comment": ""
     },
     "languages": {
-      "UsEnglish": [
-        "[icon:star][icon:x_mark][intvar:2;0;0]"
-      ],
-      "EuEnglish": [
-        "[icon:star][icon:x_mark][intvar:2;0;0]"
-      ],
-      "UsSpanish": [
-        "[icon:star][icon:x_mark][intvar:2;0;0]"
-      ],
-      "EuSpanish": [
-        "[icon:star][icon:x_mark][intvar:2;0;0]"
-      ],
-      "UsFrench": [
-        "[icon:star][icon:x_mark][intvar:2;0;0]"
-      ],
-      "EuFrench": [
-        "[icon:star][icon:x_mark][intvar:2;0;0]"
-      ],
-      "EuGerman": [
-        "[icon:star][icon:x_mark][intvar:2;0;0]"
-      ],
-      "EuItalian": [
-        "[icon:star][icon:x_mark][intvar:2;0;0]"
-      ],
-      "EuDutch": [
-        "[icon:star][icon:x_mark][intvar:2;0;0]"
-      ],
-      "UsPortuguese": [
-        "[icon:star][icon:x_mark][intvar:2;0;0]"
-      ],
-      "EuPortuguese": [
-        "[icon:star][icon:x_mark][intvar:2;0;0]"
-      ],
-      "EuRussian": [
-        "[icon:star][icon:x_mark][intvar:2;0;0]"
-      ],
-      "JpJapanese": [
-        "[icon:star][icon:x_mark][intvar:2;0;0]"
-      ],
-      "KrKorean": [
-        "[icon:star][icon:x_mark][intvar:2;0;0]"
-      ],
-      "CnSimpChinese": [
-        "[icon:star][icon:x_mark][intvar:2;0;0]"
-      ],
-      "AsTradChinese": [
+      "default": [
         "[icon:star][icon:x_mark][intvar:2;0;0]"
       ]
     }

@@ -12,36 +12,7 @@
       "comment": ""
     },
     "languages": {
-      "UsEnglish": [
-        "NEO MARIO GALAXY"
-      ],
-      "EuEnglish": [
-        "NEO MARIO GALAXY"
-      ],
-      "UsSpanish": null,
-      "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
-      "EuGerman": [
-        "NEO MARIO GALAXY"
-      ],
-      "EuItalian": [
-        "NEO MARIO GALAXY"
-      ],
-      "EuDutch": [
-        "NEO MARIO GALAXY"
-      ],
-      "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
-      "JpJapanese": [
-        "NEO MARIO GALAXY"
-      ],
-      "KrKorean": [
-        "NEO MARIO GALAXY"
-      ],
-      "CnSimpChinese": null,
-      "AsTradChinese": [
+      "default": [
         "NEO MARIO GALAXY"
       ]
     }

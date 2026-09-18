@@ -12,52 +12,7 @@
       "comment": ""
     },
     "languages": {
-      "UsEnglish": [
-        "L IS REAL 2401"
-      ],
-      "EuEnglish": [
-        "L IS REAL 2401"
-      ],
-      "UsSpanish": [
-        "L IS REAL 2401"
-      ],
-      "EuSpanish": [
-        "L IS REAL 2401"
-      ],
-      "UsFrench": [
-        "L IS REAL 2401"
-      ],
-      "EuFrench": [
-        "L IS REAL 2401"
-      ],
-      "EuGerman": [
-        "L IS REAL 2401"
-      ],
-      "EuItalian": [
-        "L IS REAL 2401"
-      ],
-      "EuDutch": [
-        "L IS REAL 2401"
-      ],
-      "UsPortuguese": [
-        "L IS REAL 2401"
-      ],
-      "EuPortuguese": [
-        "L IS REAL 2401"
-      ],
-      "EuRussian": [
-        "L IS REAL 2401"
-      ],
-      "JpJapanese": [
-        "L IS REAL 2401"
-      ],
-      "KrKorean": [
-        "L IS REAL 2401"
-      ],
-      "CnSimpChinese": [
-        "L IS REAL 2401"
-      ],
-      "AsTradChinese": [
+      "default": [
         "L IS REAL 2401"
       ]
     }

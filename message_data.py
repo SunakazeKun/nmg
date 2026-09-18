@@ -77,7 +77,10 @@ def __pack_msb_into_archive(archive: JKRArchive, language: str, archive_name: st
         message.attributes["unk7"]         = json_msg["attributes"]["unk7"]
         message.attributes["comment"]      = json_msg["attributes"]["comment"]
 
-        text_lines = json_msg["languages"][language]
+        text_lines = json_msg["languages"].get(language, None)
+
+        if text_lines is None:
+            text_lines = json_msg["languages"].get("default", None)
 
         if text_lines is None:
             message.text = f'!MISSING! {message.label}'
