@@ -4,13 +4,11 @@
 #include "kamek/hooks.h"
 
 namespace {
-    void setCometScreenFilterColor(LayoutActor *layout, bool isGreenStar) {
+    void setCometTypeExt(LayoutActor *layout, f32 frame, u32 frameCtrlIdx) {
         register const char* cometName;
         __asm {
             lwz cometName, 0xC(r29);
         }
-
-        f32 frame = isGreenStar ? 1.0f : 0.0f;
 
         if (cometName != nullptr) {
             if (MR::isEqualString(cometName, "Red")) {
@@ -30,10 +28,9 @@ namespace {
             }
         }
 
-        MR::startAnim(layout, "Color", 0);
-        MR::setAnimFrameAndStop(layout, frame, 0);
+        MR::setAnimFrameAndStop(layout, frame, frameCtrlIdx);
     }
 
-    // CometEventKeeper::init
-    kmCall(0x8037295C, setCometScreenFilterColor);
+    // GalaxyCometScreenFilter::setCometType
+    kmCall(0x8046F554, setCometTypeExt);
 }
