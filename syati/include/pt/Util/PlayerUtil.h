@@ -1,6 +1,6 @@
 #pragma once
 
-#include "revolution.h"
+#include "revolution/types.h"
 
 namespace pt {
     bool isPlayerElementMode(s32 mode);
