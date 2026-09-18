@@ -20,7 +20,6 @@ namespace neo {
     };
 
     const AllowInStageSaveInfo cAllowInStageSaveInfos[] = {
-        { STAGE_GALACTIC_GARDEN_GALAXY, 5, {  6, -1 } },
         { STAGE_SWEET_TREAT_GALAXY,     4, {  5,  6 } },
         { STAGE_GLOOMY_GALLEON_GALAXY,  4, {  5,  6 } },
         { STAGE_GLOOMY_GALLEON_GALAXY,  5, {  4,  6 } },
