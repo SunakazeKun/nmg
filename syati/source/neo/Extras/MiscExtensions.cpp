@@ -44,12 +44,14 @@ namespace {
     kmCall(0x8045E318, setTextBoxMessageAndHidePaneRecursive);
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
     kmWrite32(0x80486FE0, PPC_NOP);
-    kmBranch(0x804A9CAC, setTextBoxMessageAndHidePaneRecursive);
     kmWrite32(0x804A9C00, PPC_BLR);
+    kmBranch(0x804A9CAC, setTextBoxMessageAndHidePaneRecursive);
+    kmCall(0x804EEEF0, setTextBoxMessageAndHidePaneRecursive);
 #elif defined(SB4W) || defined(SB4K)
     kmWrite32(0x80486FF0, PPC_NOP);
-    kmBranch(0x804A9D1C, setTextBoxMessageAndHidePaneRecursive);
     kmWrite32(0x804A9C70, PPC_BLR);
+    kmBranch(0x804A9D1C, setTextBoxMessageAndHidePaneRecursive);
+    kmCall(0x804EEF80, setTextBoxMessageAndHidePaneRecursive);
 #endif
 
 
