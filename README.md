@@ -1,7 +1,6 @@
 # Neo Mario Galaxy
 
-**IMPORTANT: If you are looking to just install the mod for yourself, check the [official website]
-(https://aurumsmods.com/nmg) for download links and more information.**
+**IMPORTANT: If you are looking to just install the mod for yourself, check the [official website](https://aurumsmods.com/nmg) for download links and more information.**
 
 This repository contains the entire source for **Neo Mario Galaxy**, a modification of *Super Mario Galaxy 2* (SMG2). 
 Throughout this codebase, the modification and all available localizations of it are simply referred to as *NMG*. 
