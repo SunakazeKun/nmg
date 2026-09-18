@@ -13,7 +13,7 @@ from pathlib import Path
 import shutil
 import logging
 
-__all__ = ["repack_use_resource_archives", "clear_use_resource_archives"]
+__all__ = ["pack_use_resource_archives", "clear_use_resource_archives"]
 
 
 ########################################################################################################################
@@ -21,7 +21,7 @@ __all__ = ["repack_use_resource_archives", "clear_use_resource_archives"]
 SRC_USE_RESOURCE_LOGS_PATH = Path("data/UseResourceLogs")
 
 
-def repack_use_resource_archives():
+def pack_use_resource_archives():
     game_files_path = GAME_PATH / "files"
     game_use_resource_logs_path = game_files_path / "UseResourceLogs"
 
@@ -54,8 +54,8 @@ def __main():
     args = parser.parse_args()
 
     match args.command:
-        case "repack":
-            repack_use_resource_archives()
+        case "pack":
+            pack_use_resource_archives()
         case "clear":
             clear_use_resource_archives()
         case _:

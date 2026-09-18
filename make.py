@@ -5,7 +5,7 @@ def __main():
     from heap_memory import update_heap_memory_bcsv_files
     from pack_distzip import pack_zip_archive
     from syati_module import build_syati_release_modules
-    from use_resource import repack_use_resource_archives
+    from use_resource import pack_use_resource_archives
 
     copy_static_files_to_game()
 
@@ -15,7 +15,7 @@ def __main():
     build_syati_release_modules()
 
     update_heap_memory_bcsv_files()
-    repack_use_resource_archives()
+    pack_use_resource_archives()
 
     pack_zip_archive()
 
