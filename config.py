@@ -149,12 +149,6 @@ IGNORE_FILES = [
     "/galaxies.json",
     "/objectdb.json",
 
-    "/CustomCode/CustomCode_JPN.map",
-    "/CustomCode/CustomCode_PAL.map",
-    "/CustomCode/CustomCode_USA.map",
-    "/CustomCode/CustomCode_KOR.map",
-    "/CustomCode/CustomCode_TWN.map",
-
     "/LayoutData/DestroyCounter.arc",
     "/LayoutData/GameSet.arc",
     "/LayoutData/PrologueText.arc",
