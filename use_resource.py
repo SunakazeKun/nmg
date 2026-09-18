@@ -50,7 +50,7 @@ def clear_use_resource_archives():
 
 def __main():
     parser = ArgumentParser()
-    parser.add_argument("command", choices=["repack", "clear"])
+    parser.add_argument("command", choices=["pack", "clear"])
     args = parser.parse_args()
 
     match args.command:
