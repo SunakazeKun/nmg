@@ -33,8 +33,8 @@ namespace neo {
         NERVE(NrvWait);
         NERVE(NrvFlash);
         NERVE(NrvDisappear);
-    };
-};
+    }
+}
 
 #define NrvIllustItemCounterHidden &neo::NrvIllustItemCounter::NrvHidden::sInstance
 #define NrvIllustItemCounterAppear &neo::NrvIllustItemCounter::NrvAppear::sInstance

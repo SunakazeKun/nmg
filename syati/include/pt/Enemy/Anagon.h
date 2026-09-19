@@ -34,5 +34,5 @@ namespace pt {
         ENDABLE_NERVE(NrvBind);
         NERVE(NrvBreak);
         NERVE(NrvDead);
-    };
-};
+    }
+}

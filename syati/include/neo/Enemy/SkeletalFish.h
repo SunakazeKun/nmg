@@ -46,7 +46,7 @@ namespace neo {
         NERVE(NrvBreak);
         ENDABLE_NERVE(NrvFreeze);
     };
-};
+}
 
 #define NrvSkeletalFishSwim &neo::NrvSkeletalFish::NrvSwim::sInstance
 #define NrvSkeletalFishNotice &neo::NrvSkeletalFish::NrvNotice::sInstance

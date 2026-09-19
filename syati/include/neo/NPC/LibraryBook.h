@@ -12,7 +12,7 @@ namespace neo {
 
     namespace NrvLibraryBook {
         NERVE(NrvWait);
-    };
-};
+    }
+}
 
 #define NrvLibraryBookWait &neo::NrvLibraryBook::NrvWait::sInstance

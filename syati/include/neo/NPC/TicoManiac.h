@@ -17,7 +17,7 @@ namespace neo {
 
     namespace NrvTicoManiac {
         NERVE(NrvMeta);
-    };
+    }
 }
 
 #define NrvTicoManiacMeta &neo::NrvTicoManiac::NrvMeta::sInstance

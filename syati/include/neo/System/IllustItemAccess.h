@@ -19,4 +19,4 @@ namespace neo {
     void onGalaxyFlagIllustItem(const char *pName);
     bool hasIllustItemAndTicoCoinInStage(const char *pName);
     s32 calcIllustItemNum();
-};
+}

@@ -1,17 +1,11 @@
 #include "neo/MapObj/StringSpiderAttachPoint.h"
+#include "Game/Enemy/StringSpider.h"
 #include "Game/Util/ActorInitUtil.h"
 #include "Game/Util/ActorMovementUtil.h"
 #include "Game/Util/EffectUtil.h"
 #include "Game/Util/JMapUtil.h"
 #include "Game/Util/LiveActorUtil.h"
 #include "Game/Util/ObjUtil.h"
-
-class StringSpider : public LiveActor {
-public:
-    StringSpider(const char* pName);
-
-    u8 _90[0xD0 - sizeof(LiveActor)];
-};
 
 namespace neo {
     StringSpiderAttachPoint::StringSpiderAttachPoint(const char *pName)

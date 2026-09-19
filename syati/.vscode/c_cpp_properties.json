@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "cStandard": "c99",
+            "cppStandard": "c++98",
+            "defines": [
+                "__declspec(x)=",
+                "__asm=",
+                "RELEASE",
+                "GEKKO",
+                "MTX_USE_PS",
+                "SB4P"
+            ],
+            "includePath": [
+                "${workspaceFolder}/include/**",
+                "${workspaceFolder}/source/**",
+                "${workspaceFolder}/Syati/include/**"
+            ]
+        }
+    ],
+    "version": 4
+}

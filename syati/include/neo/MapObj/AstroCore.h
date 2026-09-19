@@ -14,4 +14,4 @@ namespace neo {
 
         bool mStarSpawned;
     };
-};
+}

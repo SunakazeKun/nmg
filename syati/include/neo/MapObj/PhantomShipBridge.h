@@ -23,8 +23,8 @@ namespace neo {
         NERVE(NrvWait);
         NERVE(NrvMoveA);
         NERVE(NrvMoveB);
-    };
-};
+    }
+}
 
 #define NrvPhantomShipBridgeWait &neo::NrvPhantomShipBridge::NrvWait::sInstance
 #define NrvPhantomShipBridgeMoveA &neo::NrvPhantomShipBridge::NrvMoveA::sInstance

@@ -27,4 +27,4 @@ namespace neo {
         JMapIdInfo mRestartId;
         bool mShouldReset;
     };
-};
+}

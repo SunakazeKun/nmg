@@ -20,4 +20,4 @@ namespace pt {
 
     NameObj* createBlueChipHolder();
     ChipHolder* getBlueChipHolder();
-};
+}

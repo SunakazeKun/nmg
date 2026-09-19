@@ -8,4 +8,4 @@ namespace pt {
         else if (*val > max)
             *val = max;
     }
-};
+}

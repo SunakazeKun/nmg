@@ -55,12 +55,12 @@ namespace neo {
         NERVE(NrvWait);
         NERVE(NrvBound);
         NERVE(NrvThrow);
-    };
+    }
 
     NameObj* createKinokoTreasure(const char *pName);
     NameObj* createKinokoStar(const char *pName);
     NameObj* createLifeUpHeart(const char *pName);
-};
+}
 
 #define NrvKinokoCollectAppearFix &neo::NrvKinokoCollect::NrvAppearFix::sInstance
 #define NrvKinokoCollectAppearThrow &neo::NrvKinokoCollect::NrvAppearThrow::sInstance

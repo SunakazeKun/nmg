@@ -63,13 +63,13 @@ namespace neo {
         NERVE(NrvWait);
         NERVE(NrvScaleUpCore);
         NERVE(NrvBreakCore);
-    };
+    }
 
     namespace NrvMarblePlanetElectron {
         NERVE(NrvMove);
         NERVE(NrvAttack);
-    };
-};
+    }
+}
 
 #define NrvMarblePlanetWait &neo::NrvMarblePlanet::NrvWait::sInstance
 #define NrvMarblePlanetScaleUpCore &neo::NrvMarblePlanet::NrvScaleUpCore::sInstance

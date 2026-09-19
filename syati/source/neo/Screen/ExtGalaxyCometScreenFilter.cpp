@@ -7,7 +7,7 @@ namespace {
     void setCometTypeExt(LayoutActor *layout, f32 frame, u32 frameCtrlIdx) {
         register const char* cometName;
         __asm {
-            lwz cometName, 0xC(r29);
+            lwz cometName, 0xC(r29)
         }
 
         if (cometName != nullptr) {

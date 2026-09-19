@@ -17,4 +17,4 @@ namespace neo {
         StringSpider* mStringSpider;
         TVec3f mClippingCenter;
     };
-};
+}

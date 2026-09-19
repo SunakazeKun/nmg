@@ -17,4 +17,4 @@ namespace neo {
 
     bool isUnlockComets();
     bool isUnlockGreenStars();
-};
+}

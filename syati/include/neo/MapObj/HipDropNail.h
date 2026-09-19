@@ -52,8 +52,8 @@ namespace neo {
     namespace NrvHipDropNailWatcher {
         NERVE(NrvWatch);
         NERVE(NrvComplete);
-    };
-};
+    }
+}
 
 #define NrvHipDropNailWait &neo::NrvHipDropNail::NrvWait::sInstance
 #define NrvHipDropNailMove &neo::NrvHipDropNail::NrvMove::sInstance

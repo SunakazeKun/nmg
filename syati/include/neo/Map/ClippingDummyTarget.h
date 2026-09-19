@@ -9,4 +9,4 @@ namespace neo {
 
         virtual void init(const JMapInfoIter &rIter);
     };
-};
+}

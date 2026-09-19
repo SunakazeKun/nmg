@@ -6,4 +6,4 @@ class NameObj;
 
 namespace pt {
     NameObj* createSuperSpinDriverGreen(const char *pName);
-};
+}

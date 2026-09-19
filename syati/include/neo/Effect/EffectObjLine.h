@@ -43,4 +43,4 @@ namespace neo {
         f32 mPathCoord;
         TPos3f mEffectMtx;
     };
-};
+}

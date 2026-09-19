@@ -1,0 +1,20 @@
+{
+    "[h]": {
+      "files.encoding": "shiftjis"
+    },
+    "[c]": {
+      "files.encoding": "shiftjis"
+    },
+    "[hpp]": {
+      "files.encoding": "shiftjis"
+    },
+    "[cpp]": {
+      "files.encoding": "shiftjis"
+    },
+    "editor.tabSize": 4,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.associations": {
+      "*.inc": "c",
+    }
+}

@@ -8,6 +8,6 @@ namespace neo {
     namespace NrvInformationObserverExt {
         NERVE(NrvDispIllustItem);
     }
-};
+}
 
 #define NrvInformationObserverExtDispIllustItem &neo::NrvInformationObserverExt::NrvDispIllustItem::sInstance

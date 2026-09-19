@@ -25,7 +25,7 @@ namespace {
         }
 
         for (s32 i = 0; i < ARRAY_SIZE(cStarChanceExceptInfos); i++) {
-            StarChanceExceptInfo exceptInfo = cStarChanceExceptInfos[i];
+            const StarChanceExceptInfo& exceptInfo = cStarChanceExceptInfos[i];
 
             if (MR::isEqualStageName(exceptInfo.mStageName)) {
                 if (exceptInfo.mPowerStarId == powerStarId || exceptInfo.mPowerStarId <= 0) {

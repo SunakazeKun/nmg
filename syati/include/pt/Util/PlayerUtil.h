@@ -5,4 +5,4 @@
 namespace pt {
     bool isPlayerElementMode(s32 mode);
     bool isPlayerSkating();
-};
+}

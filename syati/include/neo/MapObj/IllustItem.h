@@ -31,8 +31,8 @@ namespace neo {
     namespace NrvIllustItem {
         NERVE(NrvShow);
         NERVE(NrvHide);
-    };
-};
+    }
+}
 
 #define NrvIllustItemShow &neo::NrvIllustItem::NrvShow::sInstance
 #define NrvIllustItemHide &neo::NrvIllustItem::NrvHide::sInstance

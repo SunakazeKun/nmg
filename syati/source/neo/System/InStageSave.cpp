@@ -11,26 +11,28 @@
 #include "neo/core.h"
 
 namespace neo {
-    const s32 cOtherGreenStarsCount = 2;
+    namespace {
+        const s32 cOtherGreenStarsCount = 2;
 
-    struct AllowInStageSaveInfo {
-        const char* mStageName;
-        s32 mGreenStarId;
-        s32 mOtherGreenStarIds[cOtherGreenStarsCount];
-    };
+        struct AllowInStageSaveInfo {
+            const char* mStageName;
+            s32 mGreenStarId;
+            s32 mOtherGreenStarIds[cOtherGreenStarsCount];
+        };
 
-    const AllowInStageSaveInfo cAllowInStageSaveInfos[] = {
-        { STAGE_SWEET_TREAT_GALAXY,     4, {  5,  6 } },
-        { STAGE_GLOOMY_GALLEON_GALAXY,  4, {  5,  6 } },
-        { STAGE_GLOOMY_GALLEON_GALAXY,  5, {  4,  6 } },
-        { STAGE_GLOOMY_GALLEON_GALAXY,  6, {  4,  5 } },
-        { STAGE_BATTLE_BLAST_GALAXY,    4, {  5,  6 } },
-        { STAGE_BATTLE_BLAST_GALAXY,    5, {  6, -1 } },
-        { STAGE_TURNLOG_GALAXY,         4, {  5,  6 } },
-        { STAGE_TURNLOG_GALAXY,         5, {  4,  6 } },
-        { STAGE_TURNLOG_GALAXY,         6, {  4,  5 } },
-        { STAGE_KRAKEN_KING_GALAXY,     3, {  4, -1 } },
-    };
+        const AllowInStageSaveInfo cAllowInStageSaveInfos[] = {
+            { STAGE_SWEET_TREAT_GALAXY,     4, {  5,  6 } },
+            { STAGE_GLOOMY_GALLEON_GALAXY,  4, {  5,  6 } },
+            { STAGE_GLOOMY_GALLEON_GALAXY,  5, {  4,  6 } },
+            { STAGE_GLOOMY_GALLEON_GALAXY,  6, {  4,  5 } },
+            { STAGE_BATTLE_BLAST_GALAXY,    4, {  5,  6 } },
+            { STAGE_BATTLE_BLAST_GALAXY,    5, {  6, -1 } },
+            { STAGE_TURNLOG_GALAXY,         4, {  5,  6 } },
+            { STAGE_TURNLOG_GALAXY,         5, {  4,  6 } },
+            { STAGE_TURNLOG_GALAXY,         6, {  4,  5 } },
+            { STAGE_KRAKEN_KING_GALAXY,     3, {  4, -1 } },
+        };
+    }
 
     bool allowInStageSave(s32 powerStarId) {
         if (!MR::isPowerStarGreenInCurrentStage(powerStarId)) {

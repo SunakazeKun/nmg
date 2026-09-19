@@ -18,4 +18,4 @@ namespace pt {
         virtual u32 getPowerUp();
         virtual void emitAppearEffects();
     };
-};
+}

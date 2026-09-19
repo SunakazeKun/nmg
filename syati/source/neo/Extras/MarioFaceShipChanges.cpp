@@ -1,7 +1,6 @@
 #include "Game/Util/BgmUtil.h"
 #include "Game/Util/EventUtil.h"
 #include "kamek/hooks.h"
-#include "neo/core.h"
 
 namespace {
     // =================================================================================================================

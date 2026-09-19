@@ -21,8 +21,8 @@ namespace neo {
         NERVE(NrvWait);
         NERVE(NrvShake);
         NERVE(NrvOpen);
-    };
-};
+    }
+}
 
 #define NrvSpiderCocoonWait &neo::NrvSpiderCocoon::NrvWait::sInstance
 #define NrvSpiderCocoonShake &neo::NrvSpiderCocoon::NrvShake::sInstance

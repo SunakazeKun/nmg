@@ -23,8 +23,8 @@ namespace pt {
         NERVE(NrvWait);
         NERVE(NrvPrepare);
         NERVE(NrvSpawn);
-    };
-};
+    }
+}
 
 #define NrvPowerStarSpawnerWait &pt::NrvPowerStarSpawner::NrvWait::sInstance
 #define NrvPowerStarSpawnerPrepare &pt::NrvPowerStarSpawner::NrvPrepare::sInstance

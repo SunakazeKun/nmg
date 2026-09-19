@@ -1,5 +1,5 @@
+#include "revolution/types.h"
 #include "kamek/hooks.h"
-#include "neo/core.h"
 
 namespace {
     // ==================================================================================================================

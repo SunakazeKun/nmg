@@ -40,5 +40,5 @@ namespace pt {
         NERVE(NrvAttack);
         NERVE(NrvInter);
         NERVE(NrvBind);
-    };
-};
+    }
+}

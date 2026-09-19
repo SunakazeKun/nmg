@@ -12,4 +12,4 @@ namespace neo {
 
     bool tryOnDaredevilMode();
     bool tryOffDaredevilMode();
-};
+}

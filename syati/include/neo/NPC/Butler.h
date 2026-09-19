@@ -11,4 +11,4 @@ namespace neo {
         virtual void kill();
         virtual void control();
     };
-};
+}

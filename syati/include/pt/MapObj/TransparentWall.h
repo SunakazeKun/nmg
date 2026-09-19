@@ -22,4 +22,4 @@ namespace pt {
         s32 mAllowFlags;
         bool mValidated;
     };
-};
+}

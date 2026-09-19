@@ -2,6 +2,7 @@
 #include "Game/Util/StringUtil.h"
 #include "neo/System/DaredevilModeAccess.h"
 #include "kamek/hooks.h"
+
 #include "Game/MapObj/JetTurtle.h"
 #include "pt/Enemy/Anagon.h"
 #include "pt/Enemy/BallBeamer.h"

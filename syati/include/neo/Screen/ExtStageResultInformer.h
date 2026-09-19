@@ -10,7 +10,7 @@ namespace neo {
         NERVE(NrvDisplayGetStamp);
         NERVE(NrvDisappearGetStamp);
     }
-};
+}
 
 #define NrvStageResultInformerExtAppearGetStamp &neo::NrvStageResultInformerExt::NrvAppearGetStamp::sInstance
 #define NrvStageResultInformerExtWaitBeforeCountUpStamp &neo::NrvStageResultInformerExt::NrvWaitBeforeCountUpStamp::sInstance
