@@ -3,8 +3,8 @@ def __main():
     from makesub.use_resource import pack_use_resource_archives
     from makesub.other_archives import pack_other_archives
     from makesub.message_data import build_message_data
-    from makesub.syati_module import build_syati_release_modules
     from makesub.pack_distzip import pack_zip_archive
+    from syati_module import build_syati_release_modules
 
     copy_static_files_to_game()
     pack_use_resource_archives()

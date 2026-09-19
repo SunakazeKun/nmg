@@ -136,8 +136,9 @@ def build_syati_module(region: str, target: str):
 
     # ------------------------------------------------------
 
-    module_path = GAME_PATH / f'files/CustomCode/CustomCode_{region}.bin'
-    __link_module(KAMEK_PATH, module_path, region, link_files)
+    bin_path = GAME_PATH / f'files/CustomCode/CustomCode_{region}.bin'
+    map_path = GAME_PATH / f'files/CustomCode/CustomCode_{region}.map'
+    __link_module(KAMEK_PATH, bin_path, map_path, region, link_files)
 
 
 # ======================================================================================================================
@@ -240,10 +241,11 @@ def __make_build_cmd(mw_tool_path: Path, command: str, options: list[str], inclu
     return build_cmd
 
 
-def __link_module(kamek_path: Path, module_path: Path, region: str, link_files: list[Path]):
+def __link_module(kamek_path: Path, bin_path: Path, map_path: Path, region: str, link_files: list[Path]):
     link_cmd = (f'"{kamek_path}" {" ".join(map(str, link_files))} '
                 f'-externals=Syati/symbols/{region}.txt '
-                f'-output-kamek={module_path}')
+                f'-output-kamek={bin_path} '
+                f'-output-map={map_path}')
 
     logging.info(link_cmd)
 
