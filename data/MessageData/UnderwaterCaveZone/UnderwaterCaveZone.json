@@ -68,10 +68,10 @@
       ],
       "KrKorean": [
         "[size:large]우와![pagebreak]",
-        " [size:normal][player:0]님... 맞으시죠?[pagebreak]",
-        " 전 [color:red]키노피오대장[defcolor] 입니다![pagebreak]",
-        " 저희가 [color:red]새로운 은하계[color:black]를 여행하다가 이 어두컴컴한 동굴을 발견했어요.",
-        " 정말 멋진 모험이었죠!"
+        "[size:normal][player:0]님... 맞으시죠?[pagebreak]",
+        "전 [color:red]키노피오대장[defcolor] 입니다![pagebreak]",
+        "저희가 [color:red]새로운 은하계[color:black]를 여행하다가 이 어두컴컴한 동굴을 발견했어요.",
+        "정말 멋진 모험이었죠!"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -614,7 +614,7 @@
       ],
       "KrKorean": [
         "[color:blue]수영 학교[defcolor]의 [color:red]최종 시험[defcolor]을 보러 왔니?[pagebreak]",
-        " 이 시험에서는 모든 [icon:silver_star] [color:gray]실버스타[defcolor]를 모아야 해!"
+        "이 시험에서는 모든 [icon:silver_star] [color:gray]실버스타[defcolor]를 모아야 해!"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -717,7 +717,7 @@
       ],
       "KrKorean": [
         "축하해!",
-        " 시험에 합격했어!"
+        "시험에 합격했어!"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -772,7 +772,7 @@
       ],
       "KrKorean": [
         "[color:yellow]황금 보물[defcolor]의 열쇠는",
-        " 아주 오래전에 사라졌어..."
+        "아주 오래전에 사라졌어..."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [

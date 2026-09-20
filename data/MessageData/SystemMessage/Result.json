@@ -665,8 +665,8 @@
       ],
       "KrKorean": [
         "[color:red]레드스타[defcolor]를 얻었다!",
-        " [color:blue][stringvar:1;1;0x00000000][defcolor]",
-        " [stringvar:0;0;0x00000000]"
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [

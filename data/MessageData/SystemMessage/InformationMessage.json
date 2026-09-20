@@ -519,7 +519,7 @@
       ],
       "KrKorean": [
         "야호! [color:red]플라잉[player:0][color:black]가 되었다!",
-        " [color:red]점프 도중[color:black]에 [color:red]스핀[color:black]하면 하늘을 난다!"
+        "[color:red]점프 도중[color:black]에 [color:red]스핀[color:black]하면 하늘을 난다!"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -651,7 +651,7 @@
       ],
       "KrKorean": [
         "야호! [color:red]아이스[player:0][color:black]가 되었다!",
-        " [icon:wiimote]를 흔들어 [color:red]스케이트[color:black]!"
+        "[icon:wiimote]를 흔들어 [color:red]스케이트[color:black]!"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1122,7 +1122,7 @@
       ],
       "KrKorean": [
         "야호! [icon:stamp][color:blue] 스탬프[color:black]를 얻었다!",
-        " 모두 모으면 무슨 일이 일어날까?"
+        "모두 모으면 무슨 일이 일어날까?"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
