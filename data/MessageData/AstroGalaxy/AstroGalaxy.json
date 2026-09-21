@@ -198,7 +198,8 @@
         "・・・?"
       ],
       "KrKorean": [
-        "뭐지? 저 [color:green]치코[color:black]들은 대체 무슨 이야기를 하는 걸까요?"
+        "뭐지? 저 [color:green]치코[color:black]들은 ",
+        "대체 무슨 이야기를 하는 걸까요?"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -310,7 +311,7 @@
         "[size:small]Parallel Universe... Zzzzzz...."
       ],
       "KrKorean": [
-        "[icon:a_button]을 누른다는 것은 [icon:a_button]을 누르는 것...[pagebreak]",
+        "[icon:a_button]을 누르는 건 [icon:a_button]을 누르는 것...[pagebreak]",
         "[size:small]그것이 누르는 것이니까… Zzz...…"
       ],
       "CnSimpChinese": null,
@@ -376,7 +377,8 @@
         "ぜひ、 この[icon:star][color:yellow]パワースター[defcolor]を[ruby:受;う]け[ruby:取;と]ってください"
       ],
       "KrKorean": [
-        "[color:red]네오 마리오 갤럭시[defcolor]를 플레이해 주셔서 진심으로 감사드립니다.[pagebreak]",
+        "[color:red]네오 마리오 갤럭시[defcolor]를 플레이해 주셔서 ",
+        "진심으로 감사드립니다.[pagebreak]",
         "이 [icon:star] [color:yellow]파워스타[defcolor]를 받아 주세요!"
       ],
       "CnSimpChinese": null,
@@ -1331,7 +1333,8 @@
         "[color:blue]スイーツファクトリーギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
-        "[color:blue]스위트 팩토리 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
+        "[color:blue]스위트 팩토리 갤럭시[defcolor]의 입구는 ",
+        "지금 이용할 수 없어."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1383,7 +1386,8 @@
         "[color:blue]コクーンアステロイドギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
-        "[color:blue]코쿤 아스테로이드 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
+        "[color:blue]코쿤 아스테로이드 갤럭시[defcolor]의 입구는 ",
+        "지금 이용할 수 없어."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1435,7 +1439,8 @@
         "[color:blue]ティアドロップギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
-        "[color:blue]드립 드롭 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
+        "[color:blue]드립 드롭 갤럭시[defcolor]의 입구는 ",
+        "지금 이용할 수 없어."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1487,7 +1492,8 @@
         "[color:blue]フィッシュトンネルギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
-        "[color:blue]피쉬 터널 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
+        "[color:blue]피쉬 터널 갤럭시[defcolor]의 입구는 ",
+        "지금 이용할 수 없어."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1540,7 +1546,8 @@
         "[color:blue]サンドリバーギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
-        "[color:blue]샌드 리버 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
+        "[color:blue]샌드 리버 갤럭시[defcolor]의 입구는 ",
+        "지금 이용할 수 없어."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1592,7 +1599,8 @@
         "[color:blue]デスプロムナードギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
-        "[color:blue]데스 본야드 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
+        "[color:blue]데스 본야드 갤럭시[defcolor]의 입구는 ",
+        "지금 이용할 수 없어."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1644,7 +1652,8 @@
         "[color:blue]スノーカプセルギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
-        "[color:blue]스노우 캡슐 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
+        "[color:blue]스노우 캡슐 갤럭시[defcolor]의 입구는 ",
+        "지금 이용할 수 없어."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1696,7 +1705,8 @@
         "[color:green]チャレンジバブルギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
-        "[color:green]챌린지 버블 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
+        "[color:green]챌린지 버블 갤럭시[defcolor]의 입구는 ",
+        "지금 이용할 수 없어."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1748,7 +1758,8 @@
         "[color:green]チャレンジボールギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
-        "[color:green]챌린지 볼 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
+        "[color:green]챌린지 볼 갤럭시[defcolor]의 입구는 ",
+        "지금 이용할 수 없어."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1800,7 +1811,8 @@
         "[color:green]チャレンジサーフィンギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
-        "[color:green]챌린지 서핑 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
+        "[color:green]챌린지 서핑 갤럭시[defcolor]의 입구는 ",
+        "지금 이용할 수 없어."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1852,7 +1864,8 @@
         "[color:green]グランドフィナーレギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
-        "[color:green]그랜드 피날레 갤럭시[defcolor]의 입구는 지금 이용할 수 없어."
+        "[color:green]그랜드 피날레 갤럭시[defcolor]의 입구는 ",
+        "지금 이용할 수 없어."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [

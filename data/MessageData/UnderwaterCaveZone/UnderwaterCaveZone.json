@@ -70,7 +70,8 @@
         "[size:large]우와![pagebreak]",
         "[size:normal][player:0]님... 맞으시죠?[pagebreak]",
         "전 [color:red]키노피오대장[defcolor] 입니다![pagebreak]",
-        "저희가 [color:red]새로운 은하계[color:black]를 여행하다가 이 어두컴컴한 동굴을 발견했어요.",
+        "저희가 [color:red]새로운 은하계[color:black]를 여행하다가 ",
+        "이 어두컴컴한 동굴을 발견했어요.",
         "정말 멋진 모험이었죠!"
       ],
       "CnSimpChinese": null,
