@@ -87,11 +87,11 @@ namespace {
     // =================================================================================================================
 
     u32 extGetDecidedLanguageFromIPL() {
-        u8 language = SCGetLanguage();
+        u8 languageSC = SCGetLanguage();
         u32 locale;
 
         if (!neo::getRiivolutionConfigLocale(&locale)) {
-            locale = cSCLanguage2GameLanguageTable[language];
+            locale = cSCLanguage2GameLanguageTable[languageSC];
         }
 
         return locale;
@@ -112,12 +112,14 @@ namespace {
         u32 locale = MR::getLanguage();
         s32 language = GET_LANGUAGE_FROM_LOCALE(locale);
 
-        if (0 <= language && language < SC_LANG_COUNT) {
-            return language;
+        // Home Menu only supports SC languages
+        if (language < LANGUAGE_JAPANESE || LANGUAGE_KOREAN < language) {
+            u8 languageSC = SCGetLanguage();
+            locale = cSCLanguage2GameLanguageTable[languageSC];
+            language = GET_LANGUAGE_FROM_LOCALE(locale);
         }
-        else {
-            return SCGetLanguage();
-        }
+
+        return language;
     }
 
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
