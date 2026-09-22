@@ -87,24 +87,23 @@ namespace neo {
     }
 
     void IllustItem::appear() {
-        if (mNearPointsCount > 0) {
-            f32 closestDistance = 999999999999.0f;
+        f32 closestDistance = 999999999999.0f;
+
+        for (int i = 0; i < mNearPointsCount; i++) {
+            char linkPosName[32];
+            snprintf(linkPosName, sizeof(linkPosName), "IllustItemPos%02d", i);
+            
             f32 potentialDistance;
             TVec3f potentialPosition;
             TVec3f potentialRotation;
 
-            for (int i = 0; i < mNearPointsCount; i++) {
-                char linkPosName[32];
-                snprintf(linkPosName, sizeof(linkPosName), "IllustItemPos%02d", i);
+            if (MR::tryFindLinkNamePos(this, linkPosName, &potentialPosition, &potentialRotation)) {
+                potentialDistance = MR::calcDistanceToPlayer(potentialPosition);
 
-                if (MR::tryFindLinkNamePos(this, linkPosName, &potentialPosition, &potentialRotation)) {
-                    potentialDistance = MR::calcDistanceToPlayer(potentialPosition);
-
-                    if (potentialDistance < closestDistance) {
-                        closestDistance = potentialDistance;
-                        mTranslation = potentialPosition;
-                        mRotation = potentialRotation;
-                    }
+                if (potentialDistance < closestDistance) {
+                    closestDistance = potentialDistance;
+                    mTranslation = potentialPosition;
+                    mRotation = potentialRotation;
                 }
             }
         }
