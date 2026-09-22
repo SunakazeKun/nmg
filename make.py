@@ -3,8 +3,9 @@ def __main():
     from makesub.use_resource import pack_use_resource_archives
     from makesub.other_archives import pack_other_archives
     from makesub.message_data import build_message_data
-    from makesub.pack_distzip import pack_zip_archive
     from syati_module import build_syati_release_modules
+    from makesub.pack_distzip import pack_zip_archive
+    from makesub.web_page import generate_web_page
 
     copy_static_files_to_game()
     pack_use_resource_archives()
@@ -14,6 +15,7 @@ def __main():
     build_syati_release_modules()
 
     pack_zip_archive()
+    generate_web_page()
 
 
 if __name__ == '__main__':

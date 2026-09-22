@@ -1,0 +1,177 @@
+body {
+	background-attachment: fixed;
+	background-color: #333;
+	background-image: url("bg.webp");
+	color: #eee;
+	font-family: "Arial";
+	font-size: 1.1em;
+	font-weight: 300;
+	line-height: 1.5;
+	margins: 0;
+}
+
+a {
+	color: #4FBCFF;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+b {
+	font-weight: 700;
+}
+
+h1, h2 {
+	border-bottom: 1px solid #eee;
+}
+h1 {
+    margin-top: 16px;
+}
+h2 {
+    margin-top: 32px;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 4px;
+}
+
+header {
+	text-align: center;
+}
+header a {
+	text-decoration: underline;
+}
+header p {
+	font-size: 14px;
+	text-align: center;
+}
+header img {
+	margin: 8px 8px 0px 8px;
+	max-width: 100%;
+}
+
+footer {
+	font-size: 14px;
+}
+
+.container {
+	background-color: #222;
+	border-radius: 25px;
+	box-shadow: 5px 5px 16px black;
+	margin: 24px auto;
+	max-width: 1024px;
+	padding: 12px 24px;
+}
+
+.youtube_wrapper {
+	position: relative;
+	padding-bottom: 56.25%;
+	overflow: hidden;
+	width: 100%;
+	height: auto;
+}
+
+.youtube_video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.screenshots {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 4px;
+	padding: 4px;
+	width: 100%;
+	box-sizing: border-box;
+	overflow-x: hidden;
+	justify-content: center;
+}
+
+.screenshot {
+	width: 320px;
+	max-width: 175%;
+	height: auto;
+	padding: 2px;
+	overflow: hidden;
+	border: 1px solid gray;
+}
+
+.screenshot:hover {
+	box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+}
+
+.split_flex {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 24px;
+}
+
+.split_item {
+	flex: 1 1 0;
+}
+
+@media only screen and (max-width: 880px) {
+	.split_flex {
+		display: grid;
+		grid-template-columns: repeat(1, 1fr);
+		grid-template-rows: auto;
+	}
+}
+
+.table_wrapper {
+    overflow-x: auto;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    padding: 8px;
+}
+
+.code {
+    font-family: 'Courier New', monospace;
+}
+
+.urls {
+    list-style-type: none;
+    padding-left: 8px;
+}
+
+.bullets {
+	list-style-type: none;
+	padding-left: 8px;
+}
+
+.bullets li {
+	background-repeat: no-repeat;
+	min-height: 32px;
+	padding: 6px 16px 3px 42px;
+}
+
+.coinBlock {
+	background-image: url("li_coinBlock.webp");
+}
+
+.noteBlock {
+	background-image: url("li_noteBlock.webp");
+}
+
+.iceFlower {
+	background-image: url("li_iceFlower.webp");
+}
+
+.illustItem {
+	background-image: url("li_illustItem.webp");
+}
+
+.kinokoLifeUp {
+	background-image: url("li_kinokoLifeUp.webp");
+}
+
+.lumaPurple {
+	background-image: url("li_lumaPurple.webp");
+}

@@ -3,3 +3,4 @@ git+https://github.com/SunakazeKun/pymsb.git
 pyjkernel
 pyjmap
 smguseres
+airium
