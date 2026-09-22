@@ -29,7 +29,7 @@ SYATI_LOADER_PATH = Path("syati/Syati/loader")
 VANILLA_FILE_HASHES_PATH = Path("data/vanilla_file_hashes.json")
 
 COPY_DIST_PATH = Path("data/dist")
-BUILD_DIST_PATH = Path("dist")
+BUILD_DIST_PATH = Path("build/dist")
 
 DIST_NMG_PATH = BUILD_DIST_PATH / "nmg"
 DIST_RIIVO_PATH = BUILD_DIST_PATH / "riivolution"
