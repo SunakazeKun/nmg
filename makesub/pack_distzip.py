@@ -25,7 +25,7 @@ __all__ = ["pack_zip_archive"]
 
 ########################################################################################################################
 
-SYATI_LOADER_PATH = Path("syati/Syati/loader")
+SYATI_LOADER_PATH = Path("syati/bin")
 VANILLA_FILE_HASHES_PATH = Path("data/vanilla_file_hashes.json")
 
 COPY_DIST_PATH = Path("data/dist")
@@ -63,9 +63,11 @@ def pack_zip_archive():
     # ------------------------------------------------------
 
     for target_info in RIIVO_TARGETS:
-        __make_riivolution_xml(target_info,
-                               SYATI_LOADER_PATH / f'riivo_{target_info.id}{target_info.region}.xml',
-                               DIST_RIIVO_PATH / f'nmg-{target_info.id}{target_info.region}.xml')
+        __make_riivolution_xml(
+            target_info,
+            SYATI_LOADER_PATH / f'riivo_{target_info.id}{target_info.region}.xml',
+            DIST_RIIVO_PATH / f'nmg-{target_info.id}{target_info.region}.xml'
+        )
 
     # ------------------------------------------------------
 

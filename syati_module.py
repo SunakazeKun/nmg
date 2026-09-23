@@ -6,13 +6,13 @@ The CodeWarrior compiler and assembler are used to generate object binaries and 
 module binary that can be loaded with Syati. Modules are built for all five versions of SMG2.
 """
 
-from config import MWCCEPPC_PATH, MWASMEPPC_PATH, KAMEK_PATH, GAME_PATH
+from config import GAME_PATH, MWCCEPPC_PATH, MWASMEPPC_PATH, KAMEK_PATH, ORG_MAIN_DOLS_PATH
 from pathlib import Path
 
 import logging
 import subprocess
 
-__all__ = ["build_syati_release_modules", "build_syati_module"]
+__all__ = ["build_syati_binaries", "build_syati_module"]
 
 
 # ======================================================================================================================
@@ -20,6 +20,7 @@ __all__ = ["build_syati_release_modules", "build_syati_module"]
 MODULE_CWD = Path("syati")
 SOURCE_SUBPATH = Path("source")
 BUILD_SUBPATH = Path("build")
+BIN_SUBPATH = Path("bin")
 
 assert MWCCEPPC_PATH.is_file(), "Missing CodeWarrior compiler!"
 assert MWASMEPPC_PATH.is_file(), "Missing CodeWarrior assembler!"
@@ -35,9 +36,7 @@ MODULE_REGIONS = [
     "SB4W",
     "SB4K",
 ]
-SOURCE_FILES = [
-    "init.cpp",
-
+MODULE_SOURCE_FILES = [
     "neo/AreaObj/AstroWarpArea.cpp",
     "neo/Debug/UseResourceHelper.cpp",
     "neo/Effect/EffectObjLine.cpp",
@@ -102,43 +101,63 @@ SOURCE_FILES = [
     "pt/Util/PlayerUtil.cpp",
     "pt/Util/TalkUtil.cpp",
 ]
+LOADER_SOURCE_FILES = [
+    "loader/init.cpp",
+    "loader/KamekAccess.cpp",
+    "loader/KamekModule.cpp",
+]
 
 
 # ======================================================================================================================
 
-def build_syati_release_modules():
+def build_syati_binaries():
     for region in MODULE_REGIONS:
-        build_syati_module(region, "RELEASE")
+        #build_syati_module(region, "RELEASE")
+        build_syati_loader(region)
 
 
 def build_syati_module(region: str, target: str):
     link_files = []
 
-    for src_file_subpath in map(Path, SOURCE_FILES):
+    for src_file_subpath in map(Path, MODULE_SOURCE_FILES):
         src_file_path = SOURCE_SUBPATH / src_file_subpath
         dst_file_path = BUILD_SUBPATH / src_file_subpath.parent / f'{src_file_subpath.stem}.{region}.{target}.o'
 
         parent_path = MODULE_CWD / dst_file_path.parent
         parent_path.mkdir(parents=True, exist_ok=True)
 
-        match src_file_subpath.suffix:
-            case ".cpp":
-                compile_cpp(src_file_path, dst_file_path, region, target)
-                link_files.append(dst_file_path)
-            case ".c":
-                compile_c(src_file_path, dst_file_path, region, target)
-                link_files.append(dst_file_path)
-            case ".s":
-                assemble_s(src_file_path, dst_file_path, region, target)
-                link_files.append(dst_file_path)
-            case _:
-                logging.warning("Ignoring source file %s", src_file_subpath)
+        if __build_file(src_file_path, dst_file_path, region, target):
+            link_files.append(dst_file_path)
+        else:
+            logging.warning("Ignoring source file %s", src_file_subpath)
 
     # ------------------------------------------------------
 
     bin_path = GAME_PATH / f'files/CustomCode/CustomCode_{region}.bin'
     map_path = GAME_PATH / f'files/CustomCode/CustomCode_{region}.map'
     __link_module(KAMEK_PATH, bin_path, map_path, region, link_files)
+
+
+def build_syati_loader(region: str):
+    link_files = []
+
+    for src_file_subpath in map(Path, LOADER_SOURCE_FILES):
+        src_file_path = SOURCE_SUBPATH / src_file_subpath
+        dst_file_path = BUILD_SUBPATH / src_file_subpath.parent / f'{src_file_subpath.stem}.{region}.o'
+
+        parent_path = MODULE_CWD / dst_file_path.parent
+        parent_path.mkdir(parents=True, exist_ok=True)
+
+        if __build_file(src_file_path, dst_file_path, region, "RELEASE"):
+            link_files.append(dst_file_path)
+        else:
+            logging.warning("Ignoring source file %s", src_file_subpath)
+
+    # ------------------------------------------------------
+
+    xml_path = BIN_SUBPATH / f'riivo_{region}.xml'
+    dol_path = BIN_SUBPATH / f'main_{region}.dol'
+    __link_loader(KAMEK_PATH, xml_path, dol_path, region, link_files)
 
 
 # ======================================================================================================================
@@ -149,6 +168,7 @@ DEFINES = [
 
 INCLUDES = [
     "Syati/include",
+    "loader",
     "include",
     "source",
 ]
@@ -241,11 +261,46 @@ def __make_build_cmd(mw_tool_path: Path, command: str, options: list[str], inclu
     return build_cmd
 
 
+def __build_file(src_file_path: Path, dst_file_path: Path, region: str, target: str) -> bool:
+    match src_file_path.suffix:
+        case ".cpp":
+            compile_cpp(src_file_path, dst_file_path, region, target)
+            return True
+        case ".c":
+            compile_c(src_file_path, dst_file_path, region, target)
+            return True
+        case ".s":
+            assemble_s(src_file_path, dst_file_path, region, target)
+            return True
+        case _:
+            return False
+
+
 def __link_module(kamek_path: Path, bin_path: Path, map_path: Path, region: str, link_files: list[Path]):
     link_cmd = (f'"{kamek_path}" {" ".join(map(str, link_files))} '
                 f'-externals=Syati/symbols/{region}.txt '
-                f'-output-kamek={bin_path} '
-                f'-output-map={map_path}')
+                f'-output-kamek="{bin_path}" '
+                f'-output-map="{map_path}"')
+
+    logging.info(link_cmd)
+
+    try:
+        subprocess.run(link_cmd, cwd=MODULE_CWD, check=True, text=True)
+    except subprocess.CalledProcessError as e:
+        logging.error(f"Failed to link {region}")
+        logging.error(f"{e.stderr.strip()}\n")
+        exit(1)
+
+
+def __link_loader(kamek_path: Path, xml_path: Path, dol_path: Path, region: str, link_files: list[Path]):
+    input_dol = ORG_MAIN_DOLS_PATH / f'{region}.dol'
+
+    link_cmd = (f'"{kamek_path}" {" ".join(map(str, link_files))} '
+                f'-static=0x80002000 '
+                f'-externals=Syati/symbols/{region}.txt '
+                f'-output-riiv="{xml_path}" '
+                f'-input-dol="{input_dol}" '
+                f'-output-dol="{dol_path}"')
 
     logging.info(link_cmd)
 
@@ -260,4 +315,4 @@ def __link_module(kamek_path: Path, bin_path: Path, map_path: Path, region: str,
 ########################################################################################################################
 
 if __name__ == '__main__':
-    build_syati_release_modules()
+    build_syati_binaries()
