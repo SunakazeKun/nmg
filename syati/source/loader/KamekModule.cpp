@@ -59,7 +59,7 @@ void KamekModule::install(JKRHeap *pHeap) {
 
 void KamekModule::load() {
     // TODO: Do we really need StationedHeapHDDR3?
-    mBinary = (KamekBinary*)FileRipper::loadToMainRAM(mFilePath, nullptr, false, MR::getStationedHeapGDDR3(), FileRipper::UNK_1);
+    mBinary = (KamekBinary*)FileRipper::loadToMainRAM(mFilePath, nullptr, false, mHeap, FileRipper::UNK_1);
     u32 binarySize = MR::getFileSize(mFilePath, false);
 
     if (binarySize < sizeof(KamekHeader)) {
