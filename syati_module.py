@@ -112,7 +112,7 @@ LOADER_SOURCE_FILES = [
 
 def build_syati_binaries():
     for region in MODULE_REGIONS:
-        #build_syati_module(region, "RELEASE")
+        build_syati_module(region, "RELEASE")
         build_syati_loader(region)
 
 

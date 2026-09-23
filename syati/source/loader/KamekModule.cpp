@@ -2,11 +2,16 @@
 #include "loader/KamekBinary.h"
 #include "revolution/dvd.h"
 #include "revolution/os.h"
+#include "Game/System/FileRipper.h"
+#include "Game/Util/FileUtil.h"
+#include "Game/Util/MemoryUtil.h"
 #include "JSystem/JKernel/JKRHeap.h"
 
 // ---------------------------------------------------------------------------------------------------------------------
 
 typedef void (*CtorFunc)();
+
+#define RESOLVE_PTR(ptr, off) (void*)((u32)ptr + off)
 
 #define ALIGN_32(a) (((u32)a + 31) & ~31)
 
@@ -53,60 +58,36 @@ void KamekModule::install(JKRHeap *pHeap) {
 }
 
 void KamekModule::load() {
-	DVDFileInfo fileHandle;
-    
-    if (!DVDOpen(mFilePath, &fileHandle)) {
-        error("KAMEK ERROR\n\nFailed DVDFastOpen\n");
+    // TODO: Do we really need StationedHeapHDDR3?
+    mBinary = (KamekBinary*)FileRipper::loadToMainRAM(mFilePath, nullptr, false, MR::getStationedHeapGDDR3(), FileRipper::UNK_1);
+    u32 binarySize = MR::getFileSize(mFilePath, false);
+
+    if (binarySize < sizeof(KamekHeader)) {
+        error("Binary too small");
     }
-    if (fileHandle.mLength < sizeof(KamekHeader)) {
-        error("KAMEK ERROR\n\nBinary too small\n");
+    if (mBinary->mHeader.mMagic1 != 'Kame' || mBinary->mHeader.mMagic2 != 'k\0') {
+        error("Unknown binary format");
     }
-	
-	// Analyze header
-    {
-        u8 buffer[ALIGN_32(sizeof(KamekHeader) * 2)];
-        KamekHeader* pHeader = (KamekHeader*)ALIGN_32(buffer);
-
-        DVDReadPrio(&fileHandle, pHeader, sizeof(KamekHeader), 0, 2);
-
-		if (pHeader->mMagic1 != 'Kame' || pHeader->mMagic2 != 'k\0') {
-			error("KAMEK ERROR\n\nUnknown module format\n");
-		}
-		if (pHeader->mVersion != 2) {
-			error("KAMEK ERROR\n\nIncompatible version\n");
-		}
-
-        mCodeSize = pHeader->mCodeSize;
-        mBssSize = pHeader->mBssSize;
+    if (mBinary->mHeader.mVersion != 2) {
+        error("Incompatible binary version");
     }
 
-    u32 totalSize = mCodeSize + mBssSize;
-    u32 binarySize = fileHandle.mLength;
+    mCodeSize = mBinary->mHeader.mCodeSize;
+    mBssSize = mBinary->mHeader.mBssSize;
     mRelaSize = binarySize - sizeof(KamekHeader) - mCodeSize;
+
+    void* memory = new (mHeap, 4) u8[getTotalSize()];
+    mCodePtr = RESOLVE_PTR(memory, 0);
+    mBssPtr = RESOLVE_PTR(memory, mCodeSize);
 	
-    // Allocate module
-	{
-        u8* memory = (u8*)JKRHeap::alloc(totalSize, 4, mHeap);
-        mCodePtr = memory;
-        mBssPtr = memory + mBssSize;
-    }
-     
-    // Preload binary
-    {
-        mBinary = (KamekBinary*)JKRHeap::alloc(binarySize, 32, mHeap);
-        DVDReadPrio(&fileHandle, mBinary, binarySize, 0, 2);
-    }
-	
-	DVDClose(&fileHandle);
-	
-    memcpy(mCodePtr, mBinary->mData, mCodeSize);
-    memset(mBssPtr, 0, mBssSize);
+    MR::copyMemory(mCodePtr, mBinary->mData, mCodeSize);
+    MR::zeroMemory(mBssPtr, mBssSize);
 }
 
 void KamekModule::link() {
 	u32 codeStartAddr = (u32)mCodePtr;
-	const u32* relaStart = (const u32*)((u8*)mBinary->mData + mCodeSize);
-	const u32* relaEnd = (const u32*)((u8*)relaStart + mRelaSize);
+    const u32* relaStart = (const u32*)RESOLVE_PTR(mBinary->mData, mCodeSize);
+	const u32* relaEnd = (const u32*)RESOLVE_PTR(relaStart, mRelaSize);
 
     for (const u32* input = relaStart; input < relaEnd; ) {
         u32 cmdHeader = *(input++);
@@ -212,7 +193,7 @@ void KamekModule::link() {
         } break;
 
         default:
-            error("KAMEK ERROR\n\nUnknown command detected\n");
+            error("Unknown command detected");
         }
 
         DCICInvalidate((void*)address);
@@ -223,8 +204,8 @@ void KamekModule::link() {
 }
 
 void KamekModule::init() {
-	CtorFunc* ctorStart = (CtorFunc*)((u8*)mCodePtr + mBinary->mHeader.mCtorStart);
-	CtorFunc* ctorEnd = (CtorFunc*)((u8*)mCodePtr + mBinary->mHeader.mCtorEnd);
+    CtorFunc* ctorStart = (CtorFunc*)RESOLVE_PTR(mCodePtr, mBinary->mHeader.mCtorStart);
+    CtorFunc* ctorEnd = (CtorFunc*)RESOLVE_PTR(mCodePtr, mBinary->mHeader.mCtorEnd);
 
 	for (CtorFunc* f = ctorStart; f < ctorEnd; f++) {
 		(*f)();
@@ -232,14 +213,16 @@ void KamekModule::init() {
 }
 
 void KamekModule::clean() {
-	//JKRHeap::free(mBinary, nullptr);
-
+    delete mBinary;
 	mBinary = nullptr;
     mRelaSize = 0;
 }
 
 void KamekModule::error(const char *msg) {
+    char fullMsg[512];
+    snprintf(fullMsg, sizeof(fullMsg), "KAMEK ERROR\n\n%s\n", msg);
+
     GXColor bg = { 0, 0, 0, 0 };
     GXColor fg = { 255, 255, 255, 255 };
-    OSFatal(fg, bg, msg);
+    OSFatal(fg, bg, fullMsg);
 }

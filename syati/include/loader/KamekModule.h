@@ -12,6 +12,7 @@ public:
 	void install(JKRHeap *pHeap);
 	
 	const char* getFilePath() const { return mFilePath; }
+	u32 getTotalSize() const { return mCodeSize + mBssSize; }
 	JKRHeap* getHeap() const { return mHeap; }
 	
 	void* getCodePtr() const { return mCodePtr; }
