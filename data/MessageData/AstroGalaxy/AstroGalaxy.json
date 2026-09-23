@@ -312,7 +312,7 @@
       ],
       "KrKorean": [
         "[icon:a_button]을 누르는 건 [icon:a_button]을 누르는 것...[pagebreak]",
-        "[size:small]그것이 누르는 것이니까… Zzz...…"
+        "[size:small]그것이 누르는 것이니까… Zzz..."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -377,8 +377,8 @@
         "ぜひ、 この[icon:star][color:yellow]パワースター[defcolor]を[ruby:受;う]け[ruby:取;と]ってください"
       ],
       "KrKorean": [
-        "[color:red]네오 마리오 갤럭시[defcolor]를 플레이해 주셔서 ",
-        "진심으로 감사드립니다.[pagebreak]",
+        "[color:red]네오 마리오 갤럭시[defcolor]를 플레이해 ",
+        "주셔서 진심으로 감사드립니다.[pagebreak]",
         "이 [icon:star] [color:yellow]파워스타[defcolor]를 받아 주세요!"
       ],
       "CnSimpChinese": null,
@@ -586,7 +586,8 @@
       ],
       "KrKorean": [
         "[color:purple]퍼플 혜성[defcolor]이 [color:blue]별똥별 천문대[defcolor]에 나타났어.[pagebreak]",
-        "[color:purple]100[defcolor]개의 [icon:purple_coin]을 모두 모아 [icon:red_star] [color:red]레드 파워스타[defcolor]가 나타나게 해 줘."
+        "[color:purple]100[defcolor]개의 [icon:purple_coin]을 모두 모아 ",
+        "[icon:red_star] [color:red]레드 파워스타[defcolor]가 나타나게 해 줘."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
