@@ -190,19 +190,4 @@ namespace {
     }
 
     kmCall(0x80323024, extTicoCoinExeCollect);
-
-
-    // ==================================================================================================================
-    // Cosmic Spirit also appears when playing as Luigi
-    // ==================================================================================================================
-
-    // SuperDreamer::init
-    kmWrite32(0x80360D54, PPC_LI(3, 0));
-
-    // GameSequenceFunction::isAllowDreamerInStage
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x804D7EAC, PPC_LI(3, 0));
-#elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x804D7F3C, PPC_LI(3, 0));
-#endif
 }
