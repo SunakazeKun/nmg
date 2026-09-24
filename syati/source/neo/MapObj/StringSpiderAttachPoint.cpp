@@ -23,7 +23,7 @@ namespace neo {
         MR::getJMapInfoArg2NoInit(rIter, &mNumStarPiece);
         MR::declareStarPiece(this, mNumStarPiece);
 
-        mStringSpider = new StringSpider("StringSpiderForCocoon");
+        mStringSpider = new StringSpider("ストリングスパイダー");
         mStringSpider->init(rIter);
 
         initClipping(rIter);

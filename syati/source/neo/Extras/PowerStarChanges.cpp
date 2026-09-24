@@ -18,8 +18,8 @@ namespace {
     // Green Star nerves
     // =================================================================================================================
 
-    void GreenStar__exeGot(PowerStar* pStar);
-    void GreenStar__exeGotDisappear(PowerStar* pStar);
+    void GreenStar_exeGot(PowerStar *pStar);
+    void GreenStar_exeGotDisappear(PowerStar *pStar);
 
     namespace NrvGreenStar {
         NERVE(NrvGot);
@@ -30,12 +30,12 @@ namespace {
 
         void NrvGot::execute(Spine* pSpine) const {
             PowerStar* pActor = (PowerStar*)pSpine->mExecutor;
-            GreenStar__exeGot(pActor);
+            GreenStar_exeGot(pActor);
         }
 
         void NrvGotDisappear::execute(Spine* pSpine) const {
             PowerStar* pActor = (PowerStar*)pSpine->mExecutor;
-            GreenStar__exeGotDisappear(pActor);
+            GreenStar_exeGotDisappear(pActor);
         }
 
 #define NrvGreenStarGot &::NrvGreenStar::NrvGot::sInstance
@@ -47,7 +47,7 @@ namespace {
     // Green Star execution
     // =================================================================================================================
 
-    void GreenStar__exeGot(PowerStar *pStar) {
+    void GreenStar_exeGot(PowerStar *pStar) {
         pStar->processWait(30.0f);
 
         if (MR::isFirstStep(pStar)) {
@@ -70,7 +70,7 @@ namespace {
         }
     }
 
-    void GreenStar__exeGotDisappear(PowerStar *pStar) {
+    void GreenStar_exeGotDisappear(PowerStar *pStar) {
         pStar->processWait(30.0f);
 
         f32 xz = MR::calcNerveValue(pStar, 20, 1.0f, 0.0001f);
