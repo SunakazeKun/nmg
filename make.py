@@ -3,7 +3,7 @@ def __main():
     from makesub.use_resource import pack_use_resource_archives
     from makesub.other_archives import pack_other_archives
     from makesub.message_data import build_message_data
-    from syati_module import build_syati_release_modules
+    from syati_module import build_syati_binaries
     from makesub.pack_distzip import pack_zip_archive
     from makesub.web_page import generate_web_page
 
@@ -12,7 +12,7 @@ def __main():
     pack_other_archives()
     build_message_data()
 
-    build_syati_release_modules()
+    build_syati_binaries()
 
     pack_zip_archive()
     generate_web_page()
