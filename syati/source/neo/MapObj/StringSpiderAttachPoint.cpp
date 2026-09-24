@@ -61,6 +61,10 @@ namespace neo {
     }
 
     void StringSpiderAttachPoint::attackSensor(HitSensor *pSender, HitSensor *pReceiver) {
+        if (MR::getSensorHost(pReceiver) == mStringSpider) {
+            return;
+        }
+
         if (MR::isSensorPlayerOrYoshiOrRide(pReceiver) || MR::isSensorEnemy(pReceiver)) {
             MR::sendMsgPush(pReceiver, pSender);
         }
