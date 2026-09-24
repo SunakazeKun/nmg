@@ -162,6 +162,11 @@ namespace neo {
 
         if (MR::isGreaterStep(this, 2)) {
             neo::explainIllustItemIfAtFirst(this);
+            
+            if (MR::isValidSwitchDead(this)) {
+                MR::onSwitchDead(this);
+            }
+
             makeActorDead();
         }
     }

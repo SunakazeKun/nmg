@@ -1,8 +1,10 @@
 #include "Game/Util/ActorSensorUtil.h"
+#include "Game/Util/ActorSwitchUtil.h"
 #include "Game/Util/JMapUtil.h"
 #include "Game/Util/LayoutUtil.h"
 #include "Game/Util/LiveActorUtil.h"
 #include "Game/Util/SceneUtil.h"
+#include "Game/MapObj/TicoCoin.h"
 #include "kamek/hooks.h"
 #include "neo/core.h"
 
@@ -173,6 +175,21 @@ namespace {
 
     // OtaRock::tryToHide
     kmWrite32(0x801DCBB4, PPC_COND_BRANCH(PPC_COND_NE, 0x14));
+
+
+    // ==================================================================================================================
+    // Comet Medal activates SW_DEAD on collection
+    // ==================================================================================================================
+
+    void extTicoCoinExeCollect(TicoCoin *pCoin, const Nerve *pNerve) {
+        if (MR::isValidSwitchDead(pCoin)) {
+            MR::onSwitchDead(pCoin);
+        }
+
+        pCoin->setNerve(pNerve);
+    }
+
+    kmCall(0x80323024, extTicoCoinExeCollect);
 
 
     // ==================================================================================================================
