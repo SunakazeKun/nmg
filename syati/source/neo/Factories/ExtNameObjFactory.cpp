@@ -19,6 +19,7 @@
 #include "neo/MapObj/IllustItem.h"
 #include "neo/MapObj/KinokoCollect.h"
 #include "neo/MapObj/MarblePlanet.h"
+#include "neo/MapObj/PetitPorterForceEndCtrl.h"
 #include "neo/MapObj/SpiderCocoon.h"
 #include "neo/MapObj/StringSpiderAttachPoint.h"
 #include "neo/NPC/Butler.h"
@@ -110,6 +111,7 @@ namespace {
         { "StringSpiderAttachPoint", createExtActor<neo::StringSpiderAttachPoint> },
         { "HipDropNail", createExtActor<neo::HipDropNail> },
         { "HipDropNailWatcher", createExtActor<neo::HipDropNailWatcher> },
+        { "PetitPorterForceEndCtrl", createExtActor<neo::PetitPorterForceEndCtrl> },
         { "IllustItem", createExtActor<neo::IllustItem> },
         { "KinokoStar", neo::createKinokoStar },
         { "KinokoTreasure", neo::createKinokoTreasure },

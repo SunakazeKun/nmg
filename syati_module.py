@@ -65,6 +65,7 @@ SOURCE_FILES = [
     "neo/MapObj/IllustItem.cpp",
     "neo/MapObj/KinokoCollect.cpp",
     "neo/MapObj/MarblePlanet.cpp",
+    "neo/MapObj/PetitPorterForceEndCtrl.cpp",
     "neo/MapObj/PhantomShipBridge.cpp",
     "neo/MapObj/SpiderCocoon.cpp",
     "neo/MapObj/StringSpiderAttachPoint.cpp",
