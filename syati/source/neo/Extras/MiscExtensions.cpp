@@ -1,7 +1,6 @@
 #include "Game/Util/ActorSensorUtil.h"
 #include "Game/Util/ActorSwitchUtil.h"
 #include "Game/Util/JMapUtil.h"
-#include "Game/Util/LayoutUtil.h"
 #include "Game/Util/LiveActorUtil.h"
 #include "Game/Util/SceneUtil.h"
 #include "Game/MapObj/TicoCoin.h"
@@ -9,76 +8,16 @@
 #include "neo/core.h"
 
 extern "C" {
-    bool getJMapInfoArg6NoInit__2MRFRC12JMapInfoIterPb(const JMapInfoIter&, bool*);
+    bool getJMapInfoArg6NoInit__2MRFRC12JMapInfoIterPb(const JMapInfoIter &, bool *);
 }
 
 namespace {
-    // =================================================================================================================
-    // Don't disable IslandFleetGalaxy's intro camera
-    // =================================================================================================================
-
-    kmWrite32(0x80142C34, PPC_LI(3, 0));
-    kmWrite32(0x80451804, PPC_LI(3, 0));
-
-
-    // ==================================================================================================================
-    // Skippable intro after collecting a Power Star
-    // ==================================================================================================================
-
-    // GameDataFunction::setPowerStar
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x804D254C, 0x60000005);
-#elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x804D25DC, 0x60000005);
-#endif
-
-
-    // =================================================================================================================
-    // Don't display World names
-    // =================================================================================================================
-
-    void setTextBoxMessageAndHidePaneRecursive(LayoutActor *pLayout, const char *pPaneName, const wchar_t *pMessage) {
-        MR::setTextBoxMessageRecursive(pLayout, pPaneName, pMessage);
-        MR::hidePaneRecursive(pLayout, pPaneName);
-    }
-
-    kmCall(0x8045E318, setTextBoxMessageAndHidePaneRecursive);
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x80486FE0, PPC_NOP);
-    kmWrite32(0x804A9C00, PPC_BLR);
-    kmBranch(0x804A9CAC, setTextBoxMessageAndHidePaneRecursive);
-    kmCall(0x804EEEF0, setTextBoxMessageAndHidePaneRecursive);
-#elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x80486FF0, PPC_NOP);
-    kmWrite32(0x804A9C70, PPC_BLR);
-    kmBranch(0x804A9D1C, setTextBoxMessageAndHidePaneRecursive);
-    kmCall(0x804EEF80, setTextBoxMessageAndHidePaneRecursive);
-#endif
-
-
-    // =================================================================================================================
-    // Move World Map Power Star count
-    // =================================================================================================================
-
-#if defined(SB4P)
-    kmWrite32(0x807E6E60, 0x43AC0000);
-#elif defined(SB4E)
-    kmWrite32(0x807E1760, 0x43AC0000);
-#elif defined(SB4J)
-    kmWrite32(0x807E0F20, 0x43AC0000);
-#elif defined(SB4W)
-    kmWrite32(0x8073AD80, 0x43AC0000);
-#elif defined(SB4K)
-    kmWrite32(0x80739920, 0x43AC0000);
-#endif
-
-
     // ==================================================================================================================
     // Increase Coin receiver sensors count
     // ==================================================================================================================
 
     // Coin::init
-    kmWrite32(0x8028BDC4, PPC_LI(6, 8));
+    kmWrite16(0x8028BDC6, 8);
 
 
     // ==================================================================================================================

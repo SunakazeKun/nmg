@@ -2,9 +2,26 @@
 #include "neo/System/IllustItemAccess.h"
 #include "Game/System/GameData/UserFile.h"
 #include "Game/System/AllData/GameDataFunction.h"
-#include "Game/Util/EventUtil.h"
 #include "kamek/hooks.h"
 #include "neo/core.h"
+
+// ---------------------------------------------------------------------------------------------------------------------
+
+#define TOTAL_NORMAL_STARS (21)
+#define TOTAL_GREEN_STARS  (21)
+#define TOTAL_POWER_STARS  (TOTAL_NORMAL_STARS + TOTAL_GREEN_STARS)
+#define TOTAL_COMET_MEDALS (8)
+#define TOTAL_STAMPS       (8)
+
+#define PRANKSTER_COMETS_CHECK_POWER_STARS_WORLD (1)
+#define PRANKSTER_COMETS_CHECK_POWER_STARS_COUNT (5)
+
+#define FINAL_GALAXY_CHECK_STAMPS_COUNT (TOTAL_STAMPS - 1)
+
+#define GREEN_STARS_CHECK_POWER_STARS_COUNT  (TOTAL_NORMAL_STARS)
+#define GREEN_STARS_CHECK_COMET_MEDALS_COUNT (TOTAL_COMET_MEDALS)
+
+// ---------------------------------------------------------------------------------------------------------------------
 
 namespace neo {
     GameProgress getGameProgressType(const UserFile *pUserFile) {
@@ -14,8 +31,8 @@ namespace neo {
 
         calcUserFileCollectibles(pUserFile, &medals, &stamps);
 
-        if (totalStars >= GAME_FLOW_TOTAL_POWER_STARS) {
-            if (medals >= GAME_FLOW_TOTAL_COMET_MEDALS && stamps >= GAME_FLOW_TOTAL_STAMPS) {
+        if (totalStars >= TOTAL_POWER_STARS) {
+            if (medals >= TOTAL_COMET_MEDALS && stamps >= TOTAL_STAMPS) {
                 return GameProgress_AllComplete;
             }
             else {
@@ -23,7 +40,7 @@ namespace neo {
             }
         }
 
-        if (normalStars >= GAME_FLOW_POWER_STARS_FOR_GREEN_STARS) {
+        if (pUserFile->mGameDataHolder->isOnGameEventFlag("スター120個エンディング実行")) {
             return GameProgress_GreenStars;
         }
 
@@ -51,69 +68,106 @@ namespace neo {
         *pStamps = stamps;
     }
 
-
-    // =================================================================================================================
-    // Unlock Prankster Comets after collecting at least 5 Stars
-    //
-    // This changes the complicated flag sequence that unlocks Prankster Comets. The routine has been simplified and 
-    // does not require specific missions to be finished anymore. The player needs to collect at least 5 Stars to
-    // unlock the comets in general.
-    // =================================================================================================================
-
-    bool isUnlockComets() {
-        if (GameDataFunction::isOnGameEventFlag(GAME_EVENT_FLAG_COMET_EXPLANATION)) {
-            return true;
-        }
-        else {
-            if (MR::getPowerStarNum() >= GAME_FLOW_POWER_STARS_FOR_COMETS) {
-                GameDataFunction::onGameEventFlag(GAME_EVENT_FLAG_COMET_EXPLANATION);
-                return true;
-            }
-            else {
-                return false;
-            }
-        }
+    bool checkUserFileAllowRosettaMiiIcon(const UserFile *pUserFile) {
+        GameDataAllGalaxyStorage* allGalaxyStorage = pUserFile->mGameDataHolder->mAllGalaxyStorage;
+        return allGalaxyStorage->makeAccessor(STAGE_COMET_OBSERVATORY)->getScenarioAccessor(2)->mFlag & 1;
     }
 
-    // Replace flag check by Power Star requirement
+    
+    namespace {
+        // =============================================================================================================
+        // Stage selected after game restart
+        // =============================================================================================================
+
+        // No Power Stars collected -> Starship Mario
+    #if defined(SB4P) || defined(SB4E) || defined(SB4J)
+        kmWrite32(0x804D6314, PPC_COND_BRANCH(PPC_COND_NE, 0x58));
+    #elif defined(SB4W) || defined(SB4K)
+        kmWrite32(0x804D63A4, PPC_COND_BRANCH(PPC_COND_NE, 0x58));
+    #endif
+
+        // VsKoopaLv3Galaxy cleared -> Starship Mario
+    #if defined(SB4P) || defined(SB4E) || defined(SB4J)
+        kmWrite32(0x804D66A8, PPC_COND_BRANCH(PPC_COND_EQ, 0x7C));
+    #elif defined(SB4W) || defined(SB4K)
+        kmWrite32(0x804D6738, PPC_COND_BRANCH(PPC_COND_EQ, 0x7C));
+    #endif
+
+    
+        // =============================================================================================================
+        // Skippable intro after collecting a Power Star
+        // =============================================================================================================
+
+        // GameDataFunction::setPowerStar
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmBranch(0x804D2E90, isUnlockComets);
+        kmWrite32(0x804D254C, 0x60000005);
 #elif defined(SB4W) || defined(SB4K)
-    kmBranch(0x804D2F20, isUnlockComets);
+        kmWrite32(0x804D25DC, 0x60000005);
 #endif
 
-    // Disable hardcoded check for Mimic comets
+
+        // =============================================================================================================
+        // Prankster Comet unlock criteria
+        // =============================================================================================================
+
+        // Required Power Stars in specific World
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x804D8B80, PPC_LI(3, 1));
+        kmWrite16(0x804D8952, PRANKSTER_COMETS_CHECK_POWER_STARS_WORLD);
+        kmWrite16(0x804D895A, PRANKSTER_COMETS_CHECK_POWER_STARS_COUNT);
 #elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x804D8C10, PPC_LI(3, 1));
+        kmWrite16(0x804D89E2, PRANKSTER_COMETS_CHECK_POWER_STARS_WORLD);
+        kmWrite16(0x804D89EA, PRANKSTER_COMETS_CHECK_POWER_STARS_COUNT);
 #endif
 
-    // Disable hardcoded check for Purple comets
+        // Disable hardcoded check for "Mimic" comets
 #if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmWrite32(0x804D8C44, PPC_LI(3, 1));
+        kmWrite32(0x804D8B80, PPC_LI(3, 1));
 #elif defined(SB4W) || defined(SB4K)
-    kmWrite32(0x804D8CD4, PPC_LI(3, 1));
+        kmWrite32(0x804D8C10, PPC_LI(3, 1));
+#endif
+
+        // Disable hardcoded check for "Purple" comets
+#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+        kmWrite32(0x804D8C44, PPC_LI(3, 1));
+#elif defined(SB4W) || defined(SB4K)
+        kmWrite32(0x804D8CD4, PPC_LI(3, 1));
 #endif
 
 
-    // =================================================================================================================
-    // Unlock Green Stars after collecting at least 21 Stars
-    //
-    // Originally, a special event flag declares whether Green Stars are available or not. This flag check has been 
-    // replaced by a routine that checks if at least 21 Power Stars and at least 8 Comet Medals have been collected.
-    // =================================================================================================================
+        // =============================================================================================================
+        // Final Galaxy unlock criteria
+        // =============================================================================================================
 
-    bool isUnlockGreenStars() {
-        return GameDataFunction::calcCurrentPowerStarNum() >= GAME_FLOW_POWER_STARS_FOR_GREEN_STARS
-            && GameDataFunction::calcTicoCoinNum() >= 8;
+        bool checkUnlockFinalGalaxy() {
+            return neo::calcIllustItemNum() >= FINAL_GALAXY_CHECK_STAMPS_COUNT;
+        }
+
+#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+        kmCall(0x804D8878, checkUnlockFinalGalaxy);
+#elif defined(SB4W) || defined(SB4K)
+        kmCall(0x804D8908, checkUnlockFinalGalaxy);
+#endif
+
+
+        // =============================================================================================================
+        // Green Stars unlock critera
+        // =============================================================================================================
+
+        void tryUnlockGreenStars() {
+            if (GameDataFunction::calcCurrentPowerStarNum() < GREEN_STARS_CHECK_POWER_STARS_COUNT) {
+                return;
+            }
+            if (GameDataFunction::calcTicoCoinNum() < GREEN_STARS_CHECK_COMET_MEDALS_COUNT) {
+                return;
+            }
+
+            GameDataFunction::onGameEventFlag("スター120個エンディング実行");
+        }
+
+#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+        kmBranch(0x804D88E8, tryUnlockGreenStars);
+#elif defined(SB4W) || defined(SB4K)
+        kmBranch(0x804D8978, tryUnlockGreenStars);
+#endif
     }
-
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmBranch(0x804D2D90, isUnlockGreenStars);
-    kmCall(0x804D82A4, isUnlockGreenStars);
-#elif defined(SB4W) || defined(SB4K)
-    kmBranch(0x804D2E20, isUnlockGreenStars);
-    kmCall(0x804D8334, isUnlockGreenStars);
-#endif
 }

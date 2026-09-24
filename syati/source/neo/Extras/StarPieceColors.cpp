@@ -22,16 +22,16 @@ namespace {
 
     // ----------------------------------------------------------------------------------------------------------------
 
-    void initStarPieceColor(StarPiece *pActor, s32 color) {
+    void setStarPieceColor(StarPiece *pStarPiece, s32 color) {
+        pStarPiece->mColor = ::cStarPieceColors[color];
+    }
+
+    void initStarPieceColor(StarPiece *pStarPiece, s32 color) {
         if (color < 0 || color >= ARRAY_SIZE(cStarPieceColors)) {
             color = MR::getRandom(0, ARRAY_SIZE(cStarPieceColors));
         }
 
-        pActor->mColor = ::cStarPieceColors[color];
-    }
-
-    void setStarPieceColor(StarPiece* pActor, s32 color) {
-        pActor->mColor = ::cStarPieceColors[color];
+        setStarPieceColor(pStarPiece, color);
     }
 
     // StarPiece::init

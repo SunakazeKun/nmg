@@ -1,33 +1,12 @@
 #include "Game/Screen/FileSelectInfo.h"
 #include "Game/System/GameData/UserFile.h"
-#include "Game/Util/LayoutUtil.h"
-#include "kamek/hooks.h"
-#include "neo/core.h"
 #include "neo/System/DaredevilModeAccess.h"
 #include "neo/System/GameProgress.h"
+#include "Game/Util/LayoutUtil.h"
+#include "kamek/hooks.h"
 
 namespace {
-    // =================================================================================================================
-    // Display new file select info
-    // =================================================================================================================
-
-    void reflectFileSelectInfoExt(FileSelectInfo *pInfo) {
-        MR::setTextBoxNumberRecursive(pInfo, "MissCounter", pInfo->mMissCount);
-        MR::setTextBoxMessageRecursive(pInfo, "TxtDuration", pInfo->mCumulativePlayTimeString);
-
-        if (pInfo->mIsView120StarsEnding) {
-            MR::hidePaneRecursive(pInfo, "PicFileInfo");
-            MR::showPaneRecursive(pInfo, "PicFileDaredevil");
-            MR::showPaneRecursive(pInfo, "PicDaredevil");
-        }
-        else {
-            MR::showPaneRecursive(pInfo, "PicFileInfo");
-            MR::hidePaneRecursive(pInfo, "PicFileDaredevil");
-            MR::hidePaneRecursive(pInfo, "PicDaredevil");
-        }
-    }
-
-    void setFileSelectFileInfoExt(FileSelectInfo *pInfo, FileSelectFileInfo &rFileInfo) {
+    void extFileSelector_setFileInfo(FileSelectInfo *pInfo, FileSelectFileInfo &rFileInfo) {
         register UserFile* pUserFile;
         __asm {
             lwz r0, 0xC4(r30)
@@ -53,20 +32,40 @@ namespace {
         pInfo->setInfo(rFileInfo);
     }
 
-    kmCall(0x8046DD44, reflectFileSelectInfoExt);
-    kmCall(0x80250550, setFileSelectFileInfoExt);
-    kmWrite32(0x80251190, PPC_NOP); // read proper MissCount number
+    kmCall(0x80250550, extFileSelector_setFileInfo);
+
+
+    // -----------------------------------------------------------------------------------------------------------------
+
+    void extFileSelectInfo_reflectInfo(FileSelectInfo *pInfo) {
+        MR::setTextBoxNumberRecursive(pInfo, "MissCounter", pInfo->mMissCount);
+        MR::setTextBoxMessageRecursive(pInfo, "TxtDuration", pInfo->mCumulativePlayTimeString);
+
+        if (pInfo->mIsView120StarsEnding) {
+            MR::hidePaneRecursive(pInfo, "PicFileInfo");
+            MR::showPaneRecursive(pInfo, "PicFileDaredevil");
+            MR::showPaneRecursive(pInfo, "PicDaredevil");
+        }
+        else {
+            MR::showPaneRecursive(pInfo, "PicFileInfo");
+            MR::hidePaneRecursive(pInfo, "PicFileDaredevil");
+            MR::hidePaneRecursive(pInfo, "PicDaredevil");
+        }
+    }
+
+    kmCall(0x8046DD44, extFileSelectInfo_reflectInfo);
+
+
+    // -----------------------------------------------------------------------------------------------------------------
+
+    // Always display the death count
+    kmWrite32(0x80251190, PPC_NOP);
+
+
+    // Normal game completion equals Silver Crown progress
     kmWrite32(0x8046DB94, PPC_STB(8, 0xC9, 30));
 
 
-    // =================================================================================================================
-    // Unlock Rosalina's icon
-    // =================================================================================================================
-
-    bool allowRosettaMiiIcon(const UserFile *pUserFile) {
-        GameDataAllGalaxyStorage* allGalaxyStorage = pUserFile->mGameDataHolder->mAllGalaxyStorage;
-        return allGalaxyStorage->makeAccessor(STAGE_COMET_OBSERVATORY)->getScenarioAccessor(2)->mFlag & 1;
-    }
-
-    kmCall(0x80252208, allowRosettaMiiIcon);
+    // Unlock Rosalina's file icon
+    kmCall(0x80252208, neo::checkUserFileAllowRosettaMiiIcon);
 }

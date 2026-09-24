@@ -118,21 +118,6 @@ namespace {
 
 
     // =================================================================================================================
-    // Unlock Comet Observatory after collecting at least 7 Stamps
-    // =================================================================================================================
-
-    bool tryOnOpenAstroGalaxy() {
-        return neo::calcIllustItemNum() >= 7;
-    }
-
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
-    kmCall(0x804D8878, tryOnOpenAstroGalaxy);
-#elif defined(SB4W) || defined(SB4K)
-    kmCall(0x804D8908, tryOnOpenAstroGalaxy);
-#endif
-
-
-    // =================================================================================================================
     // CounterLayoutController extension
     // =================================================================================================================
 

@@ -14,7 +14,5 @@ namespace neo {
 
     GameProgress getGameProgressType(const UserFile *pUserFile);
     void calcUserFileCollectibles(const UserFile *pUserFile, s32 *pMedals, s32 *pStamps);
-
-    bool isUnlockComets();
-    bool isUnlockGreenStars();
+    bool checkUserFileAllowRosettaMiiIcon(const UserFile *pUserFile);
 }

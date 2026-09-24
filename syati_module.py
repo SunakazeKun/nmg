@@ -54,6 +54,7 @@ MODULE_SOURCE_FILES = [
     "neo/Extras/StarPieceColors.cpp",
     "neo/Extras/TalkChanges.cpp",
     "neo/Extras/UnlockLuigi.cpp",
+    "neo/Extras/WorldMapChanges.cpp",
     "neo/Factories/ExtNameObjFactory.cpp",
     "neo/Factories/ExtProductMapCreator.cpp",
     "neo/Factories/ExtSceneObjHolder.cpp",
