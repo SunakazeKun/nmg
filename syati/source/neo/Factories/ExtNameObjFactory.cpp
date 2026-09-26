@@ -27,7 +27,6 @@
 #include "neo/NPC/LibraryBook.h"
 #include "neo/NPC/TicoManiac.h"
 
-class Meramera;
 class TakoSho;
 class MorphItemCollection;
 class Shellfish;
@@ -97,7 +96,6 @@ namespace {
 
         // Enemy
         { "SkeletalFish", createExtActor<neo::SkeletalFish> },
-        { "Chokomera", NameObjFactory::createNameObj<Meramera> },
         { "TakoKin", NameObjFactory::createNameObj<TakoSho> },
 
         // Map

@@ -40,7 +40,6 @@ MODULE_SOURCE_FILES = [
     "neo/AreaObj/AstroWarpArea.cpp",
     "neo/Debug/UseResourceHelper.cpp",
     "neo/Effect/EffectObjLine.cpp",
-    "neo/Enemy/Chokomera.cpp",
     "neo/Enemy/SkeletalFish.cpp",
     "neo/Extras/BgmChanges.cpp",
     "neo/Extras/FileSelectChanges.cpp",
