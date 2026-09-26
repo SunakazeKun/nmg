@@ -28,8 +28,8 @@ namespace {
         return noPlayStarChance == 0;
     }
 
-    kmCall(0x802E07E0, isStagePlayStarChance);
-    kmCall(0x802E0A90, isStagePlayStarChance);
+    kmCall(0x802E07E0, isAllowPlayStarChance);
+    kmCall(0x802E0A90, isAllowPlayStarChance);
 
 
     // =================================================================================================================
