@@ -3,6 +3,7 @@ from pyjmap import SuperMarioGalaxyHashTable, from_csv, pack_buffer
 from config import GAME_PATH
 from pathlib import Path
 
+import shutil
 import logging
 
 __all__ = ["pack_all_stage_data", "pack_stage_data"]
@@ -49,6 +50,16 @@ def pack_stage_data(src_stage_path: Path):
     __create_ghost_archive(stage_name, src_stage_path, dst_stage_path)
     __create_light_archive(stage_name, src_stage_path, dst_stage_path)
     __create_zone_info_archive(stage_name, src_stage_path, dst_stage_path)
+
+    for arc_name in ["Map", "Demo"]:
+        src_arc_path = src_stage_path / f'{stage_name}{arc_name}.arc'
+        dst_arc_path = dst_stage_path / f'{stage_name}{arc_name}.arc'
+
+        if not src_arc_path.is_file():
+            continue
+
+        logging.info("Copying %s", src_arc_path.name)
+        shutil.copyfile(src_arc_path, dst_arc_path)
 
 
 # ======================================================================================================================
