@@ -22,6 +22,7 @@ ARCHIVE /ObjectData/SoundSyncGhostStepL.arc
 ARCHIVE /ObjectData/SoundSyncGhostStepE.arc
 ARCHIVE /ObjectData/SoundSyncGhostStepN.arc
 ARCHIVE /ObjectData/PurpleCoin.arc
+ARCHIVE /ObjectData/SoundSyncGhostStepI.arc
 ARCHIVE /ObjectData/Tico.arc
 ARCHIVE /ObjectData/TicoMiddle.arc
 ARCHIVE /ObjectData/TicoLow.arc

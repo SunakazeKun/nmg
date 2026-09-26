@@ -163,7 +163,6 @@ IGNORE_FILES = [
     "/ObjectData/LifeUpHeart.arc",
     "/ObjectData/SoundSyncGhostStepD.arc",
     "/ObjectData/SoundSyncGhostStepG.arc",
-    "/ObjectData/SoundSyncGhostStepI.arc",
     "/ObjectData/SoundSyncGhostStepJ.arc",
     "/ObjectData/TestGalaxyPlanet.arc"
 ]
