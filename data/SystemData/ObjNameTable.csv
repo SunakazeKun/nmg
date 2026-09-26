@@ -625,6 +625,7 @@ PoleSquare,ポール（鉄骨）
 PoleSquareNoModel,ポール(モデル無し鉄骨)
 PoleTreeA,ポール（木Ａ）
 PoleTreeB,ポール（木B）
+PoleUnizoPlanet,ポールウニゾー惑星
 Polta,ポルタ
 PoltaBattlePlanetPartsA,ポルタ戦地形A
 Pompon2Plant,ポンポン草(2房)
@@ -662,6 +663,7 @@ RasterScrollArea,ラスタースクロールエリア
 RecoveryFloorControlArea,引き戻し制御エリア
 RedBlueTurnBlock,レッドブルー反転ブロック
 RelayPlanetC,中継惑星Ｃ
+RelayPlanetF,中継惑星F
 RelayPlanetH,中継惑星H
 RelayPlanetI,中継惑星I
 RepeartTimerSwitch,リピートタイマースイッチ
