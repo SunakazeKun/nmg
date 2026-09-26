@@ -156,6 +156,9 @@ def build_syati_loader(region: str):
 
     # ------------------------------------------------------
 
+    parent_path = MODULE_CWD / BIN_SUBPATH
+    parent_path.mkdir(parents=True, exist_ok=True)
+
     xml_path = BIN_SUBPATH / f'riivo_{region}.xml'
     dol_path = BIN_SUBPATH / f'main_{region}.dol'
     __link_loader(KAMEK_PATH, xml_path, dol_path, region, link_files)
