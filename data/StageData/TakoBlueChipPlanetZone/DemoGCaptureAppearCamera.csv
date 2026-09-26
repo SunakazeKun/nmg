@@ -1,0 +1,2 @@
+PartName:String:0,CameraTargetName:String:0,CameraTargetCastID:Int:0,AnimCameraName:String:0,AnimCameraStartFrame:Int:0,AnimCameraEndFrame:Int:0,IsContinuous:Int:0
+GCapAppear1,,-1,,-1,-1,0

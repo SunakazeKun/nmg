@@ -3,6 +3,7 @@ from pyjmap import SuperMarioGalaxyHashTable, from_csv, pack_buffer
 from config import GAME_PATH
 from pathlib import Path
 
+import re
 import shutil
 import logging
 
@@ -49,17 +50,17 @@ def pack_stage_data(src_stage_path: Path):
     __create_scenario_archive(stage_name, src_stage_path, dst_stage_path)
     __create_ghost_archive(stage_name, src_stage_path, dst_stage_path)
     __create_light_archive(stage_name, src_stage_path, dst_stage_path)
+    __create_demo_archive(stage_name, src_stage_path, dst_stage_path)
     __create_zone_info_archive(stage_name, src_stage_path, dst_stage_path)
 
-    for arc_name in ["Map", "Demo"]:
-        src_arc_path = src_stage_path / f'{stage_name}{arc_name}.arc'
-        dst_arc_path = dst_stage_path / f'{stage_name}{arc_name}.arc'
+    src_map_path = src_stage_path / f'{stage_name}Map.arc'
+    dst_map_path = dst_stage_path / f'{stage_name}Map.arc'
 
-        if not src_arc_path.is_file():
-            continue
+    if not src_map_path.is_file():
+        return
 
-        logging.info("Copying %s", src_arc_path.name)
-        shutil.copyfile(src_arc_path, dst_arc_path)
+    logging.info("Copying %s", src_map_path.name)
+    shutil.copyfile(src_map_path, dst_map_path)
 
 
 # ======================================================================================================================
@@ -119,6 +120,27 @@ def __create_light_archive(stage_name: str, src_stage_path: Path, dst_stage_path
 
     jmap = from_csv(HASH_TABLE, str(csv_path))
     bcsv.data = pack_buffer(jmap)
+
+    write_archive_file(arc, str(arc_path), compression=JKRCompression.SZS)
+
+
+def __create_demo_archive(stage_name: str, src_stage_path: Path, dst_stage_path: Path):
+    arc_path = dst_stage_path / f'{stage_name}Demo.arc'
+
+    csv_paths = list(filter(lambda p: p.is_file() and re.match(r'Demo.+\.csv', p.name), src_stage_path.iterdir()))
+
+    if len(csv_paths) == 0:
+        return
+
+    logging.info("Packing %s", arc_path.name)
+
+    arc = create_empty_csv_arc()
+
+    for csv_path in csv_paths:
+        bcsv = arc.create_file(f'Stage/csv/{csv_path.stem}.bcsv')
+
+        jmap = from_csv(HASH_TABLE, str(csv_path))
+        bcsv.data = pack_buffer(jmap)
 
     write_archive_file(arc, str(arc_path), compression=JKRCompression.SZS)
 

@@ -1,0 +1,4 @@
+PartName:String:0,TotalStep:Int:0,SuspendFlag:Int:0,WaitUserInputFlag:Int:0
+CameraViewCage,30,0,0
+CageOpening,110,0,0
+SpinDriverActivate,120,0,0

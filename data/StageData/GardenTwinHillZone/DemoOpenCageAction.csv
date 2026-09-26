@@ -1,0 +1,3 @@
+PartName:String:0,CastName:String:0,CastID:Int:0,ActionType:Int:0,PosName:String:0,AnimName:String:0
+CageOpening,カプセルケージ,-1,6,,
+SpinDriverActivate,スーパースピンドライバー,-1,0,,

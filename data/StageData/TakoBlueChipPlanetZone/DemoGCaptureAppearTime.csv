@@ -1,0 +1,6 @@
+PartName:String:0,TotalStep:Int:0,SuspendFlag:Int:0,WaitUserInputFlag:Int:0
+GCapAppear1,15,0,0
+GCapAppear2,15,0,0
+GCapAppear3,15,0,0
+GCapAppear4,15,0,0
+GCapAppear5,120,0,0

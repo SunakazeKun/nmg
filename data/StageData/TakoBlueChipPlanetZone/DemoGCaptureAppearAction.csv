@@ -1,0 +1,6 @@
+PartName:String:0,CastName:String:0,CastID:Int:0,ActionType:Int:0,PosName:String:0,AnimName:String:0
+GCapAppear1,Gキャプチャーターゲット,0,1,,
+GCapAppear2,Gキャプチャーターゲット,1,1,,
+GCapAppear3,Gキャプチャーターゲット,2,1,,
+GCapAppear4,Gキャプチャーターゲット,3,1,,
+GCapAppear5,Gキャプチャーターゲット,4,1,,
