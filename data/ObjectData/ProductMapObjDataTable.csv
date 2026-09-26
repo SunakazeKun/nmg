@@ -95,6 +95,7 @@ MarioFaceShipRudder,SimpleMapObj
 MemoryRoadSky,SoundSyncSky
 MysteryCandyDecorateParts,AutoMakeMapObj
 MysteryCandyDecoratePartsB,AutoMakeMapObj
+MysteryMountainDecorateParts,AutoMakeMapObj
 PhantomShipBoxFloaterA,SimpleFloaterObj
 PhantomShipBoxFloaterB,SimpleFloaterObj
 PhantomShipBoxFloaterC,SimpleFloaterObj

@@ -39,6 +39,7 @@ ARCHIVE /ObjectData/StarPieceDummy.arc
 ARCHIVE /ObjectData/CloudSky.arc
 ARCHIVE /ObjectData/MysteryCandyDecoratePartsB.arc
 ARCHIVE /ObjectData/MysteryCandyDecorateParts.arc
+ARCHIVE /ObjectData/MysteryMountainDecorateParts.arc
 ARCHIVE /ObjectData/VsOtaRockTankIcePlanet.arc
 ARCHIVE /ObjectData/VsOtaRockTankIcePlanetIce.arc
 ARCHIVE /ObjectData/CrystalCageM.arc
