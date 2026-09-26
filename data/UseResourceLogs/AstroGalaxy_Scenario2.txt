@@ -48,7 +48,10 @@ ARCHIVE /ObjectData/TicoLow.arc
 ARCHIVE /ObjectData/Kinopio.arc
 ARCHIVE /ObjectData/KinopioMiddle.arc
 ARCHIVE /ObjectData/KinopioLow.arc
+ARCHIVE /ObjectData/KinopioGoodsPickel.arc
+ARCHIVE /ObjectData/KinopioGoodsRucksack.arc
 ARCHIVE /ObjectData/KinopioGoodsLight.arc
+ARCHIVE /ObjectData/KinopioGoodsGlasses.arc
 ARCHIVE /ObjectData/LibraryBook.arc
 ARCHIVE /ObjectData/AstroLibrary.arc
 ARCHIVE /ObjectData/Caretaker.arc

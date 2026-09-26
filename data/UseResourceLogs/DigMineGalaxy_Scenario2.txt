@@ -17,11 +17,10 @@ ARCHIVE /ObjectData/WaterCameraFilter.arc
 ARCHIVE /ObjectData/Kiraira.arc
 ARCHIVE /ObjectData/KirairaChain.arc
 ARCHIVE /ObjectData/KirairaFixPointBottom.arc
+ARCHIVE /ObjectData/WaterPlant.arc
 ARCHIVE /ObjectData/NyoroponBody.arc
 ARCHIVE /ObjectData/NyoroponHead.arc
-ARCHIVE /ObjectData/WaterPlant.arc
 ARCHIVE /ObjectData/PhantomShipBoxFloaterC.arc
-ARCHIVE /ObjectData/Anagon.arc
 ARCHIVE /ObjectData/PhantomCandlestand.arc
 ARCHIVE /ObjectData/AirBubble.arc
 ARCHIVE /ObjectData/AirBubbleGenerator.arc
@@ -36,7 +35,6 @@ ARCHIVE /ObjectData/Pukupuku.arc
 ARCHIVE /ObjectData/PukupukuFreezeIce.arc
 ARCHIVE /ObjectData/Tongari.arc
 ARCHIVE /ObjectData/PhantomShipBoxFloaterA.arc
-ARCHIVE /ObjectData/PhantomSky.arc
 ARCHIVE /ObjectData/FishA.arc
 ARCHIVE /ObjectData/FishC.arc
 ARCHIVE /ObjectData/JellyfishElectric.arc
@@ -44,6 +42,7 @@ ARCHIVE /ObjectData/KameckShip.arc
 ARCHIVE /ObjectData/SmallStone.arc
 ARCHIVE /ObjectData/PoleSquare.arc
 ARCHIVE /ObjectData/UnderwaterCavePlanet.arc
+ARCHIVE /ObjectData/PhantomSky.arc
 ARCHIVE /ObjectData/FishD.arc
 ARCHIVE /ObjectData/PhantomShipBoxFloaterB.arc
 ARCHIVE /ObjectData/FishB.arc
@@ -51,6 +50,12 @@ ARCHIVE /ObjectData/PurpleCoin.arc
 ARCHIVE /ObjectData/Kinopio.arc
 ARCHIVE /ObjectData/KinopioMiddle.arc
 ARCHIVE /ObjectData/KinopioLow.arc
+ARCHIVE /ObjectData/KinopioGoodsPickel.arc
+ARCHIVE /ObjectData/KinopioGoodsGlasses.arc
+ARCHIVE /ObjectData/KinopioGoodsRucksack.arc
+ARCHIVE /ObjectData/KinopioGoodsLightOff.arc
+ARCHIVE /ObjectData/KinopioGoodsSnorkel.arc
+ARCHIVE /ObjectData/Anagon.arc
 ARCHIVE /ObjectData/Shellfish.arc
 ARCHIVE /ObjectData/Chorobon.arc
 ARCHIVE /ObjectData/NokonokoLand.arc
@@ -147,10 +152,6 @@ SOUND SE_EM_LV_NYOROPON_DEAD
 SOUND SE_EM_LV_NYOROPON_DAMAGE
 SOUND SE_PM_SPIN_HIT
 SOUND SE_OJ_BOX_FLOATER_RIPPLE
-SOUND SE_BM_SKL_FISH_BABY_APPEAR
-SOUND SE_EM_EXPLODE_UNDER_WATER
-SOUND SE_EM_LV_SNAKEFISH_SWIM
-SOUND SE_EV_SNAKEHEAD_DAMAGE
 SOUND SE_OJ_FIRE_STAND_IGNIT
 SOUND SE_OJ_LV_PHANTOM_TOACH_BURN
 SOUND SE_OJ_PHANTOM_TOACH_OFF
@@ -250,6 +251,10 @@ SOUND SE_SM_KINOPIO_STEP
 SOUND SE_SM_KINOPIO_LAND
 SOUND SE_SY_ADD_STAR_PIECE_MAIL
 SOUND SE_SM_METAMORPHOSE_SMOKE
+SOUND SE_BM_SKL_FISH_BABY_APPEAR
+SOUND SE_EM_EXPLODE_UNDER_WATER
+SOUND SE_EM_LV_SNAKEFISH_SWIM
+SOUND SE_EV_SNAKEHEAD_DAMAGE
 SOUND SE_OJ_SHELLFISH_OPEN
 SOUND SE_OJ_LV_SHELLFISH_SIGNAL
 SOUND SE_OJ_SHELLFISH_CLOSE

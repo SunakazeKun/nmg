@@ -30,10 +30,10 @@ ARCHIVE /ObjectData/InvincibleMarioHandR.arc
 ARCHIVE /LayoutData/SpinGuidance.arc
 ARCHIVE /ObjectData/NeedlePlantFly.arc
 ARCHIVE /ObjectData/DecorationBigCloud.arc
+ARCHIVE /ObjectData/DustFlower.arc
 ARCHIVE /ObjectData/Butterfly.arc
 ARCHIVE /ObjectData/AsteroidD.arc
 ARCHIVE /ObjectData/AsteroidDLow.arc
-ARCHIVE /ObjectData/DustFlower.arc
 ARCHIVE /ObjectData/PlantA00.arc
 ARCHIVE /ObjectData/CloudStep.arc
 ARCHIVE /ObjectData/CloudStepShadow.arc

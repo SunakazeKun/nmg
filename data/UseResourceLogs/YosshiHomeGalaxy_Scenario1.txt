@@ -26,9 +26,9 @@ ARCHIVE /ObjectData/SnowCandyHotStepLow.arc
 ARCHIVE /ObjectData/SnowCandyIceStep.arc
 ARCHIVE /ObjectData/SnowCandyIceStepLow.arc
 ARCHIVE /ObjectData/SweetsDecoratePartsFork.arc
-ARCHIVE /ObjectData/SweetsDecoratePartsSpoon.arc
 ARCHIVE /ObjectData/BasaBasaIce.arc
 ARCHIVE /ObjectData/BasaBasaIceHang.arc
+ARCHIVE /ObjectData/SweetsDecoratePartsSpoon.arc
 ARCHIVE /ObjectData/SnowCandySnowStep.arc
 ARCHIVE /ObjectData/SnowCandySnowStepLow.arc
 ARCHIVE /ObjectData/DustLava.arc
@@ -36,10 +36,10 @@ ARCHIVE /ObjectData/DustIceCrystal.arc
 ARCHIVE /ObjectData/CrystalCageS.arc
 ARCHIVE /ObjectData/CrystalCageSBreak.arc
 ARCHIVE /ObjectData/StarPieceDummy.arc
-ARCHIVE /ObjectData/CloudSky.arc
-ARCHIVE /ObjectData/MysteryCandyDecoratePartsB.arc
 ARCHIVE /ObjectData/MysteryCandyDecorateParts.arc
 ARCHIVE /ObjectData/MysteryMountainDecorateParts.arc
+ARCHIVE /ObjectData/MysteryCandyDecoratePartsB.arc
+ARCHIVE /ObjectData/CloudSky.arc
 ARCHIVE /ObjectData/VsOtaRockTankIcePlanet.arc
 ARCHIVE /ObjectData/VsOtaRockTankIcePlanetIce.arc
 ARCHIVE /ObjectData/CrystalCageM.arc

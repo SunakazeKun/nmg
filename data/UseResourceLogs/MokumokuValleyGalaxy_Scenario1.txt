@@ -4,12 +4,14 @@ ARCHIVE /StageData/MokumokuValleyGalaxy/MokumokuValleyGalaxyDesign.arc
 ARCHIVE /StageData/MokumokuValleyGalaxy/MokumokuValleyGalaxyZoneInfo.arc
 ARCHIVE /StageData/MokumokuValleyGalaxy/MokumokuValleyGalaxyUseResource.arc
 ARCHIVE /StageData/MokumokuValleyGalaxy/MokumokuValleyGalaxyGhost.arc
-ARCHIVE /StageData/SurvivalKoteKariZone/SurvivalKoteKariZoneMap.arc
 ARCHIVE /StageData/SurvivalTakoHeiZone/SurvivalTakoHeiZoneMap.arc
+ARCHIVE /StageData/SurvivalKoteKariZone/SurvivalKoteKariZoneMap.arc
+ARCHIVE /StageData/SurvivalUnizoShoalZone/SurvivalUnizoShoalZoneMap.arc
+ARCHIVE /StageData/SurvivalMetboZone/SurvivalMetboZoneMap.arc
 ARCHIVE /StageData/SurvivalBegomanZone/SurvivalBegomanZoneMap.arc
-ARCHIVE /StageData/SurvivalBombBirdZone/SurvivalBombBirdZoneMap.arc
 ARCHIVE /StageData/SurvivalPetariZone/SurvivalPetariZoneMap.arc
 ARCHIVE /StageData/SurvivalPukupukuZone/SurvivalPukupukuZoneMap.arc
+ARCHIVE /StageData/SurvivalBombBirdZone/SurvivalBombBirdZoneMap.arc
 ARCHIVE /StageData/SurvivalBasaBasaIceZone/SurvivalBasaBasaIceZoneMap.arc
 ARCHIVE /StageData/SurvivalKameckZone/SurvivalKameckZoneMap.arc
 ARCHIVE /StageData/NeoBossSandyZone/NeoBossSandyZoneMap.arc
