@@ -7,7 +7,10 @@
 #include "kamek/hooks.h"
 #include "neo/core.h"
 
+class OtaKingLongFoot;
+
 extern "C" {
+    void __kAutoMap_800F1500(OtaKingLongFoot *);
     bool getJMapInfoArg6NoInit__2MRFRC12JMapInfoIterPb(const JMapInfoIter &, bool *);
 }
 
@@ -122,7 +125,22 @@ namespace {
 
     kmWrite32(0x8001BB20, PPC_BLR);
 
-    
+
+    // =================================================================================================================
+    // Spicy King Kaliente cutscene skip bugfix
+    // =================================================================================================================
+
+    static __asm void extOtaKingExeAppearDemo() {
+        nofralloc;
+        lbz r0, 0x154(r28);
+        cmpwi r0, 0;
+        bnelr;
+        b __kAutoMap_800F1500;
+    }
+
+    kmCall(0x800EFF70, extOtaKingExeAppearDemo);
+
+
     // ==================================================================================================================
     // Comet Medal activates SW_DEAD on collection
     // ==================================================================================================================
