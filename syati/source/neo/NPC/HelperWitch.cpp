@@ -30,6 +30,8 @@ namespace neo {
         mActionPointing = "Pointing";
         mActionReaction = "Reaction";
 
+        capabilities.mTalkOffset.set(0.0f, 220.0f, 0.0f);
+
         initialize(rIter, capabilities, "HelperWitch", nullptr, false);
 
         MR::registerEventFunc(mTalkCtrl, TalkMessageFunc(this, &eventFunc));
@@ -37,6 +39,7 @@ namespace neo {
 
         MR::getJMapInfoArg0NoInit(rIter, &mRestartId.mId);
         mRestartId.mZoneId = mLinkedInfo.mZoneId;
+        
         mScale.setAll(1.35f);
     }
 
