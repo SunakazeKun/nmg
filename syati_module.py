@@ -41,7 +41,6 @@ MODULE_SOURCE_FILES = [
     "neo/Debug/UseResourceHelper.cpp",
     "neo/Effect/EffectObjLine.cpp",
     "neo/Enemy/SkeletalFish.cpp",
-    "neo/Extras/BgmChanges.cpp",
     "neo/Extras/FileSelectChanges.cpp",
     "neo/Extras/GameEventFlagChanges.cpp",
     "neo/Extras/MarioFaceShipChanges.cpp",

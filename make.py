@@ -1,6 +1,7 @@
 def __main():
     from makesub.static_files import copy_static_files_to_game
     from makesub.use_resource import pack_use_resource_archives
+    from makesub.stage_data import pack_all_stage_data
     from makesub.other_archives import pack_other_archives
     from makesub.message_data import build_message_data
     from syati_module import build_syati_binaries
@@ -9,6 +10,7 @@ def __main():
 
     copy_static_files_to_game()
     pack_use_resource_archives()
+    pack_all_stage_data()
     pack_other_archives()
     build_message_data()
 

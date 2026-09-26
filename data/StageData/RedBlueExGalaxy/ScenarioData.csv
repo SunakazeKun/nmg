@@ -1,0 +1,7 @@
+ScenarioNo:Int:0,ScenarioName:String:0,PowerStarId:Int:0,PowerStarType:String:0,AppearPowerStarObj:String:0,Comet:String:0,CometLimitTimer:Int:0,LuigiModeTimer:Int:0,NoPlayStarChance:Int:0,RedBlueExGalaxy:Int:0,RotateExIllustItemZone:Int:0
+1,RotateExGalaxy Star 1,61,Normal,モック,,0,0,0,1,0
+2,RotateExGalaxy Comet 1,2,Normal,,Quick,150,0,0,2,0
+3,RotateExGalaxy Hidden 1,4,Hidden,HipDropNailWatcher,,0,0,1,0,0
+4,RotateExGalaxy Green 1,8,Green,,,0,0,0,0,0
+5,RotateExGalaxy Green 2,16,Green,,,0,0,0,0,0
+6,RotateExGalaxy Green 3,32,Green,,,0,0,0,0,0

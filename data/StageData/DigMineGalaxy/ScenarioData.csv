@@ -1,0 +1,7 @@
+ScenarioNo:Int:0,ScenarioName:String:0,PowerStarId:Int:0,AppearPowerStarObj:String:0,PowerStarType:String:0,Comet:String:0,CometLimitTimer:Int:0,LuigiModeTimer:Int:0,NoPlayStarChance:Int:0,DigMineGalaxy:Int:0,UnderwaterCaveZone:Int:0,UnderwaterCaveBonusZone:Int:0
+1,UnderwaterGhostShipGalaxy Star 1,61,チコ集め,Normal,,0,0,0,1,1,1
+2,UnderwaterGhostShipGalaxy Comet 1,2,,Normal,Purple,0,0,0,2,2,0
+3,UnderwaterGhostShipGalaxy Hidden 1,4,PowerStarSpawner,Hidden,,0,0,1,0,0,0
+4,UnderwaterGhostShipGalaxy Green 1,8,,Green,,0,0,0,0,0,0
+5,UnderwaterGhostShipGalaxy Green 2,16,,Green,,0,0,0,0,0,0
+6,UnderwaterGhostShipGalaxy Green 3,32,,Green,,0,0,0,0,0,0

@@ -2,6 +2,7 @@
 #include "Game/System/AllData/GalaxyStatusAccessor.h"
 #include "Game/System/AllData/GameDataFunction.h"
 #include "Game/System/AllData/GameSequenceFunction.h"
+#include "Game/System/ScenarioDataParser.h"
 #include "Game/Util/ActionSoundUtil.h"
 #include "Game/Util/ActorSensorUtil.h"
 #include "Game/Util/DemoUtil.h"
@@ -14,6 +15,23 @@
 #include "kamek/hooks.h"
 
 namespace {
+    // =================================================================================================================
+    // Star Chance music prohibition
+    // =================================================================================================================
+
+    bool isAllowPlayStarChance(s32 powerStarId) {
+        s32 noPlayStarChance;
+
+        GalaxyStatusAccessor gsa = MR::makeCurrentGalaxyStatusAccessor();
+        gsa.mScenarioData->getValueS32("NoPlayStarChance", powerStarId, &noPlayStarChance);
+
+        return noPlayStarChance == 0;
+    }
+
+    kmCall(0x802E07E0, isStagePlayStarChance);
+    kmCall(0x802E0A90, isStagePlayStarChance);
+
+
     // =================================================================================================================
     // Green Star nerves
     // =================================================================================================================

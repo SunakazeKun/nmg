@@ -1,0 +1,7 @@
+ScenarioNo:Int:0,ScenarioName:String:0,PowerStarId:Int:0,PowerStarType:String:0,AppearPowerStarObj:String:0,Comet:String:0,CometLimitTimer:Int:0,LuigiModeTimer:Int:0,NoPlayStarChance:Int:0,IslandFleetGalaxy:Int:0,AssemblyBlockPowerStarZone:Int:0,NeoBossDinoPackunVs1Zone:Int:0,NeoBossDinoPackunBabyZone:Int:0,GardenWindNewZone:Int:0,GardenAppleGCaptureZone:Int:0,GardenFlipPanelNewZone:Int:0,GardenTwinHillZone:Int:0,GardenVineSubBossZone:Int:0,GardenUpWindNewZone:Int:0,NeoBonusAttackZone:Int:0
+1,GardenHomeGalaxy Star 1,9,Normal,PowerStarSpawner,,0,0,0,5,0,1,1,5,1,1,1,0,0,33538
+2,GardenHomeGalaxy Star 2,50,Normal,チコ集め,,0,0,0,2,1,0,0,2,0,0,0,0,1,0
+3,GardenHomeGalaxy Comet 1,4,Normal,ベビーディノパックン,Red,30,0,0,9,0,0,1,9,2,2,2,0,0,0
+4,GardenHomeGalaxy Green 1,8,Green,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,GardenHomeGalaxy Green 2,16,Green,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,GardenHomeGalaxy Green 3,32,Green,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0

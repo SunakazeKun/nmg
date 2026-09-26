@@ -1,0 +1,5 @@
+ScenarioNo:Int:0,ScenarioName:String:0,PowerStarId:Int:0,PowerStarType:String:0,AppearPowerStarObj:String:0,Comet:String:0,CometLimitTimer:Int:0,LuigiModeTimer:Int:0,NoPlayStarChance:Int:0,AbekobeGalaxy:Int:0,SoundSyncZone:Int:0,SoundSyncIllustItemZone:Int:0
+1,SoundSyncGalaxy Star 1,13,Normal,クリスタルケージ[大],,0,0,0,1,1,0
+2,SoundSyncGalaxy Comet 1,2,Normal,１００枚コイン,Purple,180,0,0,2,2,0
+3,SoundSyncGalaxy Green 1,4,Green,,,0,0,0,0,0,0
+4,SoundSyncGalaxy Green 2,8,Green,,,0,0,0,0,0,0

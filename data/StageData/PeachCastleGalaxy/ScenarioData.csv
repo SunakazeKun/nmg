@@ -1,0 +1,4 @@
+ScenarioNo:Int:0,ScenarioName:String:0,PowerStarId:Int:0,PowerStarType:String:0,AppearPowerStarObj:String:0,Comet:String:0,CometLimitTimer:Int:0,LuigiModeTimer:Int:0,NoPlayStarChance:Int:0,PeachCastleGalaxy:Int:0,IntroRosettaZone:Int:0
+1,IntroRosettaGalaxy Scenario 1,0,Normal,,,0,0,0,0,0
+2,IntroRosettaGalaxy Scenario 2,0,Normal,,,0,0,0,0,0
+3,IntroRosettaGalaxy Scenario 3,0,Normal,,,0,0,0,0,0
