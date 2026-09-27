@@ -7,10 +7,11 @@
             "defines": [
                 "__declspec(x)=",
                 "__asm=",
-                "RELEASE",
                 "GEKKO",
                 "MTX_USE_PS",
-                "SB4P"
+                "RELEASE",
+                "SB4P",
+                "SB4_JEP"
             ],
             "includePath": [
                 "${workspaceFolder}/include/**",

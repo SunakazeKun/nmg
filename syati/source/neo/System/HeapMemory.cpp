@@ -11,9 +11,9 @@ namespace {
 
     // WorldMapHeap
     kmWrite16(0x80040F12, -(WORLD_MAP_HEAP_SIZE >> 16));
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmWrite16(0x804BCB16, (WORLD_MAP_HEAP_SIZE >> 16));
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmWrite16(0x804BCB86, (WORLD_MAP_HEAP_SIZE >> 16));
 #endif
 
@@ -30,9 +30,9 @@ namespace {
             totalSize, freeSize, size);
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmBranch(0x804BD010, memoryErrorCallback);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmBranch(0x804BD080, memoryErrorCallback);
 #endif
 }

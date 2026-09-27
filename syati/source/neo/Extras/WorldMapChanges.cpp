@@ -12,12 +12,12 @@ namespace {
     }
 
     kmCall(0x8045E318, setTextBoxMessageAndHidePaneRecursive);
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmWrite32(0x80486FE0, PPC_NOP);
     kmWrite32(0x804A9C00, PPC_BLR);
     kmBranch(0x804A9CAC, setTextBoxMessageAndHidePaneRecursive);
     kmCall(0x804EEEF0, setTextBoxMessageAndHidePaneRecursive);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmWrite32(0x80486FF0, PPC_NOP);
     kmWrite32(0x804A9C70, PPC_BLR);
     kmBranch(0x804A9D1C, setTextBoxMessageAndHidePaneRecursive);
@@ -46,9 +46,9 @@ namespace {
     // Skip Grand World Map portion of Green Star appearance
     // =================================================================================================================
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmWrite32(0x804F9D58, PPC_B(0xFC));
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmWrite32(0x804F9DE8, PPC_B(0xFC));
 #endif
 }

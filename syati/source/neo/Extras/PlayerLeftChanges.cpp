@@ -27,18 +27,18 @@ namespace {
     // =================================================================================================================
 
     // ScenarioSelectLayout
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmCall(0x8048EB18, hidePaneRecursive);
     kmCall(0x8048EB2C, hidePaneRecursive);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmCall(0x8048EB28, hidePaneRecursive);
     kmCall(0x8048EB3C, hidePaneRecursive);
 #endif
 
     // PauseMenu
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmCall(0x80487154, hidePaneRecursive);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmCall(0x80487164, hidePaneRecursive);
 #endif
 
@@ -47,7 +47,7 @@ namespace {
     // Disable PlayerLeft layout
     // =================================================================================================================
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmWrite32(0x804A8E20, PPC_B(0x20));
     kmWrite32(0x804A8E78, PPC_NOP);
     kmWrite32(0x804A8F04, PPC_B(0x14));
@@ -55,7 +55,7 @@ namespace {
     kmWrite32(0x804A8FDC, PPC_B(0x14));
     kmWrite32(0x804A9060, PPC_B(0x24));
     kmWrite32(0x804A9214, PPC_B(0x3C));
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmWrite32(0x804A8E90, PPC_B(0x20));
     kmWrite32(0x804A8EE8, PPC_NOP);
     kmWrite32(0x804A8F74, PPC_B(0x14));
@@ -70,11 +70,11 @@ namespace {
     // Disable PlayerLeftMiss layout
     // =================================================================================================================
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmWrite32(0x804D9200, PPC_NOP);
     kmWrite32(0x804B325C, PPC_NOP);
     kmWrite32(0x804B43A4, PPC_B(0x58));
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmWrite32(0x804D9290, PPC_NOP);
     kmWrite32(0x804B32CC, PPC_NOP);
     kmWrite32(0x804B4414, PPC_B(0x58));
@@ -86,9 +86,9 @@ namespace {
     // =================================================================================================================
 
     // GameDataPlayerStatus::addPlayerLeft stub
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmWrite32(0x804DE030, PPC_BLR);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmWrite32(0x804DE0C0, PPC_BLR);
 #endif
 

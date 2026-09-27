@@ -7,13 +7,13 @@ namespace {
     // Disable introduction after IslandFleetGalaxy's first Power Star
     // =================================================================================================================
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmWrite32(0x804B4E08, PPC_LI(3, 0));
     kmWrite32(0x804B52D4, PPC_LI(3, 0));
     kmWrite32(0x804B5720, PPC_LI(3, 0));
     kmWrite32(0x804B58F8, PPC_LI(3, 0));
     kmWrite32(0x804D66F0, PPC_LI(3, 0));
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmWrite32(0x804B4E78, PPC_LI(3, 0));
     kmWrite32(0x804B5344, PPC_LI(3, 0));
     kmWrite32(0x804B5790, PPC_LI(3, 0));
@@ -42,11 +42,11 @@ namespace {
         return false;
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmCall(0x804B49B0, startMarioFaceShipBGM);
     kmCall(0x804B5378, startMarioFaceShipBGM);
     kmCall(0x804B5BAC, startMarioFaceShipBGM);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmCall(0x804B4A20, startMarioFaceShipBGM);
     kmCall(0x804B53E8, startMarioFaceShipBGM);
     kmCall(0x804B5C1C, startMarioFaceShipBGM);

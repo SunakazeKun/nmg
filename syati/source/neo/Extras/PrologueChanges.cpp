@@ -27,9 +27,9 @@ namespace {
     }
 
     // GameSequenceInGame::exeOpening
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmCall(0x804B3FDC, forceOnGameEventFlags);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmCall(0x804B404C, forceOnGameEventFlags);
 #endif
 }

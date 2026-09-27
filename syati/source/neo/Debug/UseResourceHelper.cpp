@@ -9,9 +9,9 @@ namespace {
         return MR::isFileExist(pName, false);
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmCall(0x804B1FE0, printArchive);
-#elif defined(SB4W)|| defined(SB4K)
+#elif defined(SB4_WK)
     kmCall(0x804B2050, printArchive);
 #endif
 

@@ -50,9 +50,9 @@ namespace {
         );
     }
 
-#if defined (SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
         kmBranch(0x804B7D38, installCustomCodeModule);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
         kmBranch(0x804B7DA8, installCustomCodeModule);
 #endif
 
@@ -61,12 +61,12 @@ namespace {
     // Enable crash debugger
     // =================================================================================================================
 
-#if defined (SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
         kmWrite32(0x804B7D90, 0x60000000);
         kmWrite32(0x804B7E54, 0x60000000);
         kmWrite32(0x805B63A8, 0x60000000);
         kmWrite32(0x805B66B4, 0x60000000);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
         kmWrite32(0x804B7E00, 0x60000000);
         kmWrite32(0x804B7EC4, 0x60000000);
         kmWrite32(0x805B64A8, 0x60000000);

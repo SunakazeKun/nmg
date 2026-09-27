@@ -16,11 +16,11 @@ namespace {
     // Galaxy progress accounts for Stamp
     // =================================================================================================================
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmCall(0x804D1E18, neo::hasIllustItemAndTicoCoinInStage); // GalaxyStatusAccessor::isCompletedNoGreen
     kmCall(0x804D1EA8, neo::hasIllustItemAndTicoCoinInStage); // GalaxyStatusAcessor::isCompletedWithGreen
     kmCall(0x804E1A94, neo::hasIllustItemAndTicoCoinInStage); // Layout stuff
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmCall(0x804D1EA8, neo::hasIllustItemAndTicoCoinInStage); // GalaxyStatusAccessor::isCompletedNoGreen
     kmCall(0x804D1F38, neo::hasIllustItemAndTicoCoinInStage); // GalaxyStatusAcessor::isCompletedWithGreen
     kmCall(0x804E1B24, neo::hasIllustItemAndTicoCoinInStage); // Layout stuff
@@ -31,9 +31,9 @@ namespace {
         return playResult->mNotifyTicoCoin || playResult->_63 & IN_TEMP_STAGE_ILLUST_ITEM_FLAG_NOTIFY;
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmCall(0x80496798, isResultNotifyTicoCoinOrIllustItem);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmCall(0x80496808, isResultNotifyTicoCoinOrIllustItem);
 #endif
 
@@ -54,11 +54,11 @@ namespace {
         }
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmWrite32(0x804D8730, 0x7FC3F378); // r3 = PlayResultInStageHolder*
     kmCall(0x804D8734, afterStageSaveCollectionItems);
     kmWrite32(0x804D8738, 0x48000010); // skip garbage
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmWrite32(0x804D87C0, 0x7FC3F378); // r3 = PlayResultInStageHolder*
     kmCall(0x804D87C4, afterStageSaveCollectionItems);
     kmWrite32(0x804D87C8, 0x48000010); // skip garbage
@@ -70,9 +70,9 @@ namespace {
     // =================================================================================================================
 
     // Clears fields 0x62 and 0x63
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmWrite32(0x804C8DC8, 0xB3FE0062);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmWrite32(0x804C8E58, 0xB3FE0062);
 #endif
 
@@ -110,9 +110,9 @@ namespace {
         blr
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmBranch(0x804C92C8, afterMissClearCollectionItems);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmBranch(0x804C9358, afterMissClearCollectionItems);
 #endif
 
@@ -179,11 +179,11 @@ namespace {
         }
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmWrite32(0x80487140, 0x7F63DB78); // mr r3, r27
     kmCall(0x80487144, extPauseMenuShowOrHideIllustItem);
     kmWrite32(0x80487148, 0x48000010); // skip garbage
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmWrite32(0x80487150, 0x7F63DB78); // mr r3, r27
     kmCall(0x80487154, extPauseMenuShowOrHideIllustItem);
     kmWrite32(0x80487158, 0x48000010); // skip garbage
@@ -200,9 +200,9 @@ namespace {
         return pActor;
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmBranch(0x804A9548, extGalaxyInfoInitTxtIllust);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmBranch(0x804A95B8, extGalaxyInfoInitTxtIllust);
 #endif
 
@@ -222,11 +222,11 @@ namespace {
         }
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmWrite32(0x804A9650, 0x7F64DB78);
     kmCall(0x804A9654, extGalaxyInfoShowOrHideTicoCoinAndIllustItem);
     kmWrite32(0x804A9658, 0x48000020); // skip garbage
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmWrite32(0x804A96C0, 0x7F64DB78);
     kmCall(0x804A96C4, extGalaxyInfoShowOrHideTicoCoinAndIllustItem);
     kmWrite32(0x804A96C8, 0x48000020); // skip garbage

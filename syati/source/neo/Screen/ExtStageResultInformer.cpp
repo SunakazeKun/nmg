@@ -15,9 +15,9 @@ namespace {
     // Prevent "Ghost Appeared" message
     // =================================================================================================================
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmWrite32(0x80496144, PPC_LI(3, 0));
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmWrite32(0x804961B4, PPC_LI(3, 0));
 #endif
 
@@ -31,9 +31,9 @@ namespace {
         MR::hidePane(pActor, "TotalStamp");
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmCall(0x80496680, hideCounterPanesExt);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmCall(0x804966F0, hideCounterPanesExt);
 #endif
 
@@ -88,13 +88,13 @@ namespace {
         }
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmCall(0x8049630C, getNextNerveExt);
     kmCall(0x80495F88, isPreviousNerveDisappearStampOrCometMedal);
     kmWrite32(0x80496750, PPC_MR(7, 0));
     kmCall(0x80496754, endResultPaneExt);
     kmWrite32(0x80496758, PPC_NOP);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmCall(0x8049637C, getNextNerveExt);
     kmCall(0x80495FF8, isPreviousNerveDisappearStampOrCometMedal);
     kmWrite32(0x804967C0, PPC_MR(7, 0));
@@ -184,11 +184,11 @@ namespace {
         return "System_ResultGetPowerStar";
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmCall(0x80494F24, getResultStarMessageName);
     kmWrite32(0x80494F28, PPC_MR(5, 3));
     kmWrite32(0x80494F2C, PPC_B(0x60));
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmCall(0x80494F94, getResultStarMessageName);
     kmWrite32(0x80494F98, PPC_MR(5, 3));
     kmWrite32(0x80494F9C, PPC_B(0x60));

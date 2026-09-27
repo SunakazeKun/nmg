@@ -31,7 +31,7 @@ namespace {
         { MR::StationedFileInfo::HEAP_TYPE_NAPA, MR::StationedFileInfo::LOAD_TYPE_PLAYER_LUIGI, STATIONED_FILE_PATH_OBJECTDATA_LUIGIHAIR_ARC },
         { MR::StationedFileInfo::HEAP_TYPE_NAPA, MR::StationedFileInfo::LOAD_TYPE_PLAYER_LUIGI, STATIONED_FILE_PATH_OBJECTDATA_LUIGISHADOW_ARC },
 
-#if defined(SB4W) || defined(SB4K)
+#if defined(SB4_WK)
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_1, STATIONED_FILE_PATH_LAYOUTDATA_SAVEICONBANNER_ARC },
 #endif
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_1, STATIONED_FILE_PATH_LIGHTDATA_LIGHTDATA_ARC },
@@ -46,7 +46,7 @@ namespace {
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_1, STATIONED_FILE_PATH_OBJECTDATA_PLANETMAPDATATABLE_ARC },
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_1, STATIONED_FILE_PATH_OBJECTDATA_POWERSTAR_ARC },
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_1, STATIONED_FILE_PATH_OBJECTDATA_PRODUCTMAPOBJDATATABLE_ARC },
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_1, STATIONED_FILE_PATH_OBJECTDATA_SAVEICONBANNER_ARC },
 #endif
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_1, STATIONED_FILE_PATH_OBJECTDATA_SCENARIOSELECTSKY_ARC },
@@ -171,9 +171,9 @@ namespace {
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_LAYOUT_2, STATIONED_FILE_PATH_LAYOUTDATA_RESULTMAPBG_ARC },
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_LAYOUT_2, STATIONED_FILE_PATH_LAYOUTDATA_RESULTWINDOW_ARC },
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_LAYOUT_2, STATIONED_FILE_PATH_LAYOUTDATA_TIMELIMIT_ARC },
-#if defined(SB4P) || defined(SB4E) || defined(SBFJ)
+#if defined(SB4_JEP)
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_LAYOUT_2, "/LayoutData/TimeUp.arc" },
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_LAYOUT_2, STATIONED_FILE_PATH_LAYOUTDATA_TIMEUP_ARC },
 #endif
 
@@ -185,9 +185,9 @@ namespace {
         return cStationedFileInfoTableOverwrite;
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmBranch(0x804CDF70, getStationedFileInfoTable);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmBranch(0x804CE000, getStationedFileInfoTable);
 #endif
 }

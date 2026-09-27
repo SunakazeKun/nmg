@@ -36,6 +36,10 @@ MODULE_REGIONS = [
     "SB4W",
     "SB4K",
 ]
+REGION_WRAPPERS = [
+    ("SB4_JEP", ["SB4P", "SB4E", "SB4J"]),
+    ("SB4_WK",  ["SB4W", "SB4K"]),
+]
 MODULE_SOURCE_FILES = [
     "neo/AreaObj/AstroWarpArea.cpp",
     "neo/Debug/UseResourceHelper.cpp",
@@ -253,6 +257,10 @@ def __make_build_cmd(mw_tool_path: Path, command: str, options: list[str], inclu
                  f'{" ".join(options)} ')
     build_cmd += " -I- ".join(map(lambda i: f'-i "{i}"', includes))
     build_cmd += f' -D{region} -D{target}'
+
+    for def_name, regions in REGION_WRAPPERS:
+        if region in regions:
+            build_cmd += f' -D{def_name}'
 
     for def_name, def_val in defines:
         if def_val is None:

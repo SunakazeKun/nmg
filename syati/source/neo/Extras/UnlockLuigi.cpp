@@ -14,7 +14,7 @@ namespace {
     // Always retain player character
     // ==================================================================================================================
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmWrite32(0x804B4EBC, PPC_LI(3, 1));
     kmWrite32(0x804B559C, PPC_LI(3, 1));
     kmWrite32(0x804D5DFC, PPC_LI(3, 1));
@@ -25,7 +25,7 @@ namespace {
     kmWrite32(0x804D66FC, PPC_LI(3, 1));
     kmWrite32(0x804D6730, PPC_LI(3, 1));
     kmWrite32(0x804D7F4C, PPC_LI(3, 1));
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmWrite32(0x804B4F2C, PPC_LI(3, 1));
     kmWrite32(0x804B560C, PPC_LI(3, 1));
     kmWrite32(0x804D5E8C, PPC_LI(3, 1));

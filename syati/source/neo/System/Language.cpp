@@ -97,9 +97,9 @@ namespace {
         return locale;
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmBranch(0x804BD1E0, extGetDecidedLanguageFromIPL);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmBranch(0x804BD250, extGetDecidedLanguageFromIPL);
 #endif
 
@@ -122,9 +122,9 @@ namespace {
         return language;
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmBranch(0x804BD240, extGetLanguageFromIPL);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmBranch(0x804BD2B0, extGetLanguageFromIPL);
 #endif
 
@@ -145,9 +145,9 @@ namespace {
         return LOCALE_PREFIX_US_ENGLISH;
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmBranch(0x804BD270, extGetCurrentLanguagePrefix);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmBranch(0x804BD2E0, extGetCurrentLanguagePrefix);
 #endif
 
@@ -156,7 +156,7 @@ namespace {
     // Extension of MR::getCurrentRegionPrefix
     // =================================================================================================================
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     const char* extGetCurrentRegionPrefix(const char* regionPrefix) {
         if (regionPrefix == nullptr) {
             u32 locale = MR::getLanguage();
@@ -178,9 +178,9 @@ namespace {
     // Adjust count returned by MR::getLanguageNum
     // =================================================================================================================
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmWrite16(0x804BD392, ARRAY_SIZE(cLanguages));
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmWrite16(0x804BD422, ARRAY_SIZE(cLanguages));
 #endif
 
@@ -193,9 +193,9 @@ namespace {
         return cLanguages[index].mName;
     }
 
-#if defined(SB4P) || defined(SB4E) || defined(SB4J)
+#if defined(SB4_JEP)
     kmBranch(0x804BD3A0, extGetLanguagePrefixByIndex);
-#elif defined(SB4W) || defined(SB4K)
+#elif defined(SB4_WK)
     kmBranch(0x804BD430, extGetLanguagePrefixByIndex);
 #endif
 }
