@@ -16,6 +16,7 @@ RELINK_GALAXIES = [
     "VsKoopaJrLv1Galaxy",
     "AstroGalaxy",
     "PeachCastleGalaxy",
+    "TestGalaxy"
 ]
 RELINK_ZONES = [
     "NeoBonusAttackZone",
