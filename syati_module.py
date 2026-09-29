@@ -7,6 +7,7 @@ module binary that can be loaded with Syati. Modules are built for all five vers
 """
 
 from config import GAME_PATH, MWCCEPPC_PATH, MWASMEPPC_PATH, KAMEK_PATH, ORG_MAIN_DOLS_PATH
+from itertools import chain
 from pathlib import Path
 
 import logging
@@ -42,7 +43,6 @@ REGION_WRAPPERS = [
 ]
 MODULE_SOURCE_FILES = [
     "neo/AreaObj/AstroWarpArea.cpp",
-    "neo/Debug/UseResourceHelper.cpp",
     "neo/Effect/EffectObjLine.cpp",
     "neo/Enemy/SkeletalFish.cpp",
     "neo/Extras/DemoChanges.cpp",
@@ -73,6 +73,7 @@ MODULE_SOURCE_FILES = [
     "neo/MapObj/SpiderCocoon.cpp",
     "neo/MapObj/StringSpiderAttachPoint.cpp",
     "neo/NPC/Butler.cpp",
+    "neo/NPC/ExtGhostAttackGhost.cpp",
     "neo/NPC/HelperWitch.cpp",
     "neo/NPC/LibraryBook.cpp",
     "neo/NPC/TicoManiac.cpp",
@@ -106,6 +107,12 @@ MODULE_SOURCE_FILES = [
     "pt/Util/PlayerUtil.cpp",
     "pt/Util/TalkUtil.cpp",
 ]
+MODULE_DEBUG_FILES = [
+    "neo/Debug/UseResourceHelper.cpp",
+    "gst/GhostLuigiRecordHelper.cpp",
+    "gst/GstRecordHelper.cpp",
+    "gst/GstRecordSystem.cpp",
+]
 LOADER_SOURCE_FILES = [
     "loader/init.cpp",
     "loader/KamekAccess.cpp",
@@ -123,8 +130,12 @@ def build_syati_binaries():
 
 def build_syati_module(region: str, target: str):
     link_files = []
+    source_files = chain(
+        MODULE_SOURCE_FILES,
+        MODULE_DEBUG_FILES if target == "DEBUG" else []
+    )
 
-    for src_file_subpath in map(Path, MODULE_SOURCE_FILES):
+    for src_file_subpath in map(Path, source_files):
         src_file_path = SOURCE_SUBPATH / src_file_subpath
         dst_file_path = BUILD_SUBPATH / src_file_subpath.parent / f'{src_file_subpath.stem}.{region}.{target}.o'
 

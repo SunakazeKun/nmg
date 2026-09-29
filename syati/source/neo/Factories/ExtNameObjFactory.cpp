@@ -27,6 +27,11 @@
 #include "neo/NPC/LibraryBook.h"
 #include "neo/NPC/TicoManiac.h"
 
+#ifdef DEBUG
+#include "Game/Util/GamePadUtil.h"
+#include "gst/GhostLuigiRecordHelper.h"
+#endif
+
 class TakoSho;
 class MorphItemCollection;
 class Shellfish;
@@ -119,7 +124,7 @@ namespace {
         { "Butler", createExtActor<neo::Butler> },
         { "HelperWitch", createExtActor<neo::HelperWitch> },
         { "LibraryBook", createExtActor<neo::LibraryBook> },
-        { "TicoManiac", createExtActor<neo::TicoManiac> }
+        { "TicoManiac", createExtActor<neo::TicoManiac> },
     };
 
 
@@ -153,6 +158,12 @@ namespace {
 
     CreateActorFunc* getNameObjCreator(const char *pName) {
         CreateActorFunc* creator = NameObjFactory::getCreator(pName);
+
+#if DEBUG
+        if (MR::isEqualString(pName, "GhostAttackGhost") && MR::testCorePadButtonPlus(0)) {
+            return createExtActor<gst::GhostLuigiRecordHelper>;
+        }
+#endif
 
         if (!creator) {
             for (s32 i = 0; i < ARRAY_SIZE(cNewCreateNameObjTable); i++) {

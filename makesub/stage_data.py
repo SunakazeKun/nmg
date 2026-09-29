@@ -13,13 +13,13 @@ __all__ = ["pack_all_stage_data", "pack_stage_data"]
 ########################################################################################################################
 
 DUMMY_STAGE_ARCS = {
-    "IslandFleetGalaxy":    ["Design", "Ghost", "Sound"],
-    "YosshiHomeGalaxy":     ["Design", "Ghost", "Sound"],
-    "DigMineGalaxy":        ["Design", "Ghost", "Sound", "ZoneInfo"],
-    "MokumokuValleyGalaxy": ["Design", "Ghost", "Sound"],
-    "AbekobeGalaxy":        ["Design", "Ghost", "Sound"],
+    "IslandFleetGalaxy":    ["Design", "Sound"],
+    "YosshiHomeGalaxy":     ["Design", "Sound"],
+    "DigMineGalaxy":        ["Design", "Sound", "ZoneInfo"],
+    "MokumokuValleyGalaxy": ["Design", "Sound"],
+    "AbekobeGalaxy":        ["Design", "Sound"],
     "RedBlueExGalaxy":      ["Design"],
-    "VsKoopaJrLv1Galaxy":   ["Design", "Ghost", "Sound"],
+    "VsKoopaJrLv1Galaxy":   ["Design", "Sound"],
 }
 
 SCENARIO_STEMS = {
