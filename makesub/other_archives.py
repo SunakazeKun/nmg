@@ -39,6 +39,9 @@ SIMPLE_BCSV_ARC_INFOS: list[SimpleBcsvArcInfo] = [
         (SRC_AUDIO_RES_PATH, "ScenarioBgmInfo", ".bcsv"),
         (SRC_AUDIO_RES_PATH, "StageBgmInfo", ".bcsv"),
     ]),
+    ("AudioRes/Info/SoundIdToInstList.arc", "SoundIdToInstList", [
+        (SRC_AUDIO_RES_PATH, "SoundIdToInstList", ".bcsv"),
+    ]),
     ("ObjectData/PlanetMapDataTable.arc", "PlanetMapDataTable", [
         (SRC_OBJECT_DATA_PATH, "PlanetMapDataTable", ".bcsv"),
     ]),
