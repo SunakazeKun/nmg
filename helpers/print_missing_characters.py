@@ -68,7 +68,7 @@ def collect_used_characters(language: str) -> set[str]:
             continue
 
         for json_path in filter(lambda p: p.is_file() and p.name.endswith(".json"), folder_path.iterdir()):
-            bank_name = json_path.name
+            bank_name = json_path.stem
 
             if (archive_name, bank_name) in IGNORE_BANKS:
                 continue
