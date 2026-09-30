@@ -47,7 +47,8 @@
         "-DEBUGGING-",
         "[color:yellow]Aurum[defcolor], [color:blue]froggo[defcolor], [color:blue]MTLenz[defcolor], [color:blue]SY24[defcolor][pagebreak]",
         "-SPECIAL THANKS-",
-        "[color:blue]SMGCommunity[defcolor], [color:blue]Evanbowl[defcolor], [color:blue]Splitwirez[defcolor], [color:blue]Treeki[defcolor][pagebreak]",
+        "[color:blue]SMGCommunity[defcolor], [color:blue]Evanbowl[defcolor],",
+        "[color:blue]Splitwirez[defcolor], [color:blue]Treeki[defcolor][pagebreak]",
         "-IN MEMORIAM-",
         "[color:blue]Mixlas[defcolor], [color:blue]Satoru Iwata[defcolor]"
       ]
@@ -100,7 +101,8 @@
         "あるの! [delay:30] [ruby:自由;じゆう]に[ruby:読;よ]んでいいよ♪"
       ],
       "KrKorean": [
-        "아, 안녕! 엄마의 도서관에는 책이 정말 많아. 마음껏 골라서 읽어 봐!"
+        "아, 안녕! 엄마의 도서관에는 책이 정말 많아.",
+        "마음껏 골라서 읽어 봐!"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [

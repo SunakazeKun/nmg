@@ -70,7 +70,7 @@
         "[size:large]우와![pagebreak]",
         "[size:normal][player:0]님... 맞으시죠?[pagebreak]",
         "전 [color:red]키노피오대장[defcolor] 입니다![pagebreak]",
-        "저희가 [color:red]새로운 은하계[color:black]를 여행하다가 ",
+        "저희가 [color:red]새로운 은하계[defcolor]를 여행하다가 ",
         "이 어두컴컴한 동굴을 발견했어요.",
         "정말 멋진 모험이었죠!"
       ],
@@ -312,7 +312,7 @@
         "[color:red][ruby:息;いき][defcolor]つぎを[ruby:忘;わす]れずに!"
       ],
       "KrKorean": [
-        "[color:red]숨 쉬는 거[color:black] 잊지 마세요!"
+        "[color:red]숨 쉬는 거[defcolor] 잊지 마세요!"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -359,7 +359,7 @@
         "[icon:a_button]でスイスイ [color:blue][ruby:泳;およ]ごう！[color:black][color:red][defcolor]"
       ],
       "KrKorean": [
-        "[icon:a_button]을 눌러 [color:red]수영[color:black]할 수 있어.[color:red][defcolor]"
+        "[icon:a_button]을 눌러 [color:red]수영[defcolor]할 수 있어."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -408,7 +408,7 @@
         "[icon:analog_stick]スティックを [color:blue][ruby:前;まえ]に[defcolor][ruby:倒;たお]すと [color:red][ruby:下向;したむ]きにおよげるぜ[color:black]！[color:red][defcolor]"
       ],
       "KrKorean": [
-        "[icon:analog_stick]을 [color:blue]앞으로[defcolor] 기울여 [color:red]아래로 헤엄쳐 봐.[color:black].[color:red][defcolor]"
+        "[icon:analog_stick]을 [color:blue]앞으로[defcolor] 기울여 [color:red]아래로 헤엄쳐 봐.[defcolor]."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -455,7 +455,7 @@
         "[icon:z_button]で[color:blue]もぐる[color:black]！[color:red][defcolor]"
       ],
       "KrKorean": [
-        "[icon:z_button]을 눌러 [color:red]잠수[color:black]해봐.[color:red][defcolor]"
+        "[icon:z_button]을 눌러 [color:red]잠수[defcolor]해봐."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -550,7 +550,8 @@
         "[color:blue][ruby:空気;くうき][ruby:減;へ]ったら [defcolor][color:red]アワ[defcolor] で[ruby:回復;かいふく]！"
       ],
       "KrKorean": [
-        "[color:red]공기방울[defcolor]을 먹으면 공기를 보충할 수 있어!"
+        "[color:red]공기방울[defcolor]을 먹으면 공기를",
+        "보충할 수 있어!"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -615,7 +616,7 @@
       ],
       "KrKorean": [
         "[color:blue]수영 학교[defcolor]의 [color:red]최종 시험[defcolor]을 보러 왔니?[pagebreak]",
-        "이 시험에서는 모든 [icon:silver_star] [color:gray]실버스타[defcolor]를 모아야 해!"
+        "이 시험에서는 모든 [icon:silver_star][color:gray]실버스타[defcolor]를 모아야 해!"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -664,7 +665,7 @@
         "[icon:silver_star][color:gray]シルバースター[defcolor]をぜんぶ[ruby:集;あつ]めよう!"
       ],
       "KrKorean": [
-        "모든 [icon:silver_star] [color:gray]실버스타[defcolor]를 모아!"
+        "모든 [icon:silver_star][color:gray]실버스타[defcolor]를 모아!"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [

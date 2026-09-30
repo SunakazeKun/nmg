@@ -92,12 +92,12 @@
         "[color:gray](いま: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "KrKorean": [
-        "[player:0]님, 어서 오세요... [color:red]새로운 은하계[color:black]로",
+        "[player:0]님, 어서 오세요... [color:red]새로운 은하계[defcolor]로",
         "모험을 떠날 준비가 되셨나요?[pagebreak]",
-        "제 뒤에는 [icon:launch_star] [color:yellow]스타링[defcolor]이 있습니다.",
+        "제 뒤에는 [icon:launch_star][color:yellow]스타링[defcolor]이 있습니다.",
         "이걸 타면 머나먼 갤럭시로 가실 수 있어요.[pagebreak]",
         "출발하기 전에 몇 가지 질문을 드릴게요.[pagebreak]",
-        "[icon:mario] [color:red]마리오[defcolor]와 [icon:luigi] [color:green]루이지[defcolor] 중 ",
+        "[icon:mario][color:red]마리오[defcolor]와 [icon:luigi][color:green]루이지[defcolor] 중 ",
         "누구로 플레이 하실건가요?",
         "[color:gray](현재: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
@@ -205,9 +205,9 @@
       "KrKorean": [
         "[color:red]데스[defcolor] 모드로 플레이할 수도 있습니다. ",
         "조금 더 어려운 모드이죠...[pagebreak]",
-        "이 모드에서는 체력이 [color:red]1칸[color:black]으로 제한됩니다.",
+        "이 모드에서는 체력이 [color:red]1칸[defcolor]으로 제한됩니다.",
         "[color:red]데스 혜성[defcolor]과 똑같은 조건이죠.[pagebreak]",
-        "게다가 모든 [icon:checkpoint_flag] [color:blue]체크포인트 깃발[defcolor]이 ",
+        "게다가 모든 [icon:checkpoint_flag][color:blue]체크포인트 깃발[defcolor]이 ",
         "사라지게 됩니다...[pagebreak]",
         "[color:blue]일반[defcolor]과 [color:red]데스[defcolor] 중 ",
         "어느 모드를 선택하실건가요?",
@@ -302,7 +302,7 @@
       ],
       "KrKorean": [
         "좋아요. 여기서 나가시면",
-        "[color:blue]난이도[color:black]는 바꾸실 수 없습니다.[pagebreak]",
+        "[color:blue]난이도[defcolor]는 바꾸실 수 없습니다.[pagebreak]",
         "하지만 플레이하실 캐릭터는 ",
         "언제든지 바꾸실 수 있죠.[pagebreak]",
         "여러분에게 축복의 별똥별이 쏟아지기를… ",
@@ -419,7 +419,8 @@
         "[color:gray](いま: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "KrKorean": [
-        "[icon:mario] [color:red]마리오[defcolor]와 [icon:luigi] [color:green]루이지[defcolor] 중 누구로 플레이 하실건가요?",
+        "[icon:mario][color:red]마리오[defcolor]와 [icon:luigi][color:green]루이지[defcolor] 중 ",
+        "누구로 플레이 하실건가요?",
         "[color:gray](현재: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "CnSimpChinese": null,

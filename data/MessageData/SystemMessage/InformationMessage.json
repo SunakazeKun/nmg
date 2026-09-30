@@ -518,8 +518,8 @@
         "[color:red]ジャンプ[ruby:中;ちゅう]に [color:red]スピン[color:black]すれば [ruby:空;そら]を[ruby:飛;と]ぶ!"
       ],
       "KrKorean": [
-        "야호! [color:red]플라잉[player:0][color:black]가 되었다!",
-        "[color:red]점프 도중[color:black]에 [color:red]스핀[color:black]하면 하늘을 난다!"
+        "야호! [color:red]플라잉[player:0][defcolor]가 되었다!",
+        "[color:red]점프 도중[defcolor]에 [color:red]스핀[defcolor]하면 하늘을 난다!"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -650,8 +650,8 @@
         "[icon:wiimote][color:black]をふって、[color:red]スケート[defcolor]だ!"
       ],
       "KrKorean": [
-        "야호! [color:red]아이스[player:0][color:black]가 되었다!",
-        "[icon:wiimote]를 흔들어 [color:red]스케이트[color:black]!"
+        "야호! [color:red]아이스[player:0][defcolor]가 되었다!",
+        "[icon:wiimote]를 흔들어 [color:red]스케이트[defcolor]!"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1121,7 +1121,7 @@
         "ぜんぶ[ruby:集;あつ]めたらなにかが[ruby:起;お]こる...?!"
       ],
       "KrKorean": [
-        "야호! [icon:stamp][color:blue] 스탬프[color:black]를 얻었다!",
+        "야호! [icon:stamp][color:blue]스탬프[defcolor]를 얻었다!",
         "모두 모으면 무슨 일이 일어날까?"
       ],
       "CnSimpChinese": null,
