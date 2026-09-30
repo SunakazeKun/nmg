@@ -4545,10 +4545,14 @@ ShootingStar,OjLvStarPieceFall,SE_OJ_LV_STAR_PIECE_FALL,,0.0,0.0,0.0,0.0,0.0,0.0
 ShootingStar,OjStarPieceBurst,SE_OJ_STAR_PIECE_BURST,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,-1,0,-1,-1
 ShootingStar,OjStarPieceNotBurst,SE_OJ_STAR_PIECE_NOT_BURST,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,-1,0,-1,-1
 SignBoard,Smoke,SE_OJ_BOARD_SMOKE,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,-1,0,-1,-1
+SkeletalFish,Alarm,SE_BM_LV_SKL_GUARD_ALARM,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,-1,1,-1,-1
 SkeletalFish,Swim,SE_EM_LV_SNAKEFISH_SWIM,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,0,1,-1,-1
-SkeletalFish,Turn,SE_EM_LV_SNAKEFISH_SWIM,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,0,1,-1,-1
-SkeletalFish,Alarm,SE_EM_LV_TORPEDO_ALARM,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,-1,1,-1,-1
-SkeletalFish,Break,SE_EM_EXPLODE_UNDER_WATER,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,0,0,-1,-1
+SkeletalFish,Notice,SE_BM_SKL_GUARD_ATTACK_START,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,-1,0,-1,-1
+SkeletalFish,Turn,SE_BM_LV_SKL_GUARD_SWIM_ATTACK,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,0,1,-1,-1
+SkeletalFish,Turn,SE_BM_LV_SKL_GUARD_SWIM_NORMAL,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,0,1,-1,-1
+SkeletalFish,Attack,SE_BM_LV_SKL_GUARD_SWIM_ATTACK,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,0,1,-1,-1
+SkeletalFish,Attack,SE_BM_LV_SKL_GUARD_SWIM_NORMAL,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,0,1,-1,-1
+SkeletalFish,Break,SE_BM_SKL_GUARD_EXPLODE,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,0,0,-1,-1
 SkeletalFish,StarPieceBurst,SE_OJ_STAR_PIECE_BURST_W_F,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,-1,0,-1,-1
 SmallStone,Break,SE_OJ_SMALL_STONE_BREAK,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,-1,0,-1,-1
 SmallStone,OjStarPieceBurst,SE_OJ_STAR_PIECE_BURST,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,-1,0,-1,-1

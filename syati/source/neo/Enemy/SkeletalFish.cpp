@@ -154,6 +154,7 @@ namespace neo {
     void SkeletalFish::exeNotice() {
         if (MR::isFirstStep(this)) {
             MR::startAction(this, "Turn");
+            MR::startActionSound(this, "Notice", -1, -1, -1);
         }
 
         trySupportTicoFreeze();
