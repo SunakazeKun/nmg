@@ -109,6 +109,14 @@ namespace {
     }
 
     kmCall(0x801583F4, extBasaBasaIceCheckPlayerSpinAttackOnly);
+    
+
+    // Chorobon
+    bool extChorobonCheckPlayerAttacks(u32 msg) {
+        return MR::isMsgPlayerHitProjectiles(msg) || MR::isMsgFreezeAttack(msg);
+    }
+
+    kmCall(0x80176D3C, extChorobonCheckPlayerAttacks);
 
 
     // ==================================================================================================================
