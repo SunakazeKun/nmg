@@ -36,6 +36,8 @@
         "[color:yellow]Aurum[defcolor][pagebreak]",
         "-ITALIAN TRANSLATION-",
         "[color:blue]Gabbo[defcolor][pagebreak]",
+        "-FRENCH TRANSLATION-",
+        "[color:blue]MarioGaming64[defcolor], [color:blue]Myron Dragon[defcolor][pagebreak]",
         "-JAPANESE TRANSLATION-",
         "[color:blue]Mr. BMY[defcolor][pagebreak]",
         "-CHINESE TRANSLATION-",
@@ -77,8 +79,16 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Oh, bonjour! La bibliothèque de Maman",
+        "contient beaucoup de livres. N'hésite",
+        "pas à en emprunter un pour le lire!"
+      ],
+      "EuFrench": [
+        "Oh, bonjour! La bibliothèque de Maman",
+        "contient beaucoup de livres. N'hésite",
+        "pas à en emprunter un pour le lire!"
+      ],
       "EuGerman": [
         "Oh, hallo! Mamas Bibliothek ist mit",
         "vielen Büchern gefüllt. Du kannst",

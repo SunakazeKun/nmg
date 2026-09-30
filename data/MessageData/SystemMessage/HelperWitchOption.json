@@ -20,8 +20,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Casse-cou"
+      ],
+      "EuFrench": [
+        "Casse-cou"
+      ],
       "EuGerman": [
         "Schabernack"
       ],
@@ -67,8 +71,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Normal"
+      ],
+      "EuFrench": [
+        "Normal"
+      ],
       "EuGerman": [
         "Normal"
       ],
@@ -114,8 +122,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Luigi"
+      ],
+      "EuFrench": [
+        "Luigi"
+      ],
       "EuGerman": [
         "Luigi"
       ],
@@ -161,8 +173,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Mario"
+      ],
+      "EuFrench": [
+        "Mario"
+      ],
       "EuGerman": [
         "Mario"
       ],

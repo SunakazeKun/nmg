@@ -74,8 +74,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Que l'aventure Néo-Galactique commence!"
+      ],
+      "EuFrench": [
+        "Que l'aventure Néo-Galactique commence!"
+      ],
       "EuGerman": [
         "Ein neo-galaktisches Abenteuer beginnt!"
       ],
@@ -506,8 +510,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Le maître de Néo Mario Galaxy!"
+      ],
+      "EuFrench": [
+        "Le maître de Néo Mario Galaxy!"
+      ],
       "EuGerman": [
         "Neo Mario Galaxy Großmeister!"
       ],

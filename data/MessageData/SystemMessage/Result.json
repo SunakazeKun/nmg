@@ -638,8 +638,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Vous avez obtenu une [color:red] Étoile Rouge[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor][stringvar:0;0;0x00000000]"
+      ],
+      "EuFrench": [
+        "Vous avez obtenu une [color:red] Étoile Rouge[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor][stringvar:0;0;0x00000000]"
+      ],
       "EuGerman": [
         "Du hast einen [icon:red_star] [color:red]Power-Stern [defcolor]erhalten!",
         "[color:blue][stringvar:1;1;0x00000000][defcolor]",
@@ -697,8 +703,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Vous avez obtenu un [icon:stamp][color:blue] Tampon[color:black]!"
+      ],
+      "EuFrench": [
+        "Vous avez obtenu un [icon:stamp][color:blue] Tampon[color:black]!"
+      ],
       "EuGerman": [
         "Du hast einen [icon:stamp] [color:blue]Stempel [defcolor]erhalten!"
       ],

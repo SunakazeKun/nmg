@@ -2748,8 +2748,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Wow! Une fleur bleue avec des yeux?!",
+        "Je n'avais jamais vu ça de ma vie auparavant."
+      ],
+      "EuFrench": [
+        "Wow! Une fleur bleue avec des yeux?!",
+        "Je n'avais jamais vu ça de ma vie auparavant."
+      ],
       "EuGerman": [
         "Was haben wir denn da?",
         "Eine [color:blue]Blume[defcolor] mit Augen?"
@@ -2803,8 +2809,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Est-ce une [color:red] Fleur de Glace[defcolor]? Hmm...[delay:15]",
+        "Ça m'a l'air cool, n'est-ce pas? Hé hé!"
+      ],
+      "EuFrench": [
+        "Est-ce une [color:red] Fleur de Glace[defcolor]? Hmm...[delay:15]",
+        "Ça m'a l'air cool, n'est-ce pas? Hé hé!"
+      ],
       "EuGerman": [
         "Das ist eine [color:blue]Eisblume[defcolor]?",
         "Die ist aber cool..."
@@ -2992,8 +3004,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Hmmm... [delay:15] Je crois avoir déjà vu",
+        "ça auparavant..."
+      ],
+      "EuFrench": [
+        "Hmmm... [delay:15] Je crois avoir déjà vu",
+        "ça auparavant..."
+      ],
       "EuGerman": [
         "Hmmm... [delay:15] Das habe ich doch",
         "irgendwo mal gesehen..."
@@ -3042,8 +3060,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Je m'en souviens maintenant! C'est une [color:red] Étoile rouge[defcolor]",
+        "et elle contient le pouvoir des Lumas Rouges!"
+      ],
+      "EuFrench": [
+        "Je m'en souviens maintenant! C'est une [color:red] Étoile rouge[defcolor]",
+        "et elle contient le pouvoir des Lumas Rouges!"
+      ],
       "EuGerman": [
         "Genau! Das ist ein [color:red]Flugstern[defcolor],",
         "der die Kraft des [color:red]Roten Sterns[defcolor] bündelt."

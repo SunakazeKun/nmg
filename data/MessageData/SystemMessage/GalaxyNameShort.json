@@ -20,8 +20,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Blocs Fantômes"
+      ],
+      "EuFrench": [
+        "Blocs Fantômes"
+      ],
       "EuGerman": [
         "Schrecktanz"
       ],
@@ -67,8 +71,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Observatoire"
+      ],
+      "EuFrench": [
+        "Observatoire"
+      ],
       "EuGerman": [
         "Sternwarte"
       ],
@@ -114,8 +122,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Galion Lugubre"
+      ],
+      "EuFrench": [
+        "Galion Lugubre"
+      ],
       "EuGerman": [
         "Gruselgaleone"
       ],
@@ -161,8 +173,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Prairies Galactiques"
+      ],
+      "EuFrench": [
+        "Prairies Galactiques"
+      ],
       "EuGerman": [
         "Weltallgarten"
       ],
@@ -208,8 +224,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Combats Galactiques"
+      ],
+      "EuFrench": [
+        "Combats Galactiques"
+      ],
       "EuGerman": [
         "Kampfgürtel"
       ],
@@ -306,8 +326,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Rondins Tournants"
+      ],
+      "EuFrench": [
+        "Rondins Tournants"
+      ],
       "EuGerman": [
         "Drehwurm"
       ],
@@ -408,8 +432,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Repère du Roi Poulba"
+      ],
+      "EuFrench": [
+        "Repère du Roi Poulba"
+      ],
       "EuGerman": [
         "Otakönig"
       ],
@@ -455,8 +483,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Doux Bonbons"
+      ],
+      "EuFrench": [
+        "Doux Bonbons"
+      ],
       "EuGerman": [
         "Zuckerschnee"
       ],

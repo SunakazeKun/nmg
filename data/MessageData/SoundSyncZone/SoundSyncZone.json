@@ -20,8 +20,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Avez-vous récupéré [color:red]64[defcolor] [icon:purple_coin] [color:purple]Pièces Violettes[defcolor]?"
+      ],
+      "EuFrench": [
+        "Avez-vous récupéré [color:red]64[defcolor] [icon:purple_coin] [color:purple]Pièces Violettes[defcolor]?"
+      ],
       "EuGerman": [
         "Hast du schon",
         "[color:red]64[defcolor] [icon:purple_coin] [color:purple]lila Münzen[defcolor]?"

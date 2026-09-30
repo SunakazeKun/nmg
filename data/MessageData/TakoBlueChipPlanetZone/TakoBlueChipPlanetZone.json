@@ -20,8 +20,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Collecte les [icon:blue_chip]!"
+      ],
+      "EuFrench": [
+        "Collecte les [icon:blue_chip]!"
+      ],
       "EuGerman": [
         "Sammle die [icon:blue_chip]!"
       ],

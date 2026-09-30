@@ -495,8 +495,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Vous êtes devenu [color:red] [player:0] Volant[color:black]! [color:red]Tourbillonnez[color:black] pendant un [color:red] saut [color:black] pour voler!"
+      ],
+      "EuFrench": [
+        "Vous êtes devenu [color:red] [player:0] Volant[color:black]! [color:red]Tourbillonnez[color:black] pendant un [color:red] saut [color:black] pour voler!"
+      ],
       "EuGerman": [
         "Du wurdest zu [color:red]Flug-[player:0][defcolor]!",
         "[color:blue]Schüttele die [icon:wiimote] Wii-Fernbedienung,",
@@ -626,8 +630,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Vous êtes devenu[color:red] [player:0] de glace[color:black]! Secouez la [icon:wiimote] pour [color:blue]Glissé Sur la Glace[defcolor]."
+      ],
+      "EuFrench": [
+        "Vous êtes devenu[color:red] [player:0] de glace[color:black]! Secouez la [icon:wiimote] pour [color:blue]Glissé Sur la Glace[defcolor]."
+      ],
       "EuGerman": [
         "Du wurdest zu [color:blue]Eis-[player:0][defcolor]!",
         "Schüttele die [icon:wiimote], um zu [color:blue]skaten[defcolor]!",
@@ -1096,8 +1104,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Vous avez obtenu un [icon:stamp][color:blue] Tampon[color:black]! Tu sais ce qu'il arrive",
+        "si tu les collectes tous."
+      ],
+      "EuFrench": [
+        "Vous avez obtenu un [icon:stamp][color:blue] Tampon[color:black]! Tu sais ce qu'il arrive",
+        "si tu les collectes tous."
+      ],
       "EuGerman": [
         "Du hast einen [icon:stamp][color:blue] Stempel[defcolor] erhalten!",
         "Was wohl passiert, wenn du",

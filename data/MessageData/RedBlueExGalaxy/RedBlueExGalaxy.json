@@ -20,8 +20,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Prends [icon:star], [color:yellow]signe[defcolor] de courage!"
+      ],
+      "EuFrench": [
+        "Prends [icon:star], [color:yellow]signe[defcolor] de courage!"
+      ],
       "EuGerman": [
         "Nimm [icon:star] [color:yellow]Beweis[defcolor] für Mut!"
       ],
@@ -67,8 +71,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Tu as courage."
+      ],
+      "EuFrench": [
+        "Tu as courage."
+      ],
       "EuGerman": [
         "Du bist Mut."
       ],
@@ -116,8 +124,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Parcours difficile.",
+        "Bonne chance!"
+      ],
+      "EuFrench": [
+        "Parcours difficile.",
+        "Bonne chance!"
+      ],
       "EuGerman": [
         "Parkour ist anspruchsvoll.",
         "Viel Glück!"
@@ -169,8 +183,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Moitié fini.",
+        "bien joué."
+      ],
+      "EuFrench": [
+        "Moitié fini.",
+        "bien joué."
+      ],
       "EuGerman": [
         "Hälfte geschafft.",
         "Gute Arbeit."
@@ -221,8 +241,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "À quoi servent les clous?"
+      ],
+      "EuFrench": [
+        "À quoi servent les clous?"
+      ],
       "EuGerman": [
         "Wofür ist Nagel?"
       ],

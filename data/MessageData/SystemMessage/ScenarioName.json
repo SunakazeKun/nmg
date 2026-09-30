@@ -20,8 +20,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "En Rythme avec les Blocs Fantômes!"
+      ],
+      "EuFrench": [
+        "En Rythme avec les Blocs Fantômes!"
+      ],
       "EuGerman": [
         "Tanzen mit Geistern"
       ],
@@ -67,8 +71,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "La Dance des Pièces Violettes"
+      ],
+      "EuFrench": [
+        "La Dance des Pièces Violettes"
+      ],
       "EuGerman": [
         "Lila Münzen auf der Tanzfläche"
       ],
@@ -114,8 +122,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "[player:0] et l'Étoile Rouge"
+      ],
+      "EuFrench": [
+        "[player:0] et l'Étoile Rouge"
+      ],
       "EuGerman": [
         "[player:0] und der Rote Stern"
       ],
@@ -161,8 +173,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Nostalgie Intergalactique"
+      ],
+      "EuFrench": [
+        "Nostalgie Intergalactique"
+      ],
       "EuGerman": [
         "Intergalaktische Nostalgie"
       ],
@@ -208,8 +224,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Les Étoiles d'argent du Galion"
+      ],
+      "EuFrench": [
+        "Les Étoiles d'argent du Galion"
+      ],
       "EuGerman": [
         "Die verfluchten Silbersterne"
       ],
@@ -255,8 +275,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Les Pièces Violettes du Galion"
+      ],
+      "EuFrench": [
+        "Les Pièces Violettes du Galion"
+      ],
       "EuGerman": [
         "Lila Münzen auf der Gruselgaleone"
       ],
@@ -302,8 +326,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Le Trésor en or du Galion"
+      ],
+      "EuFrench": [
+        "Le Trésor en or du Galion"
+      ],
       "EuGerman": [
         "Der goldene Schatz"
       ],
@@ -514,8 +542,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Une Prairie, des Plantes et Dino Piranha"
+      ],
+      "EuFrench": [
+        "Une Prairie, des Plantes et Dino Piranha"
+      ],
       "EuGerman": [
         "Der Dino-Piranha"
       ],
@@ -561,8 +593,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Étoiles d'argent dans les Prairies"
+      ],
+      "EuFrench": [
+        "Étoiles d'argent dans les Prairies"
+      ],
       "EuGerman": [
         "Silbersterne in sausigen Höhen"
       ],
@@ -608,8 +644,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "À la course! Le fiston de Dino Piranha"
+      ],
+      "EuFrench": [
+        "À la course! Le fiston de Dino Piranha"
+      ],
       "EuGerman": [
         "Beeilung! Der verlorene Sohn!"
       ],
@@ -655,8 +695,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Marathon des mini Planètes Galactiques"
+      ],
+      "EuFrench": [
+        "Marathon des mini Planètes Galactiques"
+      ],
       "EuGerman": [
         "Der Monstermeistertitel"
       ],
@@ -702,8 +746,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "À la course! Les mini Planètes Galactiques"
+      ],
+      "EuFrench": [
+        "À la course! Les mini Planètes Galactiques"
+      ],
       "EuGerman": [
         "Beeilung! Monstermarathon!"
       ],
@@ -749,8 +797,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "La Planète aux Électrons"
+      ],
+      "EuFrench": [
+        "La Planète aux Électrons"
+      ],
       "EuGerman": [
         "Elektronenknallerei!"
       ],
@@ -796,8 +848,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Tourne, Saute et Retourne"
+      ],
+      "EuFrench": [
+        "Tourne, Saute et Retourne"
+      ],
       "EuGerman": [
         "Dreh-und-Wende-Trauma"
       ],
@@ -843,8 +899,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "À la course! Des Rondins et des Clones"
+      ],
+      "EuFrench": [
+        "À la course! Des Rondins et des Clones"
+      ],
       "EuGerman": [
         "Dreh-und-Wende-bis-zum-Ende!"
       ],
@@ -890,8 +950,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Des Clous de Consolidation"
+      ],
+      "EuFrench": [
+        "Des Clous de Consolidation"
+      ],
       "EuGerman": [
         "Nägel mit Köpfen machen!"
       ],
@@ -937,8 +1001,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "L'armée du Roi Poulba"
+      ],
+      "EuFrench": [
+        "L'armée du Roi Poulba"
+      ],
       "EuGerman": [
         "Der Otakönig im Lava-UFO"
       ],
@@ -984,8 +1052,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Casse-cou! L'armée du Roi Poulba"
+      ],
+      "EuFrench": [
+        "Casse-cou! L'armée du Roi Poulba"
+      ],
       "EuGerman": [
         "Risikokomet! Der Otakönig!"
       ],
@@ -1031,8 +1103,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Joyeux anniversaire... [player:0]?"
+      ],
+      "EuFrench": [
+        "Joyeux anniversaire... [player:0]?"
+      ],
       "EuGerman": [
         "Alles Gute zum Geburtstag, [player:0]!"
       ],
@@ -1078,8 +1154,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Le roi Poulba brise la glace"
+      ],
+      "EuFrench": [
+        "Le roi Poulba brise la glace"
+      ],
       "EuGerman": [
         "Heiß! Brodelnde Schokolade!"
       ],
@@ -1125,8 +1205,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "L'hiver des Patavert"
+      ],
+      "EuFrench": [
+        "L'hiver des Patavert"
+      ],
       "EuGerman": [
         "Schlingersause mit dem Wanderaffen"
       ],

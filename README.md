@@ -47,10 +47,12 @@ can be found in [credits.md](data/dist/nmg/credits.md).
 - froggo
 - Gabbo
 - Hadau
+- MarioGaming64
 - MikaMusic
 - Mixlas
 - Mr. BMY
 - MTLenz
+- Myron Dragon
 - Samurai47
 - StationAlpha
 - Super Hackio

@@ -17,6 +17,12 @@
       ],
       "KrKorean": [
         "네오 마리오 Wii"
+      ],
+      "EuFrench": [
+        "NÉO MARIO GALAXY"
+      ],
+      "UsFrench": [
+        "NÉO MARIO GALAXY"
       ]
     }
   },
@@ -41,8 +47,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "L'aventure Néo-Galactique!"
+      ],
+      "EuFrench": [
+        "L'aventure Néo-Galactique!"
+      ],
       "EuGerman": [
         "Ein neo-galaktisches Abenteuer!"
       ],

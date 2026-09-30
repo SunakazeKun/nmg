@@ -24,8 +24,16 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Grâce aux [color:purple]Herbes Duveteuses[defcolor], tu peux",
+        "secouer la [icon:wiimote] pour voler plus haut!",
+        "Mais seulement [color:red] trois fois[defcolor], boïng-oïng!"
+      ],
+      "EuFrench": [
+        "Grâce aux [color:purple]Herbes Duveteuses[defcolor], tu peux",
+        "secouer la [icon:wiimote] pour voler plus haut!",
+        "Mais seulement [color:red] trois fois[defcolor], boïng-oïng!"
+      ],
       "EuGerman": [
         "Schüttele die [icon:wiimote], um mit",
         "dem [color:red]Flaumkraut[defcolor] höher zu fliegen.",
@@ -80,8 +88,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Tu as réussi. Excellent, boïng-oïng!"
+      ],
+      "EuFrench": [
+        "Tu as réussi. Excellent, boïng-oïng!"
+      ],
       "EuGerman": [
         "Du hast es geschafft, hoppelhopp!"
       ],

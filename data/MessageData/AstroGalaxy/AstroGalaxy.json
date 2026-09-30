@@ -22,8 +22,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Désires-tu consulter l-[delay:30]-[delay:30][size:large]QUOI?![size:normal][delay:60]",
+        "[sound:SE_SV_BUTLER_TALK_WORRIED]Où es passé la carte? !"
+      ],
+      "EuFrench": [
+        "Désires-tu consulter l-[delay:30]-[delay:30][size:large]QUOI?![size:normal][delay:60]",
+        "[sound:SE_SV_BUTLER_TALK_WORRIED]Où es passé la carte? !"
+      ],
       "EuGerman": [
         "Ja, ja, hier ist d-[delay:30]-[delay:30]",
         "[size:large]HÄÄ?[size:normal][delay:60] [sound:SE_SV_BUTLER_TALK_WORRIED]Wo ist die Karte?!"
@@ -76,8 +82,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Ouvrez la porte! Laissez-moi entrer!"
+      ],
+      "EuFrench": [
+        "Ouvrez la porte! Laissez-moi entrer!"
+      ],
       "EuGerman": [
         "Öffnet die Tür! Lasst mich rein!"
       ],
@@ -126,8 +136,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Le[color:red]Vaisseau Champignon[defcolor] est opérationnel!"
+      ],
+      "EuFrench": [
+        "Le[color:red]Vaisseau Champignon[defcolor] est opérationnel!"
+      ],
       "EuGerman": [
         "Das [color:red]Pilz-Schiff[defcolor] ist",
         "funktionsfähig!"
@@ -177,8 +191,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Je ne comprends pas bien ce que",
+        "disent ces [color:green]Lumas[defcolor]!"
+      ],
+      "EuFrench": [
+        "Je ne comprends pas bien ce que",
+        "disent ces [color:green]Lumas[defcolor]!"
+      ],
       "EuGerman": [
         "Hää? Worüber reden diese [color:green]Luma[defcolor]?"
       ],
@@ -231,8 +251,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "As-tu déjà regardé Kaamelott? C'est",
+        "un classique, tu ne trouves pas?"
+      ],
+      "EuFrench": [
+        "As-tu déjà regardé Kaamelott? C'est",
+        "un classique, tu ne trouves pas?"
+      ],
       "EuGerman": [
         "Hast du schon mal [color:red]Mein wunderbarer",
         "Waschsalon[defcolor] gesehen? Ein richtiger",
@@ -288,8 +314,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Un appui sur [icon:a_button] est un appui sur [icon:a_button]...[pagebreak]",
+        "[size:small]Des univers parallèles... Zzzzzz...."
+      ],
+      "EuFrench": [
+        "Un appui sur [icon:a_button] est un appui sur [icon:a_button]...[pagebreak]",
+        "[size:small]Des univers parallèles... Zzzzzz...."
+      ],
       "EuGerman": [
         "Zzzzzz...."
       ],
@@ -348,8 +380,16 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Je tiens à te donner toute ma gratitude",
+        "pour avoir joué à [color:red]Néo Mario Galaxy[defcolor].[pagebreak]",
+        "Tu peux désormais prendre cette [icon:star] [color:yellow] Super Étoile[defcolor]."
+      ],
+      "EuFrench": [
+        "Je tiens à te donner toute ma gratitude",
+        "pour avoir joué à [color:red]Néo Mario Galaxy[defcolor].[pagebreak]",
+        "Tu peux désormais prendre cette [icon:star] [color:yellow] Super Étoile[defcolor]."
+      ],
       "EuGerman": [
         "Ich möchte dir von ganzem Herzen",
         "dafür danken, dass du [color:red]Neo Mario Galaxy[defcolor]",
@@ -411,8 +451,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Que les étoiles scintillent",
+        "Sur vous..."
+      ],
+      "EuFrench": [
+        "Que les étoiles scintillent",
+        "Sur vous..."
+      ],
       "EuGerman": [
         "Möge der Glanz der Sterne",
         "für ewig auf dich scheinen!"
@@ -473,8 +519,24 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Voici une [color:red]Étoile Rouge[defcolor],[delay:30] elle ",
+        "renferme le pouvoir des Lumas Rouges.[pagebreak]",
+        "Le truc incroyable est qu'elle te permet",
+        "de [color:red]t'envoler [defcolor]si tu tourbillonnes",
+        "[color:blue]en plein saut[defcolor]. Oui, T'envoler![pagebreak]",
+        "Tout en appuyant sur [icon:a_button], tu peux ",
+        "[color:red]changer de direction avec[defcolor]  le [icon:analog_stick]."
+      ],
+      "EuFrench": [
+        "Voici une [color:red]Étoile Rouge[defcolor],[delay:30] elle ",
+        "renferme le pouvoir des Lumas Rouges.[pagebreak]",
+        "Le truc incroyable est qu'elle te permet",
+        "de [color:red]t'envoler [defcolor]si tu tourbillonnes",
+        "[color:blue]en plein saut[defcolor]. Oui, T'envoler![pagebreak]",
+        "Tout en appuyant sur [icon:a_button], tu peux ",
+        "[color:red]changer de direction avec[defcolor]  le [icon:analog_stick]."
+      ],
       "EuGerman": [
         "Das ist ein [color:red]Roter Stern[defcolor]. Er bindet",
         "die Kraft der Roten Luma.[pagebreak]",
@@ -554,8 +616,18 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Une [color:purple]Comète Violette[defcolor] est apparue dans",
+        "l'[color:blue]Observatoire de la Comète[defcolor].[pagebreak]",
+        "Aidez-nous à collecter les [color:purple]100[defcolor] [icon:purple_coin] pour",
+        "faire apparaître la [icon:red_star] [color:red]Super Étoile Rouge[defcolor]."
+      ],
+      "EuFrench": [
+        "Une [color:purple]Comète Violette[defcolor] est apparue dans",
+        "l'[color:blue]Observatoire de la Comète[defcolor].[pagebreak]",
+        "Aidez-nous à collecter les [color:purple]100[defcolor] [icon:purple_coin] pour",
+        "faire apparaître la [icon:red_star] [color:red]Super Étoile Rouge[defcolor]."
+      ],
       "EuGerman": [
         "Ein [color:purple]Lila Komet[defcolor] ist über der",
         "[color:blue]Sternwarte[defcolor] erschienen.[pagebreak]",
@@ -620,8 +692,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Obtiens les [color:purple]100[defcolor] [icon:purple_coin]!"
+      ],
+      "EuFrench": [
+        "Obtiens les [color:purple]100[defcolor] [icon:purple_coin]!"
+      ],
       "EuGerman": [
         "Sammle alle [color:purple]100[defcolor] [icon:purple_coin]!"
       ],
@@ -667,8 +743,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Merci beaucoup! Bon travail!"
+      ],
+      "EuFrench": [
+        "Merci beaucoup! Bon travail!"
+      ],
       "EuGerman": [
         "Super, vielen Dank!"
       ],
@@ -720,8 +800,20 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Salut! Je suis le [color:purple]Luma violet[defcolor].",
+        "Merci d'avoir récupéré les [icon:purple_coin]![pagebreak]",
+        "Si vous voulez en savoir plus sur les",
+        "[color:red]Comètes Farceuses[defcolor], je suis le spécialiste",
+        "De ce domaine!"
+      ],
+      "EuFrench": [
+        "Salut! Je suis le [color:purple]Luma violet[defcolor].",
+        "Merci d'avoir récupéré les [icon:purple_coin]![pagebreak]",
+        "Si vous voulez en savoir plus sur les",
+        "[color:red]Comètes Farceuses[defcolor], je suis le spécialiste",
+        "De ce domaine!"
+      ],
       "EuGerman": [
         "Heyho! Ich heiße [color:purple]Lumacomète[defcolor].",
         "Danke für's Sammeln der [icon:purple_coin]![pagebreak]",
@@ -785,8 +877,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Voici la [color:red]Terrasse[defcolor]!"
+      ],
+      "EuFrench": [
+        "Voici la [color:red]Terrasse[defcolor]!"
+      ],
       "EuGerman": [
         "Hier ist die [color:blue]Terrasse[defcolor]!"
       ],
@@ -832,8 +928,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Voici la [color:red]Fontaine[defcolor]!"
+      ],
+      "EuFrench": [
+        "Voici la [color:red]Fontaine[defcolor]!"
+      ],
       "EuGerman": [
         "Das [color:blue]Badezimmer[defcolor] ist hier!"
       ],
@@ -879,8 +979,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Voici la [color:red]Cuisine[defcolor]!"
+      ],
+      "EuFrench": [
+        "Voici la [color:red]Cuisine[defcolor]!"
+      ],
       "EuGerman": [
         "Die [color:blue]Küche[defcolor] ist hier!"
       ],
@@ -926,8 +1030,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Voici la [color:red]Chambre[defcolor]!"
+      ],
+      "EuFrench": [
+        "Voici la [color:red]Chambre[defcolor]!"
+      ],
       "EuGerman": [
         "Das [color:blue]Schlafzimmer[defcolor] ist hier!"
       ],
@@ -973,8 +1081,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Voici la [color:red]Salle des Machines[defcolor]!"
+      ],
+      "EuFrench": [
+        "Voici la [color:red]Salle des Machines[defcolor]!"
+      ],
       "EuGerman": [
         "Hier ist der [color:blue]Maschinenraum[defcolor]!"
       ],
@@ -1020,8 +1132,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Ici, c'est le [color:red]Jardin[defcolor].",
+        "C'est une pièce secrète!"
+      ],
+      "EuFrench": [
+        "Ici, c'est le [color:red]Jardin[defcolor].",
+        "C'est une pièce secrète!"
+      ],
       "EuGerman": [
         "Das [color:blue]Loft[defcolor] ist hier!"
       ],
@@ -1067,8 +1185,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Ici, c'est la [color:red]Salle de Jeu[defcolor]!"
+      ],
+      "EuFrench": [
+        "Ici, c'est la [color:red]Salle de Jeu[defcolor]!"
+      ],
       "EuGerman": [
         "Hier ist das [color:blue]Kinderzimmer[defcolor]!"
       ],
@@ -1114,8 +1236,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "La [color:red]Bibliothèque[defcolor] de ",
+        "Maman est par ici!"
+      ],
+      "EuFrench": [
+        "La [color:red]Bibliothèque[defcolor] de ",
+        "Maman est par ici!"
+      ],
       "EuGerman": [
         "Mamas [color:blue]Bücherei[defcolor] ist hier!"
       ],
@@ -1164,8 +1292,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Nous sommes les gardiens des",
+        "[color:red]Galaxies des Épreuves[defcolor]."
+      ],
+      "EuFrench": [
+        "Nous sommes les gardiens des",
+        "[color:red]Galaxies des Épreuves[defcolor]."
+      ],
       "EuGerman": [
         "Wir sind die Wächter der",
         "[color:red]Challenge-Galaxien[defcolor]."
@@ -1214,8 +1348,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "La [color:red]Planète des Épreuves[defcolor]",
+        "est juste au-dessus!"
+      ],
+      "EuFrench": [
+        "La [color:red]Planète des Épreuves[defcolor]",
+        "est juste au-dessus!"
+      ],
       "EuGerman": [
         "Dort ist der [color:green]Planet der Prüfung[defcolor]!"
       ],
@@ -1264,8 +1404,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Les [color:red]Galaxies des Épreuves[defcolor]",
+        "sont très difficiles!"
+      ],
+      "EuFrench": [
+        "Les [color:red]Galaxies des Épreuves[defcolor]",
+        "sont très difficiles!"
+      ],
       "EuGerman": [
         "Die [color:red]Challenge-Galaxien[defcolor]",
         "sind sehr anspruchsvoll!"
@@ -1315,8 +1461,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "L'entrée de la [color:blue]Fabrique de Gateaux[defcolor]",
+        "est actuellement indisponible."
+      ],
+      "EuFrench": [
+        "L'entrée de la [color:blue]Fabrique de Gateaux[defcolor]",
+        "est actuellement indisponible."
+      ],
       "EuGerman": [
         "Die [color:blue]Keksfabrik-Galaxie[defcolor] ist",
         "momentan nicht verfügbar."
@@ -1368,8 +1520,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "L'entrée des [color:blue]Astéroïdes aux Cocons[defcolor]",
+        "est actuellement indisponible."
+      ],
+      "EuFrench": [
+        "L'entrée des [color:blue]Astéroïdes aux Cocons[defcolor]",
+        "est actuellement indisponible."
+      ],
       "EuGerman": [
         "Die [color:blue]Kokon-Asteroiden-Galaxie[defcolor] ist",
         "momentan nicht verfügbar."
@@ -1421,8 +1579,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "L'entrée des [color:blue]Larmes[defcolor]",
+        "est actuellement indisponible."
+      ],
+      "EuFrench": [
+        "L'entrée des [color:blue]Larmes[defcolor]",
+        "est actuellement indisponible."
+      ],
       "EuGerman": [
         "Die [color:blue]Tränen-Galaxie[defcolor] ist",
         "momentan nicht verfügbar."
@@ -1474,8 +1638,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "L'entrée du [color:blue]Tunnel Poisonneux[defcolor]",
+        "est actuellement indisponible."
+      ],
+      "EuFrench": [
+        "L'entrée du [color:blue]Tunnel Poisonneux[defcolor]",
+        "est actuellement indisponible."
+      ],
       "EuGerman": [
         "Die [color:blue]Fischtunnel-Galaxie[defcolor] ist",
         "momentan nicht verfügbar."
@@ -1527,8 +1697,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "L'entrée de la[color:blue]Rivière de Sable[defcolor]",
+        "est actuellement indisponible."
+      ],
+      "EuFrench": [
+        "L'entrée de la[color:blue]Rivière de Sable[defcolor]",
+        "est actuellement indisponible."
+      ],
       "EuGerman": [
         "Die [color:blue]Sandstrom-Galaxie[defcolor] ist",
         "momentan nicht verfügbar."
@@ -1581,8 +1757,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "L'entrée de la [color:blue]Promenade Sinistre[defcolor]",
+        "est actuellement indisponible."
+      ],
+      "EuFrench": [
+        "L'entrée de la [color:blue]Promenade Sinistre[defcolor]",
+        "est actuellement indisponible."
+      ],
       "EuGerman": [
         "Die [color:blue]Schattenpromenade-Galaxie[defcolor] ist",
         "momentan nicht verfügbar."
@@ -1634,8 +1816,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "L'entrée de la [color:blue]Capsule Neigeuse[defcolor]",
+        "est actuellement indisponible."
+      ],
+      "EuFrench": [
+        "L'entrée de la [color:blue]Capsule Neigeuse[defcolor]",
+        "est actuellement indisponible."
+      ],
       "EuGerman": [
         "Die [color:blue]Schneekapsel-Galaxie[defcolor] ist",
         "momentan nicht verfügbar."
@@ -1687,8 +1875,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "L'entrée de l'[color:blue]Épreuve de la Bulle[defcolor]",
+        "est actuellement indisponible."
+      ],
+      "EuFrench": [
+        "L'entrée de l'[color:blue]Épreuve de la Bulle[defcolor]",
+        "est actuellement indisponible."
+      ],
       "EuGerman": [
         "Der Eingang zur [color:blue]Challenge-Blase[defcolor]",
         "ist momentan nicht verfügbar."
@@ -1740,8 +1934,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "L'entrée de l'[color:blue]Épreuve de la Boule[defcolor]",
+        "est actuellement indisponible."
+      ],
+      "EuFrench": [
+        "L'entrée de l'[color:blue]Épreuve de la Boule[defcolor]",
+        "est actuellement indisponible."
+      ],
       "EuGerman": [
         "Der Eingang zur [color:blue]Challenge-Ball[defcolor]",
         "ist momentan nicht verfügbar."
@@ -1793,8 +1993,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "L'entrée de l'[color:blue]Épreuve de Surf[defcolor]",
+        "est actuellement indisponible."
+      ],
+      "EuFrench": [
+        "L'entrée de l'[color:blue]Épreuve de Surf[defcolor]",
+        "est actuellement indisponible."
+      ],
       "EuGerman": [
         "Der Eingang zur [color:blue]Challenge-Surfen[defcolor]",
         "ist momentan nicht verfügbar."
@@ -1846,8 +2052,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "L'entrée de la [color:blue]Galaxie du Grand Final[defcolor]",
+        "est actuellement indisponible."
+      ],
+      "EuFrench": [
+        "L'entrée de la [color:blue]Galaxie du Grand Final[defcolor]",
+        "est actuellement indisponible."
+      ],
       "EuGerman": [
         "Die [color:blue]Großes-Finale-Galaxie[defcolor] ist",
         "momentan nicht verfügbar."
@@ -1897,8 +2109,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Tu peux utiliser l'[color:red]Étoile Rouge[defcolor]."
+      ],
+      "EuFrench": [
+        "Tu peux utiliser l'[color:red]Étoile Rouge[defcolor]."
+      ],
       "EuGerman": [
         "Du kannst diesen [color:red]Roten Stern[defcolor] verwenden."
       ],
@@ -1945,8 +2161,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Il va dormir encore longtemps?..."
+      ],
+      "EuFrench": [
+        "Il va dormir encore longtemps?..."
+      ],
       "EuGerman": [
         "Wie lange will er noch schlafen?!"
       ],
@@ -1994,8 +2214,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "On vit tous dans l'[color:blue]Observatoire[defcolor]",
+        "avec Maman!"
+      ],
+      "EuFrench": [
+        "On vit tous dans l'[color:blue]Observatoire[defcolor]",
+        "avec Maman!"
+      ],
       "EuGerman": [
         "Wir leben hier mit Mama!"
       ],
@@ -2043,8 +2269,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "C'est la récréation♪"
+      ],
+      "EuFrench": [
+        "C'est la récréation♪"
+      ],
       "EuGerman": [
         "Diese Couch ist am bequemsten! ♪"
       ],
@@ -2092,8 +2322,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Maman va nous lire une [color:blue]Histoire[defcolor]♪"
+      ],
+      "EuFrench": [
+        "Maman va nous lire une [color:blue]Histoire[defcolor]♪"
+      ],
       "EuGerman": [
         "Mama wird mir eine",
         "[color:blue]Geschichte[defcolor] vorlesen! ♪"
@@ -2142,8 +2376,12 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Maman est la meilleure!♪"
+      ],
+      "EuFrench": [
+        "Maman est la meilleure!♪"
+      ],
       "EuGerman": [
         "Mama ist die Beste! ♪"
       ],
@@ -2191,8 +2429,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Là-haut, c'est la",
+        "[color:red]Salle des Machines[defcolor]!"
+      ],
+      "EuFrench": [
+        "Là-haut, c'est la",
+        "[color:red]Salle des Machines[defcolor]!"
+      ],
       "EuGerman": [
         "Der [color:blue]Maschinenraum",
         "[defcolor]ist über uns!"
@@ -2242,8 +2486,14 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Monte là-dedans ",
+        "pour descendre!"
+      ],
+      "EuFrench": [
+        "Monte là-dedans ",
+        "pour descendre!"
+      ],
       "EuGerman": [
         "Das ist eine Abkürzung!"
       ],
@@ -2296,8 +2546,18 @@
       ],
       "UsSpanish": null,
       "EuSpanish": null,
-      "UsFrench": null,
-      "EuFrench": null,
+      "UsFrench": [
+        "Le temps, comme l'espoir, est une illusion.[delay:60]",
+        "On ne peut pas s'échapper...[pagebreak]",
+        "La seule issue est la douce",
+        "délivrance de la mort![sound:SE_SV_TICOFAT_META]"
+      ],
+      "EuFrench": [
+        "Le temps, comme l'espoir, est une illusion.[delay:60]",
+        "On ne peut pas s'échapper...[pagebreak]",
+        "La seule issue est la douce",
+        "délivrance de la mort![sound:SE_SV_TICOFAT_META]"
+      ],
       "EuGerman": [
         "Zeit und Hoffnung sind nur Illusionen.[delay:60]",
         "Es gibt kein Entkommen...[pagebreak]",
