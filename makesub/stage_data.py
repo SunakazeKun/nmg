@@ -15,7 +15,7 @@ __all__ = ["pack_all_stage_data", "pack_stage_data"]
 DUMMY_STAGE_ARCS = {
     "IslandFleetGalaxy":    ["Design", "Sound"],
     "YosshiHomeGalaxy":     ["Design", "Sound"],
-    "DigMineGalaxy":        ["Design", "Sound", "ZoneInfo"],
+    "DigMineGalaxy":        ["Design", "Sound"],
     "MokumokuValleyGalaxy": ["Design", "Sound"],
     "AbekobeGalaxy":        ["Design", "Sound"],
     "RedBlueExGalaxy":      ["Design"],
