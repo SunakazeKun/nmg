@@ -36,7 +36,6 @@ DIST_RIIVO_PATH = BUILD_DIST_PATH / "riivolution"
 
 DIST_GAME_PATH = DIST_NMG_PATH / "game"
 DIST_SAVE_PATH = DIST_NMG_PATH / "save"
-DIST_MEMORY_PATH = DIST_NMG_PATH / "memory"
 
 
 def pack_zip_archive():
@@ -51,7 +50,6 @@ def pack_zip_archive():
 
     DIST_GAME_PATH.mkdir(parents=True, exist_ok=True)
     DIST_SAVE_PATH.mkdir(parents=True, exist_ok=True)
-    DIST_MEMORY_PATH.mkdir(parents=True, exist_ok=True)
 
     # ------------------------------------------------------
 
@@ -134,8 +132,9 @@ def __is_file_to_include(src_file_path: Path, iso_file_path: str, vanilla_file_h
 def __make_riivolution_xml(target_info: RiivolutionTarget, syati_loader_xml_path: Path, riivolution_xml_path: Path):
     game_id = target_info.id
     game_region = target_info.region
-    language_options = target_info.language_options
-    error_message_archive_addr = target_info.error_message_archive_addr
+    language_options = target_info.languages
+    error_message_archive_addr = target_info.error_msg_arc_addr
+    error_message_archive_size = target_info.error_msg_arc_size
 
     logging.info("Generating Riivolution XML for %s%s", game_id, game_region)
 
@@ -187,12 +186,13 @@ def __make_riivolution_xml(target_info: RiivolutionTarget, syati_loader_xml_path
     ET.SubElement(patch_node, "folder", {"disc": "/StageData",    "external": "game/StageData",    "create": "true"})
     ET.SubElement(patch_node, "folder", {"disc": "/SystemData",   "external": "game/SystemData",   "create": "true"})
 
-    ET.SubElement(patch_node, "memory", {"offset": f'0x{error_message_archive_addr:08X}', "original": "52415243",
-                                         "valuefile": f'memory/ErrorMessageArchive{game_id}{game_region}.arc'})
-
     for syati_xml_node in iter(syati_loader_xml_root):
         offset = syati_xml_node.attrib["offset"]
         value = syati_xml_node.attrib["value"]
+
+        # Pad the loader code to fully cover the replaced ErrorMessageArchive
+        # if int(offset, 0) == error_message_archive_addr and len(value) < error_message_archive_size * 2:
+        #     value += "0" * (error_message_archive_size * 2 - len(value))
 
         ET.SubElement(patch_node, "memory", {"offset": offset, "value": value})
 

@@ -101,12 +101,13 @@ PARTIAL_REPLACEMENTS = [
 class RiivolutionTarget:
     id: str
     region: str
-    error_message_archive_addr: int
-    language_options: list[str]
+    error_msg_arc_addr: int
+    error_msg_arc_size: int
+    languages: list[str]
 
 
 RIIVO_TARGETS = [
-    RiivolutionTarget(id="SB4", region="P", error_message_archive_addr=0x8064E220, language_options=[
+    RiivolutionTarget(id="SB4", region="P", error_msg_arc_addr=0x8064E220, error_msg_arc_size=0xB780, languages=[
         "EuEnglish",
         "EuGerman",
         "EuItalian",
@@ -114,14 +115,14 @@ RIIVO_TARGETS = [
         "EuFrench",
         "EuDutch",
     ]),
-    RiivolutionTarget(id="SB4", region="E", error_message_archive_addr=0x8064E220, language_options=[
+    RiivolutionTarget(id="SB4", region="E", error_msg_arc_addr=0x8064E220, error_msg_arc_size=0x6080, languages=[
         "UsEnglish",
         "UsSpanish",
         "UsFrench",
     ]),
-    RiivolutionTarget(id="SB4", region="J", error_message_archive_addr=0x8064E220, language_options=[]),
-    RiivolutionTarget(id="SB4", region="W", error_message_archive_addr=0x8064E7C0, language_options=[]),
-    RiivolutionTarget(id="SB4", region="K", error_message_archive_addr=0x8064E7C0, language_options=[]),
+    RiivolutionTarget(id="SB4", region="J", error_msg_arc_addr=0x8064E220, error_msg_arc_size=0x5860, languages=[]),
+    RiivolutionTarget(id="SB4", region="W", error_msg_arc_addr=0x8064E7C0, error_msg_arc_size=0x5D80, languages=[]),
+    RiivolutionTarget(id="SB4", region="K", error_msg_arc_addr=0x8064E7C0, error_msg_arc_size=0x4920, languages=[]),
 ]
 
 RIIVO_CONFIG_LOCALE_ADDR = 0x80003FC0
