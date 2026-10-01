@@ -1,0 +1,31 @@
+Comment:String:0,EventType:String:0,FlagType:String:0,StageName:String:0,ScenarioNo:Int:0,PowerStarNum:Int:0,WatchedEventNo:Int:0,SwitchNo:Int:0,EventNo:Int:0,ReturnType:String:0,OrStageName:String:0,OrScenarioNo:Int:0,UseTimeKeepDemo:Char:0
+Co-Star Mode notice,会話,シナリオA or シナリオB,IslandFleetGalaxy,2,3,-1,-1,10,上,YosshiHomeGalaxy,2,0
+Star List Sign appears,注目会話,スター数,IslandFleetGalaxy,-1,16,-1,1025,11,上,IslandFleetGalaxy,-1,0
+World Map notice,会話,シナリオA or シナリオB,HomeCenterGalaxy,1,-1,-1,-1,12,上,HomeCenterGalaxy,3,0
+Prankster Comet notice,会話,コメットオープン,IslandFleetGalaxy,-1,-1,-1,-1,51,上,IslandFleetGalaxy,-1,0
+Toad Brigade appears,注目会話,シナリオ,DigMineGalaxy,1,-1,-1,1000,100,下,IslandFleetGalaxy,-1,1
+Yoshi Egg appears,注目会話,シナリオ,YosshiHomeGalaxy,1,-1,-1,1001,101,上,IslandFleetGalaxy,-1,0
+Star Bunny appears,注目会話,シナリオ,RedBlueExGalaxy,1,-1,-1,1002,102,下,IslandFleetGalaxy,-1,0
+Jibberjay appears,注目会話,シナリオ,JungleGliderGalaxy,2,-1,-1,1003,103,下,IslandFleetGalaxy,-1,0
+Bank Toad appears,注目会話,スター数,IslandFleetGalaxy,-1,7,-1,1004,104,上,IslandFleetGalaxy,-1,0
+Mail Toad appears,注目会話,スター数,AbekobeGalaxy,1,13,-1,1005,200,上,AbekobeGalaxy,1,0
+Cloud Flower appears,注目会話[注目先行],シナリオ,MokumokuValleyGalaxy,1,-1,-1,1006,201,アイテム惑星,IslandFleetGalaxy,-1,0
+Golden Gearmo appears,注目会話,シナリオ,GoroRockGalaxy,3,-1,-1,1007,202,下,IslandFleetGalaxy,-1,0
+Rock Mushroom appears,注目会話[注目先行],シナリオ,GoroRockGalaxy,1,-1,-1,1020,203,アイテム惑星,IslandFleetGalaxy,-1,0
+Fire Flower appears,注目会話[注目先行],シナリオ,ChaosGravityGalaxy,2,-1,-1,1021,204,アイテム惑星,IslandFleetGalaxy,-1,0
+Whittle appears,注目会話,シナリオ,BigTree2Galaxy,2,-1,-1,1008,300,下,IslandFleetGalaxy,-1,0
+Luigi notice,注目会話,特殊,IslandFleetGalaxy,-1,-1,-1,1009,301,上,IslandFleetGalaxy,-1,1
+Penguin appears,注目会話,シナリオ,StarCreekGalaxy,2,-1,-1,1010,302,下,IslandFleetGalaxy,-1,0
+Bee Mushroom appears,注目会話,シナリオ,HoneyBeeVillageGalaxy,1,-1,-1,1022,303,アイテム惑星,IslandFleetGalaxy,-1,0
+Lumalee Shop 1 appears,注目会話,特殊,AbekobeGalaxy,1,-1,-1,1011,400,上,AbekobeGalaxy,1,0
+Spin Drill appears,注目会話[注目先行],シナリオ,DigMineGalaxy,2,-1,-1,1012,401,アイテム惑星,IslandFleetGalaxy,-1,0
+Bee appears,注目会話,シナリオ,FlowerHighlandGalaxy,2,-1,-1,1013,402,下,IslandFleetGalaxy,-1,0
+Spring Mushroom appears,注目会話[注目先行],シナリオ,WanwanFactoryGalaxy,2,-1,-1,1023,403,アイテム惑星,IslandFleetGalaxy,-1,0
+Usable Cloud Flower appears,注目会話,シナリオ,TropicalResortGalaxy,2,-1,-1,1027,404,下,IslandFleetGalaxy,-1,0
+Silver Gearmo appears,注目会話,シナリオ,ThunderFleetGalaxy,3,-1,-1,1019,501,下,IslandFleetGalaxy,-1,0
+Boo Mushroom appears,注目会話[注目先行],シナリオ,TeresaLabyrinthGalaxy,2,-1,-1,1024,502,アイテム惑星,IslandFleetGalaxy,-1,0
+Bob-omb Buddy appears,注目会話,シナリオ,LongForCastleGalaxy,1,-1,-1,1015,600,下,IslandFleetGalaxy,-1,0
+Lumalee Shop 2 appears,注目会話,シナリオ,TwisterTowerGalaxy,1,-1,-1,1026,601,下,IslandFleetGalaxy,-1,0
+Green Luma 1 appears,注目会話,シナリオ,KingOfKingsGalaxy,1,-1,-1,1016,700,下,IslandFleetGalaxy,-1,0
+Green Luma 2 appears,注目会話,イエロースター120個,IslandFleetGalaxy,-1,-1,-1,1017,701,下,IslandFleetGalaxy,-1,0
+Rosalina appears,注目会話,シナリオ,DimensionBigCastleGalaxy,2,-1,-1,1018,800,上,IslandFleetGalaxy,-1,0
