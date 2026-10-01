@@ -10,7 +10,7 @@ from config import GAME_PATH, SUPPORTED_REGIONS, iter_languages_by_region
 from pymsb import LMSDocument
 from pathlib import Path
 from tools.dataio import read_json
-from typing import Any, Iterable
+from typing import Any
 
 import logging
 
