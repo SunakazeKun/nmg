@@ -9,11 +9,9 @@ ARCHIVE /StageData/UnderwaterCaveBonusZone/UnderwaterCaveBonusZoneMap.arc
 ARCHIVE /MessageData/DigMineGalaxy.arc
 ARCHIVE /MessageData/UnderwaterCaveZone.arc
 ARCHIVE /StageData/DigMineGalaxy/DigMineGalaxyLight.arc
+ARCHIVE /StageData/UnderwaterCaveZone/UnderwaterCaveZoneLight.arc
+ARCHIVE /StageData/UnderwaterCaveBonusZone/UnderwaterCaveBonusZoneLight.arc
 ARCHIVE /ObjectData/IceMario.arc
-ARCHIVE /ObjectData/IceStep.arc
-ARCHIVE /ObjectData/IceMarioHandL.arc
-ARCHIVE /ObjectData/IceMarioHandR.arc
-ARCHIVE /ObjectData/WaterCameraFilter.arc
 ARCHIVE /ObjectData/Kiraira.arc
 ARCHIVE /ObjectData/KirairaChain.arc
 ARCHIVE /ObjectData/KirairaFixPointBottom.arc
@@ -47,9 +45,6 @@ ARCHIVE /ObjectData/FishD.arc
 ARCHIVE /ObjectData/PhantomShipBoxFloaterB.arc
 ARCHIVE /ObjectData/FishB.arc
 ARCHIVE /ObjectData/PurpleCoin.arc
-ARCHIVE /ObjectData/Kinopio.arc
-ARCHIVE /ObjectData/KinopioMiddle.arc
-ARCHIVE /ObjectData/KinopioLow.arc
 ARCHIVE /ObjectData/KinopioGoodsPickel.arc
 ARCHIVE /ObjectData/KinopioGoodsGlasses.arc
 ARCHIVE /ObjectData/KinopioGoodsRucksack.arc
@@ -272,6 +267,7 @@ SOUND SE_EM_LV_CHOROBON_MOVE_DOWN
 SOUND SE_EM_LV_CHOROBON_MOVE_UP
 SOUND SE_EV_CHOROBON_DAMAGE
 SOUND SE_EV_CHOROBON_DEAD
+SOUND SE_SM_LUIGIGHOST_START
 SOUND SE_EV_NOKONOKO_APPEAR
 SOUND SE_EM_TURTLE_HIT
 SOUND SE_EV_NOKONOKO_DAMAGE

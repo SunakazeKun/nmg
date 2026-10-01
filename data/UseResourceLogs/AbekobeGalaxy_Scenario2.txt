@@ -11,11 +11,11 @@ ARCHIVE /StageData/SoundSyncIllustItemZone/SoundSyncIllustItemZoneLight.arc
 ARCHIVE /ObjectData/SoundSyncBlockB.arc
 ARCHIVE /ObjectData/SoundSyncBlockA.arc
 ARCHIVE /ObjectData/SoundSyncGhostStepM.arc
-ARCHIVE /ObjectData/ArrowBoard.arc
 ARCHIVE /ObjectData/MemoryRoadSky.arc
 ARCHIVE /ObjectData/SoundSyncGhostStepA.arc
 ARCHIVE /ObjectData/SoundSyncGhostStepB.arc
 ARCHIVE /ObjectData/SoundSyncGhostStepC.arc
+ARCHIVE /ObjectData/ArrowBoard.arc
 ARCHIVE /ObjectData/SoundSyncGhostStepH.arc
 ARCHIVE /ObjectData/SoundSyncGhostStepK.arc
 ARCHIVE /ObjectData/SoundSyncGhostStepL.arc
@@ -23,9 +23,6 @@ ARCHIVE /ObjectData/SoundSyncGhostStepE.arc
 ARCHIVE /ObjectData/SoundSyncGhostStepN.arc
 ARCHIVE /ObjectData/PurpleCoin.arc
 ARCHIVE /ObjectData/SoundSyncGhostStepI.arc
-ARCHIVE /ObjectData/Tico.arc
-ARCHIVE /ObjectData/TicoMiddle.arc
-ARCHIVE /ObjectData/TicoLow.arc
 SOUND SE_SY_E3_TIMER_COUNT_4
 SOUND SE_SY_E3_TIMER_COUNT_2
 SOUND SE_SY_E3_TIMER_COUNT_1
@@ -108,6 +105,7 @@ SOUND SE_PV_INTO_GALAXY
 SOUND SE_AT_LV_LOW_WIND
 SOUND SE_OJ_RHYTHM_BLOCK_BLINK
 SOUND SE_OJ_RHYTHM_BLOCK_CHANGE
+SOUND SE_SM_LUIGIGHOST_START
 SOUND SE_SY_SOUND_SYNC_SW_CHANGE
 SOUND SE_SY_SYNC_BGM_GRVTY_CHANGE
 SOUND SE_SY_SYNC_GRVTY_CHANGE_SIGN

@@ -21,7 +21,6 @@ ARCHIVE /ObjectData/GlareLine.arc
 ARCHIVE /ObjectData/Sun.arc
 ARCHIVE /ObjectData/HeavensDoorFlowerA.arc
 ARCHIVE /ObjectData/WorldMap01Sky.arc
-ARCHIVE /ObjectData/HelperWitch.arc
 ARCHIVE /ObjectData/PlantA08.arc
 ARCHIVE /ObjectData/HeavensDoorMysteriousPlanet.arc
 ARCHIVE /ObjectData/SphereAir.arc
