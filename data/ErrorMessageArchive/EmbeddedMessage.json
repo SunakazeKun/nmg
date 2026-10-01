@@ -1,0 +1,215 @@
+[
+  {
+    "label": "DISC_01",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Please insert the SUPER MARIO",
+        "GALAXY 2 Game Disc."
+      ],
+      "EuEnglish": [
+        "Please insert the SUPER MARIO",
+        "GALAXY 2 disc."
+      ],
+      "UsSpanish": [
+        "Por favor, inserta el disco de ",
+        "SUPER MARIO GALAXY 2."
+      ],
+      "EuSpanish": [
+        "Inserta el disco de",
+        "SUPER MARIO GALAXY 2."
+      ],
+      "UsFrench": [
+        "Veuillez insérer le disque ",
+        "SUPER MARIO GALAXY 2."
+      ],
+      "EuFrench": [
+        "Veuillez insérer le disque",
+        "SUPER MARIO GALAXY 2."
+      ],
+      "EuGerman": [
+        "Bitte schiebe die SUPER ",
+        "MARIO GALAXY 2-Disc ein."
+      ],
+      "EuItalian": [
+        "Inserisci il disco di",
+        "SUPER MARIO GALAXY 2."
+      ],
+      "EuDutch": [
+        "Please insert the SUPER MARIO",
+        "GALAXY 2 disc."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "スーパーマリオギャラクシー2の",
+        "ディスクをセットしてください。"
+      ],
+      "KrKorean": [
+        "슈퍼 마리오 Wii 2 갤럭시 어드벤처",
+        "투게더 디스크를 넣어 주십시오."
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "請插入《超級瑪利歐銀河 2》光碟。"
+      ]
+    }
+  },
+  {
+    "label": "DISC_02",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Please insert the SUPER MARIO",
+        "GALAXY 2 Game Disc."
+      ],
+      "EuEnglish": [
+        "Please insert the SUPER MARIO",
+        "GALAXY 2 disc."
+      ],
+      "UsSpanish": [
+        "Por favor, inserta el disco de ",
+        "SUPER MARIO GALAXY 2."
+      ],
+      "EuSpanish": [
+        "Inserta el disco de",
+        "SUPER MARIO GALAXY 2."
+      ],
+      "UsFrench": [
+        "Veuillez insérer le disque",
+        "SUPER MARIO GALAXY 2."
+      ],
+      "EuFrench": [
+        "Veuillez insérer le disque",
+        "SUPER MARIO GALAXY 2."
+      ],
+      "EuGerman": [
+        "Bitte schiebe die SUPER ",
+        "MARIO GALAXY 2-Disc ein."
+      ],
+      "EuItalian": [
+        "Inserisci il disco di",
+        "SUPER MARIO GALAXY 2."
+      ],
+      "EuDutch": [
+        "Please insert the SUPER MARIO",
+        "GALAXY 2 disc."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "スーパーマリオギャラクシー2の",
+        "ディスクをセットしてください。"
+      ],
+      "KrKorean": [
+        "슈퍼 마리오 Wii 2 갤럭시 어드벤처",
+        "투게더 디스크를 넣어 주십시오."
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "請插入《超級瑪利歐銀河 2》光碟。"
+      ]
+    }
+  },
+  {
+    "label": "DISC_03",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The disc could not be read.",
+        "Refer to the Wii Operations",
+        "Manual for details."
+      ],
+      "EuEnglish": [
+        "The disc could not be read.",
+        "Refer to the Wii Operations",
+        "Manual for details."
+      ],
+      "UsSpanish": [
+        "No se puede leer el disco.",
+        "Consulta el manual de",
+        "operaciones de la consola Wii",
+        "para obtener más información."
+      ],
+      "EuSpanish": [
+        "No se puede leer el disco.",
+        "Consulta el manual de",
+        "instrucciones de la consola Wii",
+        "para obtener más información."
+      ],
+      "UsFrench": [
+        "Impossible de lire le disque. Veuillez",
+        "vous référer au mode d'emploi de la Wii",
+        "pour plus de détails."
+      ],
+      "EuFrench": [
+        "Impossible de lire le disque.",
+        "Veuillez vous référer au mode",
+        "d'emploi Wii pour plus de détails."
+      ],
+      "EuGerman": [
+        "Diese Disc kann nicht gelesen",
+        "werden. Bitte lies die",
+        "Wii-Bedienungsanleitung, um",
+        "weitere Informationen zu erhalten."
+      ],
+      "EuItalian": [
+        "Impossibile leggere il disco. Per",
+        "maggiori informazioni, consulta il",
+        "manuale di istruzioni della console Wii."
+      ],
+      "EuDutch": [
+        "The disc could not be read.",
+        "Refer to the Wii Operations",
+        "Manual for details."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ディスクを[ruby:読;よ]めませんでした。",
+        "くわしくはWii[ruby:本体;ほんたい]の[ruby:取扱説明書;とりあつかいせつめいしょ]を",
+        "お[ruby:読;よ]みください。"
+      ],
+      "KrKorean": [
+        "디스크를 불러오지 못했습니다.",
+        "자세한 내용은 Wii 본체 사용설명서를",
+        "읽어 주십시오."
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "光碟無法讀取。",
+        "詳情請查看Wii主機使用說明書。"
+      ]
+    }
+  }
+]

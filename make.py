@@ -4,6 +4,7 @@ def __main():
     from makesub.stage_data import pack_all_stage_data
     from makesub.other_archives import pack_other_archives
     from makesub.message_data import build_message_data
+    from makesub.error_msg_arc import pack_error_msg_archives
     from syati_module import build_syati_binaries
     from makesub.pack_distzip import pack_zip_archive
     from makesub.web_page import generate_web_page
@@ -13,6 +14,7 @@ def __main():
     pack_all_stage_data()
     pack_other_archives()
     build_message_data()
+    pack_error_msg_archives()
 
     build_syati_binaries()
 

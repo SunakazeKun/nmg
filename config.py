@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 from dotenv import load_dotenv
 from pathlib import Path
+from typing import Iterable
 
 import os
 import logging
@@ -66,6 +67,15 @@ USE_RESOURCE_STAGE_INFOS = [
 # Localization
 # ======================================================================================================================
 
+SUPPORTED_REGIONS = [
+    "Eu",
+    "Us",
+    "Jp",
+#   "Cn",  # Unreleased
+    "Kr",
+    "As"
+]
+
 SUPPORTED_LANGUAGES = [
     "EuEnglish",
     "EuGerman",
@@ -85,6 +95,11 @@ SUPPORTED_LANGUAGES = [
 #   "CnTradChinese",  # Unused
     "AsTradChinese",
 ]
+
+
+def iter_languages_by_region(region: str) -> Iterable[str]:
+    return filter(lambda l: l.startswith(region), SUPPORTED_LANGUAGES)
+
 
 PARTIAL_REPLACEMENTS = [
     "SystemMessage",

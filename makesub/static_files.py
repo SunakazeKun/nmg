@@ -10,7 +10,6 @@ __all__ = ["copy_static_files_to_game", "copy_simple_tree_to_game", "copy_locali
 ########################################################################################################################
 
 def copy_static_files_to_game():
-    copy_localized_tree_to_game(Path("SystemData"), Path("data/arcs/SystemData"))
     copy_localized_tree_to_game(Path("LayoutData"), Path("data/arcs/LayoutData"))
     copy_localized_tree_to_game(Path("ObjectData"), Path("data/arcs/ObjectData/SMG1"))
     copy_localized_tree_to_game(Path("ObjectData"), Path("data/arcs/ObjectData/Edited"))
