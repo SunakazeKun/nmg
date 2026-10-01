@@ -21,10 +21,7 @@ ARCHIVE /MessageData/SurvivalKoteKariZone.arc
 ARCHIVE /StageData/MokumokuValleyGalaxy/MokumokuValleyGalaxyLight.arc
 ARCHIVE /StageData/NeoBossSandyZone/NeoBossSandyZoneLight.arc
 ARCHIVE /StageData/ElectronAttackZone/ElectronAttackZoneLight.arc
-ARCHIVE /ObjectData/MarioFireBall.arc
 ARCHIVE /ObjectData/InvincibleMario.arc
-ARCHIVE /ObjectData/InvincibleMarioHandL.arc
-ARCHIVE /ObjectData/InvincibleMarioHandR.arc
 ARCHIVE /ObjectData/MarioFreezeIce.arc
 ARCHIVE /ObjectData/BasaBasaIce.arc
 ARCHIVE /ObjectData/BasaBasaIceHang.arc
@@ -88,9 +85,7 @@ ARCHIVE /ObjectData/SandySandBall.arc
 ARCHIVE /ObjectData/SandyCactusBallBig.arc
 ARCHIVE /ObjectData/SandyHand.arc
 ARCHIVE /ObjectData/SandyMini.arc
-ARCHIVE /ObjectData/ItemBubble.arc
 ARCHIVE /ObjectData/SandyFlowSandAfterBattlePlanet.arc
-ARCHIVE /ObjectData/SignBoard.arc
 ARCHIVE /ObjectData/BallBeamer.arc
 ARCHIVE /ObjectData/JumpBeamerBeam.arc
 ARCHIVE /ObjectData/JumpBeamerBeamShadow.arc
@@ -344,6 +339,7 @@ SOUND SE_OJ_JR_CASTLE_TARGET_SUCCESS
 SOUND SE_SY_JR_CASTLE_TARGET_SUCCESS
 SOUND SE_OJ_JR_CASTLE_TARGET_FAILURE
 SOUND SE_OJ_LV_POLE_APPEAR
+SOUND SE_SM_LUIGIGHOST_START
 SOUND SE_SY_RESTART_OBJ_GET
 SOUND SE_OJ_RESTART_OBJ_FLAG
 SOUND SE_OJ_RESTART_OBJ_TOUCHED

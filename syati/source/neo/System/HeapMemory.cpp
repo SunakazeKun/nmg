@@ -1,13 +1,58 @@
 #include "JSystem/JKernel.h"
+#include "Game/Util/MemoryUtil.h"
 #include "revolution/os.h"
 #include "kamek/hooks.h"
 
 namespace {
     // =====================================================================================================================
+    // Print heap sizes
+    // =====================================================================================================================
+    
+#ifdef DEBUG
+    void printHeapSizeInfo(JKRHeap *pHeap, const char *pName) {
+        u32 totalSize = pHeap->mSize;
+        u32 freeSize = pHeap->getTotalFreeSize();
+
+        OSReport("%s: total = %d, free = %d\n", pName,  totalSize, freeSize);
+    }
+
+    void printWorldMapHeapSizeAndDestroy(JKRHeap **pHeapPtr) {
+        JKRHeap* pHeap = *pHeapPtr;
+
+        printHeapSizeInfo(pHeap, "WorldMapHeap");
+
+        JKRHeap::destroy(pHeap);
+        *pHeapPtr = nullptr;
+    }
+
+    void printStationedHeapNapaSizeAndAdjust(JKRExpHeap *pHeap) {
+        printHeapSizeInfo(pHeap, "StationedHeapNapa");
+        MR::adjustHeapSize(pHeap);
+    }
+
+    void printStationedHeapGDDR3SizeAndAdjust(JKRExpHeap *pHeap) {
+        printHeapSizeInfo(pHeap, "StationedHeapGDDR3");
+        MR::adjustHeapSize(pHeap);
+    }
+
+#if defined(SB4_JEP)
+    kmBranch(0x804BCBF4, printStationedHeapNapaSizeAndAdjust);
+    kmBranch(0x804BCC04, printStationedHeapGDDR3SizeAndAdjust);
+    kmBranch(0x804BCD34, printWorldMapHeapSizeAndDestroy);
+#elif defined(SB4_WK)
+    kmBranch(0x804BCC64, printStationedHeapNapaSizeAndAdjust);
+    kmBranch(0x804BCC74, printStationedHeapGDDR3SizeAndAdjust);
+    kmBranch(0x804BCDA4, printWorldMapHeapSizeAndDestroy);
+#endif
+
+#endif
+
+
+    // =====================================================================================================================
     // New heap sizes
     // =====================================================================================================================
 
-#define WORLD_MAP_HEAP_SIZE (0x1100000u)
+#define WORLD_MAP_HEAP_SIZE (0xEA0000u)
 
     // WorldMapHeap
     kmWrite16(0x80040F12, -(WORLD_MAP_HEAP_SIZE >> 16));
