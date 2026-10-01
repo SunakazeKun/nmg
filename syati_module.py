@@ -119,13 +119,6 @@ LOADER_SOURCE_FILES = [
     "loader/KamekAccess.cpp",
     "loader/KamekModule.cpp",
 ]
-LOADER_STATIC_ADDRESSES = {
-    "SB4P": 0x8064E220,
-    "SB4E": 0x8064E220,
-    "SB4J": 0x8064E220,
-    "SB4W": 0x8064E7C0,
-    "SB4K": 0x8064E7C0,
-}
 
 
 # ======================================================================================================================
@@ -325,10 +318,9 @@ def __link_module(kamek_path: Path, bin_path: Path, map_path: Path, region: str,
 
 def __link_loader(kamek_path: Path, xml_path: Path, dol_path: Path, region: str, link_files: list[Path]):
     input_dol = ORG_MAIN_DOLS_PATH / f'{region}.dol'
-    static_addr = LOADER_STATIC_ADDRESSES[region]
 
     link_cmd = (f'"{kamek_path}" {" ".join(map(str, link_files))} '
-                f'-static=0x{static_addr:08X} '
+                f'-static=0x80002000 '
                 f'-externals=Syati/symbols/{region}.txt '
                 f'-output-riiv="{xml_path}" '
                 f'-input-dol="{input_dol}" '

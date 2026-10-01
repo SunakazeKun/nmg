@@ -133,8 +133,6 @@ def __make_riivolution_xml(target_info: RiivolutionTarget, syati_loader_xml_path
     game_id = target_info.id
     game_region = target_info.region
     language_options = target_info.languages
-    error_message_archive_addr = target_info.error_msg_arc_addr
-    error_message_archive_size = target_info.error_msg_arc_size
 
     logging.info("Generating Riivolution XML for %s%s", game_id, game_region)
 
@@ -189,10 +187,6 @@ def __make_riivolution_xml(target_info: RiivolutionTarget, syati_loader_xml_path
     for syati_xml_node in iter(syati_loader_xml_root):
         offset = syati_xml_node.attrib["offset"]
         value = syati_xml_node.attrib["value"]
-
-        # Pad the loader code to fully cover the replaced ErrorMessageArchive
-        # if int(offset, 0) == error_message_archive_addr and len(value) < error_message_archive_size * 2:
-        #     value += "0" * (error_message_archive_size * 2 - len(value))
 
         ET.SubElement(patch_node, "memory", {"offset": offset, "value": value})
 
