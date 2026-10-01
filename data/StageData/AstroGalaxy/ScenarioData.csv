@@ -1,5 +1,5 @@
 ScenarioNo:Int:0,ScenarioName:String:0,PowerStarId:Int:0,PowerStarType:String:0,AppearPowerStarObj:String:0,Comet:String:0,CometLimitTimer:Int:0,LuigiModeTimer:Int:0,NoPlayStarChance:Int:0,AstroGalaxy:Int:0,TridentZone:Int:0,AstroLibraryZone:Int:0
-1,AstroGalaxy Star 1,5,Red,１００枚コイン,,0,0,1,2,0,0
-2,AstroGalaxy Star 2,10,Normal,PowerStarSpawner,,0,0,1,1,0,0
-3,AstroGalaxy Green 1,4,Green,,,0,0,0,0,0,0
-4,AstroGalaxy Green 2,8,Green,,,0,0,0,0,0,0
+1,Mario and the Red Star,5,Red,１００枚コイン,,0,0,1,2,0,0
+2,Intergalactic Nostalgia,10,Normal,PowerStarSpawner,,0,0,1,1,0,0
+3,Green Star 1,4,Green,,,0,0,0,0,0,0
+4,Green Star 2,8,Green,,,0,0,0,0,0,0

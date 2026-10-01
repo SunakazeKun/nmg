@@ -82,7 +82,7 @@ def __create_scenario_archive(stage_name: str, src_stage_path: Path, dst_stage_p
         jmap = from_csv(HASH_TABLE, str(csv_path))
         bcsv.data = pack_buffer(jmap)
 
-    write_archive_file(arc, str(arc_path), compression=JKRCompression.SZS)
+    write_archive_file(arc, str(arc_path), compression=JKRCompression.SZS, level=9)
 
 
 def __create_ghost_archive(stage_name: str, src_stage_path: Path, dst_stage_path: Path):
@@ -103,7 +103,7 @@ def __create_ghost_archive(stage_name: str, src_stage_path: Path, dst_stage_path
     for pad_path in pad_paths:
         arc.create_file(f'Stage/pad/{pad_path.name}', pad_path.read_bytes())
 
-    write_archive_file(arc, str(arc_path), compression=JKRCompression.SZS)
+    write_archive_file(arc, str(arc_path), compression=JKRCompression.SZS, level=9)
 
 
 def __create_light_archive(stage_name: str, src_stage_path: Path, dst_stage_path: Path):
@@ -121,7 +121,7 @@ def __create_light_archive(stage_name: str, src_stage_path: Path, dst_stage_path
     jmap = from_csv(HASH_TABLE, str(csv_path))
     bcsv.data = pack_buffer(jmap)
 
-    write_archive_file(arc, str(arc_path), compression=JKRCompression.SZS)
+    write_archive_file(arc, str(arc_path), compression=JKRCompression.SZS, level=9)
 
 
 def __create_demo_archive(stage_name: str, src_stage_path: Path, dst_stage_path: Path):
@@ -142,7 +142,7 @@ def __create_demo_archive(stage_name: str, src_stage_path: Path, dst_stage_path:
         jmap = from_csv(HASH_TABLE, str(csv_path))
         bcsv.data = pack_buffer(jmap)
 
-    write_archive_file(arc, str(arc_path), compression=JKRCompression.SZS)
+    write_archive_file(arc, str(arc_path), compression=JKRCompression.SZS, level=9)
 
 
 def __create_zone_info_archive(stage_name: str, src_stage_path: Path, dst_stage_path: Path):
@@ -162,7 +162,7 @@ def __create_zone_info_archive(stage_name: str, src_stage_path: Path, dst_stage_
         jmap = from_csv(HASH_TABLE, str(csv_path))
         bcsv.data = pack_buffer(jmap)
 
-    write_archive_file(arc, str(arc_path), compression=JKRCompression.SZS)
+    write_archive_file(arc, str(arc_path), compression=JKRCompression.SZS, level=9)
 
 
 # ======================================================================================================================
@@ -211,7 +211,7 @@ def __create_dummy_archives(stage_name: str, dst_stage_path: Path):
         logging.info("Creating dummy for %s", arc_path.name)
 
         arc = arc_creator()
-        write_archive_file(arc, str(arc_path), compression=JKRCompression.SZS)
+        write_archive_file(arc, str(arc_path), compression=JKRCompression.SZS, level=9)
 
 
 ########################################################################################################################

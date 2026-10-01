@@ -1,5 +1,5 @@
 ScenarioNo:Int:0,ScenarioName:String:0,PowerStarId:Int:0,PowerStarType:String:0,AppearPowerStarObj:String:0,Comet:String:0,CometLimitTimer:Int:0,LuigiModeTimer:Int:0,NoPlayStarChance:Int:0,VsKoopaJrLv1Galaxy:Int:0,NeoBossOtaKingLv2Zone:Int:0,TakoBlueChipPlanetZone:Int:0,TakoAsteroidPlanetZone:Int:0,TakoGCaptureZone:Int:0,TakoOtaRockShipZone:Int:0,TakoIllustItemZone:Int:0
-1,OtaKingExGalaxy Star 1,13,Normal,PowerStarSpawner,,0,0,0,1,1,1,1,1,1,0
-2,OtaKingExGalaxy Comet 1,2,Normal,PowerStarSpawner,Dark,150,0,0,2,2,2,2,0,0,0
-3,OtaKingExGalaxy Green 1,4,Green,,,0,0,0,0,0,0,0,0,0,0
-4,OtaKingExGalaxy Green 2,8,Green,,,0,0,0,0,0,0,0,0,0,0
+1,A Saucerful of Secrets,13,Normal,PowerStarSpawner,,0,0,0,1,1,1,1,1,1,0
+2,King Kaliente's Daredevil Run,2,Normal,PowerStarSpawner,Dark,150,0,0,2,2,2,2,0,0,0
+3,Green Star 1,4,Green,,,0,0,0,0,0,0,0,0,0,0
+4,Green Star 2,8,Green,,,0,0,0,0,0,0,0,0,0,0
