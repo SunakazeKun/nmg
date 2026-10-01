@@ -10,8 +10,8 @@ def __main():
     from makesub.web_page import generate_web_page
 
     copy_static_files_to_game()
-    pack_use_resource_archives()
     pack_all_stage_data()
+    pack_use_resource_archives()
     pack_other_archives()
     build_message_data()
     pack_error_msg_archives()

@@ -45,6 +45,7 @@ def pack_all_stage_data():
 def pack_stage_data(src_stage_path: Path):
     stage_name = src_stage_path.name
     dst_stage_path = GAME_PATH / f'files/StageData/{stage_name}'
+    dst_stage_path.mkdir(exist_ok=True)
 
     __create_dummy_archives(stage_name, dst_stage_path)
     __create_scenario_archive(stage_name, src_stage_path, dst_stage_path)
