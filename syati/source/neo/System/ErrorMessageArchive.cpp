@@ -20,6 +20,8 @@ namespace neo {
 #endif
     }
 
+    // -----------------------------------------------------------------------------------------------------------------
+
     namespace {
         void loadAndMountErrorMessageArchive(void *, JKRHeap *pHeap, const char *) {
             const char* pFilePath = neo::getErrorMessageArchivePath();

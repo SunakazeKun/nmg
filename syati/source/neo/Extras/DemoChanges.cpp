@@ -38,8 +38,7 @@ namespace {
         return false;
     }
 
-
-    // =================================================================================================================
+    // -----------------------------------------------------------------------------------------------------------------
 
     bool extIsAllowSkipBossDemo(const char *pDeclarer, s32 powerStarId) {
         if (MR::hasPowerStarInCurrentStageWithDeclarer(pDeclarer, powerStarId)) {

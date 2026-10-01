@@ -2,11 +2,6 @@
 
 #include "revolution/types.h"
 
-
-// =====================================================================================================================
-// Stage names
-// =====================================================================================================================
-
 #define STAGE_GALACTIC_GARDEN_GALAXY ("IslandFleetGalaxy")
 #define STAGE_SWEET_TREAT_GALAXY     ("YosshiHomeGalaxy")
 #define STAGE_GLOOMY_GALLEON_GALAXY  ("DigMineGalaxy")
@@ -15,14 +10,3 @@
 #define STAGE_EEP_BEEP_GALAXY        ("AbekobeGalaxy")
 #define STAGE_KRAKEN_KING_GALAXY     ("VsKoopaJrLv1Galaxy")
 #define STAGE_COMET_OBSERVATORY      ("AstroGalaxy")
-
-
-// =====================================================================================================================
-// Game event flag & value names
-// =====================================================================================================================
-
-#define GAME_EVENT_FLAG_EXPLAIN_ILLUST_ITEM_AT_FIRST ("ExplainIllustItemAtFirst")
-#define GAME_EVENT_FLAG_DAREDEVIL_MODE_ON ("DaredevilModeOn")
-
-#define GAME_EVENT_VALUE_HIGHSCORE_SWEET_TREAT_LO ("ベストスコア[YosshiHomeGalaxy]/lo")
-#define GAME_EVENT_VALUE_HIGHSCORE_SWEET_TREAT_HI ("ベストスコア[YosshiHomeGalaxy]/hi")

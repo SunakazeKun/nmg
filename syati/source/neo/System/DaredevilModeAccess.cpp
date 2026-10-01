@@ -1,8 +1,8 @@
 #include "neo/System/DaredevilModeAccess.h"
+#include "neo/System/GameEventData.h"
 #include "Game/System/AllData/GameDataFunction.h"
 #include "Game/System/GameData/UserFile.h"
 #include "Game/Util/EventUtil.h"
-#include "neo/core.h"
 
 namespace neo {
     bool isDaredevilMode() {
