@@ -569,6 +569,10 @@ class PictureCode(IntEnum):
     EMPTY_STAMP          = 79
     RED_STAR             = 80
     POLARI               = 81
+    GREEN_STAR           = 82
+    BLUE_STAR            = 83
+    GOLDEN_MUSHROOM      = 84
+    STAR_MUSHROOM        = 85
 
     def __new__(cls, offset: int):
         value = len(cls.__members__)
