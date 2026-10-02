@@ -54,14 +54,15 @@ def pack_stage_data(src_stage_path: Path):
     __create_demo_archive(stage_name, src_stage_path, dst_stage_path)
     __create_zone_info_archive(stage_name, src_stage_path, dst_stage_path)
 
-    src_map_path = src_stage_path / f'{stage_name}Map.arc'
-    dst_map_path = dst_stage_path / f'{stage_name}Map.arc'
+    for arc_name in ["Map", "Design", "Sound"]:
+        src_map_path = src_stage_path / f'{stage_name}{arc_name}.arc'
+        dst_map_path = dst_stage_path / f'{stage_name}{arc_name}.arc'
 
-    if not src_map_path.is_file():
-        return
+        if not src_map_path.is_file():
+            return
 
-    logging.info("Copying %s", src_map_path.name)
-    shutil.copyfile(src_map_path, dst_map_path)
+        logging.info("Copying %s", src_map_path.name)
+        shutil.copyfile(src_map_path, dst_map_path)
 
 
 # ======================================================================================================================
