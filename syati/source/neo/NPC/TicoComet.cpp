@@ -15,13 +15,8 @@ namespace neo {
         NPCActorItem item("TicoComet");
 
         caps.setDefault();
-        caps.mBodySensorRadius = 100.0f;
-        caps.mBodySensorOffset.y = 100.0f;
-        caps.mBodySensorJoint = "Center";
-        caps.mStarPointerTargetJoint = "Center";
-        caps.mStarPointerTargetRadius = 100.0f;
 
-        initialize(rIter, caps, nullptr, nullptr, false);
+        initialize(rIter, caps, "TicoComet", nullptr, false);
 
         MR::getNPCItemData(&item, 0);
         equipment(item, true);
