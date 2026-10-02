@@ -121,13 +121,13 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "歡迎回來，[player:0]…",
-        "準備好要來一場[color:red]新銀河[defcolor]的冒險之旅嗎？[pagebreak]",
-        "我背後有一個[icon:launch_star] [color:yellow]超級彈射星[defcolor]，",
+        "歡迎回來，[player:0]……準備好要來一場",
+        "[color:red]新銀河[defcolor]的冒險之旅嗎？[pagebreak]",
+        "我背後有一個[icon:launch_star] [color:yellow]彈射星環[defcolor]，",
         "它會帶你到一個遙遠的銀河。[pagebreak]",
         "在開始之前，我有幾個問題要問你。[pagebreak]",
-        "你想要以[icon:mario] [color:red]瑪利歐[defcolor]還是[icon:luigi] [color:green]路易吉[defcolor]來遊玩？",
-        "[color:gray](目前為：[defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+        "你想要以[icon:mario] [color:red]瑪利歐[defcolor]還是[icon:luigi] [color:green]路易吉[defcolor]",
+        "來遊玩？[color:gray](目前為：[defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ]
     }
   },
@@ -258,11 +258,12 @@
       "CnSimpChinese": null,
       "AsTradChinese": [
         "你也可以選擇遊玩[color:red]死神[defcolor]模式，",
-        "這個模式難度會非常困難哦…[pagebreak]",
+        "這個模式難度會非常困難……[pagebreak]",
         "每個關卡內你只有會有1點體力，",
         "就像[color:red]死神彗星[defcolor]的關卡一樣。[pagebreak]",
-        "而且，所有的[icon:checkpoint_flag] [color:blue]中間點[defcolor]都會被移除…[pagebreak]",
-        "你想要玩[color:blue]普通[defcolor]還是[color:red]死神[defcolor]模式？",
+        "而且，所有的[icon:checkpoint_flag] [color:blue]中間點[defcolor]",
+        "都會被移除…[pagebreak]",
+        "你想要用[color:blue]普通[defcolor]還是[color:red]死神[defcolor]模式遊玩？",
         "[color:gray](目前為：[defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ]
     }
@@ -368,10 +369,10 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "這樣啊。",
-        "一旦你離開這裡，你就不能再更改難度模式了。[pagebreak]",
-        "不過，你依然能隨時更換想要遊玩的角色哦！[pagebreak]",
-        "願星塵保佑你…再會。"
+        "這樣啊。一旦你離開這裡，",
+        "你就不能再更改難度模式了。[pagebreak]",
+        "不過，你依然能隨時更換想要遊玩的角色。[pagebreak]",
+        "願星塵保佑你……再會。"
       ]
     }
   },
@@ -495,8 +496,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "你想要以[icon:mario] [color:red]瑪利歐[defcolor]還是[icon:luigi] [color:green]路易吉[defcolor]來遊玩？",
-        "[color:gray](目前為：[defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+        "你想要以[icon:mario] [color:red]瑪利歐[defcolor]還是[icon:luigi] [color:green]路易吉[defcolor]",
+        "來遊玩？[color:gray](目前為：[defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ]
     }
   }

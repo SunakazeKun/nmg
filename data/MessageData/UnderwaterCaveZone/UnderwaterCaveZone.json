@@ -91,10 +91,10 @@
       "CnSimpChinese": null,
       "AsTradChinese": [
         "[size:large]哇啊！[pagebreak]",
-        "[size:normal]原來是你啊…是[player:0]對吧？[pagebreak]",
+        "[size:normal]原來是你啊……是[player:0]對吧？[pagebreak]",
         "我是[color:red]奇諾比奧隊長[defcolor]！[pagebreak]",
         "在我們[color:red]新銀河[defcolor]的旅途上，",
-        "剛好發現了這座陰森的洞穴。",
+        "剛好發現了這座陰森的洞穴。[pagebreak]",
         "真是令人刺激的冒險啊！"
       ]
     }
@@ -299,7 +299,7 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "收集…紫金幣…[size:small]Zzzzzz……"
+        "收集……紫金幣……[size:small]Zzzzzz……"
       ]
     }
   },
@@ -684,9 +684,9 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "你來參加[color:blue]游泳學校[defcolor]的[color:red]最終考驗[defcolor]嗎？[pagebreak]",
-        "在這個考驗中，你要收集所有的",
-        "[icon:silver_star] [color:gray]銀色星星[defcolor]！"
+        "你是來參加[color:blue]游泳學校[defcolor][color:red]最終考驗[defcolor]的嗎？[pagebreak]",
+        "在這個考驗中，你要收集",
+        "所有的[icon:silver_star] [color:gray]銀色星星[defcolor]！"
       ]
     }
   },
@@ -858,8 +858,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "通往[color:yellow]黃金寶藏[defcolor]",
-        "的鑰匙已經失傳已久啦……"
+        "通往[color:yellow]黃金寶藏[defcolor]的鑰匙",
+        "已經失傳已久啦……"
       ]
     }
   }

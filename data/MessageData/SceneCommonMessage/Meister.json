@@ -2843,7 +2843,7 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "原來這是[color:red]冰之花[defcolor]？嗯…[delay:15]",
+        "原來這是[color:red]冰之花[defcolor]？嗯……[delay:15]",
         "看起來挺酷的，對吧？哈哈！"
       ]
     }
@@ -3033,7 +3033,7 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "嗯…[delay:15]總覺得好像在哪裡看過這個…"
+        "嗯……[delay:15]總覺得好像在哪裡看過這個…"
       ]
     }
   },
@@ -3092,7 +3092,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "我知道了！這是蘊含著紅色奇可力量的[color:red]紅色星星[defcolor]哦！"
+        "我知道了！這是蘊含著",
+        "紅色奇可力量的[color:red]紅色星星[defcolor]！"
       ]
     }
   },

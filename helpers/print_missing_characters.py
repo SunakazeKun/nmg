@@ -9,7 +9,8 @@ import re
 ########################################################################################################################
 
 IGNORE_ARCHIVES = [
-    "TestArchive"
+    "TestArchive",
+    "MarioFaceShipZone"
 ]
 IGNORE_BANKS = [
     ("LayoutMessage", "Layout_ResultWindow"),

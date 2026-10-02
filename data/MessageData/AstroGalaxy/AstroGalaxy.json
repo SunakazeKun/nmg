@@ -55,9 +55,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "你要看一下…[delay:30]咦？[delay:30]",
-        "[size:large]什麼？[size:normal][delay:60] ",
-        "[sound:SE_SV_BUTLER_TALK_WORRIED]地圖跑去哪裡了？！"
+        "你要看一下……[delay:30]咦？[delay:30]",
+        "[size:large]什麼？[size:normal][delay:60][sound:SE_SV_BUTLER_TALK_WORRIED]地圖跑去哪裡了？！"
       ]
     }
   },
@@ -127,44 +126,55 @@
     },
     "languages": {
       "UsEnglish": [
-        "The [color:red]Starshroom[defcolor] is",
+        "The[color:red] Starshroom [defcolor]is",
         "fully operational!"
       ],
       "EuEnglish": [
-        "The [color:red]Starshroom[defcolor] is",
+        "The[color:red] Starshroom [defcolor]is",
         "fully operational!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡La [color:red]Champinave [defcolor]está lista",
+        "y funciona a la perfección!"
+      ],
+      "EuSpanish": [
+        "¡La [color:red]Champinave[defcolor] está lista!"
+      ],
       "UsFrench": [
-        "Le[color:red]Vaisseau Champignon[defcolor] est opérationnel!"
+        "L'[color:red]astronef champignon[defcolor] est",
+        "opérationnel!"
       ],
       "EuFrench": [
-        "Le[color:red]Vaisseau Champignon[defcolor] est opérationnel!"
+        "Le [color:red]vaisseau champignon[defcolor] est",
+        "terminé !"
       ],
       "EuGerman": [
-        "Das [color:red]Pilz-Schiff[defcolor] ist",
-        "funktionsfähig!"
+        "Das [color:red]Pilz-Schiff[defcolor] ist fertig!"
       ],
       "EuItalian": [
         "L'[color:red]Ufo Fungo[defcolor] è pronto!"
       ],
       "EuDutch": [
-        "The [color:red]Starshroom[defcolor] is",
-        "fully operational!"
+        "De [color:red]zwamshuttle [defcolor]is",
+        "klaar voor vertrek!"
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "A [color:red]Cogunave [defcolor]já",
+        "está prontinha!"
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
-        "[color:red]キノコ[ruby:船;せん][defcolor]の[ruby:修理;しゅうり]が[ruby:終;お]わりました！"
+        "[color:red]キノコ[ruby:船;せん][defcolor]が [ruby:完成;かんせい]しました～！"
       ],
       "KrKorean": [
-        "[color:red]버섯호[defcolor]는 이상 무 입니다!"
+        "[color:red]버섯호[defcolor]가 완성됐어요~!"
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "[color:red]蘑菇飞船[defcolor]完成了～！"
+      ],
       "AsTradChinese": [
-        "[color:red]蘑菇飛船[defcolor]正常運作中！"
+        "[color:red]蘑菇飛船[defcolor]完成啦～！"
       ]
     }
   },
@@ -189,42 +199,55 @@
         "Huh? What are those [color:green]Lumas[defcolor] even",
         "talking about?"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡No entiendo nada de lo que dicen",
+        "esos [color:green]Destellos[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡No entiendo nada de lo que",
+        "dicen esos [color:green]Destellos[defcolor]!"
+      ],
       "UsFrench": [
-        "Je ne comprends pas bien ce que",
-        "disent ces [color:green]Lumas[defcolor]!"
+        "Je ne comprends pas bien",
+        "ce que disent ces [color:green]Lumas[defcolor]!"
       ],
       "EuFrench": [
-        "Je ne comprends pas bien ce que",
-        "disent ces [color:green]Lumas[defcolor]!"
+        "Je ne comprends pas bien",
+        "ce que disent ces [color:green]Lumas[defcolor]..."
       ],
       "EuGerman": [
-        "Hää? Worüber reden diese [color:green]Luma[defcolor]?"
+        "Diese [color:green]Luma [defcolor]erzählen lauter",
+        "komische Sachen, die ich",
+        "nicht verstehe."
       ],
       "EuItalian": [
-        "Huh? Che stanno dicendo",
-        "quegli [color:green]Sfavillotti[defcolor]?"
+        "Non capisco bene cosa",
+        "dicano quegli [color:green]Sfavillotti[defcolor]!"
       ],
       "EuDutch": [
-        "Huh? What are those [color:green]Lumas[defcolor] even",
-        "talking about?"
+        "Waar HEBBEN die [color:green]Luma's [defcolor]het over?"
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "Não entendo nada do que essas [color:green]Lumas",
+        "[defcolor]estão falando..."
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
-        "この[color:green]チコたち[defcolor]はいったい[ruby:何;なに]を[ruby:言;い]ってるんでしょうか",
-        "・・・?"
+        "あの[color:green]チコ[defcolor]さん[ruby:達;たち]の [ruby:言;い]ってる[ruby:事;こと]が",
+        "[ruby:難;むずか]しくて よく[ruby:分;わ]かりません！"
       ],
       "KrKorean": [
-        "뭐지? 저 [color:green]치코[defcolor]들은 ",
-        "대체 무슨 이야기를 하는 걸까요?"
+        "저 [color:green]치코[defcolor]님들이 무슨 말씀을 하는 건지",
+        "어려워서 알 수가 없어요!"
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "那些[color:green]琪琪[defcolor]说的话好复杂，",
+        "我听不懂！"
+      ],
       "AsTradChinese": [
-        "嗯？那些[color:green]奇可[defcolor]到底",
-        "在說些什麼？"
+        "那些[color:green]奇可[defcolor]說的話好難，",
+        "我聽不太懂！"
       ]
     }
   },
@@ -312,44 +335,44 @@
         "An [icon:a_button] press is an [icon:a_button] press...[pagebreak]",
         "[size:small]Parallel universes... Zzzzzz...."
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "Come tantos como",
+        "quieras... [size:small]champiñones..."
+      ],
+      "EuSpanish": [
+        "Barra libre de... [size:small]champiñones..."
+      ],
       "UsFrench": [
-        "Un appui sur [icon:a_button] est un appui sur [icon:a_button]...[pagebreak]",
-        "[size:small]Des univers parallèles... Zzzzzz...."
+        "Un festin de... [size:small]champignons..."
       ],
       "EuFrench": [
-        "Un appui sur [icon:a_button] est un appui sur [icon:a_button]...[pagebreak]",
-        "[size:small]Des univers parallèles... Zzzzzz...."
+        "Un festin de... [size:small]champignons..."
       ],
       "EuGerman": [
-        "Zzzzzz...."
+        "So viele Pilze essen... [size:small]wie man will..."
       ],
       "EuItalian": [
-        "La pressione del pulsante [icon:a_button] è una",
-        "pressione del pulsante [icon:a_button]...[pagebreak]",
-        "[size:small]Universi paralleli... Zzzzzz...."
+        "Mangia funghi... [size:small]A volontà..."
       ],
       "EuDutch": [
-        "An [icon:a_button] press is an [icon:a_button] press...[pagebreak]",
-        "[size:small]Parallel universes... Zzzzzz...."
+        "Paddenstoelen... [size:small]Paddenzzzzz..."
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "Boca-livre... [size:small]Cogumelos..."
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
-        "[icon:a_button]を[ruby:押;お]したのなら・・・それは[icon:a_button]を1[ruby:回;かい][ruby:押;お]したことに・・・",
-        "なるんじゃないんですか・・・[pagebreak]",
-        "[size:small]Parallel Universe... Zzzzzz...."
+        "キノコ[ruby:食;た]べ… [size:small]ホウダイ…"
       ],
       "KrKorean": [
-        "[icon:a_button]을 누르는 건 [icon:a_button]을 누르는 것...[pagebreak]",
-        "[size:small]그것이 누르는 것이니까… Zzz..."
+        "버섯… [size:small]뷔페…"
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "蘑菇……[size:small]吃到饱……"
+      ],
       "AsTradChinese": [
-        "按一下[icon:a_button]就是按一下[icon:a_button]……[pagebreak]",
-        "[size:small]平行宇宙……Zzzzzz……"
+        "蘑菇……[size:small]吃到飽……"
       ]
     }
   },
@@ -423,7 +446,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "我打從心底感謝你遊玩[color:red]新超級瑪利歐銀河[defcolor]。[pagebreak]",
+        "我打從心底感謝你",
+        "遊玩[color:red]新超級瑪利歐銀河[defcolor]。[pagebreak]",
         "請收下這顆[icon:star] [color:yellow]力量星星[defcolor]！"
       ]
     }
@@ -581,11 +605,12 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "這是一顆[color:red]紅色星星[defcolor]。它蘊含著紅色奇可的力量。[pagebreak]",
-        "但它真正厲害的地方是，",
-        "在[color:red]空中旋轉[defcolor]之後，就能[color:blue]飛行[defcolor]。",
-        "沒錯，就是飛行！[pagebreak]",
-        "按住[icon:a_button]並操作[icon:analog_stick]，就可以[color:red]選擇你想飛行的方向[defcolor]。"
+        "這是一顆[color:red]紅色星星[defcolor]。",
+        "它蘊含著紅色奇可的力量。[pagebreak]",
+        "但它真正厲害之處是在[color:blue]空中旋轉[defcolor]",
+        "之後，就能[color:red]飛行[defcolor]。沒錯，飛行！[pagebreak]",
+        "按住[icon:a_button]並操作[icon:analog_stick]，",
+        "就可以[color:red]選擇你想飛行的方向[defcolor]。"
       ]
     }
   },
@@ -665,7 +690,7 @@
       "CnSimpChinese": null,
       "AsTradChinese": [
         "[color:purple]紫色彗星[defcolor]出現在",
-        "[color:blue]長尾星天文台[defcolor]上。[pagebreak]",
+        "[color:blue]彗星天文台[defcolor]上。[pagebreak]",
         "請幫我們收集全部[color:purple]100[defcolor]枚[icon:purple_coin]，",
         "讓[icon:red_star] [color:red]紅色力量星星[defcolor]出現。"
       ]
@@ -786,73 +811,8 @@
       "comment": ""
     },
     "languages": {
-      "UsEnglish": [
-        "Hey ho! My name is [color:purple]Lumacomète[defcolor].",
-        "Thank you for collecting the [icon:purple_coin]![pagebreak]",
-        "If you want to learn more about",
-        "[color:red]Prankster Comets[defcolor], I'm your Luma!"
-      ],
-      "EuEnglish": [
-        "Hey ho! My name is [color:purple]Lumacomète[defcolor].",
-        "Thank you for collecting the [icon:purple_coin]![pagebreak]",
-        "If you want to learn more about",
-        "[color:red]Prankster Comets[defcolor], I'm your Luma!"
-      ],
-      "UsSpanish": null,
-      "EuSpanish": null,
-      "UsFrench": [
-        "Salut! Je suis le [color:purple]Luma violet[defcolor].",
-        "Merci d'avoir récupéré les [icon:purple_coin]![pagebreak]",
-        "Si vous voulez en savoir plus sur les",
-        "[color:red]Comètes Farceuses[defcolor], je suis le spécialiste",
-        "De ce domaine!"
-      ],
-      "EuFrench": [
-        "Salut! Je suis le [color:purple]Luma violet[defcolor].",
-        "Merci d'avoir récupéré les [icon:purple_coin]![pagebreak]",
-        "Si vous voulez en savoir plus sur les",
-        "[color:red]Comètes Farceuses[defcolor], je suis le spécialiste",
-        "De ce domaine!"
-      ],
-      "EuGerman": [
-        "Heyho! Ich heiße [color:purple]Lumacomète[defcolor].",
-        "Danke für's Sammeln der [icon:purple_coin]![pagebreak]",
-        "Wenn du mehr über Kometen lernen",
-        "möchtest, dann frag mich!"
-      ],
-      "EuItalian": [
-        "Brin! ♪ Brin! ♪",
-        "Io sono lo [color:purple]Sfavillotto Cometa[defcolor].",
-        "Grazie per aver raccolto le [icon:purple_coin]![pagebreak]",
-        "Se vuoi gestire le [color:red]Comete",
-        "Burlone[color:black], lascia fare a me!"
-      ],
-      "EuDutch": [
-        "Hey ho! My name is [color:purple]Lumacomète[defcolor].",
-        "Thank you for collecting the [icon:purple_coin]![pagebreak]",
-        "If you want to learn more about",
-        "[color:red]Prankster Comets[defcolor], I'm your Luma!"
-      ],
-      "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
-      "JpJapanese": [
-        "プルリン♪ プルリン♪ ボクは[color:purple]コメットチコ[defcolor]さ～！",
-        "[icon:purple_coin]を集めてくれてアリガト～♪[pagebreak]",
-        "[color:red]いたずらコメット[defcolor]のことなら、ボクに オ・マ・カ・セ！"
-      ],
-      "KrKorean": [
-        "안녕! 내 이름은 [color:purple]혜성 치코[defcolor]야.",
-        "[icon:purple_coin]을 모아 줘서 고마워![pagebreak]",
-        "[color:red]장난꾸러기 혜성[defcolor]에 대해 더",
-        "알고 싶다면 나를 찾아와!"
-      ],
-      "CnSimpChinese": null,
-      "AsTradChinese": [
-        "嘿呦！我的名字是[color:purple]彗星奇可[defcolor]。",
-        "謝謝你收集[icon:purple_coin]！[pagebreak]",
-        "如果你想進一步了解",
-        "[color:red]搗蛋彗星[defcolor]，就來找本奇可吧！"
+      "default": [
+        "DELETED MESSAGE: Tico002"
       ]
     }
   },
@@ -870,40 +830,49 @@
     },
     "languages": {
       "UsEnglish": [
-        "The [color:blue]Terrace[defcolor] is in here!"
+        "The [color:blue]Terrace [defcolor]is in here!"
       ],
       "EuEnglish": [
-        "The [color:blue]Terrace[defcolor] is in here!"
+        "The [color:blue]Terrace [defcolor]is in here!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡El [color:blue]Mirador [defcolor]está por aquí!"
+      ],
+      "EuSpanish": [
+        "¡El [color:blue]Mirador [defcolor]es aquí!"
+      ],
       "UsFrench": [
-        "Voici la [color:red]Terrasse[defcolor]!"
+        "Voici la [color:blue]Terrasse[defcolor]!"
       ],
       "EuFrench": [
-        "Voici la [color:red]Terrasse[defcolor]!"
+        "Voici la [color:blue]terrasse[defcolor] !"
       ],
       "EuGerman": [
-        "Hier ist die [color:blue]Terrasse[defcolor]!"
+        "Zur [color:blue]Terrasse[defcolor] geht es hier entlang."
       ],
       "EuItalian": [
-        "La [color:blue]Terrazza[defcolor] è qui!"
+        "La[color:blue] terrazza[defcolor] è da",
+        "questa parte."
       ],
       "EuDutch": [
-        "The [color:blue]Terrace[defcolor] is in here!"
+        "De [color:blue]sterrenwacht [defcolor]is hierbinnen!"
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "O [color:blue]Terraço [defcolor]fica aqui!"
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
-        "[color:red]テラス[defcolor]は こちらで～す"
+        "[color:blue]テラス[defcolor]は こちらで～す"
       ],
       "KrKorean": [
-        "여기에 [color:blue]테라스[defcolor]가 있어!"
+        "[color:blue]테라스[defcolor]는 이쪽이에요~"
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "[color:blue]露台[defcolor]在这边～"
+      ],
       "AsTradChinese": [
-        "[color:blue]露台[defcolor]就在這邊！"
+        "要去[color:blue]露台[defcolor]請往這裡走～"
       ]
     }
   },
@@ -921,40 +890,58 @@
     },
     "languages": {
       "UsEnglish": [
-        "The [color:blue]Fountain[defcolor] is in here!"
+        "Step here to go to",
+        "the [color:blue]Fountain[defcolor]."
       ],
       "EuEnglish": [
-        "The [color:blue]Fountain[defcolor] is in here!"
+        "Step here to go to",
+        "the [color:blue]Fountain[defcolor]."
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "Si quieres ir a la",
+        "[color:blue]Fuente[defcolor], sube aquí."
+      ],
+      "EuSpanish": [
+        "Si quieres ir al [color:blue]Baño[defcolor],",
+        "sube aquí."
+      ],
       "UsFrench": [
-        "Voici la [color:red]Fontaine[defcolor]!"
+        "Si tu veux aller à la ",
+        "[color:blue]Fontaine[defcolor], monte là-dedans."
       ],
       "EuFrench": [
-        "Voici la [color:red]Fontaine[defcolor]!"
+        "Si tu veux aller à la [color:blue]salle",
+        "de bains[defcolor], monte là-dedans !"
       ],
       "EuGerman": [
-        "Das [color:blue]Badezimmer[defcolor] ist hier!"
+        "Wenn du zum [color:blue]Badezimmer",
+        "[defcolor]willst, steig hier auf."
       ],
       "EuItalian": [
-        "Il [color:blue]Bagno[defcolor] è qui!"
+        "Se vuoi raggiungere il",
+        "[color:blue]bagno[defcolor], sali qui sopra."
       ],
       "EuDutch": [
-        "The [color:blue]Fountain[defcolor] is in here!"
+        "Ga hierop staan om naar",
+        "de [color:blue]badkamer [defcolor]te gaan."
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "Suba aqui para",
+        "ir ao [color:blue]Lavatório[defcolor]."
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
-        "[color:red]バスルーム[defcolor]へなら これに[ruby:乗;の]って"
+        "[color:blue]バスルーム[defcolor]へなら これに[ruby:乗;の]って"
       ],
       "KrKorean": [
-        "여기에 [color:blue]욕실[defcolor]이 있어!"
+        "[color:blue]욕실[defcolor]에 가려면 이걸 타세요."
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "坐这个可以去[color:blue]浴室[defcolor]。"
+      ],
       "AsTradChinese": [
-        "[color:blue]浴室[defcolor]就在這邊！"
+        "想去[color:blue]浴室[defcolor]的話，就坐這個。"
       ]
     }
   },
@@ -972,40 +959,48 @@
     },
     "languages": {
       "UsEnglish": [
-        "The [color:blue]Kitchen[defcolor] is in here!"
+        "This is the [color:blue]Kitchen[defcolor]."
       ],
       "EuEnglish": [
-        "The [color:blue]Kitchen[defcolor] is in here!"
+        "This is the [color:blue]Kitchen[defcolor]."
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Esta es la [color:blue]Cocina[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡Esta es la [color:blue]Cocina[defcolor]!"
+      ],
       "UsFrench": [
-        "Voici la [color:red]Cuisine[defcolor]!"
+        "Ici, c'est la[color:blue] Cuisine[defcolor]."
       ],
       "EuFrench": [
-        "Voici la [color:red]Cuisine[defcolor]!"
+        "Ici, c'est la [color:blue]cuisine[defcolor]."
       ],
       "EuGerman": [
-        "Die [color:blue]Küche[defcolor] ist hier!"
+        "Hier ist die [color:blue]Küche[defcolor]!"
       ],
       "EuItalian": [
-        "La [color:blue]Cucina[defcolor] è qui!"
+        "Questa è la [color:blue]cucina[defcolor]!"
       ],
       "EuDutch": [
-        "The [color:blue]Kitchen[defcolor] is in here!"
+        "Hierboven is de [color:blue]keuken[defcolor]."
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "Esta é a [color:blue]Cozinha[defcolor]."
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
-        "こちらが [color:red]キッチン[defcolor]で～す"
+        "こちらが [color:blue]キッチン[defcolor]で～す"
       ],
       "KrKorean": [
-        "여기에 [color:blue]부엌[defcolor]이 있어!"
+        "여기가 [color:blue]부엌[defcolor]이에요~"
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "这里是[color:blue]厨房[defcolor]～"
+      ],
       "AsTradChinese": [
-        "[color:blue]廚房[defcolor]就在這邊！"
+        "這裡是[color:blue]廚房[defcolor]～"
       ]
     }
   },
@@ -1023,40 +1018,48 @@
     },
     "languages": {
       "UsEnglish": [
-        "The [color:blue]Bedroom[defcolor] is in here!"
+        "This is the [color:blue]Bedroom[defcolor]."
       ],
       "EuEnglish": [
-        "The [color:blue]Bedroom[defcolor] is in here!"
+        "This is the [color:blue]Bedroom[defcolor]."
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Este es el [color:blue]Dormitorio[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡Este es el [color:blue]Dormitorio[defcolor]!"
+      ],
       "UsFrench": [
-        "Voici la [color:red]Chambre[defcolor]!"
+        "Ici, c'est la [color:blue]Chambre[defcolor]."
       ],
       "EuFrench": [
-        "Voici la [color:red]Chambre[defcolor]!"
+        "Ici, c'est la [color:blue]chambre[defcolor]."
       ],
       "EuGerman": [
-        "Das [color:blue]Schlafzimmer[defcolor] ist hier!"
+        "Das [color:blue]Schlafzimmer [defcolor]ist hier!"
       ],
       "EuItalian": [
-        "La [color:blue]Camera[defcolor] è qui!"
+        "Questa è la [color:blue]camera da letto[defcolor]!"
       ],
       "EuDutch": [
-        "The [color:blue]Bedroom[defcolor] is in here!"
+        "Dit is de [color:blue]slaapkamer[defcolor]."
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "Este é o [color:blue]Quarto[defcolor]."
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
         "[color:blue]ベッドルーム[defcolor]は ここですよ～"
       ],
       "KrKorean": [
-        "여기에 [color:blue]침실[defcolor]이 있어!"
+        "[color:blue]침실[defcolor]은 여기예요~"
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "[color:blue]卧室[defcolor]在这里哦～"
+      ],
       "AsTradChinese": [
-        "[color:blue]臥室[defcolor]就在這邊！"
+        "[color:blue]臥室[defcolor]在這裡喔～"
       ]
     }
   },
@@ -1074,40 +1077,49 @@
     },
     "languages": {
       "UsEnglish": [
-        "This is the [color:blue]Engine Room[defcolor]!"
+        "This is the [color:blue]Engine Room[defcolor]."
       ],
       "EuEnglish": [
-        "This is the [color:blue]Engine Room[defcolor]!"
+        "This is the [color:blue]Engine Room[defcolor]."
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Esta es la [color:blue]Sala",
+        "de Máquinas[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡Esta es la [color:blue]Sala de Máquinas[defcolor]!"
+      ],
       "UsFrench": [
-        "Voici la [color:red]Salle des Machines[defcolor]!"
+        "Voici la [color:blue]Salle des machines[defcolor]."
       ],
       "EuFrench": [
-        "Voici la [color:red]Salle des Machines[defcolor]!"
+        "Voici la [color:blue]salle des machines[defcolor]."
       ],
       "EuGerman": [
-        "Hier ist der [color:blue]Maschinenraum[defcolor]!"
+        "Hier ist der [color:blue]Maschinenraum[defcolor]."
       ],
       "EuItalian": [
-        "Questa è la [color:blue]Sala Motori[defcolor]!"
+        "Questa è la [color:blue]sala motori[defcolor]."
       ],
       "EuDutch": [
-        "This is the [color:blue]Engine Room[defcolor]!"
+        "Hier is de [color:blue]machinekamer[defcolor]."
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "Aqui fica a [color:blue]Casa de Máquinas[defcolor]."
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
-        "ここは[color:red]マシンルーム[defcolor]でーす"
+        "ここは[color:blue]マシンルーム[defcolor]でーす"
       ],
       "KrKorean": [
-        "여기가 [color:blue]머신룸[defcolor]이야!"
+        "여긴 [color:blue]머신룸[defcolor]입니다."
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "这里是[color:blue]机械屋[defcolor]～"
+      ],
       "AsTradChinese": [
-        "這裡是[color:blue]機房[defcolor]！"
+        "這裡是[color:blue]機房[defcolor]～"
       ]
     }
   },
@@ -1125,42 +1137,57 @@
     },
     "languages": {
       "UsEnglish": [
-        "The [color:blue]Garden[defcolor] is in here!"
+        "This is the [color:blue]Garden[defcolor].",
+        "It's a secret room!"
       ],
       "EuEnglish": [
-        "The [color:blue]Garden[defcolor] is in here!"
+        "This is the [color:blue]Garden[defcolor].",
+        "It's a secret room!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Este es el[color:blue] Jardín[defcolor]! Es",
+        "una habitación secreta."
+      ],
+      "EuSpanish": [
+        "¡Este es el [color:blue]Ático[defcolor]!",
+        "¡Un cuarto lleno de secretos!"
+      ],
       "UsFrench": [
-        "Ici, c'est le [color:red]Jardin[defcolor].",
+        "Ici, c'est le [color:blue]Jardin[defcolor].",
         "C'est une pièce secrète!"
       ],
       "EuFrench": [
-        "Ici, c'est le [color:red]Jardin[defcolor].",
-        "C'est une pièce secrète!"
+        "Ici, c'est le [color:blue]grenier[defcolor].",
+        "C'est une pièce secrète !"
       ],
       "EuGerman": [
-        "Das [color:blue]Loft[defcolor] ist hier!"
+        "Das [color:blue]Loft [defcolor]ist hier!"
       ],
       "EuItalian": [
-        "L'[color:blue]Attico[defcolor] è qui!"
+        "Questo è l'[color:blue]attico[defcolor]...",
+        "Una stanza segreta..."
       ],
       "EuDutch": [
-        "The [color:blue]Garden[defcolor] is in here!"
+        "Hierbinnen is de [color:blue]tuin[defcolor]!",
+        "Het is er zo mooi!"
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "Este é o [color:blue]Jardim[defcolor].",
+        "Uma sala secreta!"
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
-        "ここは[color:red]ロフト[defcolor]・・・ ひみつの[ruby:部屋;へや]"
+        "ここは[color:blue]ロフト[defcolor]… ひみつの[ruby:部屋;へや]"
       ],
       "KrKorean": [
-        "여기에 [color:blue]옥탑방[defcolor]이 있어!"
+        "여기는 [color:blue]옥탑방[defcolor]… 비밀의 방입니다."
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "这里是[color:blue]阁楼[defcolor]……是秘密的房间。"
+      ],
       "AsTradChinese": [
-        "[color:blue]閣樓[defcolor]就在這邊！"
+        "這裡是[color:blue]閣樓[defcolor]……秘密的房間。"
       ]
     }
   },
@@ -1183,33 +1210,42 @@
       "EuEnglish": [
         "This is the [color:blue]Gate[defcolor]!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡El [color:blue]Portal",
+        "[defcolor]está por aquííí!"
+      ],
+      "EuSpanish": [
+        "¡Este es el [color:blue]Portal[defcolor]!"
+      ],
       "UsFrench": [
-        "Ici, c'est la [color:red]Salle de Jeu[defcolor]!"
+        "Ici, c'est le [color:blue]Portail[defcolor]!"
       ],
       "EuFrench": [
-        "Ici, c'est la [color:red]Salle de Jeu[defcolor]!"
+        "Ici, c'est le [color:blue]portail[defcolor] !"
       ],
       "EuGerman": [
-        "Hier ist das [color:blue]Kinderzimmer[defcolor]!"
+        "Das [color:blue]Sternentor [defcolor]ist hier!"
       ],
       "EuItalian": [
-        "Questa è la [color:blue]stanza dei bimbi[defcolor]!"
+        "Il [color:blue]portale[defcolor] è qui!"
       ],
       "EuDutch": [
-        "This is the [color:blue]Gate[defcolor]!"
+        "Hier is de [color:blue]speelkamer[defcolor]!"
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "Este é o [color:blue]portão[defcolor]!"
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
-        "[color:red][ruby:子供;こども][ruby:部屋;べや][defcolor]ならここで～す！"
+        "[color:blue][ruby:子供;こども][ruby:部屋;べや][defcolor]なら ここで～す！"
       ],
       "KrKorean": [
-        "여기가 [color:blue]아이방[defcolor]이야!"
+        "[color:blue]아이방[defcolor]은 여기예요~!"
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "[color:blue]儿童房[defcolor]在这里～！"
+      ],
       "AsTradChinese": [
         "這裡是[color:blue]大門[defcolor]！"
       ]
@@ -1229,43 +1265,50 @@
     },
     "languages": {
       "UsEnglish": [
-        "Mama's [color:blue]Library[defcolor] is in here!"
+        "Mama's [color:blue]Library [defcolor]is in here!"
       ],
       "EuEnglish": [
-        "Mama's [color:blue]Library[defcolor] is in here!"
+        "Mama's [color:blue]Library [defcolor]is in here!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Aquí está la [color:blue]Biblioteca [defcolor]de mamá!"
+      ],
+      "EuSpanish": [
+        "¡Aquí está la [color:blue]Biblioteca [defcolor]de mamá!"
+      ],
       "UsFrench": [
-        "La [color:red]Bibliothèque[defcolor] de ",
+        "La [color:blue]Bibliothèque [defcolor]de ",
         "Maman est par ici!"
       ],
       "EuFrench": [
-        "La [color:red]Bibliothèque[defcolor] de ",
-        "Maman est par ici!"
+        "La [color:blue]bibliothèque[defcolor] de maman est par ici !"
       ],
       "EuGerman": [
-        "Mamas [color:blue]Bücherei[defcolor] ist hier!"
+        "Mamas [color:blue]Bibliothek [defcolor]ist hier!"
       ],
       "EuItalian": [
         "Qui c'è la [color:blue]biblioteca[defcolor]",
         "della mamma!"
       ],
       "EuDutch": [
-        "Mama's [color:blue]Library[defcolor] is in here!"
+        "Hier is mama's [color:blue]bibliotheek[defcolor]."
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "Aqui fica a [color:blue]Biblioteca [defcolor]da mamãe!"
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
-        "ママの[color:red][ruby:書斎;しょさい][defcolor]は こちら～！"
+        "ママの[color:blue][ruby:書斎;しょさい][defcolor]は こちら～！"
       ],
       "KrKorean": [
-        "여기에 엄마의 [color:blue]도서관[defcolor]이 있어!"
+        "엄마의 [color:blue]서재[defcolor]는 이쪽~!"
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "妈妈的[color:blue]书房[defcolor]在这边～！"
+      ],
       "AsTradChinese": [
-        "媽媽的[color:blue]書房[defcolor]就在這邊！"
+        "媽媽的[color:blue]書房[defcolor]在這裡～！"
       ]
     }
   },
@@ -1493,7 +1536,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "通往[color:blue]甜點工廠銀河[defcolor]的入口現在無法使用。"
+        "通往[color:blue]甜點工廠銀河[defcolor]的入口",
+        "現在無法使用。"
       ]
     }
   },
@@ -1552,7 +1596,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "通往[color:blue]繭形星群銀河[defcolor]的入口現在無法使用。"
+        "通往[color:blue]繭形星群銀河[defcolor]的入口",
+        "現在無法使用。"
       ]
     }
   },
@@ -1611,7 +1656,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "通往[color:blue]淚珠銀河[defcolor]的入口現在無法使用。"
+        "通往[color:blue]淚珠銀河[defcolor]的入口",
+        "現在無法使用。"
       ]
     }
   },
@@ -1670,7 +1716,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "通往[color:blue]大魚隧道銀河[defcolor]的入口現在無法使用。"
+        "通往[color:blue]大魚隧道銀河[defcolor]的入口",
+        "現在無法使用。"
       ]
     }
   },
@@ -1730,7 +1777,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "通往[color:blue]螺旋流沙銀河[defcolor]的入口現在無法使用。"
+        "通往[color:blue]螺旋流沙銀河[defcolor]的入口",
+        "現在無法使用。"
       ]
     }
   },
@@ -1789,7 +1837,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "通往[color:blue]死亡散步小徑銀河[defcolor]的入口現在無法使用。"
+        "通往[color:blue]死亡散步小徑銀河[defcolor]的入口",
+        "現在無法使用。"
       ]
     }
   },
@@ -1848,7 +1897,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "通往[color:blue]飄雪彈頭銀河[defcolor]的入口現在無法使用。"
+        "通往[color:blue]飄雪彈頭銀河[defcolor]的入口",
+        "現在無法使用。"
       ]
     }
   },
@@ -1907,7 +1957,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "通往[color:blue]氣泡挑戰銀河[defcolor]的入口現在無法使用。"
+        "通往[color:blue]氣泡挑戰銀河[defcolor]的入口",
+        "現在無法使用。"
       ]
     }
   },
@@ -1966,7 +2017,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "通往[color:blue]星星球挑戰銀河[defcolor]的入口現在無法使用。"
+        "通往[color:blue]星星球挑戰銀河[defcolor]的入口",
+        "現在無法使用。"
       ]
     }
   },
@@ -2025,7 +2077,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "通往[color:blue]衝浪挑戰銀河[defcolor]的入口現在無法使用。"
+        "通往[color:blue]衝浪挑戰銀河[defcolor]的入口",
+        "現在無法使用。"
       ]
     }
   },
@@ -2084,7 +2137,8 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "通往[color:blue]歡樂團圓銀河[defcolor]的入口現在無法使用。"
+        "通往[color:blue]歡樂團圓銀河[defcolor]的入口",
+        "現在無法使用。"
       ]
     }
   },
@@ -2107,36 +2161,47 @@
       "EuEnglish": [
         "You can use this [color:red]Red Star[defcolor]."
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "Puedes utilizar esta",
+        "[color:red]Estrella Roja[defcolor]."
+      ],
+      "EuSpanish": [
+        "Adelante. Úsala."
+      ],
       "UsFrench": [
-        "Tu peux utiliser l'[color:red]Étoile Rouge[defcolor]."
+        "Tu peux utiliser cette ",
+        "[color:red]étoile rouge[defcolor]."
       ],
       "EuFrench": [
-        "Tu peux utiliser l'[color:red]Étoile Rouge[defcolor]."
+        "Tu peux utiliser l'[color:red]étoile rouge[defcolor]."
       ],
       "EuGerman": [
-        "Du kannst diesen [color:red]Roten Stern[defcolor] verwenden."
+        "Du kannst den [color:red]roten Stern [defcolor]einsetzen!"
       ],
       "EuItalian": [
         "Puoi usare questa",
-        "[color:red]Stella Rossa[defcolor]."
+        "[color:red]Stella Rossa[defcolor]..."
       ],
       "EuDutch": [
-        "You can use this [color:red]Red Star[defcolor]."
+        "Deze [color:red]rode ster [defcolor]is",
+        "altijd hier voor je!"
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "Você pode usar esta [color:red]estrela vermelha[defcolor]."
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
         "[color:red]レッドスター[defcolor]、[ruby:使;つか]っていいよ"
       ],
       "KrKorean": [
-        "이 [color:red]레드스타[defcolor]를 사용할 수 있어."
+        "[color:red]레드스타[defcolor] 써도 돼."
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "你可以用[color:red]红色星星[defcolor]哦。"
+      ],
       "AsTradChinese": [
-        "你可以使用這顆[color:red]紅色星星[defcolor]。"
+        "[color:red]紅色星星[defcolor]你可以拿去用喔。"
       ]
     }
   },
@@ -2159,35 +2224,43 @@
       "EuEnglish": [
         "He's still sleeping?!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Huy! ¡Está dormido!"
+      ],
+      "EuSpanish": [
+        "¡Huy! ¡Está dormido!"
+      ],
       "UsFrench": [
-        "Il va dormir encore longtemps?..."
+        "Il dort encore?!"
       ],
       "EuFrench": [
-        "Il va dormir encore longtemps?..."
+        "Oh, il s'est endormi..."
       ],
       "EuGerman": [
-        "Wie lange will er noch schlafen?!"
+        "Ups, er ist eingeschlafen..."
       ],
       "EuItalian": [
         "Ma guarda! Sta dormendo..."
       ],
       "EuDutch": [
-        "He's still sleeping?!"
+        "Slaapt hij nou nog steeds?!"
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "Ele ainda tá dormindo?"
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
-        "いつまで[ruby:寝;ね]てるんでしょうか・・・"
+        "あらら、[ruby:寝;ね]ちゃってます…"
       ],
       "KrKorean": [
-        "아직도 자고 있어?!"
+        "후훗, 자고 있네요…"
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "哎呀，睡着了……"
+      ],
       "AsTradChinese": [
-        "他還在睡覺？！"
+        "哎呀呀，睡著了……"
       ]
     }
   },
@@ -2206,45 +2279,57 @@
     "languages": {
       "UsEnglish": [
         "We live here in the",
-        "[color:blue]Observatory[defcolor] with Mama!"
+        "[color:blue]observatory [defcolor]with Mama!"
       ],
       "EuEnglish": [
         "We live here in the",
-        "[color:blue]Observatory[defcolor] with Mama!"
+        "[color:blue]observatory [defcolor]with Mama!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Vivimos en este",
+        "[color:blue]planetarium [defcolor]con mamá!"
+      ],
+      "EuSpanish": [
+        "Nosotros vivimos con mamá",
+        "en este [color:blue]Planetarium[defcolor]."
+      ],
       "UsFrench": [
-        "On vit tous dans l'[color:blue]Observatoire[defcolor]",
-        "avec Maman!"
+        "L'[color:blue]Observatoire[defcolor] est notre ",
+        "maison à Maman et nous!"
       ],
       "EuFrench": [
-        "On vit tous dans l'[color:blue]Observatoire[defcolor]",
-        "avec Maman!"
+        "L'[color:blue]observatoire[defcolor] est notre",
+        "maison à maman et nous !"
       ],
       "EuGerman": [
-        "Wir leben hier mit Mama!"
+        "Die [color:blue]Sternwarte [defcolor]ist das ",
+        "Haus von Mama und uns!"
       ],
       "EuItalian": [
         "L'[color:blue]osservatorio[defcolor] è la casa in",
         "cui viviamo con la mamma!"
       ],
       "EuDutch": [
-        "We live here in the",
-        "[color:blue]Observatory[defcolor] with Mama!"
+        "Mama en wij wonen",
+        "in dit [color:blue]observatorium[defcolor]!"
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "A gente mora aqui no",
+        "[color:blue]Observatório [defcolor]com a mamãe!"
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
         "[ruby:私;わたし]たちはこの[color:blue][ruby:天文台;てんもんだい][defcolor]でママと[ruby:暮;く]らしてるの！"
       ],
       "KrKorean": [
-        "우리는 엄마와 함께 [color:blue]천문대[defcolor]에서 살고 있어!"
+        "[color:blue]천문대[defcolor]는 엄마와 우리들의 집!"
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "[color:blue]天文台[defcolor]是妈妈和我们的家！"
+      ],
       "AsTradChinese": [
-        "我們和媽媽一起住在[color:blue]天文台[defcolor]！"
+        "[color:blue]天文台[defcolor]是媽媽跟我們的家！"
       ]
     }
   },
@@ -2267,35 +2352,46 @@
       "EuEnglish": [
         "This couch is the comfiest! ♪"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡El descanso es",
+        "el mejor invento! ♪"
+      ],
+      "EuSpanish": [
+        "¡El descanso es el mejor invento!"
+      ],
       "UsFrench": [
-        "C'est la récréation♪"
+        "Ce sofa est bien ",
+        "duveteux! ♪"
       ],
       "EuFrench": [
         "C'est la récréation♪"
       ],
       "EuGerman": [
-        "Diese Couch ist am bequemsten! ♪"
+        "Pause! Pause!♪"
       ],
       "EuItalian": [
         "Un po' di pausa! Che bello! ♪"
       ],
       "EuDutch": [
-        "This couch is the comfiest! ♪"
+        "Zo'n lekkere bank, dit! ♪"
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "Este sofá é a coisa mais confortável",
+        "do mundo! ♪"
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
         "きゅうけい きゅうけい♪"
       ],
       "KrKorean": [
-        "이 소파가 제일 편해! ♪"
+        "휴식 휴식♪"
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "休息一下♪"
+      ],
       "AsTradChinese": [
-        "這張沙發最舒服了！♪"
+        "休息一下♪"
       ]
     }
   },
@@ -2320,36 +2416,48 @@
         "Mama's gonna read",
         "me a [color:blue]storybook[defcolor]! ♪"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Mamá me va a",
+        "leer su [color:blue]libro[defcolor]! ♪"
+      ],
+      "EuSpanish": [
+        "¡Mamá nos va a leer su [color:blue]libro[defcolor]!"
+      ],
       "UsFrench": [
-        "Maman va nous lire une [color:blue]Histoire[defcolor]♪"
+        "Maman va me lire ",
+        "une[color:blue] histoire[defcolor]! ♪"
       ],
       "EuFrench": [
-        "Maman va nous lire une [color:blue]Histoire[defcolor]♪"
+        "Maman va nous lire une [color:blue]histoire[defcolor]♪"
       ],
       "EuGerman": [
-        "Mama wird mir eine",
-        "[color:blue]Geschichte[defcolor] vorlesen! ♪"
+        "Mama liest uns aus dem",
+        "[color:blue]Bilderbuch [defcolor]vor.♪"
       ],
       "EuItalian": [
         "La mamma mi leggerà",
         "il [color:blue]libro illustrato[defcolor]! ♪"
       ],
       "EuDutch": [
-        "Mama's gonna read",
-        "me a [color:blue]storybook[defcolor]! ♪"
+        "Mama gaat ons voorlezen",
+        "uit haar [color:blue]boek[defcolor]! ♪"
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "A mamãe vai ler um",
+        "[color:blue]livro [defcolor]para mim! ♪"
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
         "ママに [color:blue][ruby:絵本;えほん][defcolor][ruby:読;よ]んでもらうの♪"
       ],
       "KrKorean": [
-        "엄마가 [color:blue]동화책[defcolor]을 읽어 줄 거야! ♪"
+        "엄마한테 [color:blue]그림책[defcolor] 읽어 달라고 해야지♪"
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "我要让妈妈给我",
+        "读[color:blue]绘本[defcolor]♪"
+      ],
       "AsTradChinese": [
         "媽媽要念[color:blue]故事書[defcolor]給我聽了！♪"
       ]
@@ -2427,41 +2535,51 @@
         "The [color:blue]Engine Room",
         "[defcolor]is up above us!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡La [color:blue]Sala de Máquinas[defcolor] está",
+        "justo encima de nosotros!"
+      ],
+      "EuSpanish": [
+        "¡La [color:blue]Sala de Máquinas[defcolor]",
+        "está justo aquí arriba!"
+      ],
       "UsFrench": [
         "Là-haut, c'est la",
-        "[color:red]Salle des Machines[defcolor]!"
+        "[color:blue]Salle des machines[defcolor]!"
       ],
       "EuFrench": [
-        "Là-haut, c'est la",
-        "[color:red]Salle des Machines[defcolor]!"
+        "Là-haut, c'est la [color:blue]salle des",
+        "machines[defcolor] !"
       ],
       "EuGerman": [
-        "Der [color:blue]Maschinenraum",
-        "[defcolor]ist über uns!"
+        "Der [color:blue]Maschinenraum[defcolor] ist",
+        "über uns!"
       ],
       "EuItalian": [
-        "La [color:blue]sala motori [defcolor]è sopra",
+        "La [color:blue]sala motori[defcolor] è sopra",
         "di noi."
       ],
       "EuDutch": [
-        "The [color:blue]Engine Room",
-        "[defcolor]is up above us!"
+        "Hiermee kom je bij",
+        "de [color:blue]machinekamer[defcolor]."
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "A [color:blue]Casa de Máquinas",
+        "[defcolor]está acima de nós!"
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
-        "この[ruby:上;うえ]は[color:red]マシンルーム[defcolor]です！"
+        "この[ruby:上;うえ]は[color:blue]マシンルーム[defcolor]です！"
       ],
       "KrKorean": [
-        "[color:blue]머신룸[defcolor]은 위쪽에 있어!"
+        "이 위는 [color:blue]머신룸[defcolor]입니다!"
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "这上边是[color:blue]机械屋[defcolor]！"
+      ],
       "AsTradChinese": [
-        "[color:blue]機房",
-        "[defcolor]就在我們上面！"
+        "這上面是[color:blue]機房[defcolor]！"
       ]
     }
   },
@@ -2484,38 +2602,48 @@
       "EuEnglish": [
         "Stand here to go down!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "Si quieres bajar, usa esto."
+      ],
+      "EuSpanish": [
+        "Si quieres bajar, usa esto."
+      ],
       "UsFrench": [
         "Monte là-dedans ",
         "pour descendre!"
       ],
       "EuFrench": [
-        "Monte là-dedans ",
-        "pour descendre!"
+        "Si tu veux descendre, monte",
+        "là-dedans."
       ],
       "EuGerman": [
-        "Das ist eine Abkürzung!"
+        "Wenn du nach unten willst, stell",
+        "dich hier drauf."
       ],
       "EuItalian": [
         "Per risparmiare un po' di strada,",
         "sali qui sopra."
       ],
       "EuDutch": [
-        "Stand here to go down!"
+        "Ga hierop staan om",
+        "naar beneden te gaan."
       ],
-      "UsPortuguese": null,
+      "UsPortuguese": [
+        "Se você quiser descer, fique aqui."
+      ],
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
         "[ruby:下;した]に[ruby:行;い]くなら これに[ruby:乗;の]って"
       ],
       "KrKorean": [
-        "여기에 서 있으면 아래로 내려갈 수 있어!"
+        "아래로 가려면 이걸 타세요."
       ],
-      "CnSimpChinese": null,
+      "CnSimpChinese": [
+        "可以坐这个下去。"
+      ],
       "AsTradChinese": [
-        "站在這裡就可以下去了！"
+        "要去下面的話，就坐這個吧。"
       ]
     }
   },
