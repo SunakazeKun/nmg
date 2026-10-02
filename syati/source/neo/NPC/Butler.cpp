@@ -11,11 +11,14 @@ namespace neo {
     }
 
     void Butler::init(const JMapInfoIter & rIter) {
-        NPCActorCaps capabilities("Butler");
-        capabilities.setDefault();
-        capabilities.mBodySensorJoint = "Body";
-        capabilities.mBodySensorRadius = 50.0f;
-        capabilities.mBodySensorOffset.zero();
+        NPCActorCaps caps("Butler");
+
+        caps.setDefault();
+        caps.mBodySensorJoint = "Body";
+        caps.mBodySensorRadius = 50.0f;
+        caps.mBodySensorOffset.zero();
+
+        initialize(rIter, caps, nullptr, nullptr, false);
 
         mTalkParam.mActionWait = "Wait";
         mTalkParam.mActionWaitTurn = "Wait";
@@ -26,8 +29,6 @@ namespace neo {
         mActionTrampled = "Trampled";
         mActionPointing = "Pointing";
         mActionReaction = "Spin";
-
-        initialize(rIter, capabilities, nullptr, nullptr, false);
     }
 
     void Butler::kill() {

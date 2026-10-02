@@ -15,8 +15,10 @@ namespace neo {
 
     void TicoManiac::init(const JMapInfoIter &rIter) {
         NPCActorCaps caps("TicoShop");
+
         caps.setDefault();
         caps.mTalkMsgLabel = "TicoManiac";
+        
         initialize(rIter, caps, "TicoShop", nullptr, false);
 
         MR::registerKillFunc(mTalkCtrl, TalkMessageFunc(this, &killFunc));

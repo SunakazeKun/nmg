@@ -12,27 +12,28 @@
 
 namespace neo {
     HelperWitch::HelperWitch(const char *pName)
-        : NPCActor(pName)
+        : NPCActor(pName),
+        mRestartId(),
+        mShouldReset()
     {
-        mRestartId.mId = -1;
-        mRestartId.mZoneId = 0;
-        mShouldReset = false;
+        
     }
 
     void HelperWitch::init(const JMapInfoIter &rIter) {
-        NPCActorCaps capabilities("HelperWitch");
-        capabilities.setDefault();
+        NPCActorCaps caps("HelperWitch");
+
+        caps.setDefault();
+        caps.mTalkOffset.set(0.0f, 220.0f, 0.0f);
+
+        initialize(rIter, caps, "HelperWitch", nullptr, false);
 
         mTalkParam.mActionWait = "WaitA";
         mTalkParam.mActionWaitTurn = "WaitA";
+
         mActionSpin = "Spin";
         mActionTrampled = "Trampled";
         mActionPointing = "Pointing";
         mActionReaction = "Reaction";
-
-        capabilities.mTalkOffset.set(0.0f, 220.0f, 0.0f);
-
-        initialize(rIter, capabilities, "HelperWitch", nullptr, false);
 
         MR::registerEventFunc(mTalkCtrl, TalkMessageFunc(this, &eventFunc));
         MR::registerBranchFunc(mTalkCtrl, TalkMessageFunc(this, &branchFunc));

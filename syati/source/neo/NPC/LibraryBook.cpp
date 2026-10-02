@@ -9,15 +9,16 @@ namespace neo {
     }
 
     void LibraryBook::init(const JMapInfoIter &rIter) {
-        NPCActorCaps capabilities("LibraryBook");
-        capabilities.setDefault();
-        capabilities.mWaitNerve = NrvLibraryBookWait;
-        capabilities.mBodySensorRadius = 20.f;
-        capabilities.mInitSphereShadow = false;
-        capabilities.mInitYoshiLockOnTarget = false;
-        capabilities.mInitStarPointerTarget = false;
+        NPCActorCaps caps("LibraryBook");
+        
+        caps.setDefault();
+        caps.mWaitNerve = NrvLibraryBookWait;
+        caps.mBodySensorRadius = 20.f;
+        caps.mInitSphereShadow = false;
+        caps.mInitYoshiLockOnTarget = false;
+        caps.mInitStarPointerTarget = false;
 
-        initialize(rIter, capabilities, nullptr, nullptr, false);
+        initialize(rIter, caps, nullptr, nullptr, false);
     }
 
     // -----------------------------------------------------------------------------------------------------------------
