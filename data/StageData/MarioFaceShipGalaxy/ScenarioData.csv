@@ -1,0 +1,5 @@
+ScenarioNo:Int:0,ScenarioName:String:0,PowerStarId:Int:0,AppearPowerStarObj:String:0,PowerStarType:String:0,Comet:String:0,CometLimitTimer:Int:0,LuigiModeTimer:Int:0,MarioFaceShipGalaxy:Int:0,MarioFaceShipZone:Int:0,ErrorCheck:Int:0
+1,変化前,0,,Normal,,0,0,16385,16401,0
+2,変化後,0,,Normal,,0,0,32770,32818,0
+3,クッパ最終戦突入デモ,0,,Normal,,0,0,32772,32804,0
+4,グランドスター帰還デモ,0,,Normal,,0,0,32776,32808,0

@@ -88,6 +88,7 @@ KoopaJrLv3Sky,Sky
 KoopaJrNormalShipA,SimpleMapObj
 KoopaLastBattleSky,Sky
 KoopaShipB,SimpleMapObj
+MarioFaceFruitRellayParts,SimpleMapObj
 MarioFaceShipChimney,AutoMakeMapObj
 MarioFaceShipJet,AutoMakeMapObj
 MarioFaceShipPlanetCore,AutoMakeMapObj

@@ -52,7 +52,7 @@ namespace {
     // New heap sizes
     // =====================================================================================================================
 
-#define WORLD_MAP_HEAP_SIZE (0xEA0000u)
+#define WORLD_MAP_HEAP_SIZE (0xF00000u)
 
     // WorldMapHeap
     kmWrite16(0x80040F12, -(WORLD_MAP_HEAP_SIZE >> 16));
