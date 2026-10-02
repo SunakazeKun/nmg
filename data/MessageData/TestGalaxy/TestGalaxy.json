@@ -1,0 +1,22 @@
+[
+  {
+    "label": "SignBoard000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "default": [
+        "[icon:polari] [icon:stamp] [icon:empty_stamp]",
+        "[icon:green_star] [icon:red_star] [icon:blue_star]",
+        "[icon:golden_mushroom] [icon:star_mushroom]"
+      ]
+    }
+  }
+]
