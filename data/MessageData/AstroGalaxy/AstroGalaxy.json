@@ -24,11 +24,11 @@
       "EuSpanish": null,
       "UsFrench": [
         "Désires-tu consulter l-[delay:30]-[delay:30][size:large]QUOI?![size:normal][delay:60]",
-        "[sound:SE_SV_BUTLER_TALK_WORRIED]Où es passé la carte? !"
+        "[sound:SE_SV_BUTLER_TALK_WORRIED]Où es passé la carte?!"
       ],
       "EuFrench": [
         "Désires-tu consulter l-[delay:30]-[delay:30][size:large]QUOI?![size:normal][delay:60]",
-        "[sound:SE_SV_BUTLER_TALK_WORRIED]Où es passé la carte? !"
+        "[sound:SE_SV_BUTLER_TALK_WORRIED]Où es passé la carte?!"
       ],
       "EuGerman": [
         "Ja, ja, hier ist d-[delay:30]-[delay:30]",
@@ -146,7 +146,7 @@
       ],
       "EuFrench": [
         "Le [color:red]vaisseau champignon[defcolor] est",
-        "terminé !"
+        "terminé!"
       ],
       "EuGerman": [
         "Das [color:red]Pilz-Schiff[defcolor] ist fertig!"
@@ -845,7 +845,7 @@
         "Voici la [color:blue]Terrasse[defcolor]!"
       ],
       "EuFrench": [
-        "Voici la [color:blue]terrasse[defcolor] !"
+        "Voici la [color:blue]terrasse[defcolor]!"
       ],
       "EuGerman": [
         "Zur [color:blue]Terrasse[defcolor] geht es hier entlang."
@@ -911,7 +911,7 @@
       ],
       "EuFrench": [
         "Si tu veux aller à la [color:blue]salle",
-        "de bains[defcolor], monte là-dedans !"
+        "de bains[defcolor], monte là-dedans!"
       ],
       "EuGerman": [
         "Wenn du zum [color:blue]Badezimmer",
@@ -1158,7 +1158,7 @@
       ],
       "EuFrench": [
         "Ici, c'est le [color:blue]grenier[defcolor].",
-        "C'est une pièce secrète !"
+        "C'est une pièce secrète!"
       ],
       "EuGerman": [
         "Das [color:blue]Loft [defcolor]ist hier!"
@@ -1221,7 +1221,7 @@
         "Ici, c'est le [color:blue]Portail[defcolor]!"
       ],
       "EuFrench": [
-        "Ici, c'est le [color:blue]portail[defcolor] !"
+        "Ici, c'est le [color:blue]portail[defcolor]!"
       ],
       "EuGerman": [
         "Das [color:blue]Sternentor [defcolor]ist hier!"
@@ -1281,7 +1281,7 @@
         "Maman est par ici!"
       ],
       "EuFrench": [
-        "La [color:blue]bibliothèque[defcolor] de maman est par ici !"
+        "La [color:blue]bibliothèque[defcolor] de maman est par ici!"
       ],
       "EuGerman": [
         "Mamas [color:blue]Bibliothek [defcolor]ist hier!"
@@ -2299,7 +2299,7 @@
       ],
       "EuFrench": [
         "L'[color:blue]observatoire[defcolor] est notre",
-        "maison à maman et nous !"
+        "maison à maman et nous!"
       ],
       "EuGerman": [
         "Die [color:blue]Sternwarte [defcolor]ist das ",
@@ -2549,7 +2549,7 @@
       ],
       "EuFrench": [
         "Là-haut, c'est la [color:blue]salle des",
-        "machines[defcolor] !"
+        "machines[defcolor]!"
       ],
       "EuGerman": [
         "Der [color:blue]Maschinenraum[defcolor] ist",
