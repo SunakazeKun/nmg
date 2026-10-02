@@ -3196,6 +3196,7 @@ TicoBabyAnimVsKoopaLv3Galaxy,DemoKoopaLastBattleEnd DemoKoopaLastBattleStart Dem
 TicoBig,Talk Wait Spin Trampled,on,TicoLight,TicoBigLight,,Body,0.0,0.0,0.0,0,-1,T/R,T,1.0,1.0,,,0.0,3D
 TicoCoin,Get,,Get,QuestionCoinGet,,,0.0,0.0,0.0,0,-1,T/R,T/R,1.0,1.0,,,0.0,3D
 TicoCoin,Rotate,on,Rotate,QuestionCoinLight,,,0.0,20.0,0.0,0,-1,T/R,T/R,0.8999999761581421,1.0,,,0.0,3D
+TicoCometGoodsStar,LeftRotate RightRotate,on,Light,CommonGlow,,Star,0.0,0.0,0.0,0,-1,T/R/S,T/S,0.55,1.0,#ffffff,#ffff80,0.0,3D
 TicoFatCoin,Wait Talk Spin Trampled Reaction Pointing Joy2 Fly Fat Demo Chem Eat0 Eat1 Eat2,,Light,TicoLight,,Spine1,0.0,0.0,0.0,0,-1,T/R/S,T/R/S,1.899999976158142,1.0,,,0.0,3D
 TicoFatCoin,Fly,on,TicoFatFlyLight,TicoFlyLight,,Spine1,0.0,0.0,0.0,0,-1,T/R,T,0.800000011920929,1.0,,,0.0,3D
 TicoFatCoin,Metamorphosis Demo,on,MetamorphosisLight,TicoFatMetamorphosisLight,,Center,0.0,0.0,0.0,0,-1,T/R/S,T/S,1.25,1.0,,,0.0,3D

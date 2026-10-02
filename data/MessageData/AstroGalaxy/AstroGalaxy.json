@@ -2520,6 +2520,87 @@
     }
   },
   {
+    "label": "TicoComet000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Hey! Ho![delay:30] If you need to know",
+        "anything about [color:red]Prankster Comets[defcolor],",
+        "I'm your Luma!"
+      ],
+      "EuEnglish": [
+        "Hey! Ho![delay:30] If you need to know",
+        "anything about [color:red]Prankster Comets[defcolor],",
+        "I'm your Luma!"
+      ],
+      "UsSpanish": [
+        "¡Hola! ¡Oye![delay:30] ¡Si quieres saber algo",
+        "sobre los [color:red]Cometas Pícaros[defcolor],",
+        "pregúntame a mí!"
+      ],
+      "EuSpanish": [
+        "¡Tralarín! ¡Tralarán![delay:30]",
+        "Sé todo sobre los [color:red]cometas pícaros[defcolor].",
+        "¡TODO, TODITO, TODITITO!"
+      ],
+      "UsFrench": [
+        "Holà![delay:30] Si tu veux des ",
+        "infos sur les[color:red] comètes blagueuses[defcolor], je ",
+        "m'en occupe!"
+      ],
+      "EuFrench": [
+        "Tralala♪ Tralala♪[delay:30] Les [color:red]comètes",
+        "farceuses[defcolor], j'en fais mon affaire!"
+      ],
+      "EuGerman": [
+        "Lalala.♪ Lalala.♪ [delay:30]Wenn du etwas über ",
+        "die [color:red]Schabernack-Kometen [defcolor]erfahren ",
+        "möchtest, frag einfach mich!"
+      ],
+      "EuItalian": [
+        "Brin! ♪ Brin! ♪[delay:30] Se vuoi gestire",
+        "le [color:red]Comete Burlone[defcolor], lascia fare a me!"
+      ],
+      "EuDutch": [
+        "Hoihoi![delay:30] Als je meer wilt weten over",
+        "[color:red]jokerkometen[defcolor], dan ben ik de Luma",
+        "die je zoekt!"
+      ],
+      "UsPortuguese": [
+        "Ei! Opa![delay:30] Se você precisar saber",
+        "alguma coisa sobre os [color:red]cometas",
+        "travessos[defcolor], é só falar comigo!"
+      ],
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "プルリン♪ プルリン♪[delay:30] [color:red]いたずらコメット[defcolor]の[ruby:事;こと]なら、",
+        "ボクに オ ・ マ ・ カ ・ セ ！"
+      ],
+      "KrKorean": [
+        "탱글♪ 탱글♪[delay:30] [color:red]장난꾸러기 혜성[defcolor]에 대해서라면",
+        "나에게 모 ・ 두 ・ 맡 ・ 겨 !"
+      ],
+      "CnSimpChinese": [
+        "亮晶晶♪亮晶晶♪[delay:30]有关[color:red]顽皮彗星[defcolor]的事情",
+        "就包·我·身·上！"
+      ],
+      "AsTradChinese": [
+        "亮晶晶♪亮晶晶♪[delay:60][color:red]頑皮彗星[defcolor]的事情",
+        "就交·給·我·吧！"
+      ]
+    }
+  },
+  {
     "label": "TicoManiac000_Flow000",
     "attributes": {
       "talk_type": "NORMAL",

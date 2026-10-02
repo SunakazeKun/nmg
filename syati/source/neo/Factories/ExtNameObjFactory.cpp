@@ -25,6 +25,7 @@
 #include "neo/NPC/Butler.h"
 #include "neo/NPC/HelperWitch.h"
 #include "neo/NPC/LibraryBook.h"
+#include "neo/NPC/TicoComet.h"
 #include "neo/NPC/TicoManiac.h"
 
 #ifdef DEBUG
@@ -124,6 +125,7 @@ namespace {
         { "Butler", createExtActor<neo::Butler> },
         { "HelperWitch", createExtActor<neo::HelperWitch> },
         { "LibraryBook", createExtActor<neo::LibraryBook> },
+        { "TicoComet", createExtActor<neo::TicoComet> },
         { "TicoManiac", createExtActor<neo::TicoManiac> },
     };
 

@@ -9,7 +9,7 @@ import re
 ########################################################################################################################
 
 IGNORE_ARCHIVES = [
-    # Example: archive
+    "TestArchive"
 ]
 IGNORE_BANKS = [
     ("LayoutMessage", "Layout_ResultWindow"),

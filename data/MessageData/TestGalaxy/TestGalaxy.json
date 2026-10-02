@@ -18,5 +18,23 @@
         "[icon:golden_mushroom] [icon:star_mushroom]"
       ]
     }
+  },
+  {
+    "label": "TicoComet000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "default": [
+        "Soooooo hungry..."
+      ]
+    }
   }
 ]
