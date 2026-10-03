@@ -2561,9 +2561,9 @@
         "y te lo estamos guardando!"
       ],
       "UsFrench": [
-        "Hé, tout le monde t'attend sur le",
-        "[color:red]S.S. Champignon[defcolor]! Nous avons trouvé",
-        "un [icon:golden_mushroom] pour toi!"
+        "Hé, tout le monde t'attend à bord",
+        "du [color:red]vaisseau champignon[defcolor]! On a trouvé",
+        "un [icon:golden_mushroom], alors on te le garde au chaud!"
       ],
       "UsPortuguese": null,
       "JpJapanese": [
@@ -2793,8 +2793,9 @@
         "¡Me encanta ser de utilidad!"
       ],
       "UsFrench": [
-        "Tiens, prends un [color:yellow]champignon d'or [defcolor][icon:golden_mushroom]!",
-        "Tu en as plus besoin que moi!"
+        "On a gardé ce [icon:golden_mushroom] juste pour toi!",
+        "Ça nous fait plaisir de pouvoir",
+        "t'être utiles!"
       ],
       "UsPortuguese": null,
       "JpJapanese": [

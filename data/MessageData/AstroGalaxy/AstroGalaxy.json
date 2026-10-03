@@ -24,7 +24,7 @@
       "EuSpanish": null,
       "UsFrench": [
         "Désires-tu consulter l-[delay:30]-[delay:30][size:large]QUOI?![size:normal][delay:60]",
-        "[sound:SE_SV_BUTLER_TALK_WORRIED]Où es passé la carte?!"
+        "[sound:SE_SV_BUTLER_TALK_WORRIED]Où est passée la carte?!"
       ],
       "EuFrench": [
         "Désires-tu consulter l-[delay:30]-[delay:30][size:large]QUOI?![size:normal][delay:60]",
@@ -141,8 +141,8 @@
         "¡La [color:red]Champinave[defcolor] está lista!"
       ],
       "UsFrench": [
-        "L'[color:red]astronef champignon[defcolor] est",
-        "opérationnel!"
+        "Le [color:red]vaisseau champignon[defcolor] est",
+        "terminé!"
       ],
       "EuFrench": [
         "Le [color:red]vaisseau champignon[defcolor] est",
@@ -209,7 +209,7 @@
       ],
       "UsFrench": [
         "Je ne comprends pas bien",
-        "ce que disent ces [color:green]Lumas[defcolor]!"
+        "ce que disent ces [color:green]Lumas[defcolor]..."
       ],
       "EuFrench": [
         "Je ne comprends pas bien",
@@ -275,7 +275,7 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "As-tu déjà regardé Kaamelott? C'est",
+        "As-tu déjà regardé [color:red]Kaamelott[defcolor]? C'est",
         "un classique, tu ne trouves pas?"
       ],
       "EuFrench": [
@@ -405,8 +405,9 @@
       "EuSpanish": null,
       "UsFrench": [
         "Je tiens à te donner toute ma gratitude",
-        "pour avoir joué à [color:red]Néo Mario Galaxy[defcolor].[pagebreak]",
-        "Tu peux désormais prendre cette [icon:star] [color:yellow] Super Étoile[defcolor]."
+        "pour avoir joué à [color:red]Neo Mario Galaxy[defcolor].[pagebreak]",
+        "Tu peux désormais prendre cette [icon:star]",
+        "[color:yellow]Super Étoile[defcolor]."
       ],
       "EuFrench": [
         "Je tiens à te donner toute ma gratitude",
@@ -545,13 +546,13 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "Voici une [color:red]Étoile Rouge[defcolor],[delay:30] elle ",
-        "renferme le pouvoir des Lumas Rouges.[pagebreak]",
+        "Voici une [color:red]Étoile Rouge[defcolor],[delay:30] elle renferme",
+        "le pouvoir des Lumas Rouges.[pagebreak]",
         "Le truc incroyable est qu'elle te permet",
         "de [color:red]t'envoler [defcolor]si tu tourbillonnes",
         "[color:blue]en plein saut[defcolor]. Oui, T'envoler![pagebreak]",
         "Tout en appuyant sur [icon:a_button], tu peux ",
-        "[color:red]changer de direction avec[defcolor]  le [icon:analog_stick]."
+        "[color:red]changer de direction avec[defcolor] le [icon:analog_stick]."
       ],
       "EuFrench": [
         "Voici une [color:red]Étoile Rouge[defcolor],[delay:30] elle renferme",
@@ -643,10 +644,11 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "Une [color:purple]Comète Violette[defcolor] est apparue dans",
-        "l'[color:blue]Observatoire de la Comète[defcolor].[pagebreak]",
+        "Une [color:purple]Comète Violette[defcolor] est apparue",
+        "dans l'[color:blue]Observatoire de la Comète[defcolor].[pagebreak]",
         "Aidez-nous à collecter les [color:purple]100[defcolor] [icon:purple_coin] pour",
-        "faire apparaître la [icon:red_star] [color:red]Super Étoile Rouge[defcolor]."
+        "faire apparaître la [icon:red_star] [color:red]Super Étoile",
+        "Rouge[defcolor]."
       ],
       "EuFrench": [
         "Une [color:purple]Comète Violette[defcolor] est apparue",
@@ -844,7 +846,7 @@
         "¡El [color:blue]Mirador [defcolor]es aquí!"
       ],
       "UsFrench": [
-        "Voici la [color:blue]Terrasse[defcolor]!"
+        "Voici la [color:blue]terrasse[defcolor]!"
       ],
       "EuFrench": [
         "Voici la [color:blue]terrasse[defcolor]!"
@@ -908,8 +910,8 @@
         "sube aquí."
       ],
       "UsFrench": [
-        "Si tu veux aller à la ",
-        "[color:blue]Fontaine[defcolor], monte là-dedans."
+        "Si tu veux aller à la [color:blue]salle",
+        "de bains[defcolor], monte là-dedans!"
       ],
       "EuFrench": [
         "Si tu veux aller à la [color:blue]salle",
@@ -973,7 +975,7 @@
         "¡Esta es la [color:blue]Cocina[defcolor]!"
       ],
       "UsFrench": [
-        "Ici, c'est la[color:blue] Cuisine[defcolor]."
+        "Ici, c'est la [color:blue]cuisine[defcolor]."
       ],
       "EuFrench": [
         "Ici, c'est la [color:blue]cuisine[defcolor]."
@@ -1032,7 +1034,7 @@
         "¡Este es el [color:blue]Dormitorio[defcolor]!"
       ],
       "UsFrench": [
-        "Ici, c'est la [color:blue]Chambre[defcolor]."
+        "Ici, c'est la [color:blue]chambre[defcolor]."
       ],
       "EuFrench": [
         "Ici, c'est la [color:blue]chambre[defcolor]."
@@ -1092,7 +1094,7 @@
         "¡Esta es la [color:blue]Sala de Máquinas[defcolor]!"
       ],
       "UsFrench": [
-        "Voici la [color:blue]Salle des machines[defcolor]."
+        "Voici la [color:blue]salle des machines[defcolor]."
       ],
       "EuFrench": [
         "Voici la [color:blue]salle des machines[defcolor]."
@@ -1155,7 +1157,7 @@
         "¡Un cuarto lleno de secretos!"
       ],
       "UsFrench": [
-        "Ici, c'est le [color:blue]Jardin[defcolor].",
+        "Ici, c'est le [color:blue]grenier[defcolor].",
         "C'est une pièce secrète!"
       ],
       "EuFrench": [
@@ -1220,7 +1222,7 @@
         "¡Este es el [color:blue]Portal[defcolor]!"
       ],
       "UsFrench": [
-        "Ici, c'est le [color:blue]Portail[defcolor]!"
+        "Ici, c'est le [color:blue]portail[defcolor]!"
       ],
       "EuFrench": [
         "Ici, c'est le [color:blue]portail[defcolor]!"
@@ -1279,8 +1281,7 @@
         "¡Aquí está la [color:blue]Biblioteca [defcolor]de mamá!"
       ],
       "UsFrench": [
-        "La [color:blue]Bibliothèque [defcolor]de ",
-        "Maman est par ici!"
+        "La [color:blue]bibliothèque[defcolor] de maman est par ici!"
       ],
       "EuFrench": [
         "La [color:blue]bibliothèque[defcolor] de maman est par ici!"
@@ -1394,8 +1395,8 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "La [color:red]Planète des Épreuves[defcolor]",
-        "est juste au-dessus!"
+        "La [color:red]Planète des Épreuves[defcolor] est juste",
+        "au-dessus!"
       ],
       "EuFrench": [
         "La [color:red]Planète des Épreuves[defcolor] est juste",
@@ -1450,8 +1451,8 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "Les [color:red]Galaxies des Épreuves[defcolor]",
-        "sont très difficiles!"
+        "Les [color:red]Galaxies des Épreuves[defcolor] sont très",
+        "difficiles!"
       ],
       "EuFrench": [
         "Les [color:red]Galaxies des Épreuves[defcolor] sont très",
@@ -1627,8 +1628,8 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "L'entrée des [color:blue]Larmes[defcolor]",
-        "est actuellement indisponible."
+        "L'entrée des [color:blue]Larmes[defcolor] est actuellement",
+        "indisponible."
       ],
       "EuFrench": [
         "L'entrée des [color:blue]Larmes[defcolor] est actuellement",
@@ -1687,8 +1688,8 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "L'entrée du [color:blue]Tunnel Poisonneux[defcolor]",
-        "est actuellement indisponible."
+        "L'entrée du [color:blue]Tunnel Poisonneux[defcolor] est",
+        "actuellement indisponible."
       ],
       "EuFrench": [
         "L'entrée du [color:blue]Tunnel Poisonneux[defcolor] est",
@@ -1747,8 +1748,8 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "L'entrée de la[color:blue]Rivière de Sable[defcolor]",
-        "est actuellement indisponible."
+        "L'entrée de la [color:blue]Rivière de Sable[defcolor] est",
+        "actuellement indisponible."
       ],
       "EuFrench": [
         "L'entrée de la [color:blue]Rivière de Sable[defcolor] est",
@@ -1868,8 +1869,8 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "L'entrée de la [color:blue]Capsule Neigeuse[defcolor]",
-        "est actuellement indisponible."
+        "L'entrée de la [color:blue]Capsule Neigeuse[defcolor] est",
+        "actuellement indisponible."
       ],
       "EuFrench": [
         "L'entrée de la [color:blue]Capsule Neigeuse[defcolor] est",
@@ -2048,8 +2049,8 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "L'entrée de l'[color:blue]Épreuve de Surf[defcolor]",
-        "est actuellement indisponible."
+        "L'entrée de l'[color:blue]Épreuve de Surf[defcolor] est",
+        "actuellement indisponible."
       ],
       "EuFrench": [
         "L'entrée de l'[color:blue]Épreuve de Surf[defcolor] est",
@@ -2171,8 +2172,7 @@
         "Adelante. Úsala."
       ],
       "UsFrench": [
-        "Tu peux utiliser cette ",
-        "[color:red]étoile rouge[defcolor]."
+        "Tu peux utiliser l'[color:red]étoile rouge[defcolor]."
       ],
       "EuFrench": [
         "Tu peux utiliser l'[color:red]étoile rouge[defcolor]."
@@ -2233,7 +2233,7 @@
         "¡Huy! ¡Está dormido!"
       ],
       "UsFrench": [
-        "Il dort encore?!"
+        "Oh, il s'est endormi..."
       ],
       "EuFrench": [
         "Oh, il s'est endormi..."
@@ -2296,8 +2296,8 @@
         "en este [color:blue]Planetarium[defcolor]."
       ],
       "UsFrench": [
-        "L'[color:blue]Observatoire[defcolor] est notre ",
-        "maison à Maman et nous!"
+        "L'[color:blue]observatoire[defcolor] est notre",
+        "maison à maman et nous!"
       ],
       "EuFrench": [
         "L'[color:blue]observatoire[defcolor] est notre",
@@ -2362,8 +2362,7 @@
         "¡El descanso es el mejor invento!"
       ],
       "UsFrench": [
-        "Ce sofa est bien ",
-        "duveteux! ♪"
+        "C'est la récréation♪"
       ],
       "EuFrench": [
         "C'est la récréation♪"
@@ -2426,8 +2425,7 @@
         "¡Mamá nos va a leer su [color:blue]libro[defcolor]!"
       ],
       "UsFrench": [
-        "Maman va me lire ",
-        "une[color:blue] histoire[defcolor]! ♪"
+        "Maman va nous lire une [color:blue]histoire[defcolor]♪"
       ],
       "EuFrench": [
         "Maman va nous lire une [color:blue]histoire[defcolor]♪"
@@ -2546,8 +2544,8 @@
         "está justo aquí arriba!"
       ],
       "UsFrench": [
-        "Là-haut, c'est la",
-        "[color:blue]Salle des machines[defcolor]!"
+        "Là-haut, c'est la [color:blue]salle des",
+        "machines[defcolor]!"
       ],
       "EuFrench": [
         "Là-haut, c'est la [color:blue]salle des",
@@ -2611,8 +2609,8 @@
         "Si quieres bajar, usa esto."
       ],
       "UsFrench": [
-        "Monte là-dedans ",
-        "pour descendre!"
+        "Si tu veux descendre, monte",
+        "là-dedans."
       ],
       "EuFrench": [
         "Si tu veux descendre, monte",
@@ -2683,9 +2681,8 @@
         "¡TODO, TODITO, TODITITO!"
       ],
       "UsFrench": [
-        "Holà![delay:30] Si tu veux des ",
-        "infos sur les[color:red] comètes blagueuses[defcolor], je ",
-        "m'en occupe!"
+        "Tralala♪ Tralala♪[delay:30] Les [color:red]comètes",
+        "farceuses[defcolor], j'en fais mon affaire!"
       ],
       "EuFrench": [
         "Tralala♪ Tralala♪[delay:30] Les [color:red]comètes",

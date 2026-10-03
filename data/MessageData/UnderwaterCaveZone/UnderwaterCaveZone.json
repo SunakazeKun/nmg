@@ -34,9 +34,9 @@
         "[size:large]WOUAH![pagebreak]",
         "[size:normal]C'est toi... [player:0], n'est-ce pas?[pagebreak]",
         "Je suis le [color:red]Capitaine de la Brigade Toad[defcolor]![pagebreak]",
-        "Au cours de notre périple [color:red]néo-galactique[defcolor], nous",
-        "sommes tombés sur ce galion lugubre.",
-        "Quelle bonne aventure tout ça!"
+        "Au cours de notre périple [color:red]néo-galactique[defcolor],",
+        "nous sommes tombés sur ce galion",
+        "lugubre. Quelle bonne aventure tout ça!"
       ],
       "EuFrench": [
         "[size:large]WOUAH![pagebreak]",
@@ -121,7 +121,8 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "[size:large]Waouh![size:normal] Il y a un vaisseau fantôme!"
+        "[size:large]Waouh![size:normal] Il y a un",
+        "vaisseau fantôme!"
       ],
       "EuFrench": [
         "[size:large]Waouh![size:normal] Il y a un",
@@ -173,7 +174,7 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "Je cherche la [icon:purple_coin]!"
+        "Je cherche les [icon:purple_coin]!"
       ],
       "EuFrench": [
         "Je cherche les [icon:purple_coin]!"
@@ -275,7 +276,7 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "Pièces violettes… ramasser… [size:small]Zzzzzz…"
+        "Pièces violettes... ramasser... [size:small]Zzzzzz..."
       ],
       "EuFrench": [
         "Pièces violettes... ramasser... [size:small]Zzzzzz..."
@@ -326,7 +327,7 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "N'oubliez pas de [color:red] respirer[defcolor]!"
+        "N'oubliez pas de [color:red]respirer[defcolor]!"
       ],
       "EuFrench": [
         "N'oubliez pas de [color:red]respirer[defcolor]!"
@@ -428,7 +429,8 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "Incline ton [icon:analog_stick] [color:blue]vers l'avant[defcolor] pour [color:red]nager vers le bas[color:black]."
+        "Incline ton [icon:analog_stick] [color:blue]vers l'avant[defcolor] pour",
+        "[color:red]nager vers le bas[color:black]."
       ],
       "EuFrench": [
         "Incline ton [icon:analog_stick] [color:blue]vers l'avant[defcolor] pour",
@@ -645,8 +647,8 @@
       "UsFrench": [
         "Tu es là pour passer l'[color:red]examen de fin d'année[defcolor]",
         "de l'[color:blue]école de natation[defcolor]?[pagebreak]",
-        "L'objectif de cet examen est de collecter toutes",
-        "les [icon:silver_star] [color:gray]Étoiles d'Argent!."
+        "L'objectif de cet examen est de collecter",
+        "toutes les [icon:silver_star] [color:grey]Étoiles d'Argent[defcolor]!"
       ],
       "EuFrench": [
         "Tu es là pour passer l'[color:red]examen de fin d'année[defcolor]",
@@ -714,7 +716,8 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "Collecte toutes les [icon:silver_star] [color:gray]Étoiles d'Argent[defcolor]!"
+        "Collecte toutes les [icon:silver_star]",
+        "[color:grey]Étoiles d'Argent[defcolor]!"
       ],
       "EuFrench": [
         "Collecte toutes les [icon:silver_star]",
@@ -768,8 +771,8 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "Félicitations!",
-        "Votre examen a été validé!"
+        "Félicitations! Votre examen a",
+        "été validé!"
       ],
       "EuFrench": [
         "Félicitations! Votre examen a",
@@ -829,8 +832,8 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "La clé du [color:yellow]trésor doré[defcolor]",
-        "est perdue depuis des lustres..."
+        "La clé du [color:yellow]trésor doré[defcolor] est perdue",
+        "depuis des lustres..."
       ],
       "EuFrench": [
         "La clé du [color:yellow]trésor doré[defcolor] est perdue",

@@ -21,7 +21,8 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "Avez-vous récupéré [color:red]64[defcolor] [icon:purple_coin] [color:purple]Pièces Violettes[defcolor]?"
+        "Avez-vous récupéré [color:red]64[defcolor] [icon:purple_coin]",
+        "[color:purple]Pièces Violettes[defcolor]?"
       ],
       "EuFrench": [
         "Avez-vous récupéré [color:red]64[defcolor] [icon:purple_coin]",
@@ -41,7 +42,7 @@
       "EuPortuguese": null,
       "EuRussian": null,
       "JpJapanese": [
-        "ここまでの[icon:purple_coin]は[color:red]64[ruby:枚;まい][defcolor]です! "
+        "ここまでの[icon:purple_coin]は[color:red]64[ruby:枚;まい][defcolor]です!"
       ],
       "KrKorean": [
         "[color:red]64[defcolor]개의 [icon:purple_coin][color:purple]보라색 코인[defcolor]을 모았어?"
