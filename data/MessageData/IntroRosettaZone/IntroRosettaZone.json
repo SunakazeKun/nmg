@@ -50,13 +50,14 @@
       ],
       "EuFrench": [
         "Bon retour parmi nous, [player:0]...",
-        "Êtes-vous prêt pour une aventure [color:red]néo-galactique[defcolor]?[pagebreak]",
-        "Il y a un [icon:launch_star] [color:yellow] Lanceur Étoile[defcolor] derrière moi,",
+        "Êtes-vous prêt pour une aventure",
+        "[color:red]neo-galactique[defcolor]?[pagebreak]",
+        "Il y a un [icon:launch_star] [color:yellow]Lanceur Étoile[defcolor] derrière moi,",
         "elle t'emmènera vers une autre galaxie.[pagebreak]",
-        "Avant de commencer, j'ai quelques questions",
-        "pour toi.[pagebreak]",
-        "Préférerais-tu jouer avec",
-        "[icon:mario] [color:red] Mario[defcolor] ou [icon:luigi] [color:green] Luigi[defcolor]?[color:gray](actuellement: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+        "Avant de commencer, j'ai quelques",
+        "questions pour toi.[pagebreak]",
+        "Préférerais-tu jouer avec [icon:mario] [color:red]Mario[defcolor]",
+        "ou [icon:luigi] [color:green]Luigi[defcolor]? [color:grey](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:grey])[defcolor]"
       ],
       "EuGerman": [
         "Willkommen zurück, [player:0]...",
@@ -185,16 +186,14 @@
       ],
       "EuFrench": [
         "Vous pouvez également choisir de jouer en",
-        "mode [color:red]Casse-cou[defcolor], qui est",
-        "plus difficile...[pagebreak]",
+        "mode [color:red]Casse-cou[defcolor], qui est plus difficile...[pagebreak]",
         "Cela vous donne un seul point de vie",
-        "mission, tout comme pour les [color:red]Comètes",
-        "Casse-cou[defcolor].[pagebreak]",
-        "De plus, tous les [icon:checkpoint_flag] [color:blue]Points de contrôles [defcolor]seront",
-        "retirés...[pagebreak]",
-        "Désires-tu jouer en mode",
-        "[color:blue]Normal[defcolor] ou [color:red]Casse-cou[defcolor]?",
-        "[color:gray](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+        "pour chaque mission, tout comme pour",
+        "les [color:red]Comètes Casse-cou[defcolor].[pagebreak]",
+        "De plus, tous les [icon:checkpoint_flag] [color:blue]Points de contrôles [defcolor]",
+        "seront retirés...[pagebreak]",
+        "Désires-tu jouer en mode [color:blue]Normal[defcolor]",
+        "ou [color:red]Casse-cou[defcolor]? [color:grey](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:grey])[defcolor]"
       ],
       "EuGerman": [
         "Du kannst auch im schwierigeren",
@@ -318,8 +317,8 @@
         "difficulté.[pagebreak]",
         "Cependant, le changement de personnage",
         "sera toujours disponible à l'avenir![pagebreak]",
-        "Que les étoiles scintillent",
-        "Sur vous. Adieu."
+        "Que les étoiles scintillent Sur vous.",
+        "Adieu."
       ],
       "EuGerman": [
         "Gut. Sobald du diesen Ort verlässt,",
@@ -465,8 +464,8 @@
         "[icon:mario] [color:red] Mario[defcolor] ou [icon:luigi] [color:green] Luigi[defcolor]?[color:gray](actuellement: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "EuFrench": [
-        "Préférerais-tu jouer avec",
-        "[icon:mario] [color:red] Mario[defcolor] ou [icon:luigi] [color:green] Luigi[defcolor]?[color:gray](actuellement: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+        "Préférerais-tu jouer avec [icon:mario] [color:red]Mario[defcolor]",
+        "ou [icon:luigi] [color:green]Luigi[defcolor]? [color:grey](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:grey])[defcolor]"
       ],
       "EuGerman": [
         "Möchtest du als [icon:mario] [color:red]Mario[defcolor]",

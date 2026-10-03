@@ -28,7 +28,7 @@
       ],
       "EuFrench": [
         "Désires-tu consulter l-[delay:30]-[delay:30][size:large]QUOI?![size:normal][delay:60]",
-        "[sound:SE_SV_BUTLER_TALK_WORRIED]Où es passé la carte?!"
+        "[sound:SE_SV_BUTLER_TALK_WORRIED]Où est passée la carte?!"
       ],
       "EuGerman": [
         "Ja, ja, hier ist d-[delay:30]-[delay:30]",
@@ -279,7 +279,7 @@
         "un classique, tu ne trouves pas?"
       ],
       "EuFrench": [
-        "As-tu déjà regardé Kaamelott? C'est",
+        "As-tu déjà regardé [color:red]Kaamelott[defcolor]? C'est",
         "un classique, tu ne trouves pas?"
       ],
       "EuGerman": [
@@ -410,8 +410,9 @@
       ],
       "EuFrench": [
         "Je tiens à te donner toute ma gratitude",
-        "pour avoir joué à [color:red]Néo Mario Galaxy[defcolor].[pagebreak]",
-        "Tu peux désormais prendre cette [icon:star] [color:yellow] Super Étoile[defcolor]."
+        "pour avoir joué à [color:red]Neo Mario Galaxy[defcolor].[pagebreak]",
+        "Tu peux désormais prendre cette [icon:star]",
+        "[color:yellow]Super Étoile[defcolor]."
       ],
       "EuGerman": [
         "Ich möchte dir von ganzem Herzen",
@@ -553,13 +554,13 @@
         "[color:red]changer de direction avec[defcolor]  le [icon:analog_stick]."
       ],
       "EuFrench": [
-        "Voici une [color:red]Étoile Rouge[defcolor],[delay:30] elle ",
-        "renferme le pouvoir des Lumas Rouges.[pagebreak]",
+        "Voici une [color:red]Étoile Rouge[defcolor],[delay:30] elle renferme",
+        "le pouvoir des Lumas Rouges.[pagebreak]",
         "Le truc incroyable est qu'elle te permet",
         "de [color:red]t'envoler [defcolor]si tu tourbillonnes",
         "[color:blue]en plein saut[defcolor]. Oui, T'envoler![pagebreak]",
         "Tout en appuyant sur [icon:a_button], tu peux ",
-        "[color:red]changer de direction avec[defcolor]  le [icon:analog_stick]."
+        "[color:red]changer de direction avec[defcolor] le [icon:analog_stick]."
       ],
       "EuGerman": [
         "Das ist ein [color:red]Roter Stern[defcolor]. Er bindet",
@@ -648,10 +649,11 @@
         "faire apparaître la [icon:red_star] [color:red]Super Étoile Rouge[defcolor]."
       ],
       "EuFrench": [
-        "Une [color:purple]Comète Violette[defcolor] est apparue dans",
-        "l'[color:blue]Observatoire de la Comète[defcolor].[pagebreak]",
+        "Une [color:purple]Comète Violette[defcolor] est apparue",
+        "dans l'[color:blue]Observatoire de la Comète[defcolor].[pagebreak]",
         "Aidez-nous à collecter les [color:purple]100[defcolor] [icon:purple_coin] pour",
-        "faire apparaître la [icon:red_star] [color:red]Super Étoile Rouge[defcolor]."
+        "faire apparaître la [icon:red_star] [color:red]Super Étoile",
+        "Rouge[defcolor]."
       ],
       "EuGerman": [
         "Ein [color:purple]Lila Komet[defcolor] ist über der",
@@ -1396,8 +1398,8 @@
         "est juste au-dessus!"
       ],
       "EuFrench": [
-        "La [color:red]Planète des Épreuves[defcolor]",
-        "est juste au-dessus!"
+        "La [color:red]Planète des Épreuves[defcolor] est juste",
+        "au-dessus!"
       ],
       "EuGerman": [
         "Dort ist der [color:green]Planet der Prüfung[defcolor]!"
@@ -1452,8 +1454,8 @@
         "sont très difficiles!"
       ],
       "EuFrench": [
-        "Les [color:red]Galaxies des Épreuves[defcolor]",
-        "sont très difficiles!"
+        "Les [color:red]Galaxies des Épreuves[defcolor] sont très",
+        "difficiles!"
       ],
       "EuGerman": [
         "Die [color:red]Challenge-Galaxien[defcolor]",
@@ -1629,8 +1631,8 @@
         "est actuellement indisponible."
       ],
       "EuFrench": [
-        "L'entrée des [color:blue]Larmes[defcolor]",
-        "est actuellement indisponible."
+        "L'entrée des [color:blue]Larmes[defcolor] est actuellement",
+        "indisponible."
       ],
       "EuGerman": [
         "Die [color:blue]Tränen-Galaxie[defcolor] ist",
@@ -1689,8 +1691,8 @@
         "est actuellement indisponible."
       ],
       "EuFrench": [
-        "L'entrée du [color:blue]Tunnel Poisonneux[defcolor]",
-        "est actuellement indisponible."
+        "L'entrée du [color:blue]Tunnel Poisonneux[defcolor] est",
+        "actuellement indisponible."
       ],
       "EuGerman": [
         "Die [color:blue]Fischtunnel-Galaxie[defcolor] ist",
@@ -1749,8 +1751,8 @@
         "est actuellement indisponible."
       ],
       "EuFrench": [
-        "L'entrée de la[color:blue]Rivière de Sable[defcolor]",
-        "est actuellement indisponible."
+        "L'entrée de la [color:blue]Rivière de Sable[defcolor] est",
+        "actuellement indisponible."
       ],
       "EuGerman": [
         "Die [color:blue]Sandstrom-Galaxie[defcolor] ist",
@@ -1870,8 +1872,8 @@
         "est actuellement indisponible."
       ],
       "EuFrench": [
-        "L'entrée de la [color:blue]Capsule Neigeuse[defcolor]",
-        "est actuellement indisponible."
+        "L'entrée de la [color:blue]Capsule Neigeuse[defcolor] est",
+        "actuellement indisponible."
       ],
       "EuGerman": [
         "Die [color:blue]Schneekapsel-Galaxie[defcolor] ist",
@@ -2050,8 +2052,8 @@
         "est actuellement indisponible."
       ],
       "EuFrench": [
-        "L'entrée de l'[color:blue]Épreuve de Surf[defcolor]",
-        "est actuellement indisponible."
+        "L'entrée de l'[color:blue]Épreuve de Surf[defcolor] est",
+        "actuellement indisponible."
       ],
       "EuGerman": [
         "Der Eingang zur [color:blue]Challenge-Surfen[defcolor]",
