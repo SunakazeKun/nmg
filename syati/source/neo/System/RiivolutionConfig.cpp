@@ -4,7 +4,7 @@ namespace neo {
     namespace {
         struct RiivolutionConfig {
             u32 mLocale;
-            u8 mReserved[56];
+            u8 mReserved[52];
         };
 
         static const RiivolutionConfig* sRiivolutionConfig = (RiivolutionConfig*)0x80003FC0;
