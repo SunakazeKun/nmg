@@ -401,7 +401,7 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "按[icon:a_button]可以[color:red]游泳[color:black]！[color:red][defcolor]"
+        "按[icon:a_button]可以[color:red]游泳[color:black]！"
       ]
     }
   },
@@ -454,7 +454,7 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "[icon:analog_stick] [color:blue]往前[defcolor]可以[color:red]往下游[color:black]！[color:red][defcolor]"
+        "[icon:analog_stick][color:blue]往前[defcolor]可以[color:red]往下游[color:black]！"
       ]
     }
   },
@@ -505,7 +505,7 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "要按[icon:z_button]來[color:red]潛水[color:black]！[color:red][defcolor]"
+        "要按[icon:z_button]來[color:red]潛水[color:black]！"
       ]
     }
   },
@@ -686,7 +686,7 @@
       "AsTradChinese": [
         "你是來參加[color:blue]游泳學校[defcolor][color:red]最終考驗[defcolor]的嗎？[pagebreak]",
         "在這個考驗中，你要收集",
-        "所有的[icon:silver_star] [color:gray]銀色星星[defcolor]！"
+        "所有的[icon:silver_star][color:gray]銀色星星[defcolor]！"
       ]
     }
   },
@@ -737,7 +737,7 @@
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
-        "收集所有的[icon:silver_star] [color:gray]銀色星星[defcolor]！"
+        "收集所有的[icon:silver_star][color:gray]銀色星星[defcolor]！"
       ]
     }
   },

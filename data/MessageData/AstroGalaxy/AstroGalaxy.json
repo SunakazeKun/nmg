@@ -448,7 +448,7 @@
       "AsTradChinese": [
         "我打從心底感謝你",
         "遊玩[color:red]新超級瑪利歐銀河[defcolor]。[pagebreak]",
-        "請收下這顆[icon:star] [color:yellow]力量星星[defcolor]！"
+        "請收下這顆[icon:star][color:yellow]力量星星[defcolor]！"
       ]
     }
   },
@@ -692,7 +692,7 @@
         "[color:purple]紫色彗星[defcolor]出現在",
         "[color:blue]彗星天文台[defcolor]上。[pagebreak]",
         "請幫我們收集全部[color:purple]100[defcolor]枚[icon:purple_coin]，",
-        "讓[icon:red_star] [color:red]紅色力量星星[defcolor]出現。"
+        "讓[icon:red_star][color:red]紅色力量星星[defcolor]出現。"
       ]
     }
   },
