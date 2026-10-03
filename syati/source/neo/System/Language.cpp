@@ -63,7 +63,7 @@ namespace {
         LANGUAGE_ITALIAN,
         LANGUAGE_DUTCH,
         LANGUAGE_SIMP_CHINESE,
-		LANGUAGE_JAPANESE,     // Traditional Chinese
+		LANGUAGE_TRAD_CHINESE,
         LANGUAGE_KOREAN,
         LANGUAGE_ENGLISH,      // Portuguese
         LANGUAGE_ENGLISH,      // Russian

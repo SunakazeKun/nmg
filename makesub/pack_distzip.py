@@ -177,6 +177,7 @@ def __make_riivolution_xml(target_info: RiivolutionTarget, syati_loader_xml_path
 
     ET.SubElement(patch_node, "folder", {"disc": "/AudioRes",     "external": "game/AudioRes",     "create": "true"})
     ET.SubElement(patch_node, "folder", {"disc": "/CustomCode",   "external": "game/CustomCode",   "create": "true"})
+    ET.SubElement(patch_node, "folder", {"disc": "/HomeButton2",  "external": "game/HomeButton2",  "create": "true"})
     ET.SubElement(patch_node, "folder", {"disc": "/LayoutData",   "external": "game/LayoutData",   "create": "true"})
     ET.SubElement(patch_node, "folder", {"disc": "/LocalizeData", "external": "game/LocalizeData", "create": "true"})
     ET.SubElement(patch_node, "folder", {"disc": "/ObjectData",   "external": "game/ObjectData",   "create": "true"})
