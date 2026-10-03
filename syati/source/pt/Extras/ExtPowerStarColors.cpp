@@ -4,6 +4,7 @@
 #include "Game/System/ScenarioDataParser.h"
 #include "Game/Util/SceneUtil.h"
 #include "Game/Util/StringUtil.h"
+#include "Game/NPC/EventDirector.h"
 #include "kamek/hooks.h"
 
 /*
@@ -30,7 +31,7 @@ namespace pt {
     };
 
     void getPowerStarColorInfo(const char *pStageName, s32 scenarioId, s32 *pFrame, int *pCode) {
-        const char* pType;
+        const char* pType = "Normal";
         GalaxyStatusAccessor gsa(MR::makeGalaxyStatusAccessor(pStageName));
         gsa.mScenarioData->getScenarioString("PowerStarType", scenarioId, &pType);
 
@@ -71,6 +72,14 @@ namespace pt {
             return frame;
         }
 
+        s32 getPowerStarColorByDeclarer(const char *pDeclarerName, s32 scenarioId) {
+            if (scenarioId < 0) {
+                scenarioId = MR::getEventPowerStarID(pDeclarerName);
+            }
+
+            return getPowerStarColorCurrentStage(scenarioId);
+        }
+
         // PowerStar::initMapToolInfo
         kmWrite32(0x802E01B8, PPC_MR(3, 0));
         kmCall(0x802E01BC, getPowerStarColorCurrentStage);
@@ -89,7 +98,7 @@ namespace pt {
         
         // Cutscene/dummy models
         kmWrite32(0x802DF01C, PPC_MR(3, 27));
-        kmCall(0x802DF020, getPowerStarColorCurrentStage);
+        kmCall(0x802DF020, getPowerStarColorByDeclarer);
         kmWrite32(0x802DF024, PPC_MR(29, 3));
         kmWrite32(0x802DF028, PPC_B(0x14));
 
