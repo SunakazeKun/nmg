@@ -54,6 +54,25 @@ namespace {
 #endif
     };
 
+    const u8 cHBMLanguages[16] = {
+        LANGUAGE_JAPANESE,
+        LANGUAGE_ENGLISH,
+        LANGUAGE_GERMAN,
+        LANGUAGE_FRENCH,
+        LANGUAGE_SPANISH,
+        LANGUAGE_ITALIAN,
+        LANGUAGE_DUTCH,
+        LANGUAGE_SIMP_CHINESE,
+		LANGUAGE_JAPANESE,     // Traditional Chinese
+        LANGUAGE_KOREAN,
+        LANGUAGE_ENGLISH,      // Portuguese
+        LANGUAGE_ENGLISH,      // Russian
+        LANGUAGE_ENGLISH,      // ~reserved~
+        LANGUAGE_ENGLISH,      // ~reserved~
+        LANGUAGE_ENGLISH,      // ~reserved~
+        LANGUAGE_ENGLISH,      // ~reserved~
+    };
+
     // -----------------------------------------------------------------------------------------------------------------
 
     struct Language {
@@ -110,16 +129,9 @@ namespace {
 
     u32 extGetLanguageFromIPL() {
         u32 locale = MR::getLanguage();
-        s32 language = GET_LANGUAGE_FROM_LOCALE(locale);
+        u32 language = GET_LANGUAGE_FROM_LOCALE(locale);
 
-        // Home Menu only supports SC languages
-        if (language < LANGUAGE_JAPANESE || LANGUAGE_KOREAN < language) {
-            u8 languageSC = SCGetLanguage();
-            locale = cSCLanguage2GameLanguageTable[languageSC];
-            language = GET_LANGUAGE_FROM_LOCALE(locale);
-        }
-
-        return language;
+        return cHBMLanguages[language];
     }
 
 #if defined(SB4_JEP)
