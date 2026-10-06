@@ -648,13 +648,13 @@
         "Tu es là pour passer l'[color:red]examen de fin d'année[defcolor]",
         "de l'[color:blue]école de natation[defcolor]?[pagebreak]",
         "L'objectif de cet examen est de collecter",
-        "toutes les [icon:silver_star] [color:grey]Étoiles d'Argent[defcolor]!"
+        "toutes les [icon:silver_star] [color:gray]Étoiles d'Argent[defcolor]!"
       ],
       "EuFrench": [
         "Tu es là pour passer l'[color:red]examen de fin d'année[defcolor]",
         "de l'[color:blue]école de natation[defcolor]?[pagebreak]",
         "L'objectif de cet examen est de collecter",
-        "toutes les [icon:silver_star] [color:grey]Étoiles d'Argent[defcolor]!"
+        "toutes les [icon:silver_star] [color:gray]Étoiles d'Argent[defcolor]!"
       ],
       "EuGerman": [
         "Du legst auch die [color:red]Abschlussprüfung[defcolor]",
@@ -717,11 +717,11 @@
       "EuSpanish": null,
       "UsFrench": [
         "Collecte toutes les [icon:silver_star]",
-        "[color:grey]Étoiles d'Argent[defcolor]!"
+        "[color:gray]Étoiles d'Argent[defcolor]!"
       ],
       "EuFrench": [
         "Collecte toutes les [icon:silver_star]",
-        "[color:grey]Étoiles d'Argent[defcolor]!"
+        "[color:gray]Étoiles d'Argent[defcolor]!"
       ],
       "EuGerman": [
         "Sammle alle [icon:silver_star] [color:gray]Silbersterne[defcolor]!"

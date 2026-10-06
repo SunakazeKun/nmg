@@ -2750,11 +2750,13 @@
       "EuSpanish": null,
       "UsFrench": [
         "Wow! Une fleur bleue avec des yeux?!",
-        "Je n'avais jamais vu ça de ma vie auparavant."
+        "Je n'avais jamais vu ça de ma vie",
+        "auparavant."
       ],
       "EuFrench": [
         "Wow! Une fleur bleue avec des yeux?!",
-        "Je n'avais jamais vu ça de ma vie auparavant."
+        "Je n'avais jamais vu ça de ma vie",
+        "auparavant."
       ],
       "EuGerman": [
         "Was haben wir denn da?",
@@ -2810,11 +2812,11 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "Est-ce une [color:red] Fleur de Glace[defcolor]? Hmm...[delay:15]",
+        "Est-ce une [color:red]Fleur de Glace[defcolor]? Hmm...[delay:15]",
         "Ça m'a l'air cool, n'est-ce pas? Hé hé!"
       ],
       "EuFrench": [
-        "Est-ce une [color:red] Fleur de Glace[defcolor]? Hmm...[delay:15]",
+        "Est-ce une [color:red]Fleur de Glace[defcolor]? Hmm...[delay:15]",
         "Ça m'a l'air cool, n'est-ce pas? Hé hé!"
       ],
       "EuGerman": [

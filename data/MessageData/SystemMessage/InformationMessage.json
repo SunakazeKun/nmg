@@ -496,10 +496,12 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "Vous êtes devenu [color:red] [player:0] Volant[color:black]! [color:red]Tourbillonnez[color:black] pendant un [color:red] saut [color:black] pour voler!"
+        "Vous êtes devenu [color:red] [player:0] Volant[color:black]! [color:red]Tourbillonnez[color:black]",
+        "pendant un [color:red]saut[color:black] pour voler!"
       ],
       "EuFrench": [
-        "Vous êtes devenu [color:red] [player:0] Volant[color:black]! [color:red]Tourbillonnez[color:black] pendant un [color:red] saut [color:black] pour voler!"
+        "Vous êtes devenu [color:red] [player:0] Volant[color:black]! [color:red]Tourbillonnez[color:black]",
+        "pendant un [color:red]saut[color:black] pour voler!"
       ],
       "EuGerman": [
         "Du wurdest zu [color:red]Flug-[player:0][defcolor]!",
@@ -631,10 +633,12 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "Vous êtes devenu[color:red] [player:0] de glace[color:black]! Secouez la [icon:wiimote] pour [color:blue]Glissé Sur la Glace[defcolor]."
+        "Vous êtes devenu[color:red] [player:0] de glace[color:black]! Secouez",
+        "la [icon:wiimote] pour [color:blue]Glissé Sur la Glace[defcolor]."
       ],
       "EuFrench": [
-        "Vous êtes devenu[color:red] [player:0] de glace[color:black]! Secouez la [icon:wiimote] pour [color:blue]Glissé Sur la Glace[defcolor]."
+        "Vous êtes devenu[color:red] [player:0] de glace[color:black]! Secouez",
+        "la [icon:wiimote] pour [color:blue]Glissé Sur la Glace[defcolor]."
       ],
       "EuGerman": [
         "Du wurdest zu [color:blue]Eis-[player:0][defcolor]!",
@@ -1105,11 +1109,12 @@
       "UsSpanish": null,
       "EuSpanish": null,
       "UsFrench": [
-        "Vous avez obtenu un [icon:stamp][color:blue] Tampon[color:black]! Tu sais ce qu'il arrive",
-        "si tu les collectes tous."
+        "Vous avez obtenu un [icon:stamp][color:blue] Sceaux[color:black]! Tu sais ce",
+        "qu'il arrive si tu les collectes tous.",
+        ""
       ],
       "EuFrench": [
-        "Vous avez obtenu un [icon:stamp][color:blue] Tampon[color:black]! Tu sais ce qu'il arrive",
+        "Vous avez obtenu un [icon:stamp][color:blue] Sceaux[color:black]! Tu sais ce qu'il arrive",
         "si tu les collectes tous."
       ],
       "EuGerman": [

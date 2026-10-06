@@ -47,7 +47,7 @@
         "Avant de commencer, j'ai quelques",
         "questions pour toi.[pagebreak]",
         "Préférerais-tu jouer avec [icon:mario] [color:red]Mario[defcolor]",
-        "ou [icon:luigi] [color:green]Luigi[defcolor]? [color:grey](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:grey])[defcolor]"
+        "ou [icon:luigi] [color:green]Luigi[defcolor]? [color:gray](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "EuFrench": [
         "Bon retour parmi nous, [player:0]...",
@@ -58,7 +58,7 @@
         "Avant de commencer, j'ai quelques",
         "questions pour toi.[pagebreak]",
         "Préférerais-tu jouer avec [icon:mario] [color:red]Mario[defcolor]",
-        "ou [icon:luigi] [color:green]Luigi[defcolor]? [color:grey](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:grey])[defcolor]"
+        "ou [icon:luigi] [color:green]Luigi[defcolor]? [color:gray](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "EuGerman": [
         "Willkommen zurück, [player:0]...",
@@ -181,7 +181,7 @@
         "De plus, tous les [icon:checkpoint_flag] [color:blue]Points de contrôles [defcolor]",
         "seront retirés...[pagebreak]",
         "Désires-tu jouer en mode [color:blue]Normal[defcolor]",
-        "ou [color:red]Casse-cou[defcolor]? [color:grey](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:grey])[defcolor]"
+        "ou [color:red]Casse-cou[defcolor]? [color:gray](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "EuFrench": [
         "Vous pouvez également choisir de jouer en",
@@ -192,7 +192,7 @@
         "De plus, tous les [icon:checkpoint_flag] [color:blue]Points de contrôles [defcolor]",
         "seront retirés...[pagebreak]",
         "Désires-tu jouer en mode [color:blue]Normal[defcolor]",
-        "ou [color:red]Casse-cou[defcolor]? [color:grey](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:grey])[defcolor]"
+        "ou [color:red]Casse-cou[defcolor]? [color:gray](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "EuGerman": [
         "Du kannst auch im schwierigeren",
@@ -460,11 +460,11 @@
       "EuSpanish": null,
       "UsFrench": [
         "Préférerais-tu jouer avec [icon:mario] [color:red]Mario[defcolor]",
-        "ou [icon:luigi] [color:green]Luigi[defcolor]? [color:grey](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:grey])[defcolor]"
+        "ou [icon:luigi] [color:green]Luigi[defcolor]? [color:gray](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "EuFrench": [
         "Préférerais-tu jouer avec [icon:mario] [color:red]Mario[defcolor]",
-        "ou [icon:luigi] [color:green]Luigi[defcolor]? [color:grey](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:grey])[defcolor]"
+        "ou [icon:luigi] [color:green]Luigi[defcolor]? [color:gray](Actuellement: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "EuGerman": [
         "Möchtest du als [icon:mario] [color:red]Mario[defcolor]",
