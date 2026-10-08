@@ -19,6 +19,8 @@ namespace neo {
         caps.mInitStarPointerTarget = false;
 
         initialize(rIter, caps, nullptr, nullptr, false);
+        
+        MR::hideBubbleBeak(mTalkCtrl);
     }
 
     // -----------------------------------------------------------------------------------------------------------------
