@@ -77,6 +77,7 @@ MODULE_SOURCE_FILES = [
     "neo/NPC/LibraryBook.cpp",
     "neo/NPC/TicoComet.cpp",
     "neo/NPC/TicoManiac.cpp",
+    "neo/Screen/ExtAllStarList.cpp",
     "neo/Screen/ExtGalaxyCometScreenFilter.cpp",
     "neo/Screen/ExtInformationObserver.cpp",
     "neo/Screen/ExtStageResultInformer.cpp",

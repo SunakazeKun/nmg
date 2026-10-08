@@ -6,6 +6,7 @@ WorldNo:Int:0,EnName:String:0
 1,MokumokuValleyGalaxy
 1,AbekobeGalaxy
 1,VsKoopaJrLv1Galaxy
+1,AstroGalaxy
 2,HomeCenterGalaxy
 2,BigWaterFallGalaxy
 2,GoroRockGalaxy
@@ -57,7 +58,6 @@ WorldNo:Int:0,EnName:String:0
 8,WorldMap07Galaxy
 8,WorldMap08Galaxy
 9,FileSelect
-9,AstroGalaxy
 10,MarioFaceShipGalaxy
 10,PeachCastleGalaxy
 10,StaffRollGalaxy
