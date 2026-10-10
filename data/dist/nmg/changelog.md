@@ -36,6 +36,7 @@
 - **Gloomy Galleon Galaxy**: Generated air bubbles now remain active longer.
 - **Gloomy Galleon Galaxy**: Bonefins now use the restored sounds from SMG1.
 - **Gloomy Galleon Galaxy**: Adjusted the underwater camera filter for a clearer view.
+- **Gloomy Galleon Galaxy**: Captain Toad's headlamp is now turned on.
 - **Gloomy Galleon Galaxy**: Gringills now appear only during the Comet to reduce lag.
 - **Gloomy Galleon Galaxy**: Lowered the amount of seaweed to reduce lag.
 - **Turnlog Galaxy**: Adjusted the gravity on the arrow slope.

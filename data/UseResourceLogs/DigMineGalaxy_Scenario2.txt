@@ -48,7 +48,7 @@ ARCHIVE /ObjectData/PurpleCoin.arc
 ARCHIVE /ObjectData/KinopioGoodsPickel.arc
 ARCHIVE /ObjectData/KinopioGoodsGlasses.arc
 ARCHIVE /ObjectData/KinopioGoodsRucksack.arc
-ARCHIVE /ObjectData/KinopioGoodsLightOff.arc
+ARCHIVE /ObjectData/KinopioGoodsLight.arc
 ARCHIVE /ObjectData/KinopioGoodsSnorkel.arc
 ARCHIVE /ObjectData/Anagon.arc
 ARCHIVE /ObjectData/Shellfish.arc
