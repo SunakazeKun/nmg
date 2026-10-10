@@ -203,7 +203,7 @@ def __pack_bcsv_arc(arc_path: Path, root_name: str, bcsv_file_infos: list[BcsvFi
 
 def __read_pack_csv(csv_path: Path) -> bytes:
     jmap_data = from_csv(HASH_TABLE, str(csv_path))
-    return pack_buffer(jmap_data, big_endian=True, encoding="shift_jisx0213")
+    return pack_buffer(jmap_data)
 
 
 ########################################################################################################################
