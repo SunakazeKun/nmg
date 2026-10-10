@@ -1,5 +1,5 @@
 from pathlib import Path
-from config import GAME_PATH, SUPPORTED_LANGUAGES
+from config import GAME_PATH, NEW_AUDIO_RES_PATH, SUPPORTED_LANGUAGES
 
 import shutil
 import logging
@@ -10,6 +10,7 @@ __all__ = ["copy_static_files_to_game", "copy_simple_tree_to_game", "copy_locali
 ########################################################################################################################
 
 def copy_static_files_to_game():
+    copy_simple_tree_to_game(Path("AudioRes"), NEW_AUDIO_RES_PATH)
     copy_simple_tree_to_game(Path("HomeButton2"), Path("data/arcs/HomeButton2"))
     copy_localized_tree_to_game(Path("LayoutData"), Path("data/arcs/LayoutData"))
     copy_localized_tree_to_game(Path("ObjectData"), Path("data/arcs/ObjectData/SMG1"))

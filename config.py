@@ -25,6 +25,7 @@ MWCCEPPC_PATH = Path(os.getenv("MWCCEPPC_PATH")).absolute()
 MWASMEPPC_PATH = Path(os.getenv("MWASMEPPC_PATH")).absolute()
 KAMEK_PATH = Path(os.getenv("KAMEK_PATH")).absolute()
 
+NEW_AUDIO_RES_PATH = Path(os.getenv("NEW_AUDIO_RES_PATH")).absolute()
 ORG_MAIN_DOLS_PATH = Path(os.getenv("ORG_MAIN_DOLS_PATH")).absolute()
 ORG_LOCALIZE_DATA_PATH = Path(os.getenv("ORG_LOCALIZE_DATA_PATH")).absolute()
 
