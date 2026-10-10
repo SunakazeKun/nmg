@@ -27,8 +27,7 @@ SITE_KEYWORDS = [
 
 URL_DISCORD_SERVER = "https://discord.gg/C3px4rejUX"
 URL_NMG_TRAILER = "https://www.youtube.com/embed/NE4SSfk1iLs"
-URL_NMG_PACKAGE = "https://mega.nz/file/4hU1lQ6I#KpYw7itYC8_fKDl6h8D8kAIaBjq21ID-rtTpH7yvO80"
-URL_NMG_TEXTURES = "https://mega.nz/file/Mw13RICD#CaXbsIAXY_H-9UCV9zEpUAYv1gnrvccoQfFp9OB5SWA"
+URL_NMG_FILES = "https://mega.nz/folder/xhcDWTzQ#sf7Iya2oNGqQ15LWnWYjWQ"
 URL_SMG2_TEXTURES = "https://forums.dolphin-emu.org/Thread-super-mario-galaxy-2-hd-texture-mod"
 URL_DOLPHIN_WIKI = "https://wiki.dolphin-emu.org/index.php?title=Riivolution_Mods"
 URL_RIIVOLUTION_WIKI = "https://wiki.hacks.guide/wiki/Wii:Riivolution"
@@ -45,10 +44,10 @@ FEATURES_ITEMS = [
     ("illustItem",   f'New collectable <b>items</b>!'),
 ]
 
-SB4P_LANGUAGES = ["English", "German", "Italian", "Spanish", "French"]
-SB4E_LANGUAGES = ["English", "Spanish", "French"]
+SB4P_LANGUAGES = ["English", "German", "Italian", "Spanish", "French"]  # Dutch, Portuguese, Russian
+SB4E_LANGUAGES = ["English", "Spanish", "French"]  # Portuguese
 SB4J_LANGUAGES = ["Japanese"]
-SB4W_LANGUAGES = ["Chinese (Traditional)"]
+SB4W_LANGUAGES = ["Chinese (Traditional)"]  # Chinese (Simplified)
 SB4K_LANGUAGES = ["Korean"]
 
 COMPATIBILITY_ITEMS = [
@@ -75,8 +74,7 @@ SCREENSHOTS_ITEMS = [
 ]
 
 INSTALLATION_LINKS = [
-    ("fa-solid fa-fw fa-download", URL_NMG_PACKAGE, "Download Neo Mario Galaxy"),
-    ("fa-solid fa-fw fa-download", URL_NMG_TEXTURES, "Download Dolphin HD textures"),
+    ("fa-solid fa-fw fa-download", URL_NMG_FILES, "Download Neo Mario Galaxy"),
     ("fa-brands fa-fw fa-discord", URL_DISCORD_SERVER, "Official Discord server"),
 ]
 
@@ -174,6 +172,8 @@ def generate_web_page():
     os.remove(BUILD_WEB_PATH / "assets/style.css")
 
     # ------------------------------------------------------
+
+    logging.info("Generating web page ...")
 
     time = datetime.now()
     path = BUILD_WEB_PATH / "index.html"
