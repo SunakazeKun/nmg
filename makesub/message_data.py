@@ -32,6 +32,8 @@ IGNORE_MESSAGES = [
 
 def build_message_data():
     for language in SUPPORTED_LANGUAGES:
+        logging.info("Building MessageData for %s", language)
+
         for folder_path in filter(lambda p: p.is_dir(), SRC_MESSAGE_DATA_PATH.iterdir()):
             archive_name = folder_path.name
             archive_subpath = f'{language}/MessageData/{archive_name}.arc'

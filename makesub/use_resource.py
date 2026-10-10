@@ -30,7 +30,7 @@ def pack_use_resource_archives():
     shutil.copytree(SRC_USE_RESOURCE_LOGS_PATH, game_use_resource_logs_path)
 
     for stage_name, unique_scenarios_count, use_common, in USE_RESOURCE_STAGE_INFOS:
-        logging.info("Generating UseResource archive for %s", stage_name)
+        logging.info("Packing UseResource archive for %s", stage_name)
 
         builder = UseResourceGenerator(str(game_files_path), stage_name, unique_scenarios_count, use_common)
         builder.write_analyzed()
