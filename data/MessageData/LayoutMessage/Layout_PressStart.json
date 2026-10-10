@@ -1,0 +1,71 @@
+[
+  {
+    "label": "PressStart_PressAB",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Press [icon:a_button] and [icon:b_button]."
+      ],
+      "EuEnglish": [
+        "Press [icon:a_button] and [icon:b_button]."
+      ],
+      "UsSpanish": [
+        "Oprime [icon:a_button] y [icon:b_button]."
+      ],
+      "EuSpanish": [
+        "Pulsa [icon:a_button] y [icon:b_button]"
+      ],
+      "UsFrench": [
+        "Appuyez sur [icon:a_button] et [icon:b_button]"
+      ],
+      "EuFrench": [
+        "Appuyez sur [icon:a_button] et [icon:b_button]."
+      ],
+      "EuGerman": [
+        "Drücke gleichzeitig [icon:a_button] und [icon:b_button]."
+      ],
+      "EuItalian": [
+        "Premi [icon:a_button] e [icon:b_button] contemporaneamente."
+      ],
+      "EuDutch": [
+        "Press [icon:a_button] and [icon:b_button]."
+      ],
+      "JpJapanese": [
+        "[icon:a_button]と[icon:b_button]をおしてください"
+      ],
+      "KrKorean": [
+        "[icon:a_button]와 [icon:b_button]를 눌러 주세요"
+      ],
+      "AsTradChinese": [
+        "按[icon:a_button]和[icon:b_button]"
+      ]
+    }
+  },
+  {
+    "label": "PressStart_Version",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "default": [
+        "<Version>"
+      ]
+    }
+  }
+]

@@ -17,7 +17,7 @@ logging.basicConfig(
 ########################################################################################################################
 
 PROJECT_TITLE = "NMG_2026"
-PROJECT_VERSION = "1.0.0"
+PROJECT_VERSION = "1.6.0"
 
 GAME_PATH = Path(os.getenv("GAME_PATH")).absolute()
 

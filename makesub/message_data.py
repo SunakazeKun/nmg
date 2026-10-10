@@ -9,7 +9,7 @@ from pymsb import LMSFlows, LMSEntryNode, LMSMessageNode, LMSBranchNode, LMSEven
 from pyjkernel import (JKRArchive, JKRArchiveFile, JKRCompression, create_new_archive, from_archive_file,
                        write_archive_file)
 from msb_adapter import NeoMarioGalaxyAdapter, TalkType, BalloonType, SoundID, CameraType
-from config import GAME_PATH, ORG_LOCALIZE_DATA_PATH, SUPPORTED_LANGUAGES, PARTIAL_REPLACEMENTS
+from config import PROJECT_VERSION, GAME_PATH, ORG_LOCALIZE_DATA_PATH, SUPPORTED_LANGUAGES, PARTIAL_REPLACEMENTS
 from tools.dataio import read_json, read_bin
 from pathlib import Path
 from typing import Callable
@@ -55,6 +55,23 @@ def build_message_data():
             write_archive_file(archive, str(archive_path), big_endian=True, compression=JKRCompression.NONE)
 
 
+def __get_localized_msg_text(localized_lines: dict[str, list[str]], language: str,
+                             archive_name: str, msb_name: str, label: str):
+    if (msb_name, label) == ("Layout_PressStart", "PressStart_Version"):
+        return f'v{PROJECT_VERSION}'
+
+    text_lines = localized_lines.get(language, None)
+
+    if text_lines is None:
+        text_lines = localized_lines.get("default", None)
+
+    if text_lines is None:
+        logging.warning("Missing text: %s/%s/%s/%s", language, archive_name, msb_name, label)
+        return f'!MISSING! {label}'
+
+    return "\n".join(text_lines)
+
+
 def __pack_msb_into_archive(archive: JKRArchive, language: str, archive_name: str, msb_name: str,
                             json_path: Path, msbf_path: Path):
     document = LMSDocument(NeoMarioGalaxyAdapter)
@@ -79,17 +96,7 @@ def __pack_msb_into_archive(archive: JKRArchive, language: str, archive_name: st
         message.attributes["unk7"]         = json_msg["attributes"]["unk7"]
         message.attributes["comment"]      = json_msg["attributes"]["comment"]
 
-        text_lines = json_msg["languages"].get(language, None)
-
-        if text_lines is None:
-            text_lines = json_msg["languages"].get("default", None)
-
-        if text_lines is None:
-            message.text = f'!MISSING! {message.label}'
-            logging.warning("Missing text: %s/%s/%s/%s",
-                            language, archive_name, msb_name, message.label)
-        else:
-            message.text = "\n".join(text_lines)
+        message.text = __get_localized_msg_text(json_msg["languages"], language, archive_name, msb_name, label)
 
         msbt_labels.append(message.label)
 
