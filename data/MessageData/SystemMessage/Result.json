@@ -133,14 +133,14 @@
         "[stringvar:0;0;0x00000000]"
       ],
       "UsSpanish": [
-        "¡Has conseguido la [color:yellow]estrella de bronce[defcolor]!",
-        "[stringvar:1;1;0x00000000]",
+        "¡Has conseguido una [color:yellow]estrella de bronce[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
         "[stringvar:0;0;0x00000000]"
       ],
       "EuSpanish": [
-        "¡Has conseguido la [color:yellow]estrella de bronce [defcolor]de",
-        "[color:black]\"[defcolor][color:blue][stringvar:1;1;0x00000000][defcolor][color:black]\"[defcolor]",
-        "de la [stringvar:0;0;0x00000000]!"
+        "¡Has conseguido una [color:yellow]estrella de bronce[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
       ],
       "UsFrench": [
         "Vous avez trouvé une [color:yellow]étoile de bronze[defcolor]!",
@@ -323,13 +323,13 @@
       ],
       "UsSpanish": [
         "¡Has conseguido una [color:yellow]Maxiestrella[defcolor]!",
-        "[stringvar:1;1;0x00000000]",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
         "[stringvar:0;0;0x00000000]"
       ],
       "EuSpanish": [
-        "¡Has conseguido la [color:yellow]Maxiestrella[color:black] de[color:yellow][defcolor][color:black]",
-        "[defcolor][color:black]\"[defcolor][color:blue][stringvar:1;1;0x00000000][color:black]\"[color:blue][defcolor]",
-        "de la [color:black][stringvar:0;0;0x00000000]![defcolor]"
+        "¡Has conseguido una [color:yellow]Maxiestrella[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
       ],
       "UsFrench": [
         "Vous avez trouvé une [color:yellow]grande étoile[defcolor]!",
@@ -402,12 +402,13 @@
       ],
       "UsSpanish": [
         "¡Has conseguido una [color:green]estrella verde[defcolor]!",
-        "[stringvar:1;1;0x00000000]",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
         "[stringvar:0;0;0x00000000]"
       ],
       "EuSpanish": [
-        "¡Has conseguido la [color:green][stringvar:1;1;0x00000000][defcolor]",
-        "de la [stringvar:0;0;0x00000000]!"
+        "¡Has conseguido una [color:green]estrella verde[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
       ],
       "UsFrench": [
         "Vous avez trouvé une [color:green]étoile verte[defcolor]!",
@@ -480,13 +481,13 @@
       ],
       "UsSpanish": [
         "¡Has conseguido una [color:yellow]estrella oculta[defcolor]!",
-        "[stringvar:1;1;0x00000000]",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
         "[stringvar:0;0;0x00000000]"
       ],
       "EuSpanish": [
-        "¡Has conseguido la [color:yellow]estrella oculta [defcolor]de",
-        "[color:black]\"[defcolor][color:blue][stringvar:1;1;0x00000000][defcolor][color:black]\"[defcolor]",
-        "de la [stringvar:0;0;0x00000000]!"
+        "¡Has conseguido una [color:yellow]estrella oculta[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
       ],
       "UsFrench": [
         "Vous avez trouvé une [color:yellow]étoile cachée[defcolor]!",
@@ -559,13 +560,13 @@
       ],
       "UsSpanish": [
         "¡Has conseguido una [color:yellow]Estrella[defcolor]!",
-        "[color:yellow][color:blue][stringvar:1;1;0x00000000][color:yellow]",
-        "[color:black][stringvar:0;0;0x00000000][color:yellow][defcolor]"
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
       ],
       "EuSpanish": [
-        "¡Has conseguido la [color:yellow]Superestrella[defcolor] de",
-        "[color:black]\"[defcolor][color:blue][stringvar:1;1;0x00000000][defcolor][color:black]\"[defcolor]",
-        "de la [stringvar:0;0;0x00000000]!"
+        "¡Has conseguido una [color:yellow]Superestrella[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
       ],
       "UsFrench": [
         "Vous avez trouvé une [color:yellow]étoile[defcolor]!",
@@ -642,9 +643,9 @@
         "[stringvar:0;0;0x00000000]"
       ],
       "EuSpanish": [
-        "¡Has conseguido la [color:red]estrella roja[color:black] de[color:red][defcolor][color:black]",
-        "[defcolor][color:black]\"[defcolor][color:blue][stringvar:1;1;0x00000000][color:black]\"[color:blue][defcolor]",
-        "en: [color:black][stringvar:0;0;0x00000000]![defcolor]"
+        "¡Has conseguido una [color:red]estrella roja[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
       ],
       "UsFrench": [
         "Vous avez obtenu une [color:red]Étoile Rouge[defcolor]!",

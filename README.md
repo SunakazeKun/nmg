@@ -45,6 +45,7 @@ can be found in [credits.md](data/dist/nmg/credits.md).
 - froggo
 - Gabbo
 - Hadau
+- Jau_CR
 - MarioGaming64
 - MikaMusic
 - Mixlas
