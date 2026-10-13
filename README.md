@@ -2,13 +2,11 @@
 
 **IMPORTANT: If you are looking to just install the mod for yourself, check the [official website](https://aurumsmods.com/nmg) for download links and more information.**
 
-This repository contains the entire source for **Neo Mario Galaxy**, a modification of *Super Mario Galaxy 2* (SMG2). 
-Throughout this codebase, the modification and all available localizations of it are simply referred to as *NMG*. 
-The source does not include the source code and ISO files of the original SMG2 titles. Generally, NMG supports all five 
-regional versions of SMG2.
+This repository contains the entire source for **Neo Mario Galaxy** (NMG), a modification of *Super Mario Galaxy 2*
+(SMG2). The source does not include the source code and ISO files of the original SMG2 titles. Generally, NMG supports
+all five regional versions of SMG2.
 
 ## Setup
-
 ```TODO: This section needs to be rewritten once the codebase becomes more stable in terms of structure.```
 
 This project requires **Python 3.12+** and additional modules (see [requirements.txt](requirements.txt).) The

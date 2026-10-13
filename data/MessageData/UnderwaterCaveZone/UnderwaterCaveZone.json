@@ -29,12 +29,19 @@
         "What an adventure!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "[size:large]¡VAYA![pagebreak]",
+        "[size:normal]¡Pero si eres [player:0]![pagebreak]",
+        "¡Soy el [color:red]jefe de la Cuadrilla Toad[defcolor]![pagebreak]",
+        "En nuestra aventura [color:red]neo-galáctica[defcolor],",
+        "¡encontramos esta cueva sombría!",
+        "¡Qué aventura!"
+      ],
       "UsFrench": [
         "[size:large]WOUAH![pagebreak]",
         "[size:normal]C'est toi... [player:0], n'est-ce pas?[pagebreak]",
         "Je suis le [color:red]Capitaine de la Brigade Toad[defcolor]![pagebreak]",
-        "Au cours de notre périple [color:red]néo-galactique[defcolor],",
+        "Au cours de notre périple [color:red]neo-galactique[defcolor],",
         "nous sommes tombés sur ce galion",
         "lugubre. Quelle bonne aventure tout ça!"
       ],
@@ -42,7 +49,7 @@
         "[size:large]WOUAH![pagebreak]",
         "[size:normal]C'est toi... [player:0], n'est-ce pas?[pagebreak]",
         "Je suis le [color:red]Capitaine de la Brigade Toad[defcolor]![pagebreak]",
-        "Au cours de notre périple [color:red]néo-galactique[defcolor],",
+        "Au cours de notre périple [color:red]neo-galactique[defcolor],",
         "nous sommes tombés sur ce galion",
         "lugubre. Quelle bonne aventure tout ça!"
       ],
@@ -119,7 +126,9 @@
         "[size:large]Woah![size:normal] There's a ghost ship!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "[size:large]¡Vaya![size:normal] ¡Un buque fantasma!"
+      ],
       "UsFrench": [
         "[size:large]Waouh![size:normal] Il y a un",
         "vaisseau fantôme!"
@@ -172,7 +181,9 @@
         "I'm searching for the [icon:purple_coin]!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "Estaba buscando la [icon:purple_coin]!"
+      ],
       "UsFrench": [
         "Je cherche les [icon:purple_coin]!"
       ],
@@ -223,7 +234,9 @@
         "Eeeep! This place is scary!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¡Este lugar me da miedo!"
+      ],
       "UsFrench": [
         "Ahhhh! Cet endroit me fait peur!"
       ],
@@ -274,7 +287,9 @@
         "Purple Coins... collect... [size:small]Zzzzzz..."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "Las [color:purple]monedas[color:black]... Cógelas... [size:small]ZzZ..."
+      ],
       "UsFrench": [
         "Pièces violettes... ramasser... [size:small]Zzzzzz..."
       ],
@@ -325,7 +340,9 @@
         "Don't forget to [color:red]breathe[defcolor]!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¡Que no se te olvide [color:red]respirar[defcolor]!"
+      ],
       "UsFrench": [
         "N'oubliez pas de [color:red]respirer[defcolor]!"
       ],
@@ -376,7 +393,9 @@
         "Press [icon:a_button] to [color:red]swim[color:black].[color:red][defcolor]"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¡Pulsa [icon:a_button] para [color:red]nadar[color:black]![color:red][defcolor]"
+      ],
       "UsFrench": [
         "Appuyez sur [icon:a_button] pour [color:red]nager[color:black]."
       ],
@@ -427,7 +446,10 @@
         "[icon:analog_stick] [color:blue]forward[defcolor] to [color:red]swim down[color:black].[color:red][defcolor]"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "[color:blue]Mueve [defcolor][icon:analog_stick] [color:blue]hacia adelante",
+        "[defcolor]para [color:red]sumergirte[defcolor][color:black].[defcolor]"
+      ],
       "UsFrench": [
         "Incline ton [icon:analog_stick] [color:blue]vers l'avant[defcolor] pour",
         "[color:red]nager vers le bas[color:black]."
@@ -482,12 +504,14 @@
         "Press [icon:z_button] to [color:red]dive[color:black].[color:red][defcolor]"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¡Pulsa [icon:z_button] para [color:red]bucear[color:black]![color:red][defcolor]"
+      ],
       "UsFrench": [
-        "appuie sur [icon:z_button] pour faire [color:red] un plongeon[defcolor]."
+        "Appuie sur [icon:z_button] pour faire un [color:red]plongeon[defcolor]."
       ],
       "EuFrench": [
-        "appuie sur [icon:z_button] pour faire [color:red] un plongeon[defcolor]."
+        "Appuie sur [icon:z_button] pour faire un [color:red]plongeon[defcolor]."
       ],
       "EuGerman": [
         "Drücke [icon:z_button], um zu [color:red]tauchen[defcolor]."
@@ -533,7 +557,9 @@
         "Where are the [icon:silver_star]?"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¿Dónde están las [icon:silver_star]?"
+      ],
       "UsFrench": [
         "Où sont cachées les [icon:silver_star]?"
       ],
@@ -584,7 +610,9 @@
         "[color:red]Bubbles[defcolor] give you air!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¡Las [color:red]burbujas [defcolor]te dan aire!"
+      ],
       "UsFrench": [
         "[color:red]Les bulles[defcolor] vous apportent de l'oxygène!"
       ],
@@ -643,16 +671,21 @@
         "the [icon:silver_star] [color:gray]Silver Stars[defcolor]!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¿Quieres presentarte al [color:red]examen",
+        "final[color:black] de la [color:blue]escuela de natación[color:black]?[pagebreak]",
+        "El examen consiste en coger",
+        "todas las [color:gray]estrellas de plata[defcolor] [icon:silver_star]."
+      ],
       "UsFrench": [
-        "Tu es là pour passer l'[color:red]examen de fin d'année[defcolor]",
-        "de l'[color:blue]école de natation[defcolor]?[pagebreak]",
+        "Tu es là pour passer l'[color:red]examen de fin",
+        "d'année[defcolor] de l'[color:blue]école de natation[defcolor]?[pagebreak]",
         "L'objectif de cet examen est de collecter",
         "toutes les [icon:silver_star] [color:gray]Étoiles d'Argent[defcolor]!"
       ],
       "EuFrench": [
-        "Tu es là pour passer l'[color:red]examen de fin d'année[defcolor]",
-        "de l'[color:blue]école de natation[defcolor]?[pagebreak]",
+        "Tu es là pour passer l'[color:red]examen de fin",
+        "d'année[defcolor] de l'[color:blue]école de natation[defcolor]?[pagebreak]",
         "L'objectif de cet examen est de collecter",
         "toutes les [icon:silver_star] [color:gray]Étoiles d'Argent[defcolor]!"
       ],
@@ -714,7 +747,9 @@
         "Collect all the [icon:silver_star] [color:gray]Silver Stars[defcolor]!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¡Consigue todas las [icon:silver_star][color:gray][defcolor]!"
+      ],
       "UsFrench": [
         "Collecte toutes les [icon:silver_star]",
         "[color:gray]Étoiles d'Argent[defcolor]!"
@@ -769,7 +804,10 @@
         "You passed the exam!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¡Felicidades!",
+        "¡Has aprobado!"
+      ],
       "UsFrench": [
         "Félicitations! Votre examen a",
         "été validé!"
@@ -830,7 +868,10 @@
         "has been lost for ages..."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "La clave del [color:yellow]teshoro dorado[defcolor] she",
+        "ha perdido por muchíshimosh añosh..."
+      ],
       "UsFrench": [
         "La clé du [color:yellow]trésor doré[defcolor] est perdue",
         "depuis des lustres..."

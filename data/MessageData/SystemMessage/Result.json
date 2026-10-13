@@ -636,14 +636,22 @@
         "[color:blue][stringvar:1;1;0x00000000][defcolor]",
         "[stringvar:0;0;0x00000000]"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Has conseguido una [color:red]estrella roja[defcolor]!",
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
+      ],
+      "EuSpanish": [
+        "¡Has conseguido la [color:red]estrella roja[color:black] de[color:red][defcolor][color:black]",
+        "[defcolor][color:black]\"[defcolor][color:blue][stringvar:1;1;0x00000000][color:black]\"[color:blue][defcolor]",
+        "en: [color:black][stringvar:0;0;0x00000000]![defcolor]"
+      ],
       "UsFrench": [
-        "Vous avez obtenu une [color:red] Étoile Rouge[defcolor]!",
+        "Vous avez obtenu une [color:red]Étoile Rouge[defcolor]!",
         "[color:blue][stringvar:1;1;0x00000000][defcolor][stringvar:0;0;0x00000000]"
       ],
       "EuFrench": [
-        "Vous avez obtenu une [color:red] Étoile Rouge[defcolor]!",
+        "Vous avez obtenu une [color:red]Étoile Rouge[defcolor]!",
         "[color:blue][stringvar:1;1;0x00000000][defcolor][stringvar:0;0;0x00000000]"
       ],
       "EuGerman": [
@@ -701,8 +709,12 @@
       "EuEnglish": [
         "You got a [color:blue]Stamp[defcolor]!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Has conseguido un [color:blue]sello[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡Has conseguido un [color:blue]sello[defcolor]!"
+      ],
       "UsFrench": [
         "Vous avez obtenu un [icon:stamp][color:blue] Sceaux[color:black]!"
       ],

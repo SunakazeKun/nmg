@@ -121,7 +121,10 @@
         "lots of books. Feel free to read one!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¡Hola! La biblioteca de mamá está repleta de libros.",
+        "¡Puedes leer uno cuando quieras!"
+      ],
       "UsFrench": [
         "Oh, bonjour! La bibliothèque de Maman",
         "contient beaucoup de livres. N'hésite",
@@ -154,8 +157,8 @@
         "あるの! [delay:30] [ruby:自由;じゆう]に[ruby:読;よ]んでいいよ♪"
       ],
       "KrKorean": [
-        "아, 안녕! 엄마의 도서관에는 책이 정말 많아.",
-        "마음껏 골라서 읽어 봐!"
+        "안녕하세요! 엄마의 도서관에는 책이 정말 많아요.",
+        "마음껏 골라서 읽어 보세요!"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [

@@ -458,8 +458,12 @@
       "EuEnglish": [
         "Normal"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "Normal"
+      ],
+      "EuSpanish": [
+        "Normal"
+      ],
       "UsFrench": [
         "Normal"
       ],
@@ -509,8 +513,12 @@
       "EuEnglish": [
         "Daredevil"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "Muerte súbita"
+      ],
+      "EuSpanish": [
+        "Muerte súbita"
+      ],
       "UsFrench": [
         "Casse-cou"
       ],
@@ -560,8 +568,12 @@
       "EuEnglish": [
         "[icon:mario] Mario"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "[icon:mario] Mario"
+      ],
+      "EuSpanish": [
+        "[icon:mario] Mario"
+      ],
       "UsFrench": [
         "[icon:mario] Mario"
       ],
@@ -611,8 +623,12 @@
       "EuEnglish": [
         "[icon:luigi] Luigi"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "[icon:luigi] Luigi"
+      ],
+      "EuSpanish": [
+        "[icon:luigi] Luigi"
+      ],
       "UsFrench": [
         "[icon:luigi] Luigi"
       ],

@@ -19,7 +19,9 @@
         "Got [color:red]64[defcolor] [icon:purple_coin] [color:purple]Purple Coins[defcolor]?"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¿Tienes [color:red]64[defcolor] [icon:purple_coin] [color:purple]monedas[defcolor]?"
+      ],
       "UsFrench": [
         "Avez-vous récupéré [color:red]64[defcolor] [icon:purple_coin]",
         "[color:purple]Pièces Violettes[defcolor]?"

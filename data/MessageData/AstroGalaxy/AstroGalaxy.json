@@ -21,7 +21,11 @@
         "[size:large]WHAT?[size:normal][delay:60] [sound:SE_SV_BUTLER_TALK_WORRIED]Where's the map?!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "Vale, vale, ahora mismo te",
+        "enseño el...[delay:30]-[delay:30][size:large]¿QUÉ?[size:normal][delay:60]",
+        "[sound:SE_SV_BUTLER_TALK_WORRIED]¡¿Dónde está el mapa?!"
+      ],
       "UsFrench": [
         "Désires-tu consulter l-[delay:30]-[delay:30][size:large]QUOI?![size:normal][delay:60]",
         "[sound:SE_SV_BUTLER_TALK_WORRIED]Où est passée la carte?!"
@@ -80,7 +84,9 @@
         "Open the door! Let me in!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¡Abre la puerta! ¡Déhame entrah!"
+      ],
       "UsFrench": [
         "Ouvrez la porte! Laissez-moi entrer!"
       ],
@@ -273,7 +279,10 @@
         "It's a classic, don't you think?"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¿Has visto [color:red]Amanece, que no es poco[defcolor]?",
+        "¡Es atemporal!"
+      ],
       "UsFrench": [
         "As-tu déjà regardé [color:red]Kaamelott[defcolor]? C'est",
         "un classique, tu ne trouves pas?"
@@ -402,7 +411,11 @@
         "Please take this [icon:star] [color:yellow]Power Star[defcolor]!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "Quiero darte las gracias de corazón",
+        "por jugar a [color:red]Neo Mario Galaxy[defcolor].[pagebreak]",
+        "Esta [icon:star] [color:yellow]Superestrella[defcolor] es para ti."
+      ],
       "UsFrench": [
         "Je tiens à te donner toute ma gratitude",
         "pour avoir joué à [color:red]Neo Mario Galaxy[defcolor].[pagebreak]",
@@ -476,7 +489,10 @@
         "down on you..."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "Que la luz de las estrellas",
+        "ilumine vuestro camino..."
+      ],
       "UsFrench": [
         "Que les étoiles scintillent",
         "Sur vous..."
@@ -544,7 +560,13 @@
         "direction you want to fly[defcolor] with [icon:analog_stick]."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "Las [color:red]estrellas rojas[color:black] encierran nuestras",
+        "energías. Te permiten [color:red]salir volando",
+        "[color:black]si haces un [color:blue]Giro[color:black] en el aire.[pagebreak]",
+        "Mantén pulsado [icon:a_button], y usa [icon:analog_stick]",
+        "para [color:red]dirigirte [color:black]a donde quieras."
+      ],
       "UsFrench": [
         "Voici une [color:red]Étoile Rouge[defcolor],[delay:30] elle renferme",
         "le pouvoir des Lumas Rouges.[pagebreak]",
@@ -642,7 +664,13 @@
         "make the [icon:red_star] [color:red]Red Power Star[defcolor] appear."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "Un [color:purple]Cometa Púrpura[defcolor] ha aparecido",
+        "en el [color:blue]Planetarium del Cometa[defcolor].[pagebreak]",
+        "Por favor, ayúdanos a coger todas",
+        "las [color:purple]100[defcolor] [icon:purple_coin] para que aparezca",
+        "la [color:yellow]Superestrella[defcolor] [icon:star]."
+      ],
       "UsFrench": [
         "Une [color:purple]Comète Violette[defcolor] est apparue",
         "dans l'[color:blue]Observatoire de la Comète[defcolor].[pagebreak]",
@@ -720,7 +748,9 @@
         "Collect all [color:purple]100[defcolor] [icon:purple_coin]!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¡Consigue las [color:purple]100[defcolor] [icon:purple_coin]!"
+      ],
       "UsFrench": [
         "Obtiens les [color:purple]100[defcolor] [icon:purple_coin]!"
       ],
@@ -771,7 +801,9 @@
         "Very good, thank you!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¡Genial, gracias!"
+      ],
       "UsFrench": [
         "Merci beaucoup! Bon travail!"
       ],
@@ -1337,7 +1369,10 @@
         "Galaxies[defcolor]."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "Somos los guardianes de la",
+        "[color:red]Galaxia Reto[defcolor]."
+      ],
       "UsFrench": [
         "Nous sommes les gardiens des",
         "[color:red]Galaxies des Épreuves[defcolor]."
@@ -1393,7 +1428,10 @@
         "Up there is the [color:green]Planet of Trials[defcolor]!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "El planeta con las [color:green]Estrellas Reto[defcolor]",
+        "está allá arriba."
+      ],
       "UsFrench": [
         "La [color:red]Planète des Épreuves[defcolor] est juste",
         "au-dessus!"
@@ -1449,7 +1487,9 @@
         "are very difficult!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¡La [color:red]Galaxia Reto[defcolor] es muy difícil!"
+      ],
       "UsFrench": [
         "Les [color:red]Galaxies des Épreuves[defcolor] sont très",
         "difficiles!"
@@ -1506,7 +1546,11 @@
         "is not available right now."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "La entrada a la [color:blue]Galaxia Fábrica",
+        "de Dulces[defcolor] no está disponible en",
+        "este momento."
+      ],
       "UsFrench": [
         "L'entrée de la [color:blue]Fabrique de Gateaux[defcolor]",
         "est actuellement indisponible."
@@ -1535,7 +1579,7 @@
       ],
       "KrKorean": [
         "[color:blue]스위트 팩토리 갤럭시[defcolor]의 입구는 ",
-        "지금 이용할 수 없어."
+        "지금 이용할 수 없어요."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1566,7 +1610,10 @@
         "is not available right now."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "La entrada a la [color:blue]Galaxia Larva Elástica[defcolor]",
+        "no está disponible en este momento."
+      ],
       "UsFrench": [
         "L'entrée des [color:blue]Astéroïdes aux Cocons[defcolor]",
         "est actuellement indisponible."
@@ -1595,7 +1642,7 @@
       ],
       "KrKorean": [
         "[color:blue]코쿤 아스테로이드 갤럭시[defcolor]의 입구는 ",
-        "지금 이용할 수 없어."
+        "지금 이용할 수 없어요."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1626,7 +1673,10 @@
         "is not available right now."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "La entrada a la [color:blue]Galaxia Lágrima[defcolor]",
+        "no está disponible en este momento."
+      ],
       "UsFrench": [
         "L'entrée des [color:blue]Larmes[defcolor] est actuellement",
         "indisponible."
@@ -1655,7 +1705,7 @@
       ],
       "KrKorean": [
         "[color:blue]드립 드롭 갤럭시[defcolor]의 입구는 ",
-        "지금 이용할 수 없어."
+        "지금 이용할 수 없어요."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1686,7 +1736,10 @@
         "is not available right now."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "La entrada a la [color:blue]Galaxia Ictiotúnel[defcolor]",
+        "no está disponible en este momento."
+      ],
       "UsFrench": [
         "L'entrée du [color:blue]Tunnel Poisonneux[defcolor] est",
         "actuellement indisponible."
@@ -1715,7 +1768,7 @@
       ],
       "KrKorean": [
         "[color:blue]피쉬 터널 갤럭시[defcolor]의 입구는 ",
-        "지금 이용할 수 없어."
+        "지금 이용할 수 없어요."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1746,7 +1799,10 @@
         "is not available right now."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "La entrada a la [color:blue]Galaxia Río Arenoso[defcolor]",
+        "no está disponible en este momento."
+      ],
       "UsFrench": [
         "L'entrée de la [color:blue]Rivière de Sable[defcolor] est",
         "actuellement indisponible."
@@ -1776,7 +1832,7 @@
       ],
       "KrKorean": [
         "[color:blue]샌드 리버 갤럭시[defcolor]의 입구는 ",
-        "지금 이용할 수 없어."
+        "지금 이용할 수 없어요."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1807,7 +1863,10 @@
         "is not available right now."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "La entrada a la [color:blue]Galaxia Paseo Letal[defcolor]",
+        "no está disponible en este momento."
+      ],
       "UsFrench": [
         "L'entrée de la [color:blue]Promenade Sinistre[defcolor]",
         "est actuellement indisponible."
@@ -1836,7 +1895,7 @@
       ],
       "KrKorean": [
         "[color:blue]데스 본야드 갤럭시[defcolor]의 입구는 ",
-        "지금 이용할 수 없어."
+        "지금 이용할 수 없어요."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1867,7 +1926,10 @@
         "is not available right now."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "La entrada a la [color:blue]Galaxia Cápsula Nevada[defcolor]",
+        "no está disponible en este momento."
+      ],
       "UsFrench": [
         "L'entrée de la [color:blue]Capsule Neigeuse[defcolor] est",
         "actuellement indisponible."
@@ -1896,7 +1958,7 @@
       ],
       "KrKorean": [
         "[color:blue]스노우 캡슐 갤럭시[defcolor]의 입구는 ",
-        "지금 이용할 수 없어."
+        "지금 이용할 수 없어요."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1927,7 +1989,10 @@
         "is not available right now."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "La entrada a la [color:green]Galaxia Burbujas (reto)[defcolor]",
+        "no está disponible en este momento."
+      ],
       "UsFrench": [
         "L'entrée de l'[color:blue]Épreuve de la Bulle[defcolor]",
         "est actuellement indisponible."
@@ -1956,7 +2021,7 @@
       ],
       "KrKorean": [
         "[color:green]챌린지 버블 갤럭시[defcolor]의 입구는 ",
-        "지금 이용할 수 없어."
+        "지금 이용할 수 없어요."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -1987,7 +2052,10 @@
         "is not available right now."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "La entrada a la [color:green]Galaxia Bola (reto)[defcolor]",
+        "no está disponible en este momento."
+      ],
       "UsFrench": [
         "L'entrée de l'[color:blue]Épreuve de la Boule[defcolor]",
         "est actuellement indisponible."
@@ -2016,7 +2084,7 @@
       ],
       "KrKorean": [
         "[color:green]챌린지 볼 갤럭시[defcolor]의 입구는 ",
-        "지금 이용할 수 없어."
+        "지금 이용할 수 없어요."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -2047,7 +2115,10 @@
         "is not available right now."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "La entrada a la [color:green]Galaxia Surfing (reto)[defcolor]",
+        "no está disponible en este momento."
+      ],
       "UsFrench": [
         "L'entrée de l'[color:blue]Épreuve de Surf[defcolor] est",
         "actuellement indisponible."
@@ -2076,7 +2147,7 @@
       ],
       "KrKorean": [
         "[color:green]챌린지 서핑 갤럭시[defcolor]의 입구는 ",
-        "지금 이용할 수 없어."
+        "지금 이용할 수 없어요"
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -2107,7 +2178,10 @@
         "is not available right now."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "La entrada a la [color:green]Galaxia Gran Final[defcolor]",
+        "no está disponible en este momento."
+      ],
       "UsFrench": [
         "L'entrée de la [color:blue]Galaxie du Grand Final[defcolor]",
         "est actuellement indisponible."
@@ -2136,7 +2210,7 @@
       ],
       "KrKorean": [
         "[color:green]그랜드 피날레 갤럭시[defcolor]의 입구는 ",
-        "지금 이용할 수 없어."
+        "지금 이용할 수 없어요."
       ],
       "CnSimpChinese": null,
       "AsTradChinese": [
@@ -2197,7 +2271,7 @@
         "[color:red]レッドスター[defcolor]、[ruby:使;つか]っていいよ"
       ],
       "KrKorean": [
-        "[color:red]레드스타[defcolor] 써도 돼."
+        "[color:red]레드스타[defcolor] 쓰세요."
       ],
       "CnSimpChinese": [
         "你可以用[color:red]红色星星[defcolor]哦。"
@@ -2482,8 +2556,12 @@
       "EuEnglish": [
         "Mama is the best! ♪"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Mamá es la mejor! ♪"
+      ],
+      "EuSpanish": [
+        "¡Mamá es la mejor!"
+      ],
       "UsFrench": [
         "Maman est la meilleure!♪"
       ],
@@ -2752,8 +2830,18 @@
         "The only hope is the",
         "sweet relief of death![sound:SE_SV_TICOFAT_META]"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "El tiempo y la esperanza son una ilusión[delay:60]",
+        "Nadie puede escapar...[pagebreak]",
+        "¡El único consuelo es el",
+        "dulce alivio de la muerte![sound:SE_SV_TICOFAT_META]"
+      ],
+      "EuSpanish": [
+        "El tiempo, como la esperanza, es una ilusión.[delay:60]",
+        "No hay escapatoria...[pagebreak]",
+        "¡La única esperanza es el",
+        "dulce alivio de la muerte![sound:SE_SV_TICOFAT_META]"
+      ],
       "UsFrench": [
         "Le temps, comme l'espoir, est une illusion.[delay:60]",
         "On ne peut pas s'échapper...[pagebreak]",

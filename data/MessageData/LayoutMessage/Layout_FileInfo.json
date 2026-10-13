@@ -72,8 +72,12 @@
       "EuEnglish": [
         "A Neo-Galactic Journey Begins!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Una aventura neo-galáctica comienza!"
+      ],
+      "EuSpanish": [
+        "¡Comienza una aventura neo-galáctica!"
+      ],
       "UsFrench": [
         "Que l'aventure Neo-Galactique commence!"
       ],
@@ -508,8 +512,12 @@
       "EuEnglish": [
         "Neo Mario Galaxy Master!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡El señor de Neo Mario Galaxy!"
+      ],
+      "EuSpanish": [
+        "¡El señor de Neo Mario Galaxy!"
+      ],
       "UsFrench": [
         "Le maître de Neo Mario Galaxy!"
       ],

@@ -493,14 +493,20 @@
         "You transformed into [color:red]Flying [player:0][color:black]!",
         "[color:red]Spin[color:black] when [color:red]jumping [color:black]to fly!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Ahora eres [color:red][player:0] Volador[color:black]!",
+        "¡Al girar durante un salto volarás!"
+      ],
+      "EuSpanish": [
+        "¡Ahora eres [color:red][player:0] Volador[color:black]!",
+        "¡Al girar durante un salto volarás!"
+      ],
       "UsFrench": [
-        "Vous êtes devenu [color:red] [player:0] Volant[color:black]! [color:red]Tourbillonnez[color:black]",
+        "Vous êtes devenu [color:red][player:0] Volant[color:black]! [color:red]Tourbillonnez[color:black]",
         "pendant un [color:red]saut[color:black] pour voler!"
       ],
       "EuFrench": [
-        "Vous êtes devenu [color:red] [player:0] Volant[color:black]! [color:red]Tourbillonnez[color:black]",
+        "Vous êtes devenu [color:red][player:0] Volant[color:black]! [color:red]Tourbillonnez[color:black]",
         "pendant un [color:red]saut[color:black] pour voler!"
       ],
       "EuGerman": [
@@ -630,8 +636,14 @@
         "You transformed into [color:red]Ice [player:0][color:black]!",
         "Shake [icon:wiimote] to [color:red]skate[color:black]!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Ahora eres [color:red][player:0] de Hielo[color:black]!",
+        "¡Agita el [icon:wiimote] para patinar!"
+      ],
+      "EuSpanish": [
+        "¡Ahora eres [color:red][player:0] Gélido[color:black]!",
+        "¡Agita el [icon:wiimote] para patinar!"
+      ],
       "UsFrench": [
         "Vous êtes devenu[color:red] [player:0] de glace[color:black]! Secouez",
         "la [icon:wiimote] pour [color:blue]Glissé Sur la Glace[defcolor]."
@@ -1106,8 +1118,14 @@
         "Who knows what happens",
         "when you collect all of them."
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Has conseguido un [color:blue]sello[defcolor]!",
+        "¡Intenta conseguirlos todos!"
+      ],
+      "EuSpanish": [
+        "¡Has conseguido un [color:blue]sello[defcolor]!",
+        "Intenta hacerte con todos."
+      ],
       "UsFrench": [
         "Vous avez obtenu un [icon:stamp][color:blue] Sceaux[color:black]! Tu sais ce",
         "qu'il arrive si tu les collectes tous.",

@@ -2746,8 +2746,14 @@
         "Woah! A blue flower with eyes?!",
         "I've never seen this before."
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡Vaya! ¡¿Una flor azul con ojos?!",
+        "Nunca vi algo tan extraño antes..."
+      ],
+      "EuSpanish": [
+        "¡Vaya! ¡¿Una flor azul con ojos?!",
+        "Nunca vi algo tan extraño antes..."
+      ],
       "UsFrench": [
         "Wow! Une fleur bleue avec des yeux?!",
         "Je n'avais jamais vu ça de ma vie",
@@ -2809,8 +2815,15 @@
         "It's an [color:red]Ice Flower[defcolor]? Hrm...[delay:15]",
         "It looks pretty cool, huh? Har har!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¿Es una [color:blue]flor de hielo[defcolor]? [delay:15] ",
+        "Yo diría que se ve bastante fresca, ¿eh? ¡Ja, ja, ja!"
+      ],
+      "EuSpanish": [
+        "¿Es una [color:blue]flor de hielo[defcolor]? [delay:15] Con esto",
+        "podrías romper el hielo con los",
+        "enemigos, ¿eh?"
+      ],
       "UsFrench": [
         "Est-ce une [color:red]Fleur de Glace[defcolor]? Hmm...[delay:15]",
         "Ça m'a l'air cool, n'est-ce pas? Hé hé!"
@@ -3004,8 +3017,12 @@
       "EuEnglish": [
         "Hmmm... [delay:15] I think I've seen this before..."
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "Siento que ya he visto esto antes..."
+      ],
+      "EuSpanish": [
+        "Creo que ya he visto esto antes..."
+      ],
       "UsFrench": [
         "Hmmm... [delay:15] Je crois avoir déjà vu",
         "ça auparavant..."
@@ -3060,8 +3077,14 @@
         "I got it! It's a [color:red]Red Star[defcolor] that",
         "holds the power of the Red Lumas!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "¡La recuerdo! ¡Es una [color:red]estrella roja[defcolor] que",
+        "contiene el poder de los destellos rojos!"
+      ],
+      "EuSpanish": [
+        "¡Eso es! ¡Es una [color:red]estrella roja[defcolor] que",
+        "contiene el poder de los destellos rojos!"
+      ],
       "UsFrench": [
         "Je m'en souviens maintenant! C'est une [color:red] Étoile rouge[defcolor]",
         "et elle contient le pouvoir des Lumas Rouges!"

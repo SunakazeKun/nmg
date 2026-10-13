@@ -22,8 +22,16 @@
         "to fly higher! But only up to [color:red]three",
         "times[defcolor], boiyoing!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "[color:red]Agita[color:black] el [icon:wiimote] mientras estés subido a",
+        "la [color:purple]flotaflor[color:black].[delay:30] Podrás revolotear",
+        "hasta [color:red]tres veces[color:black]."
+      ],
+      "EuSpanish": [
+        "[color:red]Agita[color:black] el [icon:wiimote] cuando estés cogido a",
+        "la [color:purple]flotaflor[color:black].[delay:30] Podrás remontar vuelo",
+        "[color:red]tres veces[color:black]."
+      ],
       "UsFrench": [
         "Grâce aux [color:purple]Herbes Duveteuses[defcolor], tu peux",
         "secouer la [icon:wiimote] pour voler plus haut!",
@@ -86,8 +94,14 @@
       "EuEnglish": [
         "You made it. Very good, boiyoing!"
       ],
-      "UsSpanish": null,
-      "EuSpanish": null,
+      "UsSpanish": [
+        "Llegaste.",
+        "¡Bien hecho! ¡boooing!"
+      ],
+      "EuSpanish": [
+        "Has llegado por aquí.",
+        "¡Buen trabajo!"
+      ],
       "UsFrench": [
         "Tu as réussi. Excellent, boïng-oïng!"
       ],

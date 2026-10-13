@@ -19,7 +19,10 @@
         "Take [icon:star] [color:yellow]sign[defcolor] of courage!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¡Este es el [color:yellow]símbolo[defcolor] [icon:star]",
+        "del valor, tronco!"
+      ],
       "UsFrench": [
         "Prends [icon:star], [color:yellow]signe[defcolor] de courage!"
       ],
@@ -70,7 +73,9 @@
         "You are courage."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¡Eres el símbolo del valor, tronco!"
+      ],
       "UsFrench": [
         "Tu as courage."
       ],
@@ -123,7 +128,10 @@
         "Good luck!"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "Estos saltos son difíciles,",
+        "¡buena suerte!"
+      ],
       "UsFrench": [
         "Parcours difficile.",
         "Bonne chance!"
@@ -182,7 +190,10 @@
         "Well done."
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "Ya casi has acabado.",
+        "Buen trabajo."
+      ],
       "UsFrench": [
         "Moitié fini.",
         "bien joué."
@@ -240,7 +251,9 @@
         "What is nail for?"
       ],
       "UsSpanish": null,
-      "EuSpanish": null,
+      "EuSpanish": [
+        "¿Para qué sirven los clavos?"
+      ],
       "UsFrench": [
         "À quoi servent les clous?"
       ],
