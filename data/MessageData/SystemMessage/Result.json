@@ -649,11 +649,13 @@
       ],
       "UsFrench": [
         "Vous avez obtenu une [color:red]Étoile Rouge[defcolor]!",
-        "[color:blue][stringvar:1;1;0x00000000][defcolor][stringvar:0;0;0x00000000]"
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
       ],
       "EuFrench": [
         "Vous avez obtenu une [color:red]Étoile Rouge[defcolor]!",
-        "[color:blue][stringvar:1;1;0x00000000][defcolor][stringvar:0;0;0x00000000]"
+        "[color:blue][stringvar:1;1;0x00000000][defcolor]",
+        "[stringvar:0;0;0x00000000]"
       ],
       "EuGerman": [
         "Du hast einen [icon:red_star] [color:red]Power-Stern [defcolor]erhalten!",

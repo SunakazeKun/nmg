@@ -2820,9 +2820,9 @@
         "Yo diría que se ve bastante fresca, ¿eh? ¡Ja, ja, ja!"
       ],
       "EuSpanish": [
-        "¿Es una [color:blue]flor de hielo[defcolor]? [delay:15] Con esto",
-        "podrías romper el hielo con los",
-        "enemigos, ¿eh?"
+        "¿Es una [color:blue]flor de hielo[defcolor]?[delay:15]",
+        "Con esto podrías romper el hielo",
+        "con los enemigos, ¿eh?"
       ],
       "UsFrench": [
         "Est-ce une [color:red]Fleur de Glace[defcolor]? Hmm...[delay:15]",
@@ -3024,11 +3024,11 @@
         "Creo que ya he visto esto antes..."
       ],
       "UsFrench": [
-        "Hmmm... [delay:15] Je crois avoir déjà vu",
+        "Hmmm... [delay:15]Je crois avoir déjà vu",
         "ça auparavant..."
       ],
       "EuFrench": [
-        "Hmmm... [delay:15] Je crois avoir déjà vu",
+        "Hmmm... [delay:15]Je crois avoir déjà vu",
         "ça auparavant..."
       ],
       "EuGerman": [
@@ -3086,12 +3086,14 @@
         "contiene el poder de los destellos rojos!"
       ],
       "UsFrench": [
-        "Je m'en souviens maintenant! C'est une [color:red] Étoile rouge[defcolor]",
-        "et elle contient le pouvoir des Lumas Rouges!"
+        "Je m'en souviens maintenant! C'est une",
+        "[color:red]Étoile Rouge[defcolor] et elle contient le",
+        "pouvoir des Lumas Rouges!"
       ],
       "EuFrench": [
-        "Je m'en souviens maintenant! C'est une [color:red] Étoile rouge[defcolor]",
-        "et elle contient le pouvoir des Lumas Rouges!"
+        "Je m'en souviens maintenant! C'est une",
+        "[color:red]Étoile Rouge[defcolor] et elle contient le",
+        "pouvoir des Lumas Rouges!"
       ],
       "EuGerman": [
         "Genau! Das ist ein [color:red]Flugstern[defcolor],",

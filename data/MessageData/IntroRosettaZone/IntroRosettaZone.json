@@ -37,7 +37,7 @@
         "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "UsSpanish": [
-        "Bienvenido de nuevo, [player:0]...",
+        "Bienvenido otra vez, [player:0]...",
         "¿Estás listo para una aventura",
         "[color:red]neo-galáctica[defcolor]?[pagebreak]",
         "Hay un [color:yellow]anillo estelar[defcolor] [icon:launch_star] detrás de mí.",
@@ -45,9 +45,9 @@
         "galaxia lejana.[pagebreak]",
         "Pero antes,",
         "quiero hacerte unas preguntas.[pagebreak]",
-        "¿Deseas jugar con",
+        "¿Quieres jugar con",
         "[icon:mario] [color:red]Mario[defcolor] o con [icon:luigi] [color:green]Luigi[defcolor]?",
-        "[color:gray](Ahora mismo estás jugando con: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+        "[color:gray](Personaje actual: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "EuSpanish": [
         "Bienvenido otra vez, [player:0]...",
@@ -60,7 +60,7 @@
         "quiero hacerte unas preguntas.[pagebreak]",
         "¿Quieres jugar con",
         "[icon:mario] [color:red]Mario[defcolor] o con [icon:luigi] [color:green]Luigi[defcolor]?",
-        "[color:gray](Ahora mismo estás jugando con: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+        "[color:gray](Personaje actual: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "UsFrench": [
         "Bon retour parmi nous, [player:0]...",
@@ -199,24 +199,26 @@
         "en el modo [color:red]Muerte súbita[defcolor],",
         "que es más difícil...[pagebreak]",
         "En este modo solo tienes",
-        "un punto de energía, igual que en las misiones de [color:red]Cometas Oscuros[defcolor].[pagebreak]",
+        "un punto de energía, igual que en",
+        "las misiones de [color:red]Cometas Oscuros[defcolor].[pagebreak]",
         "Además, no habrá",
         "ningún [icon:checkpoint_flag] [color:blue]banderín de etapa[defcolor].[pagebreak]",
-        "¿Deseas jugar en el modo [color:blue]Normal[defcolor]",
+        "¿Quieres jugar en el modo [color:blue]Normal[defcolor]",
         "o en el modo [color:red]Muerte súbita[defcolor]?",
-        "[color:gray](Ahora mismo estás jugando en: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+        "[color:gray](Modo actual: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "EuSpanish": [
         "También puedes jugar",
         "en el modo [color:red]Muerte súbita[defcolor],",
         "que es más difícil...[pagebreak]",
         "En este modo solo tienes",
-        "un punto de energía, igual que en las misiones de [color:red]Cometas Oscuros[defcolor].[pagebreak]",
+        "un punto de energía, igual que en",
+        "las misiones de [color:red]Cometas Oscuros[defcolor].[pagebreak]",
         "Además, no habrá",
         "ningún [icon:checkpoint_flag] [color:blue]banderín de etapa[defcolor].[pagebreak]",
         "¿Quieres jugar en el modo [color:blue]Normal[defcolor]",
         "o en el modo [color:red]Muerte súbita[defcolor]?",
-        "[color:gray](Ahora mismo estás jugando en: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+        "[color:gray](Modo actual: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "UsFrench": [
         "Vous pouvez également choisir de jouer en",
@@ -346,19 +348,19 @@
         "down on you. Farewell."
       ],
       "UsSpanish": [
-        "De acuerdo. Te advierto que cuando salgas de aquí,",
-        "no podrás cambiar",
-        "la dificultad.[pagebreak]",
+        "De acuerdo.",
+        "Te advierto que cuando salgas de aquí,",
+        "no podrás cambiar la dificultad.[pagebreak]",
         "¡Lo que sí podrás cambiar",
         "más tarde es el personaje",
-        "con el que quieras jugar![pagebreak]",
-        "Que la luz de las estrellas ",
-        "Ilumine tu camino, adiós."
+        "con el que quieres jugar![pagebreak]",
+        "Adiós, y que la luz",
+        "de las estrellas ilumine tu camino."
       ],
       "EuSpanish": [
-        "De acuerdo. Te advierto que cuando salgas de aquí,",
-        "no podrás cambiar",
-        "la dificultad.[pagebreak]",
+        "De acuerdo.",
+        "Te advierto que cuando salgas de aquí,",
+        "no podrás cambiar la dificultad.[pagebreak]",
         "¡Lo que sí podrás cambiar",
         "más tarde es el personaje",
         "con el que quieres jugar![pagebreak]",
@@ -529,12 +531,12 @@
       "UsSpanish": [
         "¿Deseas jugar con",
         "[icon:mario] [color:red]Mario[defcolor] o con [icon:luigi] [color:green]Luigi[defcolor]?",
-        "[color:gray](Ahora mismo estás jugando con: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+        "[color:gray](Personaje actual: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "EuSpanish": [
         "¿Quieres jugar con",
         "[icon:mario] [color:red]Mario[defcolor] o con [icon:luigi] [color:green]Luigi[defcolor]?",
-        "[color:gray](Ahora mismo estás jugando con: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+        "[color:gray](Personaje actual: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "UsFrench": [
         "Préférerais-tu jouer avec [icon:mario] [color:red]Mario[defcolor]",

@@ -28,7 +28,14 @@
         "came across this gloomy cave.",
         "What an adventure!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "[size:large]¡VAYA![pagebreak]",
+        "[size:normal]¡Pero si eres [player:0]![pagebreak]",
+        "¡Soy el [color:red]jefe del Escuadrón Toad[defcolor]![pagebreak]",
+        "En nuestra exploración [color:red]neo-galáctica[defcolor],",
+        "¡encontramos esta cueva sombría!",
+        "¡Pero qué aventura!"
+      ],
       "EuSpanish": [
         "[size:large]¡VAYA![pagebreak]",
         "[size:normal]¡Pero si eres [player:0]![pagebreak]",
@@ -125,7 +132,9 @@
       "EuEnglish": [
         "[size:large]Woah![size:normal] There's a ghost ship!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "[size:large]¡Vaya![size:normal] ¡Un barco fantasma!"
+      ],
       "EuSpanish": [
         "[size:large]¡Vaya![size:normal] ¡Un buque fantasma!"
       ],
@@ -180,7 +189,9 @@
       "EuEnglish": [
         "I'm searching for the [icon:purple_coin]!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "Busco la [icon:purple_coin]!"
+      ],
       "EuSpanish": [
         "Estaba buscando la [icon:purple_coin]!"
       ],
@@ -233,7 +244,9 @@
       "EuEnglish": [
         "Eeeep! This place is scary!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¡Este lugar me da miedo!"
+      ],
       "EuSpanish": [
         "¡Este lugar me da miedo!"
       ],
@@ -286,7 +299,9 @@
       "EuEnglish": [
         "Purple Coins... collect... [size:small]Zzzzzz..."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "[color:purple]Monedas[color:black]... buscar... [size:small]ZzZ..."
+      ],
       "EuSpanish": [
         "Las [color:purple]monedas[color:black]... Cógelas... [size:small]ZzZ..."
       ],
@@ -339,7 +354,9 @@
       "EuEnglish": [
         "Don't forget to [color:red]breathe[defcolor]!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¡Que no se te olvide [color:red]respirar[defcolor]!"
+      ],
       "EuSpanish": [
         "¡Que no se te olvide [color:red]respirar[defcolor]!"
       ],
@@ -392,7 +409,9 @@
       "EuEnglish": [
         "Press [icon:a_button] to [color:red]swim[color:black].[color:red][defcolor]"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¡Pulsa [icon:a_button] para [color:red]nadar[color:black]![color:red][defcolor]"
+      ],
       "EuSpanish": [
         "¡Pulsa [icon:a_button] para [color:red]nadar[color:black]![color:red][defcolor]"
       ],
@@ -445,7 +464,10 @@
       "EuEnglish": [
         "[icon:analog_stick] [color:blue]forward[defcolor] to [color:red]swim down[color:black].[color:red][defcolor]"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "[color:blue]Mueve [defcolor][icon:analog_stick] [color:blue]hacia adelante",
+        "[defcolor]para [color:red]descender[defcolor][color:black].[defcolor]"
+      ],
       "EuSpanish": [
         "[color:blue]Mueve [defcolor][icon:analog_stick] [color:blue]hacia adelante",
         "[defcolor]para [color:red]sumergirte[defcolor][color:black].[defcolor]"
@@ -503,7 +525,9 @@
       "EuEnglish": [
         "Press [icon:z_button] to [color:red]dive[color:black].[color:red][defcolor]"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¡Pulsa [icon:z_button] para [color:red]bucear[color:black]![color:red][defcolor]"
+      ],
       "EuSpanish": [
         "¡Pulsa [icon:z_button] para [color:red]bucear[color:black]![color:red][defcolor]"
       ],
@@ -556,7 +580,9 @@
       "EuEnglish": [
         "Where are the [icon:silver_star]?"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¿Dónde están las [icon:silver_star]?"
+      ],
       "EuSpanish": [
         "¿Dónde están las [icon:silver_star]?"
       ],
@@ -609,7 +635,9 @@
       "EuEnglish": [
         "[color:red]Bubbles[defcolor] give you air!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¡Las [color:red]burbujas [defcolor]te dan aire!"
+      ],
       "EuSpanish": [
         "¡Las [color:red]burbujas [defcolor]te dan aire!"
       ],
@@ -670,7 +698,12 @@
         "In this exam, you must collect all",
         "the [icon:silver_star] [color:gray]Silver Stars[defcolor]!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¿Quieres dar el [color:red]examen",
+        "final[color:black] de la [color:blue]escuela de natación[color:black]?[pagebreak]",
+        "El examen consiste en encontrar",
+        "todas las [color:gray]estrellas de plata[defcolor] [icon:silver_star]."
+      ],
       "EuSpanish": [
         "¿Quieres presentarte al [color:red]examen",
         "final[color:black] de la [color:blue]escuela de natación[color:black]?[pagebreak]",
@@ -746,7 +779,9 @@
       "EuEnglish": [
         "Collect all the [icon:silver_star] [color:gray]Silver Stars[defcolor]!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¡Consigue todas las [icon:silver_star][color:gray][defcolor]!"
+      ],
       "EuSpanish": [
         "¡Consigue todas las [icon:silver_star][color:gray][defcolor]!"
       ],
@@ -803,7 +838,10 @@
         "Congratulations!",
         "You passed the exam!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¡Felicidades!",
+        "¡Has aprobado!"
+      ],
       "EuSpanish": [
         "¡Felicidades!",
         "¡Has aprobado!"

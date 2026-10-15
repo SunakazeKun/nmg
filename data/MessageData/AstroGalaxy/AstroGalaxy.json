@@ -1313,10 +1313,12 @@
         "¡Aquí está la [color:blue]Biblioteca [defcolor]de mamá!"
       ],
       "UsFrench": [
-        "La [color:blue]bibliothèque[defcolor] de maman est par ici!"
+        "La [color:blue]bibliothèque[defcolor] de maman",
+        "est par ici!"
       ],
       "EuFrench": [
-        "La [color:blue]bibliothèque[defcolor] de maman est par ici!"
+        "La [color:blue]bibliothèque[defcolor] de maman",
+        "est par ici!"
       ],
       "EuGerman": [
         "Mamas [color:blue]Bibliothek [defcolor]ist hier!"
@@ -1370,8 +1372,8 @@
       ],
       "UsSpanish": null,
       "EuSpanish": [
-        "Somos los guardianes de la",
-        "[color:red]Galaxia Reto[defcolor]."
+        "Somos los guardianes de las",
+        "[color:red]Galaxias Reto[defcolor]."
       ],
       "UsFrench": [
         "Nous sommes les gardiens des",
@@ -1488,7 +1490,7 @@
       ],
       "UsSpanish": null,
       "EuSpanish": [
-        "¡La [color:red]Galaxia Reto[defcolor] es muy difícil!"
+        "¡Las [color:red]Galaxias Reto[defcolor] son muy difíciles!"
       ],
       "UsFrench": [
         "Les [color:red]Galaxies des Épreuves[defcolor] sont très",
