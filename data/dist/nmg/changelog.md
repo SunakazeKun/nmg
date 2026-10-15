@@ -43,6 +43,7 @@
 - **Turnlog Galaxy**: Re-recorded Cosmic Spirit input playback.
 - **Eep Beep Galaxy**: Adjusted the Beat Block arrangements in the large stairway section to minimize waiting time.
 - **Eep Beep Galaxy**: The level music now continues playing after a Power Star spawns.
+- **Comet Observatory**: The player now walks in instead of falling on the level at the start.
 - **Comet Observatory**: The book in the library can no longer be targeted by Co-Star Luma.
 - Performed various internal cleanups and code optimization.
 
