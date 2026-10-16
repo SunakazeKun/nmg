@@ -18,7 +18,9 @@
       "EuEnglish": [
         "Take [icon:star] [color:yellow]sign[defcolor] of courage!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¡Tomar [icon:star] [color:yellow]símbolo[defcolor] de valor!"
+      ],
       "EuSpanish": [
         "¡Este es el [color:yellow]símbolo[defcolor] [icon:star]",
         "del valor, tronco!"
@@ -72,7 +74,9 @@
       "EuEnglish": [
         "You are courage."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "Tú tener valor."
+      ],
       "EuSpanish": [
         "¡Eres el símbolo del valor, tronco!"
       ],
@@ -127,7 +131,10 @@
         "Parkour difficult.",
         "Good luck!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "Saltos difíciles",
+        "¡Desear suerte a ti!"
+      ],
       "EuSpanish": [
         "Estos saltos son difíciles,",
         "¡buena suerte!"
@@ -189,7 +196,10 @@
         "Half finished.",
         "Well done."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "Faltar poco.",
+        "Hacer buen trabajo."
+      ],
       "EuSpanish": [
         "Ya casi has acabado.",
         "Buen trabajo."
@@ -250,7 +260,9 @@
       "EuEnglish": [
         "What is nail for?"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¿Clavo para qué ser?"
+      ],
       "EuSpanish": [
         "¿Para qué sirven los clavos?"
       ],

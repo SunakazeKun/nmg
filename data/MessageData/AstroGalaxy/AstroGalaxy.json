@@ -20,7 +20,10 @@
         "Would you like to see th-[delay:30]-[delay:30]",
         "[size:large]WHAT?[size:normal][delay:60] [sound:SE_SV_BUTLER_TALK_WORRIED]Where's the map?!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¿Quieres ver el...[delay:30]-[delay:30][size:large]¿QUÉ?[size:normal][delay:60]",
+        "[sound:SE_SV_BUTLER_TALK_WORRIED]¡¿Y el mapa?!"
+      ],
       "EuSpanish": [
         "Vale, vale, ahora mismo te",
         "enseño el...[delay:30]-[delay:30][size:large]¿QUÉ?[size:normal][delay:60]",
@@ -83,7 +86,9 @@
       "EuEnglish": [
         "Open the door! Let me in!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¡Oye! ¡Ábreme la puerta!"
+      ],
       "EuSpanish": [
         "¡Abre la puerta! ¡Déhame entrah!"
       ],

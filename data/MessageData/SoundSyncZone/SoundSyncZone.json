@@ -18,7 +18,9 @@
       "EuEnglish": [
         "Got [color:red]64[defcolor] [icon:purple_coin] [color:purple]Purple Coins[defcolor]?"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¿Tienes [color:red]64[defcolor] [icon:purple_coin] [color:purple]monedas[defcolor]?"
+      ],
       "EuSpanish": [
         "¿Tienes [color:red]64[defcolor] [icon:purple_coin] [color:purple]monedas[defcolor]?"
       ],

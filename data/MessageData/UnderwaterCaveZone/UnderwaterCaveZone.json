@@ -905,7 +905,10 @@
         "The key to the [color:yellow]golden treasure[defcolor]",
         "has been lost for ages..."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "La llave del [color:yellow]cofre dorado[defcolor]",
+        "ha estado perdida por mucho tiempo..."
+      ],
       "EuSpanish": [
         "La clave del [color:yellow]teshoro dorado[defcolor] she",
         "ha perdido por muchíshimosh añosh..."
