@@ -10,7 +10,7 @@ all five regional versions of SMG2.
 - Review Italian localization (``EuItalian``)
 - Review Japanese localization (``JpJapanese``)
 - Dutch localization (``EuDutch``)
-- Simplified chinese localization (``CnSimpChinese``)
+- Simplified Chinese localization (``CnSimpChinese``)
 - Portuguese localization (``EuPortuguese``)
 - Brazilian Portuguese localization (``UsPortuguese``)
 - Russian translation (``EuRussian``)
