@@ -75,9 +75,12 @@ namespace neo {
     
     // -----------------------------------------------------------------------------------------------------------------
 
-    void performInStageSave() {
+    void performInStageSave(s32 powerStarId) {
         PlayResultInStageHolder* resultInStage = GameSequenceFunction::getGameSequenceInGame()->getPlayResultInStageHolder();
         const char* currentStage = resultInStage->mName;
+
+        GameDataFunction::setPowerStar(currentStage, powerStarId);
+        GameDataFunction::onGalaxyScenarioFlagAlreadyVisited(currentStage, powerStarId);
 
         // Store Comet Medal and Stamp if necessary
         if (resultInStage->mCollectTicoCoin) {

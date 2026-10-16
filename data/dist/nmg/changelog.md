@@ -22,6 +22,7 @@
 ### Changes
 - Players are now immediately teleported back from the teleporter bonus rooms upon collecting all main items.
 - Players are now booted out upon collecting a Green Star only if no remaining accessible Green Stars can be reached without resetting or dying.
+- The intro cutscenes for all Green Star missions can now be skipped on the first playthrough.
 - All boss cutscenes can now be skipped on recurring encounters.
 - Sprangler Cocoons now have collision and reflect shot Star Bits.
 - Co-Star Luma's Spin Attack can now defeat Ice Bats.

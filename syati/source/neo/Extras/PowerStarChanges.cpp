@@ -75,8 +75,7 @@ namespace {
 
         if (MR::isStep(pStar, 20) && !MR::isPlayerDead()) {
             MR::tryStartDemo(pStar, "GreenStarDemo");
-            GameDataFunction::setPowerStar(MR::getCurrentStageName(), pStar->mPowerStarId);
-            neo::performInStageSave();
+            neo::performInStageSave(pStar->mPowerStarId);
         }
 
         if (MR::isGreaterEqualStep(pStar, 20) && !GameSequenceFunction::isActiveSaveDataHandleSequence()) {

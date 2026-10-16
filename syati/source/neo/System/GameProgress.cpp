@@ -95,15 +95,21 @@ namespace neo {
 
     
         // =============================================================================================================
-        // Skippable intro after collecting a Power Star
+        // Allow skipping of Green Star intros
         // =============================================================================================================
 
-        // GameDataFunction::setPowerStar
-#if defined(SB4_JEP)
-        kmWrite32(0x804D254C, 0x60000005);
-#elif defined(SB4_WK)
-        kmWrite32(0x804D25DC, 0x60000005);
-#endif
+        bool isScenarioAllowSkipIntro(const char *pStageName, s32 scenarioNo) {
+            GalaxyStatusAccessor gsa = MR::makeGalaxyStatusAccessor(pStageName);
+
+            if (gsa.isGreenStar(scenarioNo)) {
+                return true;
+            }
+
+            return GameDataFunction::isOnGalaxyScenarioFlagAlreadyVisited(pStageName, scenarioNo);
+        }
+
+        // MR::isAlreadyVisitedCurrentStageAndScenario
+        kmCall(0x80024A40, isScenarioAllowSkipIntro);
 
 
         // =============================================================================================================

@@ -4,5 +4,5 @@
 
 namespace neo {
     bool allowInStageSave(s32 powerStarId);
-    void performInStageSave();
+    void performInStageSave(s32 powerStarId);
 }
