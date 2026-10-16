@@ -1,10 +1,19 @@
 # Neo Mario Galaxy
 
-**IMPORTANT: If you are looking to just install the mod for yourself, check the [official website](https://aurumsmods.com/nmg) for download links and more information.**
+**If you are looking to just install the mod for yourself, check the [official website](https://aurumsmods.com/nmg) for download links and more information.**
 
 This repository contains the entire source for **Neo Mario Galaxy** (NMG), a modification of *Super Mario Galaxy 2*
 (SMG2). The source does not include the source code and ISO files of the original SMG2 titles. Generally, NMG supports
 all five regional versions of SMG2.
+
+## To-dos
+- Review Italian localization (``EuItalian``)
+- Review Japanese localization (``JpJapanese``)
+- Dutch localization (``EuDutch``)
+- Simplified chinese localization (``CnSimpChinese``)
+- Portuguese localization (``EuPortuguese``)
+- Brazilian Portuguese localization (``UsPortuguese``)
+- Russian translation (``EuRussian``)
 
 ## Setup
 ```TODO: This section needs to be rewritten once the codebase becomes more stable in terms of structure.```
