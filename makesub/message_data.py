@@ -60,6 +60,10 @@ def __get_localized_msg_text(localized_lines: dict[str, list[str]], language: st
     if (msb_name, label) == ("Layout_PressStart", "PressStart_Version"):
         return f'v{PROJECT_VERSION}'
 
+    # TODO: Remove this once Dutch translation is actually worked on.
+    if language == "EuDutch":
+        language = "EuEnglish"
+
     text_lines = localized_lines.get(language, None)
 
     if text_lines is None:
