@@ -423,7 +423,7 @@ class NeoMarioGalaxyAdapter(LMSAdapter):
             "camera_type": CameraType.NORMAL,
             "camera_id": 0,
             "msg_link_id": 255,
-            "unk7": 255,
+            "msg_read_flag": 255,
             "comment": ""
         }
 
@@ -431,14 +431,14 @@ class NeoMarioGalaxyAdapter(LMSAdapter):
         end_offset = root_offset + root_size
 
         # Read attributes
-        sound_id     = SoundID(stream.read_u8())
-        camera_type  = CameraType(stream.read_u8())
-        talk_type    = TalkType(stream.read_u8())
-        balloon_type = BalloonType(stream.read_u8())
-        camera_id    = stream.read_u16()
-        msg_link_id  = stream.read_u8()
-        unk7         = stream.read_u8()
-        off_comment  = stream.read_u32()
+        sound_id      = SoundID(stream.read_u8())
+        camera_type   = CameraType(stream.read_u8())
+        talk_type     = TalkType(stream.read_u8())
+        balloon_type  = BalloonType(stream.read_u8())
+        camera_id     = stream.read_u16()
+        msg_link_id   = stream.read_u8()
+        msg_read_flag = stream.read_u8()
+        off_comment   = stream.read_u32()
 
         # Read comment string
         stream.seek(root_offset + off_comment)
@@ -460,7 +460,7 @@ class NeoMarioGalaxyAdapter(LMSAdapter):
             "camera_type": camera_type,
             "camera_id": camera_id,
             "msg_link_id": msg_link_id,
-            "unk7": unk7,
+            "msg_read_flag": msg_read_flag,
             "comment": comment
         }
 
@@ -471,7 +471,7 @@ class NeoMarioGalaxyAdapter(LMSAdapter):
         balloon_type = attributes.get("balloon_type", BalloonType.WHITE_BUBBLE)
         camera_id = attributes.get("camera_id", 0)
         msg_link_id = attributes.get("msg_link_id", 255)
-        unk7 = attributes.get("unk7", 255)
+        msg_read_flag = attributes.get("msg_read_flag", 255)
         comment = attributes.get("comment", "")
 
         stream.write_u8(sound_id.value)
@@ -480,7 +480,7 @@ class NeoMarioGalaxyAdapter(LMSAdapter):
         stream.write_u8(balloon_type.value)
         stream.write_u16(camera_id)
         stream.write_u8(msg_link_id)
-        stream.write_u8(unk7)
+        stream.write_u8(msg_read_flag)
         stream.write_u32(stream.size)
 
         stream.seek(0, io.SEEK_END)

@@ -8,7 +8,7 @@
       "camera_type": "NORMAL",
       "camera_id": 0,
       "msg_link_id": 255,
-      "unk7": 255,
+      "msg_read_flag": 255,
       "comment": ""
     },
     "languages": {
@@ -63,7 +63,7 @@
       "camera_type": "NORMAL",
       "camera_id": 0,
       "msg_link_id": 255,
-      "unk7": 255,
+      "msg_read_flag": 255,
       "comment": ""
     },
     "languages": {
@@ -118,7 +118,7 @@
       "camera_type": "NORMAL",
       "camera_id": 0,
       "msg_link_id": 255,
-      "unk7": 255,
+      "msg_read_flag": 255,
       "comment": ""
     },
     "languages": {
@@ -173,7 +173,7 @@
       "camera_type": "NORMAL",
       "camera_id": 0,
       "msg_link_id": 255,
-      "unk7": 255,
+      "msg_read_flag": 255,
       "comment": ""
     },
     "languages": {
@@ -228,7 +228,7 @@
       "camera_type": "NORMAL",
       "camera_id": 0,
       "msg_link_id": 255,
-      "unk7": 255,
+      "msg_read_flag": 255,
       "comment": ""
     },
     "languages": {
@@ -283,7 +283,7 @@
       "camera_type": "NORMAL",
       "camera_id": 0,
       "msg_link_id": 255,
-      "unk7": 255,
+      "msg_read_flag": 255,
       "comment": ""
     },
     "languages": {
@@ -338,7 +338,7 @@
       "camera_type": "NORMAL",
       "camera_id": 0,
       "msg_link_id": 255,
-      "unk7": 255,
+      "msg_read_flag": 255,
       "comment": ""
     },
     "languages": {
@@ -393,7 +393,7 @@
       "camera_type": "NORMAL",
       "camera_id": 0,
       "msg_link_id": 255,
-      "unk7": 255,
+      "msg_read_flag": 255,
       "comment": ""
     },
     "languages": {
@@ -448,7 +448,7 @@
       "camera_type": "NORMAL",
       "camera_id": 0,
       "msg_link_id": 255,
-      "unk7": 255,
+      "msg_read_flag": 255,
       "comment": ""
     },
     "languages": {
@@ -503,7 +503,7 @@
       "camera_type": "NORMAL",
       "camera_id": 0,
       "msg_link_id": 255,
-      "unk7": 255,
+      "msg_read_flag": 255,
       "comment": ""
     },
     "languages": {
@@ -558,7 +558,7 @@
       "camera_type": "NORMAL",
       "camera_id": 0,
       "msg_link_id": 255,
-      "unk7": 255,
+      "msg_read_flag": 255,
       "comment": ""
     },
     "languages": {
@@ -613,7 +613,7 @@
       "camera_type": "NORMAL",
       "camera_id": 0,
       "msg_link_id": 255,
-      "unk7": 255,
+      "msg_read_flag": 255,
       "comment": ""
     },
     "languages": {
@@ -668,7 +668,7 @@
       "camera_type": "NORMAL",
       "camera_id": 0,
       "msg_link_id": 255,
-      "unk7": 255,
+      "msg_read_flag": 255,
       "comment": ""
     },
     "languages": {
@@ -723,7 +723,7 @@
       "camera_type": "NORMAL",
       "camera_id": 0,
       "msg_link_id": 255,
-      "unk7": 255,
+      "msg_read_flag": 255,
       "comment": ""
     },
     "languages": {
@@ -778,7 +778,7 @@
       "camera_type": "NORMAL",
       "camera_id": 0,
       "msg_link_id": 255,
-      "unk7": 255,
+      "msg_read_flag": 255,
       "comment": ""
     },
     "languages": {
