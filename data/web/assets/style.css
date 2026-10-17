@@ -92,7 +92,7 @@ footer {
 
 .screenshot {
 	width: 320px;
-	max-width: 175%;
+	max-width: 100%;
 	height: auto;
 	padding: 2px;
 	overflow: hidden;

@@ -60,18 +60,18 @@ COMPATIBILITY_ITEMS = [
 ]
 
 SCREENSHOTS_ITEMS = [
-    ("title01",          "File Select"),
-    ("cloudygarden01",   "Cloudy Garden Galaxy"),
-    ("sweettreat01",     "Sweet Treat Galaxy"),
-    ("cosmicspirit01",   "Cosmic Spirit Intro"),
-    ("turnlog01",        "Turnlog Galaxy"),
-    ("sweettreat02",     "World Map Screen"),
-    ("gloomygalleon01",  "Gloomy Galleon Galaxy"),
-    ("itemcollection01", "Item Collection"),
-    ("battleblast01",    "Battle Blast Galaxy"),
-    ("cometobs01",       "Comet Observatory"),
-    ("eepbeep01",        "Eep Beep Galaxy"),
-    ("krakenking01",     "Kraken King Galaxy"),
+    ("file_select",       "jpg",  "File Select"),
+    ("galactic_garden",   "webp", "Galactic Garden Galaxy"),
+    ("sweet_treat",       "webp", "Sweet Treat Galaxy"),
+    ("cosmic_spirit",     "webp", "Cosmic Spirit Intro"),
+    ("turnlog",           "webp", "Turnlog Galaxy"),
+    ("world_map",         "jpg",  "World Map Screen"),
+    ("gloomy_galleon",    "webp", "Gloomy Galleon Galaxy"),
+    ("power_up_room",     "webp", "Item Collection"),
+    ("battle_blast",      "webp", "Battle Blast Galaxy"),
+    ("comet_observatory", "jpg",  "Comet Observatory"),
+    ("eep_beep",          "webp", "Eep Beep Galaxy"),
+    ("kraken_king",       "webp", "Kraken King Galaxy"),
 ]
 
 INSTALLATION_LINKS = [
@@ -262,11 +262,12 @@ def __insert_screenshots(html: Airium):
         html.h2(id="screenshots", _t="Screenshots")
 
         with html.div(klass="screenshots"):
-            for name, title in SCREENSHOTS_ITEMS:
-                url = f'assets/{name}.jpg'
+            for name, extension, title in SCREENSHOTS_ITEMS:
+                url = f'assets/screenshot_{name}.{extension}'
                 alt = title
 
-                html.img(klass="screenshot", src=url, alt=alt, title=title, width="320", height="175")
+                with html.a(href=url, target="_blank"):
+                    html.img(klass="screenshot", src=url, alt=alt, title=title, width="320", height="180")
 
 
 def __insert_compatibility(html: Airium):
