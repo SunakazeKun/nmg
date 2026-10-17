@@ -1,0 +1,59 @@
+[
+  {
+    "label": "TimeUp_TimeUp",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Time's Up!"
+      ],
+      "EuEnglish": [
+        "Time's Up!"
+      ],
+      "UsSpanish": [
+        "¡TIEMPO!"
+      ],
+      "EuSpanish": [
+        "¡TIEMPO!"
+      ],
+      "UsFrench": [
+        "Temps",
+        "écoulé!"
+      ],
+      "EuFrench": [
+        "Temps",
+        "écoulé!"
+      ],
+      "EuGerman": [
+        "ZEIT UM!"
+      ],
+      "EuItalian": [
+        "Tempo scaduto!"
+      ],
+      "EuDutch": [
+        "Time's Up!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "タイムアップ!"
+      ],
+      "KrKorean": [
+        "TIME UP!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "TIME'S UP!"
+      ]
+    }
+  }
+]

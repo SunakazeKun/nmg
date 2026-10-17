@@ -1,0 +1,57 @@
+[
+  {
+    "label": "CollectCounter_AddTimer",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:stopwatch] +[intvar:1;0;0]"
+      ],
+      "EuEnglish": [
+        "[icon:stopwatch] +[intvar:1;0;0]"
+      ],
+      "UsSpanish": [
+        "[icon:stopwatch] +[intvar:1;0;0]"
+      ],
+      "EuSpanish": [
+        "[icon:stopwatch] +[intvar:1;0;0]"
+      ],
+      "UsFrench": [
+        "[icon:stopwatch]+[intvar:1;0;0]"
+      ],
+      "EuFrench": [
+        "[icon:stopwatch]+[intvar:1;0;0]"
+      ],
+      "EuGerman": [
+        "[icon:stopwatch] +[intvar:1;0;0]"
+      ],
+      "EuItalian": [
+        "[icon:stopwatch]+[intvar:1;0;0]"
+      ],
+      "EuDutch": [
+        "[icon:stopwatch] +[intvar:1;0;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:stopwatch]+[intvar:1;0;0]"
+      ],
+      "KrKorean": [
+        "[icon:stopwatch]+[intvar:1;0;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:stopwatch]+[intvar:1;0;0]"
+      ]
+    }
+  }
+]

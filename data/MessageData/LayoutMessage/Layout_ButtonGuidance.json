@@ -1,0 +1,167 @@
+[
+  {
+    "label": "ButtonGuidance_Dreamer",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Hint"
+      ],
+      "EuEnglish": [
+        "Hint"
+      ],
+      "UsSpanish": [
+        "Consejo"
+      ],
+      "EuSpanish": [
+        "Consejo"
+      ],
+      "UsFrench": [
+        "Astuce"
+      ],
+      "EuFrench": [
+        "Astuce"
+      ],
+      "EuGerman": [
+        "Tipp"
+      ],
+      "EuItalian": [
+        "Dimostrazione"
+      ],
+      "EuDutch": [
+        "Hint"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ヒント"
+      ],
+      "KrKorean": [
+        "힌트"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "提示"
+      ]
+    }
+  },
+  {
+    "label": "ButtonGuidance_Esper",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Cosmic Guide"
+      ],
+      "EuEnglish": [
+        "Cosmic Guide"
+      ],
+      "UsSpanish": [
+        "Guía cósmica"
+      ],
+      "EuSpanish": [
+        "Guía Cósmica"
+      ],
+      "UsFrench": [
+        "Guide cosmique"
+      ],
+      "EuFrench": [
+        "Esprit cosmique"
+      ],
+      "EuGerman": [
+        "Kosmo-Assistent"
+      ],
+      "EuItalian": [
+        "Guida cosmica"
+      ],
+      "EuDutch": [
+        "Cosmic Guide"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "オタスケちゅう"
+      ],
+      "KrKorean": [
+        "도움 가이드"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "女巫協助中"
+      ]
+    }
+  },
+  {
+    "label": "ButtonGuidance_Exit",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:plus_button] Quit"
+      ],
+      "EuEnglish": [
+        "[icon:plus_button] Quit"
+      ],
+      "UsSpanish": [
+        "[icon:plus_button] Salir"
+      ],
+      "EuSpanish": [
+        "[icon:plus_button] Salir"
+      ],
+      "UsFrench": [
+        "[icon:plus_button] Désactiver"
+      ],
+      "EuFrench": [
+        "[icon:plus_button] Quitter"
+      ],
+      "EuGerman": [
+        "[icon:plus_button] Abbrechen"
+      ],
+      "EuItalian": [
+        "[icon:plus_button] Esci"
+      ],
+      "EuDutch": [
+        "[icon:plus_button] Quit"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:plus_button]やめる"
+      ],
+      "KrKorean": [
+        "[icon:plus_button]그만두기"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:plus_button]中止"
+      ]
+    }
+  }
+]

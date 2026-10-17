@@ -1,0 +1,332 @@
+[
+  {
+    "label": "PlayerLeft",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:current_player][icon:x_mark]"
+      ],
+      "EuEnglish": [
+        "[icon:current_player][icon:x_mark]"
+      ],
+      "UsSpanish": [
+        "[icon:current_player][icon:x_mark]"
+      ],
+      "EuSpanish": [
+        "[icon:current_player][icon:x_mark]"
+      ],
+      "UsFrench": [
+        "[icon:current_player][icon:x_mark]"
+      ],
+      "EuFrench": [
+        "[icon:current_player][icon:x_mark]"
+      ],
+      "EuGerman": [
+        "[icon:current_player][icon:x_mark]"
+      ],
+      "EuItalian": [
+        "[icon:current_player][icon:x_mark]"
+      ],
+      "EuDutch": [
+        "[icon:current_player][icon:x_mark]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:current_player][icon:x_mark]"
+      ],
+      "KrKorean": [
+        "[icon:current_player][icon:x_mark]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:current_player][icon:x_mark]"
+      ]
+    }
+  },
+  {
+    "label": "ScenarioSelect_BTime",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Clear Time"
+      ],
+      "EuEnglish": [
+        "Clear Time"
+      ],
+      "UsSpanish": [
+        "Mejor tiempo"
+      ],
+      "EuSpanish": [
+        "Mejor tiempo"
+      ],
+      "UsFrench": [
+        "Temps planète"
+      ],
+      "EuFrench": [
+        "Temps planète"
+      ],
+      "EuGerman": [
+        "Gesamtzeit:"
+      ],
+      "EuItalian": [
+        "Tempo record:"
+      ],
+      "EuDutch": [
+        "Clear Time"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "クリアタイム"
+      ],
+      "KrKorean": [
+        "클리어 기록"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "過關紀錄"
+      ]
+    }
+  },
+  {
+    "label": "ScenarioSelect_Comet",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Prankster Comet detected!"
+      ],
+      "EuEnglish": [
+        "Prankster Comet detected!"
+      ],
+      "UsSpanish": [
+        "¡Hay un nuevo cometa en órbita!"
+      ],
+      "EuSpanish": [
+        "¡Hay un nuevo cometa en órbita!"
+      ],
+      "UsFrench": [
+        "Comète blagueuse en orbite!"
+      ],
+      "EuFrench": [
+        "Comète farceuse repérée!"
+      ],
+      "EuGerman": [
+        "Kometenalarm!"
+      ],
+      "EuItalian": [
+        "È apparsa una Cometa Burlona!"
+      ],
+      "EuDutch": [
+        "Prankster Comet detected!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "いたずら[ruby:彗星出現中;すいせいしゅつげんちゅう]!"
+      ],
+      "KrKorean": [
+        "장난꾸러기 혜성 접근 중!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "搗蛋彗星出現了!"
+      ]
+    }
+  },
+  {
+    "label": "ScenarioSelect_HighScore",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "High Score"
+      ],
+      "EuEnglish": [
+        "High Score"
+      ],
+      "UsSpanish": [
+        "Récord"
+      ],
+      "EuSpanish": [
+        "Récord"
+      ],
+      "UsFrench": [
+        "Record"
+      ],
+      "EuFrench": [
+        "Record"
+      ],
+      "EuGerman": [
+        "Highscore:"
+      ],
+      "EuItalian": [
+        "Punti record:"
+      ],
+      "EuDutch": [
+        "High Score"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ハイスコア"
+      ],
+      "KrKorean": [
+        "하이스코어"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "最高得分"
+      ]
+    }
+  },
+  {
+    "label": "ScenarioSelect_New",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "NEW!"
+      ],
+      "EuEnglish": [
+        "NEW!"
+      ],
+      "UsSpanish": [
+        "¡NUEVO!"
+      ],
+      "EuSpanish": [
+        "¡NUEVA!"
+      ],
+      "UsFrench": [
+        "NOUVELLE!"
+      ],
+      "EuFrench": [
+        "Nouveau!"
+      ],
+      "EuGerman": [
+        "NEU!"
+      ],
+      "EuItalian": [
+        "NUOVA!"
+      ],
+      "EuDutch": [
+        "NEW!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "NEW!"
+      ],
+      "KrKorean": [
+        "NEW!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "NEW!"
+      ]
+    }
+  },
+  {
+    "label": "ScenarioSelect_RaceTime",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Race Time"
+      ],
+      "EuEnglish": [
+        "Race Time"
+      ],
+      "UsSpanish": [
+        "Récord carrera"
+      ],
+      "EuSpanish": [
+        "Récord carrera"
+      ],
+      "UsFrench": [
+        "Temps course"
+      ],
+      "EuFrench": [
+        "Temps course"
+      ],
+      "EuGerman": [
+        "Bestzeit:"
+      ],
+      "EuItalian": [
+        "Miglior tempo:"
+      ],
+      "EuDutch": [
+        "Race Time"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "レースタイム"
+      ],
+      "KrKorean": [
+        "레이스 기록"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "比賽紀錄"
+      ]
+    }
+  }
+]

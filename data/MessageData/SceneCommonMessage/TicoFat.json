@@ -1,0 +1,558 @@
+[
+  {
+    "label": "TicoFat_Request001",
+    "attributes": {
+      "talk_type": "AUTO",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Hey, you! Yeah, you! Got any tasty",
+        "[icon:purple_starbit] [color:red]Star Bits[defcolor] I can snack on?"
+      ],
+      "EuEnglish": [
+        "Hey, you! Yeah, you! Got any tasty",
+        "[icon:purple_starbit] [color:red]Star Bits[defcolor] I can snack on?"
+      ],
+      "UsSpanish": [
+        "¡Oye, tú! ¡Sí, tú! ¿Tienes deliciosos",
+        "[color:red]trozos de estrella[defcolor] [icon:purple_starbit] para mí?"
+      ],
+      "EuSpanish": [
+        "¡Tralarí! ¡Tralarí! ¡Oye!",
+        "¿Tienes [icon:purple_starbit] ricos?",
+        "¡Quiero ponerme como el Quico!"
+      ],
+      "UsFrench": [
+        "Lumali! ♪ Lumala! ♪ Hé toi! As-tu de",
+        "délicieux [color:red]éclats d'étoile[defcolor] [icon:purple_starbit] à me",
+        "donner?"
+      ],
+      "EuFrench": [
+        "Hé, toi! Mon copain! Tu as des [icon:purple_starbit]",
+        "pour moi?"
+      ],
+      "EuGerman": [
+        "Lalala! ♪ Lalala! ♪",
+        "Hey du! Kumpel! Hast du ein paar",
+        "[icon:purple_starbit] [color:purple]Sternenteile [defcolor]für mich?!?"
+      ],
+      "EuItalian": [
+        "Trallallà! ♪ Ehi, amico! Hai delle",
+        "[color:red]Astroschegge[defcolor] [icon:purple_starbit]? ♪"
+      ],
+      "EuDutch": [
+        "Hey, you! Yeah, you! Got any tasty",
+        "[icon:purple_starbit] [color:red]Star Bits[defcolor] I can snack on?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "キラリン♪ キラリン♪ ねぇねぇ そこの[ruby:人;ひと]!",
+        "[icon:purple_starbit][color:red]スターピース[defcolor]もってなぁい?"
+      ],
+      "KrKorean": [
+        "반짝♪ 반짝♪ 저기 저기 거기 너!",
+        "[icon:purple_starbit][color:red]스타구슬 [defcolor]없어?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "一閃♪ 一閃♪ 喂！你等一下啦！",
+        "你有沒有[icon:purple_starbit][color:red]星塵[defcolor]?"
+      ]
+    }
+  },
+  {
+    "label": "TicoFat_Request002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Soooooo hungry... Feed me delicious",
+        "[icon:purple_starbit] [color:red]Star Bits[color:black]! I need to chow on",
+        "[color:red][defcolor][color:black][intvar:3;0;0]. Then I'll TRANSFORM![defcolor]"
+      ],
+      "EuEnglish": [
+        "Soooooo hungry... Feed me delicious",
+        "[icon:purple_starbit] [color:red]Star Bits[color:black]! I need to chow on",
+        "[color:red][defcolor][color:black][intvar:3;0;0]. Then I'll TRANSFORM![defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Estoy hambriento! ¡Dame unos ricos",
+        "[color:red]trozos de estrella [defcolor][icon:purple_starbit][color:black]! Quiero unos",
+        "[defcolor][color:black][intvar:3;0;0]. ¡Y me TRANSFORMARÉ![defcolor]"
+      ],
+      "EuSpanish": [
+        "Me mueeeero de hambre...",
+        "¡¿No tienes [icon:purple_starbit] ricos?!",
+        "¡Con [color:black][intvar:3;0;0], me transformaré![defcolor]"
+      ],
+      "UsFrench": [
+        "Lumali! ♪ Lumalou! ♪ Oh, oui! Je veux",
+        "des[color:red] éclats d'étoile [defcolor][icon:purple_starbit]! ♪ MIAM! Si",
+        "j'en mange [intvar:3;0;0], je vais me...[pagebreak]",
+        "TRANSFORMER!"
+      ],
+      "EuFrench": [
+        "J'ai faiiiiiiiiiiiiiiiiiiiim!",
+        "Je veux des [icon:purple_starbit][color:black]! [defcolor]♪ Si j'en avale",
+        "[color:black][intvar:3;0;0], JE ME TRANSFORME![defcolor]"
+      ],
+      "EuGerman": [
+        "Lalala! ♪ Lalala! ♪ Ich habe so einen",
+        "Hunger auf [icon:purple_starbit] [color:red][color:purple]Sternenteile[color:red][color:black]! [color:red][defcolor]♪ Gib mir",
+        "[color:black][color:red][intvar:3;0;0][color:black], dann ver-wan-de-le ich mich![defcolor]"
+      ],
+      "EuItalian": [
+        "Trallallà! ♪",
+        "Voglio delle [color:red]Astroschegge[defcolor] [icon:purple_starbit]! Se ne",
+        "mangio [color:black][color:red][intvar:3;0;0][color:black], mi trasformerò! [defcolor]♪"
+      ],
+      "EuDutch": [
+        "Soooooo hungry... Feed me delicious",
+        "[icon:purple_starbit] [color:red]Star Bits[color:black]! I need to chow on",
+        "[color:red][defcolor][color:black][intvar:3;0;0]. Then I'll TRANSFORM![defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "キラリン♪ キラリン♪ [icon:purple_starbit][color:red]スターピース[defcolor] [ruby:欲;ほ]しい♪",
+        "[color:red][intvar:3;0;0]コ[defcolor][ruby:食;た]べたら、 だーい へーん しーん♪"
+      ],
+      "KrKorean": [
+        "반짝♪ 반짝♪ [icon:purple_starbit][color:red]스타구슬 [defcolor]먹고 싶어♪",
+        "[color:red][intvar:3;0;0][defcolor][color:red]개 [defcolor]먹으면 대 변 신♪"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "一閃♪ 一閃♪我要吃[icon:purple_starbit][color:red]星塵[defcolor]♪",
+        "只要[color:red][intvar:3;0;0]顆[color:black]，就會[color:red][defcolor]大˙變˙身♪"
+      ]
+    }
+  },
+  {
+    "label": "TicoFat_StarPiece001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "MOOOOORE!"
+      ],
+      "EuEnglish": [
+        "MOOOOORE!"
+      ],
+      "UsSpanish": [
+        "Quiero... ¡MÁAAS!"
+      ],
+      "EuSpanish": [
+        "¡Aaah! ♪"
+      ],
+      "UsFrench": [
+        "J'ouvre grand... AAAAH!"
+      ],
+      "EuFrench": [
+        "Aaaaaaaaah..."
+      ],
+      "EuGerman": [
+        "Au ja!!!"
+      ],
+      "EuItalian": [
+        "Ahhh! ♪"
+      ],
+      "EuDutch": [
+        "MOOOOORE!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "あ～ん"
+      ],
+      "KrKorean": [
+        "아～"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "啊～"
+      ]
+    }
+  },
+  {
+    "label": "TicoFat_StarPiece002",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_WAKU",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Yaaay!"
+      ],
+      "EuEnglish": [
+        "Yaaay!"
+      ],
+      "UsSpanish": [
+        "¡Yupíii!"
+      ],
+      "EuSpanish": [
+        "¡Sí!"
+      ],
+      "UsFrench": [
+        "Youppiiiiiii!"
+      ],
+      "EuFrench": [
+        "Youhouille!"
+      ],
+      "EuGerman": [
+        "Juchhu!"
+      ],
+      "EuItalian": [
+        "Che bello! ♪"
+      ],
+      "EuDutch": [
+        "Yaaay!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "わくわく!"
+      ],
+      "KrKorean": [
+        "두근두근!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "好期待哦！"
+      ]
+    }
+  },
+  {
+    "label": "TicoFat_StarPiece003",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_GIVE_ME",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "More! More!"
+      ],
+      "EuEnglish": [
+        "More! More!"
+      ],
+      "UsSpanish": [
+        "¡Más! ¡Más!"
+      ],
+      "EuSpanish": [
+        "¡Más, más, sigue, sigue!"
+      ],
+      "UsFrench": [
+        "Encore, encore!"
+      ],
+      "EuFrench": [
+        "Encore, encore!..."
+      ],
+      "EuGerman": [
+        "Mehr! Mehr!"
+      ],
+      "EuItalian": [
+        "Ne voglio ancora! ♪"
+      ],
+      "EuDutch": [
+        "More! More!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "もっともっと…"
+      ],
+      "KrKorean": [
+        "아직 모자라…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "再來一些…"
+      ]
+    }
+  },
+  {
+    "label": "TicoFat_StarPiece004",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_GIVE_ME",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I'm still not full..."
+      ],
+      "EuEnglish": [
+        "I'm still not full..."
+      ],
+      "UsSpanish": [
+        "Sigo sin llenarme..."
+      ],
+      "EuSpanish": [
+        "¡Todavía tengo hambre!"
+      ],
+      "UsFrench": [
+        "Encore un peu..."
+      ],
+      "EuFrench": [
+        "Il m'en faut un peu plus..."
+      ],
+      "EuGerman": [
+        "Das reicht noch nicht..."
+      ],
+      "EuItalian": [
+        "Ci siamo quasi... ♪"
+      ],
+      "EuDutch": [
+        "I'm still not full..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "まだまだ…"
+      ],
+      "KrKorean": [
+        "아직이야 아직…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "還不夠啦…"
+      ]
+    }
+  },
+  {
+    "label": "TicoFat_StarPiece005",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Mmmmm... I'm almost full!"
+      ],
+      "EuEnglish": [
+        "Mmmmm... I'm almost full!"
+      ],
+      "UsSpanish": [
+        "Mmmmm... ¡Casi estoy lleno!"
+      ],
+      "EuSpanish": [
+        "Mmmmm... ¡Casi estoy lleno!"
+      ],
+      "UsFrench": [
+        "Mmmm... Presque pleine!"
+      ],
+      "EuFrench": [
+        "Houla... On y est presque!"
+      ],
+      "EuGerman": [
+        "Wir sind schon fast so weit!"
+      ],
+      "EuItalian": [
+        "Ecco! Ci sono! ♪"
+      ],
+      "EuDutch": [
+        "Mmmmm... I'm almost full!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "クルヨ クルヨー!"
+      ],
+      "KrKorean": [
+        "이거야 이거!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "要來了！來了！"
+      ]
+    }
+  },
+  {
+    "label": "TicoFat_StarPiece006",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_WAKU",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "A little more..."
+      ],
+      "EuEnglish": [
+        "A little more..."
+      ],
+      "UsSpanish": [
+        "Poquito más..."
+      ],
+      "EuSpanish": [
+        "¡Me queda un huequecillo!"
+      ],
+      "UsFrench": [
+        "Encore un tout petit peu!"
+      ],
+      "EuFrench": [
+        "Encore un peu..."
+      ],
+      "EuGerman": [
+        "Nur noch ein paar!"
+      ],
+      "EuItalian": [
+        "Ancora un pochino... ♪"
+      ],
+      "EuDutch": [
+        "A little more..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "あと[ruby:少;すこ]し…"
+      ],
+      "KrKorean": [
+        "조금만 더…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "再多一點！…"
+      ]
+    }
+  },
+  {
+    "label": "TicoFat_StarPiece007",
+    "attributes": {
+      "talk_type": "AUTO",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_KITA",
+      "camera_type": "EVENT",
+      "camera_id": 1,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "That's the stuff! Ohh...so FULL!",
+        "I think I'm about to...[pagebreak]",
+        "[size:large][color:red]TRANS[defcolor][color:red][color:red][delay:15][sound:SE_SV_TICOFAT_META][color:red]FOOOOORM![defcolor]"
+      ],
+      "EuEnglish": [
+        "That's the stuff! Ohh...so FULL!",
+        "I think I'm about to...[pagebreak]",
+        "[size:large][color:red]TRANS[defcolor][color:red][color:red][delay:15][sound:SE_SV_TICOFAT_META][color:red]FOOOOORM![defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Así me gusta! Oooh... ¡estoy lleno!",
+        "Creo que es hora de una...[pagebreak]",
+        "[size:large][color:red]¡TRANS[defcolor][color:red][color:red][delay:15][color:red][color:red][color:red][sound:SE_SV_TICOFAT_META][color:red]FOOORMACIÓN![color:red][defcolor]"
+      ],
+      "EuSpanish": [
+        "¡Ya está! ¡Ya está! ¡Ya está!",
+        "¡Lo has conseguidoooooooo![pagebreak]",
+        "[color:red][color:black][size:large]¡¡[color:red]MU[color:red][delay:15][color:red]TA[defcolor][color:red][color:red][delay:15][sound:SE_SV_TICOFAT_META][color:red]CIÓN[color:black]!![color:red][defcolor]"
+      ],
+      "UsFrench": [
+        "Aaaah, voilà! Miam! Je suis PLEINE!",
+        "Je vais me...[pagebreak]",
+        "[size:large][color:red]TRANS[defcolor][color:red][color:red][delay:15][sound:SE_SV_TICOFAT_META][color:red]FOOOOOORMER![defcolor]"
+      ],
+      "EuFrench": [
+        "Ouh, voilà! Je suis repu!",
+        "Attention les yeux![pagebreak]",
+        "[size:large][color:red]TRANS-[color:red][delay:15][color:red]FOR-[color:red][delay:15][color:red]MA-[color:red][delay:15][color:red][color:red][sound:SE_SV_TICOFAT_META][color:red]TION![defcolor]"
+      ],
+      "EuGerman": [
+        "Oh, wunderbar! Ich bin so VOLL!",
+        "Na gut, dann wollen wir mal![pagebreak]",
+        "[size:large][color:red]VER-[delay:15]WAN-[delay:15]DE-[defcolor][color:red][color:red][delay:15][sound:SE_SV_TICOFAT_META][color:red]LUUUNG!!![defcolor]"
+      ],
+      "EuItalian": [
+        "Ci sono! ♪ Sono sazio!",
+        "Ora stai a guardare! ♪ [pagebreak]",
+        "[color:red][color:black][size:large][color:red]TRA-[color:red][delay:15][color:red]SFOR-[defcolor][color:red][color:red][delay:15][sound:SE_SV_TICOFAT_META]MA-[color:red][color:red][delay:15][color:red]ZIO-[color:red][delay:15][color:red]NE!!![defcolor]"
+      ],
+      "EuDutch": [
+        "That's the stuff! Ohh...so FULL!",
+        "I think I'm about to...[pagebreak]",
+        "[size:large][color:red]TRANS[defcolor][color:red][color:red][delay:15][sound:SE_SV_TICOFAT_META][color:red]FOOOOORM![defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "キタキタキター! おなかイッパ～イ!",
+        "じゃ、 [ruby:張;は]り[ruby:切;き]って いってみよー![pagebreak]",
+        "[ycenter][color:red][size:large]ヘ ・ [delay:15]ン ・ [delay:15][sound:SE_SV_TICOFAT_META]シ～～～ン!![defcolor]"
+      ],
+      "KrKorean": [
+        "바로 이거야! 배가 빵빵～해!",
+        "지금부터 가 보는 거야![pagebreak]",
+        "[ycenter][color:red][size:large]변・[delay:15][sound:SE_SV_TICOFAT_META]신～～～!![defcolor]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "來了來了！我吃飽啦！",
+        "看我大展身手！[pagebreak]",
+        "[ycenter][color:red][size:large]我[color:red]變[color:red]．[color:red][color:red][delay:15]變．[delay:15][sound:SE_SV_TICOFAT_META]變[color:red]．[color:red]變身!![defcolor]"
+      ]
+    }
+  }
+]

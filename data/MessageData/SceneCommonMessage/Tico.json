@@ -1,0 +1,1104 @@
+[
+  {
+    "label": "Tico_StarPiece0_Flow000",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_GLAD",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Thanks!"
+      ],
+      "EuEnglish": [
+        "Thanks!"
+      ],
+      "UsSpanish": [
+        "¡Gracias!"
+      ],
+      "EuSpanish": [
+        "¡Gracias!"
+      ],
+      "UsFrench": [
+        "Merci!"
+      ],
+      "EuFrench": [
+        "Merci!"
+      ],
+      "EuGerman": [
+        "Vielen Dank!"
+      ],
+      "EuItalian": [
+        "Grazie! ♪"
+      ],
+      "EuDutch": [
+        "Thanks!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ありがとう!"
+      ],
+      "KrKorean": [
+        "고마워!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "謝謝！"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece0_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "YUMM! ♪"
+      ],
+      "EuEnglish": [
+        "YUMM! ♪"
+      ],
+      "UsSpanish": [
+        "¡MMMM! ♪"
+      ],
+      "EuSpanish": [
+        "¡Ñam! ♪"
+      ],
+      "UsFrench": [
+        "MIAM! ♪"
+      ],
+      "EuFrench": [
+        "Miam miam! ♪"
+      ],
+      "EuGerman": [
+        "Jamm! ♪"
+      ],
+      "EuItalian": [
+        "Che delizia! ♪"
+      ],
+      "EuDutch": [
+        "YUMM! ♪"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "おいしい～♪"
+      ],
+      "KrKorean": [
+        "맛있다～♪"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "好好吃～♪"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece0_Flow002",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_THANKS",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Mmmmm...happy... ♪"
+      ],
+      "EuEnglish": [
+        "Mmmmm...happy... ♪"
+      ],
+      "UsSpanish": [
+        "Mmmmm... feliz... ♪"
+      ],
+      "EuSpanish": [
+        "¡Qué felicidad! ♪"
+      ],
+      "UsFrench": [
+        "Mmmm... Joie! ♪"
+      ],
+      "EuFrench": [
+        "Le bonheur... ♪"
+      ],
+      "EuGerman": [
+        "Mmmmm... glücklich... ♪"
+      ],
+      "EuItalian": [
+        "Hmmm... Come sono felice! ♪"
+      ],
+      "EuDutch": [
+        "Mmmmm...happy... ♪"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "シアワセ…♪"
+      ],
+      "KrKorean": [
+        "행복해…♪"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "好幸福哦…♪"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece0_Flow003",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_HAPPY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Eeheehee..."
+      ],
+      "EuEnglish": [
+        "Eeheehee..."
+      ],
+      "UsSpanish": [
+        "Jijijiji..."
+      ],
+      "EuSpanish": [
+        "Je, je, je..."
+      ],
+      "UsFrench": [
+        "Hihihihi..."
+      ],
+      "EuFrench": [
+        "Hou hou hou hou..."
+      ],
+      "EuGerman": [
+        "Kicher..."
+      ],
+      "EuItalian": [
+        "Ehhh... ♪"
+      ],
+      "EuDutch": [
+        "Eeheehee..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "うふふふふ…"
+      ],
+      "KrKorean": [
+        "우후후후후…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "嗯哼哼……"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece0_Flow004",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Tasty! ♪"
+      ],
+      "EuEnglish": [
+        "Tasty! ♪"
+      ],
+      "UsSpanish": [
+        "¡Sabroso! ♪"
+      ],
+      "EuSpanish": [
+        "¡Rico, rico! ♪"
+      ],
+      "UsFrench": [
+        "Délicieux! ♪"
+      ],
+      "EuFrench": [
+        "C'est trop bon! ♪"
+      ],
+      "EuGerman": [
+        "Lecker! ♪"
+      ],
+      "EuItalian": [
+        "Una bontà! ♪"
+      ],
+      "EuDutch": [
+        "Tasty! ♪"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "うま～い♪"
+      ],
+      "KrKorean": [
+        "냠냠냠～♪"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "好～吃♪"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece1_Flow000",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_THANKS",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Thank you!"
+      ],
+      "EuEnglish": [
+        "Thank you!"
+      ],
+      "UsSpanish": [
+        "¡Gracias!"
+      ],
+      "EuSpanish": [
+        "¡Gracias!"
+      ],
+      "UsFrench": [
+        "Merci!"
+      ],
+      "EuFrench": [
+        "Merci!"
+      ],
+      "EuGerman": [
+        "Ich danke dir!"
+      ],
+      "EuItalian": [
+        "Grazie mille! ♪"
+      ],
+      "EuDutch": [
+        "Thank you!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ありがとよ!"
+      ],
+      "KrKorean": [
+        "고마워!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "謝啦！"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece1_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "So yummy!"
+      ],
+      "EuEnglish": [
+        "That's the ticket!"
+      ],
+      "UsSpanish": [
+        "¡Tan sabroso!"
+      ],
+      "EuSpanish": [
+        "¡Saaaaabor!"
+      ],
+      "UsFrench": [
+        "Si bon!"
+      ],
+      "EuFrench": [
+        "Ah, mais quel régal!"
+      ],
+      "EuGerman": [
+        "Oh, wie köstlich!"
+      ],
+      "EuItalian": [
+        "Che buone! ♪"
+      ],
+      "EuDutch": [
+        "That's the ticket!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "うまいぜ"
+      ],
+      "KrKorean": [
+        "맛 괜찮네!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "好吃啊！"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece1_Flow002",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_GLAD",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "So generous! So tasty!"
+      ],
+      "EuEnglish": [
+        "So generous! So tasty!"
+      ],
+      "UsSpanish": [
+        "¡Qué generoso! ¡Qué rico!"
+      ],
+      "EuSpanish": [
+        "¡Qué generoso!",
+        "¡Está riquísimo!"
+      ],
+      "UsFrench": [
+        "Tu es si généreux!"
+      ],
+      "EuFrench": [
+        "Quelle générosité! C'est succulent!"
+      ],
+      "EuGerman": [
+        "Wie großzügig! Wie lecker!"
+      ],
+      "EuItalian": [
+        "Che gentile! Buonissime! ♪"
+      ],
+      "EuDutch": [
+        "So generous! So tasty!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:気前;きまえ]いいな"
+      ],
+      "KrKorean": [
+        "착한 사람이구나!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "你真大方！"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece1_Flow003",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_HAPPY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Happy deliciousness..."
+      ],
+      "EuEnglish": [
+        "Happy deliciousness..."
+      ],
+      "UsSpanish": [
+        "¡Qué felicidad tan sabrosa...!"
+      ],
+      "EuSpanish": [
+        "Me encanta saborear",
+        "la felicidad..."
+      ],
+      "UsFrench": [
+        "Un délice de bonheur..."
+      ],
+      "EuFrench": [
+        "Vraiment, c'est fameux!"
+      ],
+      "EuGerman": [
+        "Fröhliches Gefutter..."
+      ],
+      "EuItalian": [
+        "Mi hai reso felice! ♪"
+      ],
+      "EuDutch": [
+        "Happy deliciousness..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "シアワセだぜ"
+      ],
+      "KrKorean": [
+        "아주 행복해"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "太幸福了！"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece1_Flow004",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_GLAD",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Thanks so much!"
+      ],
+      "EuEnglish": [
+        "Thanks so much!"
+      ],
+      "UsSpanish": [
+        "¡Muchas gracias!"
+      ],
+      "EuSpanish": [
+        "¡Muchas gracias!"
+      ],
+      "UsFrench": [
+        "Merci beaucoup!"
+      ],
+      "EuFrench": [
+        "Merci infiniment!"
+      ],
+      "EuGerman": [
+        "Ich danke dir herzlich!"
+      ],
+      "EuItalian": [
+        "Grazie infinite! ♪"
+      ],
+      "EuDutch": [
+        "Thanks so much!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "すまんな!"
+      ],
+      "KrKorean": [
+        "신세를 졌어!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "不好意思！"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece2_Flow000",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_GLAD",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "ALL FOR MEEE!"
+      ],
+      "EuEnglish": [
+        "ALL FOR MEEE!"
+      ],
+      "UsSpanish": [
+        "¡TODOS PARA MÍII!"
+      ],
+      "EuSpanish": [
+        "¡Todos para mí!"
+      ],
+      "UsFrench": [
+        "TOUT À MOI!"
+      ],
+      "EuFrench": [
+        "Oui, TOUT pour moi!"
+      ],
+      "EuGerman": [
+        "ALLES MEIIINS!"
+      ],
+      "EuItalian": [
+        "Buon appetito... a me! ♪"
+      ],
+      "EuDutch": [
+        "ALL FOR MEEE!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:頂;いただ]きます!"
+      ],
+      "KrKorean": [
+        "잘 먹겠습니다!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "我不客氣啦！"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece2_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Snacky happiness!"
+      ],
+      "EuEnglish": [
+        "Snacky happiness!"
+      ],
+      "UsSpanish": [
+        "¡Sabrosa felicidad!"
+      ],
+      "EuSpanish": [
+        "¡Una merendola feliz!"
+      ],
+      "UsFrench": [
+        "Un bonbon de joie!"
+      ],
+      "EuFrench": [
+        "Tant de bonheur, c'est un régal!"
+      ],
+      "EuGerman": [
+        "Imbiss der guten Laune!"
+      ],
+      "EuItalian": [
+        "Deliziose! ♪"
+      ],
+      "EuDutch": [
+        "Snacky happiness!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:美味;びみ]です"
+      ],
+      "KrKorean": [
+        "너무 맛있어요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "真美味"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece2_Flow002",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_HAPPY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Boooom! Flavor!"
+      ],
+      "EuEnglish": [
+        "Boooom! Flavour!"
+      ],
+      "UsSpanish": [
+        "¡Puuum! ¡Saborrrr!"
+      ],
+      "EuSpanish": [
+        "¡Oooh! ¡Qué sabor!"
+      ],
+      "UsFrench": [
+        "Booum! SAVEUR!"
+      ],
+      "EuFrench": [
+        "Miam, quel festin!"
+      ],
+      "EuGerman": [
+        "Leckerschmecker!"
+      ],
+      "EuItalian": [
+        "Che profumino! ♪"
+      ],
+      "EuDutch": [
+        "Boooom! Flavour!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:幸福;こうふく]です"
+      ],
+      "KrKorean": [
+        "행복해요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "真幸福"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece2_Flow003",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_GLAD",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "So full... So happy!"
+      ],
+      "EuEnglish": [
+        "So full... So happy!"
+      ],
+      "UsSpanish": [
+        "¡Tan lleno... tan feliz!"
+      ],
+      "EuSpanish": [
+        "¡Estoy lleno... de felicidad!"
+      ],
+      "UsFrench": [
+        "Plein de joie!"
+      ],
+      "EuFrench": [
+        "Je suis heureux... et rassasié!"
+      ],
+      "EuGerman": [
+        "Voll voll... So froh!"
+      ],
+      "EuItalian": [
+        "Sono pieno... e felice! ♪"
+      ],
+      "EuDutch": [
+        "So full... So happy!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:喜;よろこ]ばしいです"
+      ],
+      "KrKorean": [
+        "아주 기쁘네요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "真高興"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece2_Flow004",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_GLAD",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Yay! Thanks!"
+      ],
+      "EuEnglish": [
+        "Yay! Thanks!"
+      ],
+      "UsSpanish": [
+        "¡Sí! ¡Gracias!"
+      ],
+      "EuSpanish": [
+        "¡Sí! ¡Gracias!"
+      ],
+      "UsFrench": [
+        "Yay! Miam!"
+      ],
+      "EuFrench": [
+        "Oouuuaais! Merci!"
+      ],
+      "EuGerman": [
+        "Oh ja! Danke!"
+      ],
+      "EuItalian": [
+        "Grazie! ♪"
+      ],
+      "EuDutch": [
+        "Yay! Thanks!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:有難;ありがと]うございます"
+      ],
+      "KrKorean": [
+        "감사합니다"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "真感謝"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece3_Flow000",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_THANKS",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Yay! Thanks!"
+      ],
+      "EuEnglish": [
+        "Yay! Thanks!"
+      ],
+      "UsSpanish": [
+        "¡Sí! ¡Gracias!"
+      ],
+      "EuSpanish": [
+        "¡Sí! ¡Gracias!"
+      ],
+      "UsFrench": [
+        "Yay! Merci!"
+      ],
+      "EuFrench": [
+        "Ouais! Merci!"
+      ],
+      "EuGerman": [
+        "Juchhu! Danke!"
+      ],
+      "EuItalian": [
+        "Sì! Grazie! ♪"
+      ],
+      "EuDutch": [
+        "Yay! Thanks!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ま ありがとっ!"
+      ],
+      "KrKorean": [
+        "뭐, 고마워!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "嘩～謝謝！"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece3_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_GLAD",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You're so nice!"
+      ],
+      "EuEnglish": [
+        "You're so nice!"
+      ],
+      "UsSpanish": [
+        "¡Eres tan bondadoso!"
+      ],
+      "EuSpanish": [
+        "¡Qué detalle!"
+      ],
+      "UsFrench": [
+        "Tu es si gentil!"
+      ],
+      "EuFrench": [
+        "Tu es trop sympa, toi!"
+      ],
+      "EuGerman": [
+        "Das ist so nett von dir!"
+      ],
+      "EuItalian": [
+        "Gentile da parte tua! ♪"
+      ],
+      "EuDutch": [
+        "You're so nice!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "いい[ruby:心;こころ]がけよ"
+      ],
+      "KrKorean": [
+        "성격 괜찮네!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "你心地真好"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece3_Flow002",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Ooh, yummy!"
+      ],
+      "EuEnglish": [
+        "Ooh, yummy!"
+      ],
+      "UsSpanish": [
+        "¡Oh, qué rico!"
+      ],
+      "EuSpanish": [
+        "¡Oooh, qué rico!"
+      ],
+      "UsFrench": [
+        "Oooh, miam!"
+      ],
+      "EuFrench": [
+        "Je me régale!"
+      ],
+      "EuGerman": [
+        "Oooh, wie lecker!"
+      ],
+      "EuItalian": [
+        "Oh, che buone! ♪"
+      ],
+      "EuDutch": [
+        "Ooh, yummy!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ん [ruby:美味;おい]し!"
+      ],
+      "KrKorean": [
+        "응! 맛 좋네!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "嗯！好吃！"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece3_Flow003",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_HAPPY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Heh!"
+      ],
+      "EuEnglish": [
+        "Heh!"
+      ],
+      "UsSpanish": [
+        "¡Jiji!"
+      ],
+      "EuSpanish": [
+        "Ñem, ñem..."
+      ],
+      "UsFrench": [
+        "Hihi!"
+      ],
+      "EuFrench": [
+        "Mmmmh!"
+      ],
+      "EuGerman": [
+        "Hey!"
+      ],
+      "EuItalian": [
+        "Hmmm... ♪"
+      ],
+      "EuDutch": [
+        "Heh!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "うふふ"
+      ],
+      "KrKorean": [
+        "우후후"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "嘻嘻！"
+      ]
+    }
+  },
+  {
+    "label": "Tico_StarPiece3_Flow004",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICO_TALK_SAD",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Mmm...more..."
+      ],
+      "EuEnglish": [
+        "Mmm...more..."
+      ],
+      "UsSpanish": [
+        "Mmm... más..."
+      ],
+      "EuSpanish": [
+        "Ñam... quiero más..."
+      ],
+      "UsFrench": [
+        "Mmm... Encore..."
+      ],
+      "EuFrench": [
+        "Miam! Encore!"
+      ],
+      "EuGerman": [
+        "Mmmm... mehr davon..."
+      ],
+      "EuItalian": [
+        "Hmmm... Ancora... ♪"
+      ],
+      "EuDutch": [
+        "Mmm...more..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ねえ、 もっと・・・"
+      ],
+      "KrKorean": [
+        "저기, 조금 더…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "我還要啦…"
+      ]
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "label": "Layout_SystemRead",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Read"
+      ],
+      "EuEnglish": [
+        "Read"
+      ],
+      "UsSpanish": [
+        "Leer"
+      ],
+      "EuSpanish": [
+        "Leer"
+      ],
+      "UsFrench": [
+        "Lire"
+      ],
+      "EuFrench": [
+        "Lire"
+      ],
+      "EuGerman": [
+        "Lesen"
+      ],
+      "EuItalian": [
+        "Leggi"
+      ],
+      "EuDutch": [
+        "Read"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "よむ"
+      ],
+      "KrKorean": [
+        "읽기"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "讀取"
+      ]
+    }
+  },
+  {
+    "label": "Layout_SystemTalk",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Talk"
+      ],
+      "EuEnglish": [
+        "Talk"
+      ],
+      "UsSpanish": [
+        "Hablar"
+      ],
+      "EuSpanish": [
+        "Hablar"
+      ],
+      "UsFrench": [
+        "Parler"
+      ],
+      "EuFrench": [
+        "Parler"
+      ],
+      "EuGerman": [
+        "Sprechen"
+      ],
+      "EuItalian": [
+        "Parla"
+      ],
+      "EuDutch": [
+        "Talk"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "はなす"
+      ],
+      "KrKorean": [
+        "말하기"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "聽取"
+      ]
+    }
+  }
+]

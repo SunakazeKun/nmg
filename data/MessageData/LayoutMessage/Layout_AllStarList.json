@@ -1,0 +1,112 @@
+[
+  {
+    "label": "AllStarList_GlaxyName_Invalid",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "----"
+      ],
+      "EuEnglish": [
+        "----"
+      ],
+      "UsSpanish": [
+        "----"
+      ],
+      "EuSpanish": [
+        "(?)"
+      ],
+      "UsFrench": [
+        "----"
+      ],
+      "EuFrench": [
+        "----"
+      ],
+      "EuGerman": [
+        "----"
+      ],
+      "EuItalian": [
+        "----"
+      ],
+      "EuDutch": [
+        "----"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "----"
+      ],
+      "KrKorean": [
+        "----"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "----"
+      ]
+    }
+  },
+  {
+    "label": "AllStarList_World",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "World [intvar:0;0;0]"
+      ],
+      "EuEnglish": [
+        "World [intvar:0;0;0]"
+      ],
+      "UsSpanish": [
+        "Mundo [intvar:0;0;0]"
+      ],
+      "EuSpanish": [
+        "Mundo [intvar:0;0;0]"
+      ],
+      "UsFrench": [
+        "Monde [intvar:0;0;0]"
+      ],
+      "EuFrench": [
+        "Monde [intvar:0;0;0]"
+      ],
+      "EuGerman": [
+        "Welt [intvar:0;0;0]"
+      ],
+      "EuItalian": [
+        "Mondo [intvar:0;0;0]"
+      ],
+      "EuDutch": [
+        "World [intvar:0;0;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "World [intvar:0;0;0]"
+      ],
+      "KrKorean": [
+        "World [intvar:0;0;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "World [intvar:0;0;0]"
+      ]
+    }
+  }
+]

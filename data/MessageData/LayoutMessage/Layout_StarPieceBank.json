@@ -1,0 +1,403 @@
+[
+  {
+    "label": "StarPieceBank_DText",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Withdraw"
+      ],
+      "EuEnglish": [
+        "Withdraw"
+      ],
+      "UsSpanish": [
+        "Retirar"
+      ],
+      "EuSpanish": [
+        "Sacar"
+      ],
+      "UsFrench": [
+        "Retirer"
+      ],
+      "EuFrench": [
+        "Retirer"
+      ],
+      "EuGerman": [
+        "Mitnehmen"
+      ],
+      "EuItalian": [
+        "Da ritirare"
+      ],
+      "EuDutch": [
+        "Withdraw"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ひきだす"
+      ],
+      "KrKorean": [
+        "찾기"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "領取"
+      ]
+    }
+  },
+  {
+    "label": "StarPieceBank_Explain",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Choose an amount of [icon:rainbow_starbit] to deposit",
+        "or withdraw, then choose OK!"
+      ],
+      "EuEnglish": [
+        "Choose an amount of [icon:rainbow_starbit] to [color:blue]deposit[defcolor]",
+        "or [color:blue]withdraw[defcolor], then choose [color:red]OK[defcolor]!"
+      ],
+      "UsSpanish": [
+        "Escoge la cantidad de [icon:rainbow_starbit] que quieres",
+        "depositar o retirar y luego selecciona",
+        "la opción \"¡Sí!\"."
+      ],
+      "EuSpanish": [
+        "Escoge la cantidad de [icon:rainbow_starbit] que quieras",
+        "[color:blue]sacar o guardar [defcolor]y luego [color:red]selecciona[defcolor]",
+        "la opción \"¡[color:black]Sí[defcolor]!\"."
+      ],
+      "UsFrench": [
+        "Choisissez un montant d'[icon:rainbow_starbit] à déposer",
+        "ou à retirer, puis appuyez sur OK."
+      ],
+      "EuFrench": [
+        "Indique le montant de [icon:rainbow_starbit] que tu veux",
+        "[color:blue]déposer [defcolor]ou [color:blue]retirer[defcolor], puis choisis \"[color:red]OK[defcolor][color:red]![defcolor]\"."
+      ],
+      "EuGerman": [
+        "Lege fest, wie viele [icon:rainbow_starbit] du [color:blue]einlagern",
+        "[defcolor]oder [color:blue]mitnehmen [defcolor]möchtest und",
+        "[color:red]bestätige [defcolor]deine Auswahl!"
+      ],
+      "EuItalian": [
+        "Scegli una quantità di [color:purple]Astroschegge[defcolor]",
+        "[icon:rainbow_starbit] da [color:blue]ritirare [defcolor]o da [color:blue]custodire[defcolor].",
+        "Poi dai l'[color:red]OK[defcolor] per confermare la scelta."
+      ],
+      "EuDutch": [
+        "Choose an amount of [icon:rainbow_starbit] to [color:blue]deposit[defcolor]",
+        "or [color:blue]withdraw[defcolor], then choose [color:red]OK[defcolor]!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:blue]【あずける】 【ひきだす】[defcolor] で[icon:rainbow_starbit]の[ruby:出;だ]し[ruby:入;い]れです",
+        "これでよければ [color:red]【OK】[defcolor] を[ruby:押;お]してください"
+      ],
+      "KrKorean": [
+        "[color:blue]\\[맡기기\\] [defcolor]또는 [color:blue]\\[찾기\\][defcolor]로 [icon:rainbow_starbit]을 이동시킵니다",
+        "이동을 마친 후 [color:red]\\[OK\\][defcolor]를 눌러 주세요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "使用[color:blue]【保管】 【領取】[defcolor] 可存取[icon:rainbow_starbit]",
+        "完成後按[color:red]【確定】[defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "StarPieceBank_LButton",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Quit"
+      ],
+      "EuEnglish": [
+        "Quit"
+      ],
+      "UsSpanish": [
+        "Salir"
+      ],
+      "EuSpanish": [
+        "Salir"
+      ],
+      "UsFrench": [
+        "Quitter"
+      ],
+      "EuFrench": [
+        "Quitter"
+      ],
+      "EuGerman": [
+        "Verlassen"
+      ],
+      "EuItalian": [
+        "Annulla"
+      ],
+      "EuDutch": [
+        "Quit"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "やめる"
+      ],
+      "KrKorean": [
+        "그만두기"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "取消"
+      ]
+    }
+  },
+  {
+    "label": "StarPieceBank_PieceD",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "W@"
+      ],
+      "EuEnglish": [
+        "W@"
+      ],
+      "UsSpanish": [
+        "W@"
+      ],
+      "EuSpanish": [
+        "W@"
+      ],
+      "UsFrench": [
+        "W@"
+      ],
+      "EuFrench": [
+        "W@"
+      ],
+      "EuGerman": [
+        "W@"
+      ],
+      "EuItalian": [
+        "W@"
+      ],
+      "EuDutch": [
+        "W@"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "W@"
+      ],
+      "KrKorean": [
+        "W@"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "W@"
+      ]
+    }
+  },
+  {
+    "label": "StarPieceBank_PieceU",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "W@"
+      ],
+      "EuEnglish": [
+        "W@"
+      ],
+      "UsSpanish": [
+        "W@"
+      ],
+      "EuSpanish": [
+        "W@"
+      ],
+      "UsFrench": [
+        "W@"
+      ],
+      "EuFrench": [
+        "W@"
+      ],
+      "EuGerman": [
+        "W@"
+      ],
+      "EuItalian": [
+        "W@"
+      ],
+      "EuDutch": [
+        "W@"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "W@"
+      ],
+      "KrKorean": [
+        "W@"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "W@"
+      ]
+    }
+  },
+  {
+    "label": "StarPieceBank_RButton",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK!"
+      ],
+      "EuEnglish": [
+        "OK!"
+      ],
+      "UsSpanish": [
+        "¡Sí!"
+      ],
+      "EuSpanish": [
+        "¡Sí!"
+      ],
+      "UsFrench": [
+        "OK"
+      ],
+      "EuFrench": [
+        "OK!"
+      ],
+      "EuGerman": [
+        "O.K."
+      ],
+      "EuItalian": [
+        "OK"
+      ],
+      "EuDutch": [
+        "OK!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "OK"
+      ],
+      "KrKorean": [
+        "OK"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "確定"
+      ]
+    }
+  },
+  {
+    "label": "StarPieceBank_UText",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Deposit"
+      ],
+      "EuEnglish": [
+        "Deposit"
+      ],
+      "UsSpanish": [
+        "Depositar"
+      ],
+      "EuSpanish": [
+        "Guardar"
+      ],
+      "UsFrench": [
+        "Déposer"
+      ],
+      "EuFrench": [
+        "Déposer"
+      ],
+      "EuGerman": [
+        "Einlagern"
+      ],
+      "EuItalian": [
+        "Da custodire"
+      ],
+      "EuDutch": [
+        "Deposit"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "あずける"
+      ],
+      "KrKorean": [
+        "맡기기"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "保管"
+      ]
+    }
+  }
+]

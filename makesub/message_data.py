@@ -9,7 +9,7 @@ from pymsb import LMSFlows, LMSEntryNode, LMSMessageNode, LMSBranchNode, LMSEven
 from pyjkernel import (JKRArchive, JKRArchiveFile, JKRCompression, create_new_archive, from_archive_file,
                        write_archive_file)
 from msb_adapter import NeoMarioGalaxyAdapter, TalkType, BalloonType, SoundID, CameraType
-from config import PROJECT_VERSION, GAME_PATH, ORG_LOCALIZE_DATA_PATH, SUPPORTED_LANGUAGES, PARTIAL_REPLACEMENTS
+from config import PROJECT_VERSION, GAME_PATH, SUPPORTED_LANGUAGES, get_language_region
 from tools.dataio import read_json, read_bin
 from pathlib import Path
 from typing import Callable
@@ -38,10 +38,7 @@ def build_message_data():
             archive_name = folder_path.name
             archive_subpath = f'{language}/MessageData/{archive_name}.arc'
 
-            if archive_name in PARTIAL_REPLACEMENTS:
-                archive = from_archive_file(str(ORG_LOCALIZE_DATA_PATH / archive_subpath))
-            else:
-                archive = create_new_archive(archive_name)
+            archive = create_new_archive(archive_name)
 
             for json_path in filter(lambda p: p.is_file() and p.name.endswith(".json"), folder_path.iterdir()):
                 msb_name = json_path.name.removesuffix(".json")
@@ -64,7 +61,12 @@ def __get_localized_msg_text(localized_lines: dict[str, list[str]], language: st
     if language == "EuDutch":
         language = "EuEnglish"
 
+    region = get_language_region(language)
+
     text_lines = localized_lines.get(language, None)
+
+    if text_lines is None:
+        text_lines = localized_lines.get(region, None)
 
     if text_lines is None:
         text_lines = localized_lines.get("default", None)

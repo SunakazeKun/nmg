@@ -1,0 +1,149 @@
+[
+  {
+    "label": "PrologueText_Pro00",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Now, let me tell you a new story that",
+        "also begins with stardust..."
+      ],
+      "EuEnglish": [
+        "Now, let me tell you a new story that",
+        "also begins with stardust..."
+      ],
+      "UsSpanish": [
+        "Esta nueva historia también es acerca",
+        "de una lluvia de estrellas..."
+      ],
+      "EuSpanish": [
+        "Esta historia también comienza",
+        "con una lluvia de estrellas..."
+      ],
+      "UsFrench": [
+        "Laissez-moi vous raconter une nouvelle",
+        "histoire qui commence elle aussi avec",
+        "une pluie d'étoiles filantes..."
+      ],
+      "EuFrench": [
+        "Notre nouvelle histoire commence aussi",
+        "avec une pluie d'étoiles filantes..."
+      ],
+      "EuGerman": [
+        "Dies ist eine weitere Geschichte,",
+        "die mit Sternenstaub beginnt..."
+      ],
+      "EuItalian": [
+        "Anche questa storia ha inizio",
+        "con una pioggia di stelle cadenti..."
+      ],
+      "EuDutch": [
+        "Now, let me tell you a new story that",
+        "also begins with stardust..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "これは、 もう[ruby:一;ひと]つの[ruby:星;ほし]くずの[ruby:物語;ものがたり]"
+      ],
+      "KrKorean": [
+        "이것은 또 하나의 별똥별 이야기…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "這是另一篇關於星塵的故事…"
+      ]
+    }
+  },
+  {
+    "label": "PrologueText_Pro01",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Shimmering stardust falls on the",
+        "Mushroom Kingdom once a century.",
+        "That time had come again..."
+      ],
+      "EuEnglish": [
+        "Shimmering stardust falls on the",
+        "Mushroom Kingdom once a century.",
+        "That time had come again..."
+      ],
+      "UsSpanish": [
+        "Una espectacular lluvia de estrellas",
+        "que cada cien años baña los cielos",
+        "del Reino Champiñón. Nuestro relato",
+        "comienza justo en ese momento..."
+      ],
+      "EuSpanish": [
+        "Cada cien años, una lluvia de estrellas",
+        "baña los cielos del Reino Champiñón.",
+        "Justo ahora ha llegado ese momento..."
+      ],
+      "UsFrench": [
+        "Une fois tous les cent ans, des milliers",
+        "d'étoiles filantes illuminent le ciel du",
+        "Royaume Champignon. Cet événement",
+        "des plus majestueux venait tout juste",
+        "de débuter..."
+      ],
+      "EuFrench": [
+        "Une fois par siècle, une pluie d'étoiles",
+        "filantes illumine le ciel du royaume",
+        "Champignon. Ce moment est venu..."
+      ],
+      "EuGerman": [
+        "Alle 100 Jahre geht in einer besonderen",
+        "Nacht hell glitzernder Sternenstaub über",
+        "dem friedlichen Pilz-Königreich nieder.",
+        "Heute ist es wieder so weit..."
+      ],
+      "EuItalian": [
+        "Una volta ogni cento anni, stelle cadenti",
+        "piovono sul Regno dei Funghi.",
+        "È giunto di nuovo il momento..."
+      ],
+      "EuDutch": [
+        "Shimmering stardust falls on the",
+        "Mushroom Kingdom once a century.",
+        "That time had come again..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:光;ひか]りかがやく [ruby:星;ほし]くずが",
+        "キノコ[ruby:王国;おうこく]の[ruby:大地;だいち]にふり[ruby:注;そそ]ぐ",
+        "[ruby:百年;ひゃくねん]に[ruby:一度;いちど]の[ruby:季節;きせつ]が[ruby:巡;めぐ]ってきました"
+      ],
+      "KrKorean": [
+        "눈부시게 빛나는 별똥별이",
+        "버섯왕국의 대지에 쏟아지는",
+        "백 년에 한 번 찾아오는 계절…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "當光輝耀眼的星塵灑落蘑菇王國，",
+        "這片大地將再次迎接百年一度的季節。"
+      ]
+    }
+  }
+]

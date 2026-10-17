@@ -1,0 +1,1674 @@
+[
+  {
+    "label": "FileSelect_Delete",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Erase"
+      ],
+      "EuEnglish": [
+        "Erase"
+      ],
+      "UsSpanish": [
+        "Borrar"
+      ],
+      "EuSpanish": [
+        "Borrar"
+      ],
+      "UsFrench": [
+        "Supprimer"
+      ],
+      "EuFrench": [
+        "Effacer"
+      ],
+      "EuGerman": [
+        "Löschen"
+      ],
+      "EuItalian": [
+        "Cancella"
+      ],
+      "EuDutch": [
+        "Erase"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "けす"
+      ],
+      "KrKorean": [
+        "삭제"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "刪除"
+      ]
+    }
+  },
+  {
+    "label": "FileSelect_Icon2P",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "P2"
+      ],
+      "EuEnglish": [
+        "P2"
+      ],
+      "UsSpanish": [
+        "J2"
+      ],
+      "EuSpanish": [
+        "J2"
+      ],
+      "UsFrench": [
+        "J2"
+      ],
+      "EuFrench": [
+        "J2"
+      ],
+      "EuGerman": [
+        "SP2"
+      ],
+      "EuItalian": [
+        "G2"
+      ],
+      "EuDutch": [
+        "P2"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "2P"
+      ],
+      "KrKorean": [
+        "2P"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "2P"
+      ]
+    }
+  },
+  {
+    "label": "FileSelect_Mii",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Icon"
+      ],
+      "EuEnglish": [
+        "Icon"
+      ],
+      "UsSpanish": [
+        "Ícono"
+      ],
+      "EuSpanish": [
+        "Icono"
+      ],
+      "UsFrench": [
+        "Icône"
+      ],
+      "EuFrench": [
+        "Icône"
+      ],
+      "EuGerman": [
+        "Symbol"
+      ],
+      "EuItalian": [
+        "Icona"
+      ],
+      "EuDutch": [
+        "Icon"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "アイコン"
+      ],
+      "KrKorean": [
+        "아이콘"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "圖示"
+      ]
+    }
+  },
+  {
+    "label": "FileSelect_Start",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Start"
+      ],
+      "EuEnglish": [
+        "Start"
+      ],
+      "UsSpanish": [
+        "¡A jugar!"
+      ],
+      "EuSpanish": [
+        "Jugar"
+      ],
+      "UsFrench": [
+        "Jouer"
+      ],
+      "EuFrench": [
+        "Jouer avec ce fichier"
+      ],
+      "EuGerman": [
+        "O.K."
+      ],
+      "EuItalian": [
+        "Inizia"
+      ],
+      "EuDutch": [
+        "Start"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "はじめる"
+      ],
+      "KrKorean": [
+        "시작"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "開始"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect_Icon000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Mario"
+      ],
+      "EuEnglish": [
+        "Mario"
+      ],
+      "UsSpanish": [
+        "Mario"
+      ],
+      "EuSpanish": [
+        "Mario"
+      ],
+      "UsFrench": [
+        "Mario"
+      ],
+      "EuFrench": [
+        "Mario"
+      ],
+      "EuGerman": [
+        "Mario"
+      ],
+      "EuItalian": [
+        "Mario"
+      ],
+      "EuDutch": [
+        "Mario"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "マリオ"
+      ],
+      "KrKorean": [
+        "마리오"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "瑪利歐"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect_Icon001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Luigi"
+      ],
+      "EuEnglish": [
+        "Luigi"
+      ],
+      "UsSpanish": [
+        "Luigi"
+      ],
+      "EuSpanish": [
+        "Luigi"
+      ],
+      "UsFrench": [
+        "Luigi"
+      ],
+      "EuFrench": [
+        "Luigi"
+      ],
+      "EuGerman": [
+        "Luigi"
+      ],
+      "EuItalian": [
+        "Luigi"
+      ],
+      "EuDutch": [
+        "Luigi"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ルイージ"
+      ],
+      "KrKorean": [
+        "루이지"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "路易吉"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect_Icon002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Yoshi"
+      ],
+      "EuEnglish": [
+        "Yoshi"
+      ],
+      "UsSpanish": [
+        "Yoshi"
+      ],
+      "EuSpanish": [
+        "Yoshi"
+      ],
+      "UsFrench": [
+        "Yoshi"
+      ],
+      "EuFrench": [
+        "Yoshi"
+      ],
+      "EuGerman": [
+        "Yoshi"
+      ],
+      "EuItalian": [
+        "Yoshi"
+      ],
+      "EuDutch": [
+        "Yoshi"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ヨッシー"
+      ],
+      "KrKorean": [
+        "요시"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "耀西"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect_Icon003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Toad"
+      ],
+      "EuEnglish": [
+        "Toad"
+      ],
+      "UsSpanish": [
+        "Toad"
+      ],
+      "EuSpanish": [
+        "Toad"
+      ],
+      "UsFrench": [
+        "Toad"
+      ],
+      "EuFrench": [
+        "Toad"
+      ],
+      "EuGerman": [
+        "Toad"
+      ],
+      "EuItalian": [
+        "Toad"
+      ],
+      "EuDutch": [
+        "Toad"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "キノピオ"
+      ],
+      "KrKorean": [
+        "키노피오"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "奇諾比奧"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect_Icon004",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Peach"
+      ],
+      "EuEnglish": [
+        "Peach"
+      ],
+      "UsSpanish": [
+        "Peach"
+      ],
+      "EuSpanish": [
+        "Peach"
+      ],
+      "UsFrench": [
+        "Peach"
+      ],
+      "EuFrench": [
+        "Peach"
+      ],
+      "EuGerman": [
+        "Peach"
+      ],
+      "EuItalian": [
+        "Peach"
+      ],
+      "EuDutch": [
+        "Peach"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ピーチ"
+      ],
+      "KrKorean": [
+        "피치공주"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "碧姬公主"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect_Icon005",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Rosalina"
+      ],
+      "EuEnglish": [
+        "Rosalina"
+      ],
+      "UsSpanish": [
+        "Rosalina"
+      ],
+      "EuSpanish": [
+        "Estela"
+      ],
+      "UsFrench": [
+        "Rosalina"
+      ],
+      "EuFrench": [
+        "Harmonie"
+      ],
+      "EuGerman": [
+        "Rosalina"
+      ],
+      "EuItalian": [
+        "Rosalinda"
+      ],
+      "EuDutch": [
+        "Rosalina"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ロゼッタ"
+      ],
+      "KrKorean": [
+        "로젤리나"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "羅潔塔"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect_Icon006",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Luma"
+      ],
+      "EuEnglish": [
+        "Luma"
+      ],
+      "UsSpanish": [
+        "Destello"
+      ],
+      "EuSpanish": [
+        "Destello"
+      ],
+      "UsFrench": [
+        "Luma"
+      ],
+      "EuFrench": [
+        "Luma"
+      ],
+      "EuGerman": [
+        "Luma"
+      ],
+      "EuItalian": [
+        "Sfavillotto"
+      ],
+      "EuDutch": [
+        "Luma"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "チコ"
+      ],
+      "KrKorean": [
+        "치코"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "奇可"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Would you like to create a new game file?"
+      ],
+      "EuEnglish": [
+        "Would you like to create a new game file?"
+      ],
+      "UsSpanish": [
+        "¿Quieres crear un nuevo archivo de juego?"
+      ],
+      "EuSpanish": [
+        "¿Quieres crear un nuevo archivo de juego?"
+      ],
+      "UsFrench": [
+        "Voulez-vous créer un nouveau fichier de",
+        "sauvegarde?"
+      ],
+      "EuFrench": [
+        "Voulez-vous créer un nouveau",
+        "fichier de sauvegarde?"
+      ],
+      "EuGerman": [
+        "Spieldatei auf diesem Stern erstellen?"
+      ],
+      "EuItalian": [
+        "Vuoi creare il tuo file di gioco?"
+      ],
+      "EuDutch": [
+        "Would you like to create a new game file?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "あなたのゲームファイルを",
+        "[ruby:作成;さくせい]しますか?"
+      ],
+      "KrKorean": [
+        "게임 파일을",
+        "새로 만드시겠습니까?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "開新檔案?"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect001_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Back"
+      ],
+      "EuEnglish": [
+        "Back"
+      ],
+      "UsSpanish": [
+        "No"
+      ],
+      "EuSpanish": [
+        "No"
+      ],
+      "UsFrench": [
+        "Retour"
+      ],
+      "EuFrench": [
+        "Non"
+      ],
+      "EuGerman": [
+        "Zurück"
+      ],
+      "EuItalian": [
+        "Lascio stare"
+      ],
+      "EuDutch": [
+        "Back"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "やめる"
+      ],
+      "KrKorean": [
+        "아니요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect001_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK"
+      ],
+      "EuEnglish": [
+        "OK"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui"
+      ],
+      "EuFrench": [
+        "Oui"
+      ],
+      "EuGerman": [
+        "Ja"
+      ],
+      "EuItalian": [
+        "OK"
+      ],
+      "EuDutch": [
+        "OK"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "OK"
+      ],
+      "KrKorean": [
+        "OK"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "要"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect005",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Would you like to change to this icon?"
+      ],
+      "EuEnglish": [
+        "Would you like to change to this icon?"
+      ],
+      "UsSpanish": [
+        "¿Quieres cambiar este ícono?"
+      ],
+      "EuSpanish": [
+        "¿Quieres usar este icono?"
+      ],
+      "UsFrench": [
+        "Voulez-vous remplacer l'icône par celle-ci?"
+      ],
+      "EuFrench": [
+        "Remplacer par cette icône?"
+      ],
+      "EuGerman": [
+        "Dieses Symbol verwenden?"
+      ],
+      "EuItalian": [
+        "Vuoi cambiare con quest'icona?"
+      ],
+      "EuDutch": [
+        "Would you like to change to this icon?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "このアイコンに[ruby:変更;へんこう]しますか?"
+      ],
+      "KrKorean": [
+        "이 아이콘으로 변경하시겠습니까?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "更改圖示?"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect005_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Back"
+      ],
+      "EuEnglish": [
+        "Back"
+      ],
+      "UsSpanish": [
+        "No"
+      ],
+      "EuSpanish": [
+        "No"
+      ],
+      "UsFrench": [
+        "Retour"
+      ],
+      "EuFrench": [
+        "Annuler"
+      ],
+      "EuGerman": [
+        "Zurück"
+      ],
+      "EuItalian": [
+        "Lascio stare"
+      ],
+      "EuDutch": [
+        "Back"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "やめる"
+      ],
+      "KrKorean": [
+        "아니요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect005_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK"
+      ],
+      "EuEnglish": [
+        "OK"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui"
+      ],
+      "EuFrench": [
+        "Oui"
+      ],
+      "EuGerman": [
+        "Ja"
+      ],
+      "EuItalian": [
+        "OK"
+      ],
+      "EuDutch": [
+        "OK"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "OK"
+      ],
+      "KrKorean": [
+        "OK"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "要"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect006",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "If this Mii disappears from your Mii Plaza,",
+        "this icon will change to Mario."
+      ],
+      "EuEnglish": [
+        "If this Mii disappears from your Mii Plaza,",
+        "this icon will change to Mario."
+      ],
+      "UsSpanish": [
+        "Si borras este Mii de tu Plaza Mii, en",
+        "su lugar aparecerá el ícono de Mario."
+      ],
+      "EuSpanish": [
+        "Si borras este Mii de tu Plaza Mii, en",
+        "su lugar aparecerá el icono de Mario."
+      ],
+      "UsFrench": [
+        "Si vous effacez ce Mii de la Place Mii, l'icône",
+        "sera remplacée par celle de Mario."
+      ],
+      "EuFrench": [
+        "Si ce Mii est effacé de la place Mii,",
+        "l'icône sera remplacée par celle de Mario."
+      ],
+      "EuGerman": [
+        "Löschst du diesen Mii-Charakter",
+        "in der Mii-Lobby, wird er hier durch",
+        "das Mario-Symbol ersetzt."
+      ],
+      "EuItalian": [
+        "Se cancelli questo Mii nella Piazza Mii,",
+        "l'icona diventerà quella di Mario."
+      ],
+      "EuDutch": [
+        "If this Mii disappears from your Mii Plaza,",
+        "this icon will change to Mario."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:似顔絵広場;にがおえひろば]からこのMiiが",
+        "いなくなるとマリオのアイコンに",
+        "[ruby:差;さ]し[ruby:換;か]わります"
+      ],
+      "KrKorean": [
+        "Mii 광장에서 이 Mii가 없어지면",
+        "마리오 아이콘으로 변경됩니다"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "Mii從Mii廣場消失的話，",
+        "就會轉換成瑪利歐的圖示。"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect007",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Are you sure you want to erase this file?"
+      ],
+      "EuEnglish": [
+        "Are you sure you want to erase this file?"
+      ],
+      "UsSpanish": [
+        "¿Seguro que quieres borrar este archivo?"
+      ],
+      "EuSpanish": [
+        "¿Seguro que quieres borrar este archivo?"
+      ],
+      "UsFrench": [
+        "Voulez-vous vraiment supprimer ce ",
+        "fichier?"
+      ],
+      "EuFrench": [
+        "Voulez-vous vraiment effacer ce fichier?"
+      ],
+      "EuGerman": [
+        "Diese Spieldatei wirklich löschen?"
+      ],
+      "EuItalian": [
+        "Vuoi proprio cancellare questo file?"
+      ],
+      "EuDutch": [
+        "Are you sure you want to erase this file?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:本当;ほんとう]に[ruby:消;け]していいですか?"
+      ],
+      "KrKorean": [
+        "정말로 삭제하시겠습니까?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "真的要刪除檔案?"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect007_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No"
+      ],
+      "EuEnglish": [
+        "No"
+      ],
+      "UsSpanish": [
+        "No"
+      ],
+      "EuSpanish": [
+        "No"
+      ],
+      "UsFrench": [
+        "Non"
+      ],
+      "EuFrench": [
+        "Non"
+      ],
+      "EuGerman": [
+        "Nein"
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "やめる"
+      ],
+      "KrKorean": [
+        "아니요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect007_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK"
+      ],
+      "EuEnglish": [
+        "OK"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui"
+      ],
+      "EuFrench": [
+        "Oui"
+      ],
+      "EuGerman": [
+        "Ja"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "OK"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "OK"
+      ],
+      "KrKorean": [
+        "OK"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "要"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect008",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Please select a file."
+      ],
+      "EuEnglish": [
+        "Please select a file."
+      ],
+      "UsSpanish": [
+        "Elige un archivo."
+      ],
+      "EuSpanish": [
+        "Elige un archivo."
+      ],
+      "UsFrench": [
+        "Veuillez choisir un fichier."
+      ],
+      "EuFrench": [
+        "Choisissez un fichier."
+      ],
+      "EuGerman": [
+        "Wähle eine Datei aus."
+      ],
+      "EuItalian": [
+        "Seleziona un file."
+      ],
+      "EuDutch": [
+        "Please select a file."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ファイルを 選んでください"
+      ],
+      "KrKorean": [
+        "파일을 선택해 주세요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "請選擇檔案"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect009",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The Mii that was originally selected as the",
+        "icon for this save file no longer exists in your",
+        "Mii Plaza, so the icon was changed to Mario."
+      ],
+      "EuEnglish": [
+        "The Mii that was originally selected as the",
+        "icon for this save file no longer exists in your",
+        "Mii Plaza, so the icon was changed to Mario."
+      ],
+      "UsSpanish": [
+        "El Mii que estabas utilizando",
+        "ya no aparece en la Plaza Mii.",
+        "Se utilizará el ícono de Mario."
+      ],
+      "EuSpanish": [
+        "El Mii que estabas utilizando",
+        "ya no aparece en la Plaza Mii.",
+        "Se utilizará el icono de Mario."
+      ],
+      "UsFrench": [
+        "Le Mii que vous utilisiez en tant qu'icône de ce",
+        "fichier de sauvegarde n'existe plus dans la Place",
+        "Mii. L'icône de Mario sera utilisée."
+      ],
+      "EuFrench": [
+        "Le Mii que vous utilisiez ne se trouve plus sur la",
+        "place Mii. Son icône a été remplacée par celle de",
+        "Mario."
+      ],
+      "EuGerman": [
+        "Da der verwendete Mii-Charakter",
+        "in der Mii-Lobby gelöscht wurde,",
+        "wird das Mario-Symbol verwendet."
+      ],
+      "EuItalian": [
+        "Il Mii che stavi usando non è più presente nella",
+        "Piazza Mii, quindi verrà utilizzata l'icona di Mario."
+      ],
+      "EuDutch": [
+        "The Mii that was originally selected as the",
+        "icon for this save file no longer exists in your",
+        "Mii Plaza, so the icon was changed to Mario."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:使用中;しようちゅう]のMiiが",
+        "[ruby:似顔絵広場;にがおえひろば]からいなくなったので、",
+        "マリオのアイコンを[ruby:使用;しよう]します"
+      ],
+      "KrKorean": [
+        "사용 중인 Mii가",
+        "Mii 광장에서 없어졌으므로",
+        "마리오 아이콘을 사용합니다"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "使用中的Mii已從Mii廣場消失，",
+        "即將轉換成瑪利歐的圖示。"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect013",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Use this icon?"
+      ],
+      "EuEnglish": [
+        "Use this icon?"
+      ],
+      "UsSpanish": [
+        "¿Quieres usar este ícono?"
+      ],
+      "EuSpanish": [
+        "¿Quieres usar este icono?"
+      ],
+      "UsFrench": [
+        "Voulez-vous utiliser cette icône?"
+      ],
+      "EuFrench": [
+        "Voulez-vous utiliser cette icône?"
+      ],
+      "EuGerman": [
+        "Dieses Symbol verwenden?"
+      ],
+      "EuItalian": [
+        "Va bene quest'icona?"
+      ],
+      "EuDutch": [
+        "Use this icon?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "このアイコンでよろしいですか?"
+      ],
+      "KrKorean": [
+        "이 아이콘을 사용하시겠습니까?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "確定使用這個圖示嗎?"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect013_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Back"
+      ],
+      "EuEnglish": [
+        "Back"
+      ],
+      "UsSpanish": [
+        "Volver"
+      ],
+      "EuSpanish": [
+        "Volver"
+      ],
+      "UsFrench": [
+        "Retour"
+      ],
+      "EuFrench": [
+        "Annuler"
+      ],
+      "EuGerman": [
+        "Zurück"
+      ],
+      "EuItalian": [
+        "Indietro"
+      ],
+      "EuDutch": [
+        "Back"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "もどる"
+      ],
+      "KrKorean": [
+        "뒤로"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "取消"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect013_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK"
+      ],
+      "EuEnglish": [
+        "OK"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui"
+      ],
+      "EuFrench": [
+        "Oui"
+      ],
+      "EuGerman": [
+        "Ja"
+      ],
+      "EuItalian": [
+        "OK"
+      ],
+      "EuDutch": [
+        "OK"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "OK"
+      ],
+      "KrKorean": [
+        "OK"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "確定"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect015",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "If you create a Mii in your Mii Channel,",
+        "you can use it as your icon!"
+      ],
+      "EuEnglish": [
+        "If you create a Mii in your Mii Channel,",
+        "you can use it as your icon!"
+      ],
+      "UsSpanish": [
+        "¡Si creas un Mii en el Canal Mii,",
+        "puedes usarlo como tu ícono!"
+      ],
+      "EuSpanish": [
+        "¡Si creas un Mii en el Canal Mii,",
+        "puedes usarlo como icono!"
+      ],
+      "UsFrench": [
+        "Créez un Mii sur la Chaîne Mii pour l'utiliser",
+        "comme icône!"
+      ],
+      "EuFrench": [
+        "Créez un Mii sur la chaîne Mii",
+        "pour l'utiliser comme icône!"
+      ],
+      "EuGerman": [
+        "Wenn du im Mii-Kanal einen Mii-Charakter",
+        "erstellst, kannst du ihn als Symbol verwenden!"
+      ],
+      "EuItalian": [
+        "Se crei un Mii nel Canale Mii,",
+        "puoi usarlo come icona nei tuoi file di gioco."
+      ],
+      "EuDutch": [
+        "If you create a Mii in your Mii Channel,",
+        "you can use it as your icon!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:似顔絵;にがおえ]チャンネルでMiiを[ruby:作成;さくせい]すれば",
+        "アイコンとして[ruby:使用;しよう]することができます!"
+      ],
+      "KrKorean": [
+        "Mii 채널에서 Mii를 만들면",
+        "아이콘으로 사용할 수 있습니다!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "在Mii頻道製作Mii圖示後即可開始使用。"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect017",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Initializing Mii...",
+        "Please wait."
+      ],
+      "EuEnglish": [
+        "Initialising Mii...",
+        "Please wait."
+      ],
+      "UsSpanish": [
+        "Inicializando los datos del Mii. ",
+        "Por favor, espera un momento."
+      ],
+      "EuSpanish": [
+        "Cargando los datos del Mii. ",
+        "Por favor, espera un momento."
+      ],
+      "UsFrench": [
+        "Réinitialisation des Mii...",
+        "Veuillez patienter."
+      ],
+      "EuFrench": [
+        "Initialisation des Mii...",
+        "Veuillez patienter."
+      ],
+      "EuGerman": [
+        "Mii-Charakter wird initialisiert...",
+        "Bitte warten."
+      ],
+      "EuItalian": [
+        "Inizializzazione del Mii...",
+        "Attendi."
+      ],
+      "EuDutch": [
+        "Initialising Mii...",
+        "Please wait."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "Miiを[ruby:初期化;しょきか]しています",
+        "しばらくお[ruby:待;ま]ちください"
+      ],
+      "KrKorean": [
+        "Mii를 초기화하고 있습니다",
+        "잠시 기다려 주세요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "Mii正在初始化，請稍候。"
+      ]
+    }
+  },
+  {
+    "label": "System_FileSelect018",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Unable to read Mii Channel save data.",
+        "Please confirm in your Mii Channel."
+      ],
+      "EuEnglish": [
+        "Unable to read Mii Channel save data.",
+        "Please confirm in your Mii Channel."
+      ],
+      "UsSpanish": [
+        "No se puede acceder a los datos del Canal Mii.",
+        "Verifica que aparezcan en el Canal Mii."
+      ],
+      "EuSpanish": [
+        "No se puede acceder a los datos del Canal Mii.",
+        "Verifica que aparezcan en el Canal Mii."
+      ],
+      "UsFrench": [
+        "Impossible d'accéder aux données de la Chaîne",
+        "Mii. Veuillez vérifier la Chaîne Mii."
+      ],
+      "EuFrench": [
+        "Impossible d'accéder aux données de la",
+        "chaîne Mii. Veuillez vérifier la chaîne Mii."
+      ],
+      "EuGerman": [
+        "Mii-Kanal-Daten können nicht gelesen werden.",
+        "Bitte im Mii-Kanal überprüfen."
+      ],
+      "EuItalian": [
+        "Impossibile accedere ai dati salvati nel Canale Mii.",
+        "Verifica nel Canale Mii."
+      ],
+      "EuDutch": [
+        "Unable to read Mii Channel save data.",
+        "Please confirm in your Mii Channel."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:似顔絵;にがおえ]チャンネルのセーブデータが",
+        "[ruby:読;よ]み[ruby:込;こ]めませんでした",
+        "[ruby:似顔絵;にがおえ]チャンネルで[ruby:確認;かくにん]してください"
+      ],
+      "KrKorean": [
+        "Mii 채널의 저장 데이터를",
+        "읽지 못했습니다",
+        "Mii 채널을 확인해 주세요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "無法讀取Mii頻道裡的儲存資料。",
+        "請在Mii頻道確認。"
+      ]
+    }
+  }
+]

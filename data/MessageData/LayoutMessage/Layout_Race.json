@@ -1,0 +1,772 @@
+[
+  {
+    "label": "Race_BeTime",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "BEST TIME"
+      ],
+      "EuEnglish": [
+        "BEST TIME"
+      ],
+      "UsSpanish": [
+        "RÉCORD"
+      ],
+      "EuSpanish": [
+        "RÉCORD"
+      ],
+      "UsFrench": [
+        "Record"
+      ],
+      "EuFrench": [
+        "Record"
+      ],
+      "EuGerman": [
+        "BESTZEIT:"
+      ],
+      "EuItalian": [
+        "MIGLIOR TEMPO:"
+      ],
+      "EuDutch": [
+        "BEST TIME"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ベストタイム"
+      ],
+      "KrKorean": [
+        "최고 기록:"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "最高紀錄"
+      ]
+    }
+  },
+  {
+    "label": "Race_Fifth",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "5"
+      ],
+      "EuEnglish": [
+        "5"
+      ],
+      "UsSpanish": [
+        "5"
+      ],
+      "EuSpanish": [
+        "5"
+      ],
+      "UsFrench": [
+        "5"
+      ],
+      "EuFrench": [
+        "5"
+      ],
+      "EuGerman": [
+        "5"
+      ],
+      "EuItalian": [
+        "5"
+      ],
+      "EuDutch": [
+        "5"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "5"
+      ],
+      "KrKorean": [
+        "5"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "5"
+      ]
+    }
+  },
+  {
+    "label": "Race_First",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "1"
+      ],
+      "EuEnglish": [
+        "1"
+      ],
+      "UsSpanish": [
+        "1"
+      ],
+      "EuSpanish": [
+        "1"
+      ],
+      "UsFrench": [
+        "1"
+      ],
+      "EuFrench": [
+        "1"
+      ],
+      "EuGerman": [
+        "1"
+      ],
+      "EuItalian": [
+        "1"
+      ],
+      "EuDutch": [
+        "1"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "1"
+      ],
+      "KrKorean": [
+        "1"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "1"
+      ]
+    }
+  },
+  {
+    "label": "Race_Forth",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "4"
+      ],
+      "EuEnglish": [
+        "4"
+      ],
+      "UsSpanish": [
+        "4"
+      ],
+      "EuSpanish": [
+        "4"
+      ],
+      "UsFrench": [
+        "4"
+      ],
+      "EuFrench": [
+        "4"
+      ],
+      "EuGerman": [
+        "4"
+      ],
+      "EuItalian": [
+        "4"
+      ],
+      "EuDutch": [
+        "4"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "4"
+      ],
+      "KrKorean": [
+        "4"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "4"
+      ]
+    }
+  },
+  {
+    "label": "Race_Fth",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "th"
+      ],
+      "EuEnglish": [
+        "th"
+      ],
+      "UsSpanish": [
+        ".º"
+      ],
+      "EuSpanish": [
+        ".º"
+      ],
+      "UsFrench": [
+        "e"
+      ],
+      "EuFrench": [
+        "e"
+      ],
+      "EuGerman": [
+        "."
+      ],
+      "EuItalian": [
+        "º"
+      ],
+      "EuDutch": [
+        "th"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "th"
+      ],
+      "KrKorean": [
+        "th"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "th"
+      ]
+    }
+  },
+  {
+    "label": "Race_Goal",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "GOAL!"
+      ],
+      "EuEnglish": [
+        "GOAL!"
+      ],
+      "UsSpanish": [
+        "¡META!"
+      ],
+      "EuSpanish": [
+        "¡META!"
+      ],
+      "UsFrench": [
+        "BRAVO!"
+      ],
+      "EuFrench": [
+        "Arrivée!"
+      ],
+      "EuGerman": [
+        "ZIEL!"
+      ],
+      "EuItalian": [
+        "FINE!"
+      ],
+      "EuDutch": [
+        "GOAL!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ゴール!"
+      ],
+      "KrKorean": [
+        "GOAL!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "GOAL!"
+      ]
+    }
+  },
+  {
+    "label": "Race_Lose",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "YOU LOSE"
+      ],
+      "EuEnglish": [
+        "YOU LOSE"
+      ],
+      "UsSpanish": [
+        "HAS PERDIDO"
+      ],
+      "EuSpanish": [
+        "HAS PERDIDO"
+      ],
+      "UsFrench": [
+        "RATÉ..."
+      ],
+      "EuFrench": [
+        "Perdu!"
+      ],
+      "EuGerman": [
+        "VERLOREN"
+      ],
+      "EuItalian": [
+        "HAI PERSO"
+      ],
+      "EuDutch": [
+        "YOU LOSE"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "YOU LOSE"
+      ],
+      "KrKorean": [
+        "YOU LOSE"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "YOU LOSE"
+      ]
+    }
+  },
+  {
+    "label": "Race_Nd",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "nd"
+      ],
+      "EuEnglish": [
+        "nd"
+      ],
+      "UsSpanish": [
+        ".º"
+      ],
+      "EuSpanish": [
+        ".º"
+      ],
+      "UsFrench": [
+        "e"
+      ],
+      "EuFrench": [
+        "e"
+      ],
+      "EuGerman": [
+        "."
+      ],
+      "EuItalian": [
+        "º"
+      ],
+      "EuDutch": [
+        "nd"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "nd"
+      ],
+      "KrKorean": [
+        "nd"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "nd"
+      ]
+    }
+  },
+  {
+    "label": "Race_Rd",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "rd"
+      ],
+      "EuEnglish": [
+        "rd"
+      ],
+      "UsSpanish": [
+        ".º"
+      ],
+      "EuSpanish": [
+        ".º"
+      ],
+      "UsFrench": [
+        "e"
+      ],
+      "EuFrench": [
+        "e"
+      ],
+      "EuGerman": [
+        "."
+      ],
+      "EuItalian": [
+        "º"
+      ],
+      "EuDutch": [
+        "rd"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "rd"
+      ],
+      "KrKorean": [
+        "rd"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "rd"
+      ]
+    }
+  },
+  {
+    "label": "Race_Rth",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "th"
+      ],
+      "EuEnglish": [
+        "th"
+      ],
+      "UsSpanish": [
+        ".º"
+      ],
+      "EuSpanish": [
+        ".º"
+      ],
+      "UsFrench": [
+        "e"
+      ],
+      "EuFrench": [
+        "e"
+      ],
+      "EuGerman": [
+        "."
+      ],
+      "EuItalian": [
+        "º"
+      ],
+      "EuDutch": [
+        "th"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "th"
+      ],
+      "KrKorean": [
+        "th"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "th"
+      ]
+    }
+  },
+  {
+    "label": "Race_Second",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "2"
+      ],
+      "EuEnglish": [
+        "2"
+      ],
+      "UsSpanish": [
+        "2"
+      ],
+      "EuSpanish": [
+        "2"
+      ],
+      "UsFrench": [
+        "2"
+      ],
+      "EuFrench": [
+        "2"
+      ],
+      "EuGerman": [
+        "2"
+      ],
+      "EuItalian": [
+        "2"
+      ],
+      "EuDutch": [
+        "2"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "2"
+      ],
+      "KrKorean": [
+        "2"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "2"
+      ]
+    }
+  },
+  {
+    "label": "Race_St",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "st"
+      ],
+      "EuEnglish": [
+        "st"
+      ],
+      "UsSpanish": [
+        ".º"
+      ],
+      "EuSpanish": [
+        ".º"
+      ],
+      "UsFrench": [
+        "er"
+      ],
+      "EuFrench": [
+        "er"
+      ],
+      "EuGerman": [
+        "."
+      ],
+      "EuItalian": [
+        "º"
+      ],
+      "EuDutch": [
+        "st"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "st"
+      ],
+      "KrKorean": [
+        "st"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "st"
+      ]
+    }
+  },
+  {
+    "label": "Race_Third",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "3"
+      ],
+      "EuEnglish": [
+        "3"
+      ],
+      "UsSpanish": [
+        "3"
+      ],
+      "EuSpanish": [
+        "3"
+      ],
+      "UsFrench": [
+        "3"
+      ],
+      "EuFrench": [
+        "3"
+      ],
+      "EuGerman": [
+        "3"
+      ],
+      "EuItalian": [
+        "3"
+      ],
+      "EuDutch": [
+        "3"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "3"
+      ],
+      "KrKorean": [
+        "3"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "3"
+      ]
+    }
+  },
+  {
+    "label": "Race_Time",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "TIME"
+      ],
+      "EuEnglish": [
+        "TIME"
+      ],
+      "UsSpanish": [
+        "TIEMPO"
+      ],
+      "EuSpanish": [
+        "TIEMPO"
+      ],
+      "UsFrench": [
+        "Temps"
+      ],
+      "EuFrench": [
+        "Temps"
+      ],
+      "EuGerman": [
+        "ZEIT:"
+      ],
+      "EuItalian": [
+        "TEMPO:"
+      ],
+      "EuDutch": [
+        "TIME"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "タイム"
+      ],
+      "KrKorean": [
+        "기록:"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "計時"
+      ]
+    }
+  }
+]

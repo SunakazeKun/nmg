@@ -1,0 +1,115 @@
+[
+  {
+    "label": "DemoMeetYoshi_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You saved me![pagebreak]",
+        "I was trying to save my friends, but",
+        "then I got [color:red]turned into an[defcolor][color:red][color:red] egg [color:red][color:black]and",
+        "trapped[color:red][defcolor]![pagebreak]",
+        "I know! We should team up! [delay:15]Come on!",
+        "Hop on my back!"
+      ],
+      "EuEnglish": [
+        "You saved me![pagebreak]",
+        "I was trying to save my friends, but",
+        "then I got [color:red]turned into an[defcolor][color:red][color:red] egg [color:red][color:black]and",
+        "trapped[color:red][defcolor]![pagebreak]",
+        "I know! We should team up! [delay:15]Come on!",
+        "Hop on my back!"
+      ],
+      "UsSpanish": [
+        "¡Gracias por salvarme![pagebreak]",
+        "Intentaba ayudar a mis amigos y, ",
+        "sin saber cómo, acabé atrapado",
+        "dentro de [color:red]un huevo[defcolor].[pagebreak]",
+        "Si trabajamos juntos, seguro que",
+        "podremos salvar a mis amigos.",
+        "[delay:15]Anda, ¡súbete a mi lomo!"
+      ],
+      "EuSpanish": [
+        "¡Gracias por liberarme![pagebreak]",
+        "Intentaba ayudar a mis amigos y, ",
+        "sin saber cómo, ¡acabé dentro de",
+        "[color:red]un huevo[color:black] y [color:red][defcolor]sin poder salir de aquí![pagebreak]",
+        "Si trabajamos juntos, seguro que",
+        "podremos salvar a mis amigos.",
+        "[delay:15]Venga, ¡súbete a mi lomo!"
+      ],
+      "UsFrench": [
+        "Tu m'as sauvé![pagebreak]",
+        "Je voulais venir en aide à mes amis,",
+        "mais je me suis fait [color:red]enfermer dans",
+        "cet [defcolor][color:red]œuf[defcolor] et je ne pouvais plus sortir![pagebreak]",
+        "Faisons équipe pour aider mes amis![delay:15]",
+        "Allez, monte sur mon dos!"
+      ],
+      "EuFrench": [
+        "Tu m'as sauvé![pagebreak]",
+        "J'essayais d'aider mes amis mais j'ai",
+        "été fait prisonnier avec [color:red]mon œuf[defcolor]![pagebreak]",
+        "J'ai une idée! On va faire équipe!",
+        "[delay:15]Allez, viens! Saute sur mon dos!"
+      ],
+      "EuGerman": [
+        "Du hast mich gerettet![pagebreak]",
+        "Ich wollte meinen Freunden helfen,",
+        "aber Kamek hat mich [color:red]ein[color:red]gesperrt[color:red][defcolor]![pagebreak]",
+        "Wenn wir zusammenarbeiten,",
+        "können wir sie gemeinsam retten![delay:15]",
+        "Mach schon! Hüpf auf meinen Rücken!"
+      ],
+      "EuItalian": [
+        "Mi hai salvato![pagebreak]",
+        "Stavo cercando di aiutare i miei",
+        "amici, ma Kamek ha intrappolato me",
+        "e l'[color:red]uovo[defcolor]![pagebreak]",
+        "Insieme riusciremo senz'altro a",
+        "salvarli! [delay:15]Dai! Saltami in groppa!"
+      ],
+      "EuDutch": [
+        "You saved me![pagebreak]",
+        "I was trying to save my friends, but",
+        "then I got [color:red]turned into an[defcolor][color:red][color:red] egg [color:red][color:black]and",
+        "trapped[color:red][defcolor]![pagebreak]",
+        "I know! We should team up! [delay:15]Come on!",
+        "Hop on my back!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "フーッ! たすかったァ・・・[pagebreak]",
+        "つかまった [ruby:仲間;なかま]を [ruby:助;たす]けにいこうとしたら ",
+        "[color:red]タマゴに されちゃった[color:black]んです[color:red][defcolor]![pagebreak]",
+        "そうだ! いっしょに[ruby:行;い]きましょう![delay:15]",
+        "さァ! [ruby:背中;せなか]に[ruby:乗;の]ってください!"
+      ],
+      "KrKorean": [
+        "하아! 덕분에 살았어요…[pagebreak]",
+        "잡힌 친구를 구하러 가다가",
+        "[color:red]알이 되고 말았지 [color:black]뭐예요![color:red][defcolor][pagebreak]",
+        "그렇지! 함께 가는 건 어때요?[delay:15]",
+        "자! 등에 타세요!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "呼！平安沒事啦…[pagebreak]",
+        "原本打算去解救受困的同伴，",
+        "沒想到自己竟然被[color:red][color:red]變成[color:red]蛋[color:black]！[color:red][defcolor][pagebreak]",
+        "對了！跟我一起走！[delay:15]",
+        "來！騎上我的背！"
+      ]
+    }
+  }
+]

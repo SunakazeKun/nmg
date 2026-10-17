@@ -1,0 +1,390 @@
+[
+  {
+    "label": "PointerGuidance_BlueStar",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Point at [icon:pull_star], then press and hold [icon:a_button]."
+      ],
+      "EuEnglish": [
+        "Point at [icon:pull_star], then press and hold [icon:a_button]."
+      ],
+      "UsSpanish": [
+        "Apunta a [icon:pull_star] y mantén oprimido [icon:a_button]."
+      ],
+      "EuSpanish": [
+        "Apunta a [icon:pull_star] y mantén pulsado [icon:a_button]."
+      ],
+      "UsFrench": [
+        "Visez l'[icon:pull_star], puis maintenez [icon:a_button] enfoncé."
+      ],
+      "EuFrench": [
+        "Pointez [icon:pull_star], puis maintenez [icon:a_button] enfoncé."
+      ],
+      "EuGerman": [
+        "Ziele auf den [icon:pull_star] und drücke [icon:a_button]!"
+      ],
+      "EuItalian": [
+        "Mira a [icon:pull_star], poi tieni premuto [icon:a_button]."
+      ],
+      "EuDutch": [
+        "Point at [icon:pull_star], then press and hold [icon:a_button]."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:pull_star]をポイントし、 [icon:a_button]を押し続けてください"
+      ],
+      "KrKorean": [
+        "[icon:pull_star]를 포인트하고 [icon:a_button]를 누른 채로 있어 주세요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "對準[icon:pull_star]持續按著[icon:a_button]"
+      ]
+    }
+  },
+  {
+    "label": "PointerGuidance_Frame1",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Point at the screen with [icon:wiimote]."
+      ],
+      "EuEnglish": [
+        "Point at the screen with [icon:wiimote]."
+      ],
+      "UsSpanish": [
+        "Apunta a la pantalla con el [icon:wiimote]."
+      ],
+      "EuSpanish": [
+        "Apunta a la pantalla con el [icon:wiimote]."
+      ],
+      "UsFrench": [
+        "Pointez l'écran avec [icon:wiimote]."
+      ],
+      "EuFrench": [
+        "Pointez l'écran avec la [icon:wiimote]."
+      ],
+      "EuGerman": [
+        "Richte die [icon:wiimote] auf den Bildschirm."
+      ],
+      "EuItalian": [
+        "Punta [icon:wiimote] verso lo schermo."
+      ],
+      "EuDutch": [
+        "Point at the screen with [icon:wiimote]."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "Wiiリモコンを画面に向けてください"
+      ],
+      "KrKorean": [
+        "Wii 리모컨이 화면을 향하게 해 주세요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "請將Wii遙控器對著螢幕"
+      ]
+    }
+  },
+  {
+    "label": "PointerGuidance_MarioLauncher",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Aim with [icon:cross_hair], then press [icon:a_button]."
+      ],
+      "EuEnglish": [
+        "Aim with [icon:cross_hair], then press [icon:a_button]."
+      ],
+      "UsSpanish": [
+        "Apunta con [icon:cross_hair] y oprime [icon:a_button]."
+      ],
+      "EuSpanish": [
+        "Apunta con [icon:cross_hair] y pulsa [icon:a_button]."
+      ],
+      "UsFrench": [
+        "Visez avec [icon:cross_hair] et appuyez sur [icon:a_button]."
+      ],
+      "EuFrench": [
+        "Visez avec [icon:cross_hair] et appuyez sur [icon:a_button]."
+      ],
+      "EuGerman": [
+        "Ziele mit [icon:cross_hair] und drücke [icon:a_button]!"
+      ],
+      "EuItalian": [
+        "Prendi la mira con [icon:cross_hair] e premi [icon:a_button]."
+      ],
+      "EuDutch": [
+        "Aim with [icon:cross_hair], then press [icon:a_button]."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:cross_hair]で ねらって、 [icon:a_button]を押してください"
+      ],
+      "KrKorean": [
+        "[icon:cross_hair]로 조준하고 [icon:a_button]를 눌러 주세요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "用[icon:cross_hair]對準後按[icon:a_button]"
+      ]
+    }
+  },
+  {
+    "label": "PointerGuidance_TicoFat",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Aim at the Luma, then press [icon:b_button]."
+      ],
+      "EuEnglish": [
+        "Aim at the Luma, then press [icon:b_button]."
+      ],
+      "UsSpanish": [
+        "Apunta al Destello y oprime [icon:b_button]."
+      ],
+      "EuSpanish": [
+        "Apunta al destello y pulsa [icon:b_button]."
+      ],
+      "UsFrench": [
+        "Visez la Luma et appuyez sur [icon:b_button]."
+      ],
+      "EuFrench": [
+        "Visez le [icon:hungry_luma] et appuyez sur [icon:b_button]."
+      ],
+      "EuGerman": [
+        "Zeige auf den Luma und drücke [icon:b_button]!"
+      ],
+      "EuItalian": [
+        "Mira allo Sfavillotto e premi [icon:b_button]."
+      ],
+      "EuDutch": [
+        "Aim at the Luma, then press [icon:b_button]."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "チコをポイントし、 [icon:b_button]を押してください"
+      ],
+      "KrKorean": [
+        "치코를 포인트하고 [icon:b_button]를 눌러 주세요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "對準貪吃奇可後按[icon:b_button]"
+      ]
+    }
+  },
+  {
+    "label": "PointerGuidance_YoshiCapture",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Aim at [icon:yoshi_grapple], then press [icon:b_button]."
+      ],
+      "EuEnglish": [
+        "Aim at [icon:yoshi_grapple], then press [icon:b_button]."
+      ],
+      "UsSpanish": [
+        "Apunta a [icon:yoshi_grapple] y oprime [icon:b_button]."
+      ],
+      "EuSpanish": [
+        "Apunta a [icon:yoshi_grapple] y pulsa [icon:b_button]."
+      ],
+      "UsFrench": [
+        "Visez la [icon:yoshi_grapple] et appuyez sur [icon:b_button]."
+      ],
+      "EuFrench": [
+        "Visez [icon:yoshi_grapple] et appuyez sur [icon:b_button]."
+      ],
+      "EuGerman": [
+        "Ziele auf [icon:yoshi_grapple] und drücke [icon:b_button]."
+      ],
+      "EuItalian": [
+        "Mira a [icon:yoshi_grapple] e premi [icon:b_button]."
+      ],
+      "EuDutch": [
+        "Aim at [icon:yoshi_grapple], then press [icon:b_button]."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:yoshi_grapple]をポイントし、 [icon:b_button]を押してください"
+      ],
+      "KrKorean": [
+        "[icon:yoshi_grapple]를 포인트하고 [icon:b_button]를 눌러 주세요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "對準[icon:yoshi_grapple]後按[icon:b_button]"
+      ]
+    }
+  },
+  {
+    "label": "PointerGuidance_YoshiEat",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Point at things to eat, then press [icon:b_button]."
+      ],
+      "EuEnglish": [
+        "Point at things to eat, then press [icon:b_button]."
+      ],
+      "UsSpanish": [
+        "Para comer algo, apunta y oprime [icon:b_button]."
+      ],
+      "EuSpanish": [
+        "Para comer algo, apunta y pulsa [icon:b_button]."
+      ],
+      "UsFrench": [
+        "Pointez ce que vous voulez",
+        "manger et appuyez sur [icon:b_button]."
+      ],
+      "EuFrench": [
+        "Pointez ce que vous voulez",
+        "manger et appuyez sur [icon:b_button]."
+      ],
+      "EuGerman": [
+        "Ziele auf das, was Yoshi",
+        "verschlingen soll, und drücke [icon:b_button]."
+      ],
+      "EuItalian": [
+        "Mira a ciò che vuoi mangiare e premi [icon:b_button]."
+      ],
+      "EuDutch": [
+        "Point at things to eat, then press [icon:b_button]."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "食べたいモノをポイントし、 [icon:b_button]を押してください"
+      ],
+      "KrKorean": [
+        "먹고 싶은 것을 포인트하고 [icon:b_button]를 눌러 주세요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "對準想吃的食物後按[icon:b_button]"
+      ]
+    }
+  },
+  {
+    "label": "PointerGuidance_YoshiShot",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Point the arrow, then press [icon:b_button]."
+      ],
+      "EuEnglish": [
+        "Point the arrow, then press [icon:b_button]."
+      ],
+      "UsSpanish": [
+        "Apunta con la flecha y oprime [icon:b_button]."
+      ],
+      "EuSpanish": [
+        "Apunta con la flecha y pulsa [icon:b_button]."
+      ],
+      "UsFrench": [
+        "Visez et appuyez sur [icon:b_button]."
+      ],
+      "EuFrench": [
+        "Visez avec la flèche et appuyez sur [icon:b_button]."
+      ],
+      "EuGerman": [
+        "Ziele mit dem Pfeil und drücke [icon:b_button]."
+      ],
+      "EuItalian": [
+        "Direziona la freccia e premi [icon:b_button]."
+      ],
+      "EuDutch": [
+        "Point the arrow, then press [icon:b_button]."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "とばしたい方向に矢印を向けて [icon:b_button]で発射"
+      ],
+      "KrKorean": [
+        "뱉을 방향으로 화살표를 두고 [icon:b_button]로 발사"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "將箭頭對著想發射的方向，按[icon:b_button]發射"
+      ]
+    }
+  }
+]

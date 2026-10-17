@@ -1,0 +1,169 @@
+[
+  {
+    "label": "SysPALInfo_PALInfo",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Super Mario Galaxy can be displayed in",
+        "60Hz (480i) Mode. Your current setting is",
+        "50Hz (576i) Mode. If your TV - like most TV",
+        "models - supports 60Hz Mode, please select",
+        "this TV Type in the Wii System Settings for",
+        "a better display quality.",
+        "",
+        "To change your TV Type setting to 60Hz Mode, ",
+        "please press the HOME Button and go to",
+        "the Wii Menu."
+      ],
+      "EuEnglish": [
+        "Super Mario Galaxy 2 can be displayed in",
+        "60Hz (480i) Mode. Your current setting is",
+        "50Hz (576i) Mode. If your TV - like most TV",
+        "models - supports 60Hz Mode, please select",
+        "this TV Type in the Wii System Settings for",
+        "a better display quality.",
+        "",
+        "To change your TV Type setting to 60Hz Mode, ",
+        "please press the HOME Button and go to",
+        "the Wii Menu."
+      ],
+      "UsSpanish": [
+        "Super Mario Galaxy can be displayed in",
+        "60Hz (480i) Mode. Your current setting is",
+        "50Hz (576i) Mode. If your TV - like most TV",
+        "models - supports 60Hz Mode, please select",
+        "this TV Type in the Wii System Settings for",
+        "a better display quality.",
+        "",
+        "To change your TV Type setting to 60Hz Mode, ",
+        "please press the HOME Button and go to",
+        "the Wii Menu."
+      ],
+      "EuSpanish": [
+        "Super Mario Galaxy 2 es compatible con el modo",
+        "60 Hz (480i). Tu configuración actual está en",
+        "modo 50 Hz (576i). Si tu televisor, como ocurre",
+        "con la mayoría de los modelos, es compatible",
+        "con el modo 60 Hz, selecciona esta opción",
+        "dentro de la configuración de Wii y podrás",
+        "disfrutar de una mejor calidad de imagen.",
+        "",
+        "Si deseas cambiar la configuración al modo",
+        "60 Hz, pulsa el Botón HOME y ve al menú de Wii."
+      ],
+      "UsFrench": [
+        "Super Mario Galaxy can be displayed in",
+        "60Hz (480i) Mode. Your current setting is",
+        "50Hz (576i) Mode. If your TV - like most TV",
+        "models - supports 60Hz Mode, please select",
+        "this TV Type in the Wii System Settings for",
+        "a better display quality.",
+        "",
+        "To change your TV Type setting to 60Hz Mode, ",
+        "please press the HOME Button and go to",
+        "the Wii Menu."
+      ],
+      "EuFrench": [
+        "Super Mario Galaxy 2 peut être affiché avec",
+        "le mode 60Hz (480i).",
+        "Vous utilisez actuellement le mode 50Hz (576i).",
+        "Si votre téléviseur, comme de nombreux",
+        "modèles, est compatible avec le mode 60Hz,",
+        "sélectionnez-le dans la section TYPE DE",
+        "TELEVISEUR des paramètres Wii pour obtenir",
+        "une image de meilleure qualité.",
+        "",
+        "Pour changer le paramètre du type de",
+        "téléviseur en 60Hz, appuyez sur le",
+        "bouton HOME et accédez au menu Wii."
+      ],
+      "EuGerman": [
+        "Super Mario Galaxy 2 lässt sich im",
+        "60Hz (480i)-Modus darstellen. Derzeit",
+        "ist der 50Hz (576i)-Modus ausgewählt.",
+        "Falls dein Fernsehgerät - wie die meisten",
+        "gängigen Modelle - auch den 60Hz-Modus",
+        "unterstützt, wähle bitte diesen Typ in den",
+        "Wii-Systemeinstellungen aus, um eine",
+        "bessere Darstellung zu erzielen.",
+        "",
+        "Möchtest du für dein Fernsehgerät den",
+        "60Hz-Modus auswählen, drücke den",
+        "HOME-Knopf und rufe das Wii-Menü auf."
+      ],
+      "EuItalian": [
+        "Super Mario Galaxy 2 è compatibile con la",
+        "modalità 60Hz (480i). L'impostazione attuale",
+        "è 50Hz (576i). Se il tuo televisore - come la",
+        "maggior parte dei modelli - supporta la",
+        "modalità 60Hz, seleziona questo Tipo di TV",
+        "nelle Impostazioni console Wii, per una",
+        "migliore qualità delle immagini.",
+        "",
+        "Per cambiare il Tipo di TV selezionato,",
+        "premi il pulsante HOME e vai al menu Wii."
+      ],
+      "EuDutch": [
+        "Super Mario Galaxy 2 can be displayed in",
+        "60Hz (480i) Mode. Your current setting is",
+        "50Hz (576i) Mode. If your TV - like most TV",
+        "models - supports 60Hz Mode, please select",
+        "this TV Type in the Wii System Settings for",
+        "a better display quality.",
+        "",
+        "To change your TV Type setting to 60Hz Mode, ",
+        "please press the HOME Button and go to",
+        "the Wii Menu."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "Super Mario Galaxy can be displayed in",
+        "60Hz (480i) Mode. Your current setting is",
+        "50Hz (576i) Mode. If your TV - like most TV",
+        "models - supports 60Hz Mode, please select",
+        "this TV Type in the Wii System Settings for",
+        "a better display quality.",
+        "",
+        "To change your TV Type setting to 60Hz Mode, ",
+        "please press the HOME Button and go to",
+        "the Wii Menu."
+      ],
+      "KrKorean": [
+        "Super Mario Galaxy can be displayed in",
+        "60Hz (480i) Mode. Your current setting is",
+        "50Hz (576i) Mode. If your TV - like most TV",
+        "models - supports 60Hz Mode, please select",
+        "this TV Type in the Wii System Settings for",
+        "a better display quality.",
+        "",
+        "To change your TV Type setting to 60Hz Mode, ",
+        "please press the HOME Button and go to",
+        "the Wii Menu."
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "Super Mario Galaxy can be displayed in",
+        "60Hz (480i) Mode. Your current setting is",
+        "50Hz (576i) Mode. If your TV - like most TV",
+        "models - supports 60Hz Mode, please select",
+        "this TV Type in the Wii System Settings for",
+        "a better display quality.",
+        "",
+        "To change your TV Type setting to 60Hz Mode, ",
+        "please press the HOME Button and go to",
+        "the Wii Menu."
+      ]
+    }
+  }
+]

@@ -1,0 +1,791 @@
+[
+  {
+    "label": "System_ConfirmNoSave",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Quit without saving?"
+      ],
+      "EuEnglish": [
+        "Quit without saving?"
+      ],
+      "UsSpanish": [
+        "¿Quieres salir sin guardar los datos?"
+      ],
+      "EuSpanish": [
+        "¿Quieres salir sin guardar?"
+      ],
+      "UsFrench": [
+        "Quitter sans sauvegarder?"
+      ],
+      "EuFrench": [
+        "Quitter sans sauvegarder?"
+      ],
+      "EuGerman": [
+        "Das Spiel verlassen, ohne",
+        "die Daten zu speichern?"
+      ],
+      "EuItalian": [
+        "I dati non verranno salvati.",
+        "Prosegui ugualmente?"
+      ],
+      "EuDutch": [
+        "Quit without saving?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "データは[ruby:保存;ほぞん]されませんが",
+        "よろしいですか?"
+      ],
+      "KrKorean": [
+        "데이터는 저장되지 않습니다.",
+        "이대로 마치시겠습니까?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "資料尚未儲存，確定要繼續?"
+      ]
+    }
+  },
+  {
+    "label": "System_ConfirmNoSave_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Back"
+      ],
+      "EuEnglish": [
+        "Back"
+      ],
+      "UsSpanish": [
+        "Volver"
+      ],
+      "EuSpanish": [
+        "Volver"
+      ],
+      "UsFrench": [
+        "Retour"
+      ],
+      "EuFrench": [
+        "Non"
+      ],
+      "EuGerman": [
+        "Zurück"
+      ],
+      "EuItalian": [
+        "Indietro"
+      ],
+      "EuDutch": [
+        "Back"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "もどる"
+      ],
+      "KrKorean": [
+        "뒤로"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "返回"
+      ]
+    }
+  },
+  {
+    "label": "System_ConfirmNoSave_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK"
+      ],
+      "EuEnglish": [
+        "OK"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui"
+      ],
+      "EuFrench": [
+        "Oui"
+      ],
+      "EuGerman": [
+        "Ja"
+      ],
+      "EuItalian": [
+        "Prosegui"
+      ],
+      "EuDutch": [
+        "OK"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "OK"
+      ],
+      "KrKorean": [
+        "OK"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "繼續"
+      ]
+    }
+  },
+  {
+    "label": "System_Save00",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Save your game?"
+      ],
+      "EuEnglish": [
+        "Save your game?"
+      ],
+      "UsSpanish": [
+        "¿Quieres guardar?"
+      ],
+      "EuSpanish": [
+        "¿Quieres guardar la partida?"
+      ],
+      "UsFrench": [
+        "Voulez-vous sauvegarder?"
+      ],
+      "EuFrench": [
+        "Voulez-vous sauvegarder votre partie?"
+      ],
+      "EuGerman": [
+        "Möchtest du dein Spiel speichern?"
+      ],
+      "EuItalian": [
+        "Vuoi salvare il gioco?"
+      ],
+      "EuDutch": [
+        "Save your game?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "セーブしますか?"
+      ],
+      "KrKorean": [
+        "저장하시겠습니까?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "要儲存嗎?"
+      ]
+    }
+  },
+  {
+    "label": "System_Save00_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No"
+      ],
+      "EuEnglish": [
+        "No"
+      ],
+      "UsSpanish": [
+        "No"
+      ],
+      "EuSpanish": [
+        "No"
+      ],
+      "UsFrench": [
+        "Non"
+      ],
+      "EuFrench": [
+        "Non"
+      ],
+      "EuGerman": [
+        "Nein"
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "いいえ"
+      ],
+      "KrKorean": [
+        "아니요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "System_Save00_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK"
+      ],
+      "EuEnglish": [
+        "OK"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui"
+      ],
+      "EuFrench": [
+        "Oui"
+      ],
+      "EuGerman": [
+        "Ja"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "OK"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "OK"
+      ],
+      "KrKorean": [
+        "OK"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "要"
+      ]
+    }
+  },
+  {
+    "label": "System_Save02",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The game has been saved."
+      ],
+      "EuEnglish": [
+        "The game has been saved."
+      ],
+      "UsSpanish": [
+        "El juego se ha guardado."
+      ],
+      "EuSpanish": [
+        "Se ha guardado la partida."
+      ],
+      "UsFrench": [
+        "La partie a été sauvegardée."
+      ],
+      "EuFrench": [
+        "La partie a été sauvegardée."
+      ],
+      "EuGerman": [
+        "Dein Spiel wurde gespeichert."
+      ],
+      "EuItalian": [
+        "I dati di gioco sono stati salvati."
+      ],
+      "EuDutch": [
+        "The game has been saved."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "セーブしました。"
+      ],
+      "KrKorean": [
+        "저장했습니다."
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "儲存完畢"
+      ]
+    }
+  },
+  {
+    "label": "System_Save04",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You won't be able to save.",
+        "Is this OK?"
+      ],
+      "EuEnglish": [
+        "You won't be able to save.",
+        "Is this OK?"
+      ],
+      "UsSpanish": [
+        "No podrás guardar los datos.",
+        "¿Quieres seguir?"
+      ],
+      "EuSpanish": [
+        "No podrás guardar la partida.",
+        "¿Quieres continuar?"
+      ],
+      "UsFrench": [
+        "Vous ne pourrez pas sauvegarder.",
+        "Voulez-vous continuer?"
+      ],
+      "EuFrench": [
+        "Vous ne pourrez pas sauvegarder la partie.",
+        "Voulez-vous continuer?"
+      ],
+      "EuGerman": [
+        "Die Daten können nicht gespeichert ",
+        "werden. Trotzdem fortfahren?"
+      ],
+      "EuItalian": [
+        "Impossibile salvare.",
+        "Va bene ugualmente?"
+      ],
+      "EuDutch": [
+        "You won't be able to save.",
+        "Is this OK?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "このままではセーブできませんが、",
+        "セーブしないで[ruby:続;つづ]けますか?"
+      ],
+      "KrKorean": [
+        "이 상태로는 저장할 수 없습니다.",
+        "저장하지 않고 진행하시겠습니까?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "資料無法儲存，不儲存繼續嗎?"
+      ]
+    }
+  },
+  {
+    "label": "System_Save04_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No"
+      ],
+      "EuEnglish": [
+        "No"
+      ],
+      "UsSpanish": [
+        "No"
+      ],
+      "EuSpanish": [
+        "No"
+      ],
+      "UsFrench": [
+        "Non"
+      ],
+      "EuFrench": [
+        "Non"
+      ],
+      "EuGerman": [
+        "Nein"
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "いいえ"
+      ],
+      "KrKorean": [
+        "아니요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "System_Save04_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK"
+      ],
+      "EuEnglish": [
+        "OK"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui"
+      ],
+      "EuFrench": [
+        "Oui"
+      ],
+      "EuGerman": [
+        "Ja"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "OK"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "OK"
+      ],
+      "KrKorean": [
+        "OK"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "繼續"
+      ]
+    }
+  },
+  {
+    "label": "System_Save05",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The corrupted file has been deleted."
+      ],
+      "EuEnglish": [
+        "The corrupted file has been deleted."
+      ],
+      "UsSpanish": [
+        "Se ha borrado el archivo dañado."
+      ],
+      "EuSpanish": [
+        "Se ha borrado el archivo dañado."
+      ],
+      "UsFrench": [
+        "Le ficher corrompu a été supprimé."
+      ],
+      "EuFrench": [
+        "Le fichier corrompu a été effacé."
+      ],
+      "EuGerman": [
+        "Die fehlerhafte Datei wurde gelöscht."
+      ],
+      "EuItalian": [
+        "Il file danneggiato è stato cancellato."
+      ],
+      "EuDutch": [
+        "The corrupted file has been deleted."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:壊;こわ]れたファイルを[ruby:消;け]しました。"
+      ],
+      "KrKorean": [
+        "손상된 파일을 삭제했습니다."
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "已刪除損壞檔案"
+      ]
+    }
+  },
+  {
+    "label": "System_Save07",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Save your progress and quit?"
+      ],
+      "EuEnglish": [
+        "Save your progress and quit?"
+      ],
+      "UsSpanish": [
+        "¿Quieres guardar el juego y salir?"
+      ],
+      "EuSpanish": [
+        "¿Quieres guardar la partida y salir?"
+      ],
+      "UsFrench": [
+        "Voulez-vous vraiment sauvegarder ",
+        "et quitter?"
+      ],
+      "EuFrench": [
+        "Voulez-vous sauvegarder",
+        "la partie et quitter?"
+      ],
+      "EuGerman": [
+        "Das Spiel speichern und beenden?"
+      ],
+      "EuItalian": [
+        "Vuoi salvare ed uscire dal gioco?"
+      ],
+      "EuDutch": [
+        "Save your progress and quit?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "セーブをしてゲームを[ruby:終;お]わりますが、",
+        "よろしいですか?"
+      ],
+      "KrKorean": [
+        "저장한 후",
+        "게임을 마치시겠습니까?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "確定儲存後要中止遊戲?"
+      ]
+    }
+  },
+  {
+    "label": "System_Save07_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No"
+      ],
+      "EuEnglish": [
+        "No"
+      ],
+      "UsSpanish": [
+        "No"
+      ],
+      "EuSpanish": [
+        "No"
+      ],
+      "UsFrench": [
+        "Non"
+      ],
+      "EuFrench": [
+        "Non"
+      ],
+      "EuGerman": [
+        "Nein"
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "いいえ"
+      ],
+      "KrKorean": [
+        "아니요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "System_Save07_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK"
+      ],
+      "EuEnglish": [
+        "OK"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui"
+      ],
+      "EuFrench": [
+        "Oui"
+      ],
+      "EuGerman": [
+        "Ja"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "OK"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "OK"
+      ],
+      "KrKorean": [
+        "OK"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "要"
+      ]
+    }
+  }
+]

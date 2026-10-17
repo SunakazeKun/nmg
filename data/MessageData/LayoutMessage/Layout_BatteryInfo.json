@@ -1,0 +1,112 @@
+[
+  {
+    "label": "BatteryInfo_P1",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "P1"
+      ],
+      "EuEnglish": [
+        "P1"
+      ],
+      "UsSpanish": [
+        "J1"
+      ],
+      "EuSpanish": [
+        "J1"
+      ],
+      "UsFrench": [
+        "J1"
+      ],
+      "EuFrench": [
+        "J1"
+      ],
+      "EuGerman": [
+        "SP1"
+      ],
+      "EuItalian": [
+        "G1"
+      ],
+      "EuDutch": [
+        "P1"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "1P"
+      ],
+      "KrKorean": [
+        "1P"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "1P"
+      ]
+    }
+  },
+  {
+    "label": "BatteryInfo_P2",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "P2"
+      ],
+      "EuEnglish": [
+        "P2"
+      ],
+      "UsSpanish": [
+        "J2"
+      ],
+      "EuSpanish": [
+        "J2"
+      ],
+      "UsFrench": [
+        "J2"
+      ],
+      "EuFrench": [
+        "J2"
+      ],
+      "EuGerman": [
+        "SP2"
+      ],
+      "EuItalian": [
+        "G2"
+      ],
+      "EuDutch": [
+        "P2"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "2P"
+      ],
+      "KrKorean": [
+        "2P"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "2P"
+      ]
+    }
+  }
+]

@@ -1,0 +1,1055 @@
+[
+  {
+    "label": "KinopioBank_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_HEY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Hello from your friendly [color:red]Banktoad[defcolor]![color:blue][pagebreak]",
+        "[defcolor][color:blue][color:red][color:black]I can help you share your[color:red] [color:black]stash of[color:red]",
+        "[color:blue][icon:rainbow_starbit] Star Bits [color:red][color:blue]with other adventurers[defcolor]![pagebreak]",
+        "Give me as many [icon:rainbow_starbit] as you like, and",
+        "I will make them available to [color:blue]other",
+        "explorers with save files[defcolor]![pagebreak]",
+        "[delay:15]Of course, if you're playing alone,",
+        "I can just hold on to your Star Bits",
+        "instead!"
+      ],
+      "EuEnglish": [
+        "Hello from your friendly [color:red]banktoad[defcolor]![color:blue][pagebreak]",
+        "[defcolor][color:blue][color:red][color:black]I can help you [color:red]share your[color:black][color:red][color:red] stash of",
+        "[icon:rainbow_starbit] Star Bits [color:red][color:blue][color:black]with [color:blue]other adventurers[defcolor]![pagebreak]",
+        "Give me as many [icon:rainbow_starbit] as you like, and",
+        "I will make them available to [color:blue]other",
+        "explorers with save files[defcolor]![pagebreak]",
+        "[delay:15]Of course, if you're playing alone,",
+        "I can just hold on to your Star Bits",
+        "instead!"
+      ],
+      "UsSpanish": [
+        "¡Hola! Soy el [color:red]tesorero[defcolor], y g[color:red][color:black]racias",
+        "a mí podrás [color:red]compartir tus [icon:rainbow_starbit] ",
+        "[color:blue]con otros aventureros[color:red][defcolor].[pagebreak]",
+        "Dame todos los [icon:rainbow_starbit] que quieras",
+        "y yo los enviaré a las partidas",
+        "de [color:blue]otros aventureros[defcolor].[pagebreak]",
+        "[delay:15]Además, también puedo",
+        "guardarte tus trozos de estrella,",
+        "¡eso ni se pregunta!"
+      ],
+      "EuSpanish": [
+        "¡Hola! Soy el [color:red]tesorero[defcolor]. G[color:red][color:black]racias a mí",
+        "podrás [color:red]compartir tus trozos de",
+        "estrella [color:blue]con otros aventureros[color:red][defcolor].[pagebreak]",
+        "Dame los [icon:rainbow_starbit] que quieras y [color:blue]otros",
+        "aventureros que tengan partidas en",
+        "[color:black]esta consola podrán disponer de ellos[color:blue][defcolor].[pagebreak]",
+        "[delay:15]Y aunque juegues solo, yo siempre",
+        "te podré guardar [color:red][icon:rainbow_starbit][defcolor], ¡para eso soy",
+        "el tesorero!"
+      ],
+      "UsFrench": [
+        "Bonjour! Je suis [color:red]Toad le banquier[defcolor]!",
+        "Je peux t'aider à [color:blue]partager tes éclats",
+        "d'étoile [color:blue][color:blue][icon:rainbow_starbit] [color:blue][color:blue]avec d'autres aventuriers[defcolor]![pagebreak]",
+        "Si tu me remets des [icon:rainbow_starbit], je ferai en",
+        "sorte que les [color:blue]joueurs des autres",
+        "fichiers de sauvegarde [defcolor]y aient accès![pagebreak]",
+        "[delay:15]Et bien sûr, si tu joues seul, je peux",
+        "conserver tes éclats d'étoile en lieu",
+        "sûr, tout simplement!"
+      ],
+      "EuFrench": [
+        "Bonjour! Je suis le [color:blue][color:red]banquier[color:black],",
+        "spécialiste des [color:red][color:blue][color:black][icon:rainbow_starbit]![color:blue][pagebreak]",
+        "[defcolor][color:red][color:black]Si tu veux échanger tes[color:red] [color:blue][icon:rainbow_starbit] avec",
+        "d'autres aventuriers[color:black], tu peux",
+        "faire appel à mes services[color:blue][color:red][defcolor]![pagebreak]",
+        "Dépose autant de [icon:rainbow_starbit] que tu veux",
+        "et je les place sur un compte.[pagebreak]",
+        "[color:blue]Les aventuriers qui utilisent un autre",
+        "fichier de sauvegarde[defcolor] pourront alors",
+        "[color:blue]puiser dans ce compte[defcolor]![pagebreak]",
+        "[delay:15]Oh, bien sûr, si tu joues tout seul,",
+        "je peux simplement garder tes [color:blue][icon:rainbow_starbit]",
+        "[defcolor]en réserve. Aucun problème!"
+      ],
+      "EuGerman": [
+        "Hallo!",
+        "Ich bin der [color:red]Lager-Toad[defcolor][color:black]![defcolor][pagebreak]",
+        "[color:black]Dank mir kannst du [color:black]deine",
+        "[icon:rainbow_starbit] [color:purple]Sternenteile [color:black][color:black]mit [color:black][color:black][color:blue]jemandem aus",
+        "einer anderen Spieldatei [color:black]teilen.[defcolor][pagebreak]",
+        "Sag mir einfach, wie viele [icon:rainbow_starbit] du",
+        "einlagern möchtest,[delay:15] dann [color:blue]haben die",
+        "anderen in ihrem Spiel Zugriff darauf[defcolor]![pagebreak]",
+        "Und wenn nur du allein dieses Spiel",
+        "spielst, kannst du sie auch so in meine",
+        "Obhut geben, natürlich mit Bonus!"
+      ],
+      "EuItalian": [
+        "Salve! Io sono [color:red]Toad Custode [color:black]e",
+        "mi occupo di [color:purple]Astroschegge [color:black][color:red][defcolor][color:black][color:black][icon:rainbow_starbit]![color:black][pagebreak]",
+        "Posso aiutarti a[color:red] condividere",
+        "le tue Astroschegge [color:black][color:black][icon:rainbow_starbit] [color:black][color:blue]con altre",
+        "avventure[color:black]![pagebreak]",
+        "Dammi le [color:purple]Astroschegge [color:black][defcolor][icon:rainbow_starbit] che vuoi",
+        "e io le renderò disponibili negli[color:blue] altri",
+        "file di salvataggio[defcolor].[pagebreak]",
+        "Ovviamente posso anche solo",
+        "tenertele!"
+      ],
+      "EuDutch": [
+        "Hello from your friendly [color:red]banktoad[defcolor]![color:blue][pagebreak]",
+        "[defcolor][color:blue][color:red][color:black]I can help you [color:red]share your[color:black][color:red][color:red] stash of",
+        "[icon:rainbow_starbit] Star Bits [color:red][color:blue][color:black]with [color:blue]other adventurers[defcolor]![pagebreak]",
+        "Give me as many [icon:rainbow_starbit] as you like, and",
+        "I will make them available to [color:blue]other",
+        "explorers with save files[defcolor]![pagebreak]",
+        "[delay:15]Of course, if you're playing alone,",
+        "I can just hold on to your Star Bits",
+        "instead!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "こんにちは! ",
+        "わたし [color:blue][color:red]あずかり[ruby:屋;や][color:blue][color:black]さんで～す[color:blue][color:black]![color:blue][pagebreak]",
+        "[defcolor][color:blue][ruby:別;べつ]のセーブファイルで[ruby:遊;あそ]んでいる[ruby:人;ひと][defcolor]と ",
+        "[icon:rainbow_starbit][color:red]スターピースを[ruby:分;わ]け[ruby:合;あ]える[color:black]んです![color:red][defcolor][pagebreak]",
+        "あげたい[ruby:分;ぶん]の[icon:rainbow_starbit]を わたしにあずけたら、",
+        "[color:blue][ruby:別;べつ]のセーブファイルで[ruby:遊;あそ]んでいる[ruby:人;ひと][defcolor]が[ruby:使;つか]えます![pagebreak]",
+        "[delay:15]あ! もちろん、 [ruby:一人;ひとり]で[ruby:遊;あそ]んでても ",
+        "あずけてくれたら わたしも[ruby:一緒;いっしょ]にがんばります"
+      ],
+      "KrKorean": [
+        "안녕하세요! ",
+        "저는 [color:blue][color:red]보관담당자[color:blue][color:black]입니다～[color:blue][color:black]![color:blue][pagebreak]",
+        "[defcolor][color:blue]다른 저장 파일로 플레이하는 사람[defcolor]과",
+        "[icon:rainbow_starbit][color:red]스타구슬을 나눠 가질 수 있어[color:black]요![color:red][defcolor][pagebreak]",
+        "나눠 줄 만큼의 [icon:rainbow_starbit]을 저에게 맡기면 [color:blue]다른",
+        "저장 파일로 플레이하는 사람[defcolor]이 쓸 수 있죠![pagebreak]",
+        "[delay:15]아! 물론 혼자 플레이하더라도 맡겨 주시면",
+        "저도 열심히 모아 드릴게요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "你好！",
+        "我是[color:red]奇諾比奧保管人[defcolor]！[pagebreak]",
+        "[color:black]你[defcolor][color:blue][color:black]可以和[color:blue]玩[color:black][color:blue]其他儲存檔案的[defcolor][color:blue]玩家[defcolor]",
+        "[color:red]分[defcolor][color:red]享[icon:rainbow_starbit]星塵[color:black]！[color:red][defcolor][pagebreak]",
+        "先將想分享的部分[icon:rainbow_starbit]交給我保管，",
+        "這樣[color:blue]其他玩家[defcolor]就可以使用！[pagebreak]",
+        "[delay:15][color:red][color:black]對了！當然，你一個人玩時，[color:red]",
+        "[color:black]若交給[color:red][color:black]我保管，我也會一起加油。[color:red][defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "KinopioBank_Flow001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_YAHOO",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[player:0], guess what? I decided to",
+        "become a [color:blue][color:red]banker[color:blue][color:black]![color:blue][defcolor][pagebreak]",
+        "If you give me [icon:rainbow_starbit] [color:red]Star Bits [defcolor]to hold",
+        "on to...[pagebreak]",
+        "[color:blue][color:black]I can help you[color:blue] [color:red]share your [color:blue][icon:rainbow_starbit] with",
+        "other players using save files[color:black]![color:blue][defcolor][color:black][pagebreak]",
+        "[defcolor][color:black][delay:15]Or if you're playing solo, I can still",
+        "hold on to your Star Bits. I'll try and",
+        "get more to add to your total![defcolor]"
+      ],
+      "EuEnglish": [
+        "[player:0], guess what? I decided to",
+        "become a [color:blue][color:red]banker[color:blue][color:black]![color:blue][defcolor][pagebreak]",
+        "If you give me [icon:rainbow_starbit] [color:red]Star Bits [defcolor]to hold",
+        "on to...[pagebreak]",
+        "[color:blue][color:black]I can help you[color:blue] [color:red]share your [color:blue][icon:rainbow_starbit] with",
+        "other players using save files[color:black]![color:blue][defcolor][color:black][pagebreak]",
+        "[defcolor][color:black][delay:15]Or if you're playing solo, I can still",
+        "hold on to your Star Bits. I'll try and",
+        "get more to add to your total![defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Eh, [player:0]! ¿Sabes qué? ¡He decidido ",
+        "hacerme [color:blue][color:red]tesorero[color:blue][color:black]![color:blue][defcolor][pagebreak]",
+        "Si me das [color:red]trozos de estrella [defcolor][icon:rainbow_starbit], yo te",
+        "los puedo guardar.[pagebreak]",
+        "¡Y puedo [color:red]compartir tus[defcolor][color:blue][color:red] [color:blue][icon:rainbow_starbit] con otros",
+        "jugadores con archivos de guardado[color:black]![color:blue][defcolor][color:black][pagebreak]",
+        "[defcolor][color:black][delay:15]¡[defcolor][color:black]O si estás jugando por tu cuenta,",
+        "puedo guardarlos de forma segura![defcolor]"
+      ],
+      "EuSpanish": [
+        "¡Eh, [player:0]!, ¿a que no lo adivinas?",
+        "¡Me he hecho [color:blue][color:red]tesorero[color:blue][color:black]![color:blue][defcolor][pagebreak]",
+        "Si me das [icon:rainbow_starbit], yo te los guardo.[pagebreak]",
+        "¡También puedes [color:red]compartir tus[defcolor][color:blue][color:red] [color:blue][icon:rainbow_starbit] con",
+        "otros aventureros que tengan",
+        "partidas [color:black]en esta consola[color:blue][color:black]![color:blue][defcolor][color:black][pagebreak]",
+        "[defcolor][delay:15]Y aunque juegues solo, yo siempre",
+        "te podré guardar [color:red][icon:rainbow_starbit][defcolor], ¡para eso soy",
+        "el tesorero!"
+      ],
+      "UsFrench": [
+        "M. [player:0], devine quoi! J'ai décidé de",
+        "devenir un [color:red]banquier[defcolor]![pagebreak]",
+        "Si tu me remets des [color:red]éclats",
+        "d'étoile [defcolor][icon:rainbow_starbit]...[pagebreak]",
+        "Tu pourras les [color:red]partager [defcolor]avec les",
+        "[color:blue]joueurs des autres fichiers de",
+        "sauvegarde[defcolor]![color:black][pagebreak]",
+        "[color:black][delay:15][color:black]Ou alors, si tu joues seul, je peux",
+        "garder tes précieux éclats d'étoile en",
+        "lieu sûr![defcolor]"
+      ],
+      "EuFrench": [
+        "[player:0], écoute ça!",
+        "J'ai ouvert une [color:blue][color:red]banque[color:blue][color:black]![color:blue][defcolor][pagebreak]",
+        "Grâce à moi tu peux [color:red]partager [defcolor]tes [icon:rainbow_starbit][color:red]",
+        "[color:black]avec [color:red][color:blue]un [color:red][defcolor][color:blue]joueur qui utilise un autre",
+        "fichier de sauvegarde[color:black]![color:blue][defcolor][pagebreak]",
+        "Super, non?[color:black][delay:15] Oh, bien sûr, si tu joues",
+        "tout seul, je peux simplement garder",
+        "tes [color:blue][icon:rainbow_starbit] [color:black]en réserve![color:blue][color:black][defcolor][pagebreak]",
+        "En plus de ça, j'essaierai de trouver",
+        "des [color:blue][icon:rainbow_starbit] [color:black]pour les ajouter à ton compte![color:blue][defcolor]"
+      ],
+      "EuGerman": [
+        "[player:0], hör dir das an![pagebreak]",
+        "Ich habe mich darauf spezialisiert, ",
+        "[color:blue][color:red]für andere[color:blue] [defcolor]funkelnde [icon:rainbow_starbit] [color:purple]Sternenteile",
+        "[defcolor][color:red]einzulagern[defcolor][color:black]! Ist das nicht toll?[defcolor][pagebreak]",
+        "Wenn du mir [icon:rainbow_starbit] [color:red][color:purple]Sternenteile [color:red][color:black]zur[color:red][defcolor][color:black]",
+        "[defcolor]Aufbewahrung dalässt...[pagebreak]",
+        "[color:blue][color:black]Dann kannst du sie [color:blue][color:black]mit Freunden",
+        "aus [color:blue]anderen Spieldateien teilen[defcolor][color:black]![defcolor][color:black][pagebreak]",
+        "[defcolor][color:black]Wenn du aber als einziger dieses Spiel",
+        "spielst, kannst du die [color:blue][icon:rainbow_starbit] [color:black]trotzdem bei",
+        "mir lassen. [color:blue][color:black]Natürlich mit Bonus![defcolor]"
+      ],
+      "EuItalian": [
+        "[player:0], vuoi sapere la novità?",
+        "Sono diventato [color:red]Custode di",
+        "Astroschegge [defcolor][icon:rainbow_starbit]![pagebreak]",
+        "Se mi dai delle [color:purple]Astroschegge [defcolor][icon:rainbow_starbit],",
+        "potrai [color:blue][color:red]condividerle[color:blue] [color:black]con gli [color:blue]altri file di",
+        "salvataggio[defcolor]![pagebreak]",
+        "Se preferisci non condividerle, posso",
+        "anche solo tenere le tue",
+        "[color:purple]Astroschegge [defcolor][color:black][icon:rainbow_starbit]![defcolor]"
+      ],
+      "EuDutch": [
+        "[player:0], guess what? I decided to",
+        "become a [color:blue][color:red]banker[color:blue][color:black]![color:blue][defcolor][pagebreak]",
+        "If you give me [icon:rainbow_starbit] [color:red]Star Bits [defcolor]to hold",
+        "on to...[pagebreak]",
+        "[color:blue][color:black]I can help you[color:blue] [color:red]share your [color:blue][icon:rainbow_starbit] with",
+        "other players using save files[color:black]![color:blue][defcolor][color:black][pagebreak]",
+        "[defcolor][color:black][delay:15]Or if you're playing solo, I can still",
+        "hold on to your Star Bits. I'll try and",
+        "get more to add to your total![defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[player:0]さん、 [ruby:聞;き]いてくださ～い!",
+        "わたし [color:blue][color:red]あずかり[ruby:屋;や][color:blue][color:black]さん[color:blue][defcolor]をはじめたんです![pagebreak]",
+        "わたしに [icon:rainbow_starbit][color:red]スターピース[defcolor]を",
+        "あずけてもらえると…[pagebreak]",
+        "[color:blue][color:black]なんと! [color:blue][ruby:別;べつ]のセーブファイルで[ruby:遊;あそ]んでいる[ruby:人;ひと][defcolor]と ",
+        "[icon:rainbow_starbit][color:red]スターピースを[ruby:分;わ]け[ruby:合;あ]える[color:black]んです[color:red][defcolor][color:black][pagebreak]",
+        "[defcolor][color:black][delay:15]あ![defcolor] もちろん、 [ruby:一人;ひとり]で[ruby:遊;あそ]んでても ",
+        "あずけてくれたら [color:black]わたしも[ruby:一緒;いっしょ]にがんばります[defcolor]"
+      ],
+      "KrKorean": [
+        "[player:0]님, 제 말 좀 들어 주세요～!",
+        "저 이번에 [color:blue][color:red]보관담당자 [color:blue][color:black]일을 시작했어요![color:blue][defcolor][pagebreak]",
+        "저에게 [icon:rainbow_starbit][color:red]스타구슬[defcolor]을 맡겨 주시면…[pagebreak]",
+        "놀라지 마세요! [color:blue]다른 저장 파일로 플레이하는",
+        "사람[defcolor]과 [icon:rainbow_starbit][color:red]스타구슬을 나눠 가질 수 있어[color:black]요[color:red][defcolor][color:black][pagebreak]",
+        "[defcolor][color:black][delay:15]아! 물론 혼자 플레이하더라도 맡겨 주시면[defcolor]",
+        "저도 열심히 모아 드릴게요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[player:0][color:black]，[defcolor]聽我說！",
+        "我開始當[color:red]奇諾比奧保管人[defcolor]！[pagebreak]",
+        "如果把[icon:rainbow_starbit][color:red]星塵[color:black]交給我保管[color:red][defcolor]…[pagebreak]",
+        "[color:blue][color:blue][color:black]可以和[color:blue]玩[color:black][color:blue]其他儲存檔案的[color:blue][color:blue]玩家",
+        "[color:blue][defcolor][color:red]分[defcolor][color:red]享[color:red][icon:rainbow_starbit][color:red]星塵[color:black]！[color:red][defcolor][pagebreak]",
+        "[delay:15][color:black]當然啦！你一個人玩時，",
+        "若[defcolor][color:black]交給我保管，[color:black]我也會一起加油[color:black]。[defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "KinopioBank_Flow002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_YAHOO",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I've been working hard finding",
+        "more [icon:purple_starbit][color:blue] Star Bits[defcolor] for you! I can",
+        "add [color:blue][intvar:3;0;0] [color:black]to your total![color:blue][defcolor]"
+      ],
+      "EuEnglish": [
+        "I've been working hard finding",
+        "more [icon:purple_starbit][color:blue] Star Bits[defcolor] for you! I can",
+        "add [color:blue][intvar:3;0;0] [color:black]to your total![color:blue][defcolor]"
+      ],
+      "UsSpanish": [
+        "He estado buscando más",
+        "[color:blue]trozos de estrella[defcolor] [icon:purple_starbit] para ti.",
+        "¡Te conseguí [color:blue][intvar:3;0;0] [color:black]más![color:blue][defcolor]"
+      ],
+      "EuSpanish": [
+        "He estado buscando [icon:purple_starbit] para ti.",
+        "Al final, he conseguido [color:blue][intvar:3;0;0] [color:black]más.[color:blue][defcolor]"
+      ],
+      "UsFrench": [
+        "Ah, j'oubliais! J'ai trouvé des [color:blue]éclats[defcolor]",
+        "[color:blue]d'étoile [defcolor][icon:purple_starbit] dans les environs! J'en ai",
+        "ajouté [color:blue][intvar:3;0;0][color:black] à ton solde![color:blue][defcolor]"
+      ],
+      "EuFrench": [
+        "J'ai ajouté à ton compte tous les [icon:purple_starbit]",
+        "[color:black]que j'ai pu trouver! En voici [defcolor][color:blue][intvar:3;0;0]",
+        "[color:black]pour toi[color:blue][defcolor]! [size:small]Non, non, ne me remercie pas..."
+      ],
+      "EuGerman": [
+        "Nimm diesen Bonus, da du so",
+        "vertrauensvoll deine [icon:purple_starbit] [color:purple]Sternenteile[defcolor]",
+        "bei mir eingelagert hast: [color:red][icon:rainbow_starbit][defcolor][color:red][icon:x_mark][defcolor][color:blue][intvar:3;0;0][defcolor]!"
+      ],
+      "EuItalian": [
+        "Anch'io mi sono dato da fare per",
+        "raccogliere [color:blue]Astroschegge[defcolor] [icon:purple_starbit]!",
+        "Ora te ne ho aggiunte [color:blue][intvar:3;0;0][color:black]![color:blue][defcolor]"
+      ],
+      "EuDutch": [
+        "I've been working hard finding",
+        "more [icon:purple_starbit][color:blue] Star Bits[defcolor] for you! I can",
+        "add [color:blue][intvar:3;0;0] [color:black]to your total![color:blue][defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "そうそう! わたしもがんばって[icon:purple_starbit][color:blue]スターピース[defcolor]",
+        "[ruby:集;あつ]めましたー! [color:blue][intvar:3;0;0]コ[defcolor][ruby:増;ふ]やしておきます!"
+      ],
+      "KrKorean": [
+        "아, 맞다! 저도 열심히 [icon:purple_starbit][color:blue]스타구슬[defcolor]을",
+        "모았어요! [color:blue][intvar:3;0;0]개[defcolor] 드릴게요!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "對了！我也在努力收集[icon:purple_starbit][color:blue]星塵[color:black]！",
+        "我在保管庫多存了[color:blue][defcolor][color:blue][intvar:3;0;0]顆[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "KinopioBank_Flow003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_HEY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Right now I have [color:red][icon:rainbow_starbit][icon:x_mark][intvar:3;0;0] [color:black]in all[color:red][defcolor]!",
+        "Would you like to make a [color:blue]deposit [defcolor]or",
+        "[color:blue]withdrawal[defcolor]?"
+      ],
+      "EuEnglish": [
+        "Right now I have [color:red][icon:rainbow_starbit][icon:x_mark][intvar:3;0;0] [color:black]in all[color:red][defcolor]!",
+        "Would you like to make a [color:blue]deposit [defcolor]or",
+        "[color:blue]withdrawal[defcolor]?"
+      ],
+      "UsSpanish": [
+        "El saldo en tu cuenta es: [color:red][icon:rainbow_starbit][icon:x_mark][intvar:3;0;0][color:black].[color:red][defcolor]",
+        "¿Quieres hacer un [color:blue]depósito[defcolor] o",
+        "un [color:blue]retiro[defcolor]?"
+      ],
+      "EuSpanish": [
+        "Ahora mismo tengo [color:red][intvar:3;0;0] [color:black][color:red][icon:rainbow_starbit][color:black].[color:red][defcolor]",
+        "¿Quieres [color:blue]sacar o guardar [defcolor]trozos",
+        "de estrella?"
+      ],
+      "UsFrench": [
+        "J'ai un total de [color:red][intvar:3;0;0] [defcolor][color:red][icon:rainbow_starbit] [color:black]en ce",
+        "moment! Veux-tu en [color:blue]déposer [color:black]ou en",
+        "[color:blue]retirer[color:black], M. [color:red][defcolor][player:0]?"
+      ],
+      "EuFrench": [
+        "Tu disposes de [color:red][intvar:3;0;0] [defcolor][color:red][icon:rainbow_starbit][defcolor] dans ta",
+        "réserve! Si tu veux, tu peux faire un",
+        "[color:blue]dépôt [defcolor]ou un [color:blue]retrait[color:black].[color:blue][defcolor]"
+      ],
+      "EuGerman": [
+        "Dein Lagerstand beträgt zur Zeit",
+        "[color:red][icon:rainbow_starbit][defcolor][color:red][icon:x_mark][defcolor][color:red][intvar:3;0;0][defcolor]! Möchtest du [color:blue]auf",
+        "deine [color:purple][icon:rainbow_starbit] Sternenteile [color:blue]zugreifen[defcolor]?"
+      ],
+      "EuItalian": [
+        "Adesso hai [color:red][color:red][intvar:3;0;0] [color:red][icon:rainbow_starbit][color:black] in tutto[color:red][defcolor][color:black]!",
+        "[defcolor]Puoi [color:blue]darmi in custodia[defcolor][color:black] o [color:blue]ritirare",
+        "[color:black][defcolor][color:blue]Astroschegge[defcolor] [color:blue][icon:purple_starbit][defcolor]. Procedi?"
+      ],
+      "EuDutch": [
+        "Right now I have [color:red][icon:rainbow_starbit][icon:x_mark][intvar:3;0;0] [color:black]in all[color:red][defcolor]!",
+        "Would you like to make a [color:blue]deposit [defcolor]or",
+        "[color:blue]withdrawal[defcolor]?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:今;いま]は [color:red][icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]コ[defcolor]もってま～す!",
+        "[color:blue]ひきだしたり[defcolor] わたしに[color:blue]あずけたり[defcolor] しますか?"
+      ],
+      "KrKorean": [
+        "지금은 [color:red][icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]개 [defcolor]갖고 있어요～!",
+        "[color:blue]찾아가거나 [defcolor]저에게 [color:blue]맡기거나 [defcolor]하실래요?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "目前有[color:red][icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]顆[defcolor]！",
+        "[color:black]你[defcolor][color:blue][color:black]要[color:blue]領取[color:black]或[color:blue][color:black]交[color:blue][defcolor]給我[color:blue]保管[color:black]嗎[color:blue][defcolor]?"
+      ]
+    }
+  },
+  {
+    "label": "KinopioBank_Flow004",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You sure have a lot of [icon:rainbow_starbit] [color:red]Star Bits[defcolor]![pagebreak]",
+        "Oh, by the way, I found [color:black]this[defcolor] [icon:one_up_mushroom] a",
+        "little while ago! Think you can use it?"
+      ],
+      "EuEnglish": [
+        "You sure have a lot of [icon:rainbow_starbit] [color:red]Star Bits[defcolor]![pagebreak]",
+        "Here's a little [icon:one_up_mushroom] bonus for you...",
+        "Hope it helps!"
+      ],
+      "UsSpanish": [
+        "¡Tienes muchos [color:red]trozos de estrella [defcolor][icon:rainbow_starbit]![pagebreak]",
+        "¡Oh, por cierto! Encontré este [icon:one_up_mushroom] y",
+        "creo que puede servirte, ¿verdad?"
+      ],
+      "EuSpanish": [
+        "¡Vaya, tienes un montón de [icon:rainbow_starbit]![pagebreak]",
+        "Por cierto, me he encontrado [icon:one_up_mushroom]",
+        "por ahí. ¡Toma!"
+      ],
+      "UsFrench": [
+        "Woah! Tu possèdes beaucoup d'[color:red]éclats",
+        "d'étoile [defcolor][icon:rainbow_starbit]![pagebreak]",
+        "Oh, au fait, j'ai trouvé un [icon:one_up_mushroom] durant",
+        "mes recherches! Je crois qu'il te sera",
+        "plus utile qu'à moi..."
+      ],
+      "EuFrench": [
+        "Tu as une sacrée réserve de [icon:rainbow_starbit],",
+        "pas de doute![pagebreak]",
+        "Ah, au fait, j'ai trouvé [color:green][color:green]ceci[color:green] [defcolor][icon:one_up_mushroom] il y a",
+        "quelque temps. Tu crois que ça peut",
+        "te servir?"
+      ],
+      "EuGerman": [
+        "Das sind ganz schön",
+        "viele [icon:rainbow_starbit] [color:purple]Sternenteile[defcolor]![pagebreak]",
+        "Schau mal! Ich habe[color:green][color:green] [color:green]das hier [defcolor]im Lager",
+        "gefunden! Wär das was für dich?"
+      ],
+      "EuItalian": [
+        "Hai proprio tante [color:red]Astroschegge[defcolor] [icon:rainbow_starbit]![pagebreak]",
+        "Oh, a proposito! Ho trovato dei",
+        "[color:green]Funghi 1-Up [defcolor][icon:one_up_mushroom]... Tieni!"
+      ],
+      "EuDutch": [
+        "You sure have a lot of [icon:rainbow_starbit] [color:red]Star Bits[defcolor]![pagebreak]",
+        "Here's a little [icon:one_up_mushroom] bonus for you...",
+        "Hope it helps!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ずいぶん[icon:rainbow_starbit][color:red]スターピース[defcolor]が[ruby:集;あつ]まってきましたね![pagebreak]",
+        "そうそう! さっき[icon:one_up_mushroom][color:green]コレ[defcolor][ruby:見;み]つけたんです!",
+        "[ruby:冒険;ぼうけん]に[ruby:役立;やくだ]ててください!"
+      ],
+      "KrKorean": [
+        "[icon:rainbow_starbit][color:red]스타구슬[defcolor]이 많이 모였네요![pagebreak]",
+        "아, 참! 아까 [icon:one_up_mushroom][color:green]이것[defcolor]을 발견했어요!",
+        "모험에 유용하게 써 주세요!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:rainbow_starbit][color:red]星塵[defcolor]增加了不少哦！[pagebreak]",
+        "你看！剛才我找到[icon:one_up_mushroom][color:green]這個[defcolor]！",
+        "希望對你在冒險的時候有所幫助！"
+      ]
+    }
+  },
+  {
+    "label": "KinopioBank_Flow005",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_HAPPY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Thanks for using your local banktoad!"
+      ],
+      "EuEnglish": [
+        "Thanks for using your local banktoad!"
+      ],
+      "UsSpanish": [
+        "¡Gracias por confiar en mí!"
+      ],
+      "EuSpanish": [
+        "¡Gracias por confiar en mí!"
+      ],
+      "UsFrench": [
+        "Merci de me faire confiance!"
+      ],
+      "EuFrench": [
+        "Merci de faire confiance à ton",
+        "Toad banquier!"
+      ],
+      "EuGerman": [
+        "Mein Lager für",
+        "[color:purple][icon:rainbow_starbit] Sternenteile [defcolor]ist",
+        "ein voller Erfolg! ♪"
+      ],
+      "EuItalian": [
+        "Torna presto!"
+      ],
+      "EuDutch": [
+        "Thanks for using your local banktoad!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ご[ruby:利用;りよう]ありがとうございました～"
+      ],
+      "KrKorean": [
+        "이용해 주셔서 감사합니다～"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "謝謝您的光臨！"
+      ]
+    }
+  },
+  {
+    "label": "KinopioBank_Flow006",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_JOYFUL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Nice glasses, huh? I think they make",
+        "me look like I'm good at math! Heh!"
+      ],
+      "EuEnglish": [
+        "Nice glasses, huh? I think they make",
+        "me look like I'm good at maths! Heh!"
+      ],
+      "UsSpanish": [
+        "¿Te gustan mis lentes verdad? ¡Creo ",
+        "que me hacen parecer un genio de las",
+        "matemáticas! ¡Je, je, je!"
+      ],
+      "EuSpanish": [
+        "¿A que están chulas mis gafas?",
+        "¡Así parece que se me dan bien",
+        "las matemáticas! ¡Je, je, je!"
+      ],
+      "UsFrench": [
+        "Que penses-tu de mes lunettes? J'ai",
+        "l'air d'un grand mathématicien, non?",
+        "[size:small]...Non? Bah..."
+      ],
+      "EuFrench": [
+        "Tu as vu mes lunettes? On dirait un",
+        "vrai premier de la classe, pas vrai?",
+        "La compta, c'est pour moi! Hé hé!"
+      ],
+      "EuGerman": [
+        "Schöne Brille, nicht wahr?",
+        "Sehe ich mit ihr nicht wie ein",
+        "echter Verwalter aus?[size:small] Hihihi..."
+      ],
+      "EuItalian": [
+        "Che ne pensi di questi occhiali?",
+        "Non credi che mi facciano sembrare",
+        "più intelligente?"
+      ],
+      "EuDutch": [
+        "Nice glasses, huh? I think they make",
+        "me look like I'm good at maths! Heh!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "このメガネ どうですか?",
+        "[ruby:計算上手;けいさんじょうず]にみえませんか?・・・フフフ"
+      ],
+      "KrKorean": [
+        "이 안경 쓰니까 어때 보여요?",
+        "똑 부러져 보이나요? 에헷!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "我戴眼鏡如何?",
+        "看起來很精明吧?…嘻嘻！"
+      ]
+    }
+  },
+  {
+    "label": "KinopioBank_Flow007",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_TIRED",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I thought someone was after my [icon:rainbow_starbit],",
+        "so I started carrying a spear to look",
+        "tough.[delay:15] But it's so...[size:small]heavy!"
+      ],
+      "EuEnglish": [
+        "I thought someone was after my [icon:rainbow_starbit],",
+        "so I started carrying a spear to look",
+        "tough.[delay:15] But it's so...[size:small]heavy!"
+      ],
+      "UsSpanish": [
+        "Alguien planeaba robar los [icon:rainbow_starbit], así que",
+        "ahora llevo una lanza para evitarlo.",
+        "¡No veas cómo pesa! [size:small]¡Uf!"
+      ],
+      "EuSpanish": [
+        "Llevo esta lanza para que nadie",
+        "intente robarme los [icon:rainbow_starbit].[delay:15]",
+        "¡Pero no veas cómo pesa! [size:small]¡Uf!"
+      ],
+      "UsFrench": [
+        "J'ai peur de me faire voler mes [icon:rainbow_starbit],",
+        "alors je transporte une lance pour",
+        "avoir l'air d'un dur! [size:small]Ouf... C'est lourd."
+      ],
+      "EuFrench": [
+        "Pour protéger mes [icon:rainbow_starbit] des bandits,",
+        "je me suis équipé d'une lance...[delay:15]",
+        "pfff...[size:small] mais elle est vraiment lourde!"
+      ],
+      "EuGerman": [
+        "Jemand könnte mir die [icon:rainbow_starbit] stibitzen,",
+        "daher trage ich jetzt diesen Schild![delay:15]",
+        "Wäre er nur nicht so...[size:small] schwer!"
+      ],
+      "EuItalian": [
+        "Credevo che ci fosse qualcuno che",
+        "volesse prendere le mie [icon:rainbow_starbit] e ho preso",
+        "una lancia per difendermi... [delay:15][size:small]Ma pesa!"
+      ],
+      "EuDutch": [
+        "I thought someone was after my [icon:rainbow_starbit],",
+        "so I started carrying a spear to look",
+        "tough.[delay:15] But it's so...[size:small]heavy!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "わたしの[icon:rainbow_starbit]を[ruby:狙;ねら]うやつがいるんじゃないかと、",
+        "[ruby:武器;ぶき]を[ruby:持;も]ってみたんですが・・・・・・[delay:15]お、 [ruby:重;おも]た…[size:small]い…"
+      ],
+      "KrKorean": [
+        "제 [icon:rainbow_starbit]을 노리는 녀석이 있을까 봐",
+        "무기를 지참했는데…… [delay:15]무, 무거…[size:small]워요…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "似乎有人想要我的[icon:rainbow_starbit]",
+        "我有試著拿武器…[delay:15]哇！好重…[size:small]啊…"
+      ]
+    }
+  },
+  {
+    "label": "KinopioBank_Flow008",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_HAPPY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I'm digging everywhere looking for [icon:purple_starbit]!",
+        "[size:small]...But I haven't found any treasure."
+      ],
+      "EuEnglish": [
+        "I'm digging everywhere looking for [icon:purple_starbit]!",
+        "[size:small]...But I haven't found any treasure."
+      ],
+      "UsSpanish": [
+        "Estoy excavando en busca de [icon:purple_starbit].",
+        "[size:small]Pero aún no he encontrado ningún tesoro..."
+      ],
+      "EuSpanish": [
+        "Estoy excavando en busca de [icon:purple_starbit].",
+        "[size:small]Pero nada, parece que no hay suerte..."
+      ],
+      "UsFrench": [
+        "Je creuse partout à la recherche",
+        "d'[icon:purple_starbit]! [size:small]Mais je n'ai encore rien trouvé..."
+      ],
+      "EuFrench": [
+        "Je creuse partout à la recherche",
+        "de [icon:purple_starbit]! [size:small]Mais je n'ai encore rien trouvé..."
+      ],
+      "EuGerman": [
+        "Ich schürfe jetzt überall nach",
+        "[icon:purple_starbit] [color:purple]Sternenteilen[defcolor]! [size:small]Bisher aber ohne Erfolg..."
+      ],
+      "EuItalian": [
+        "Scavo dappertutto in cerca di tesori...",
+        "Ma trovo solo [color:blue]Astroschegge[defcolor] [icon:purple_starbit]!"
+      ],
+      "EuDutch": [
+        "I'm digging everywhere looking for [icon:purple_starbit]!",
+        "[size:small]...But I haven't found any treasure."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:地面;じめん]を[ruby:掘;ほ]って[icon:purple_starbit][color:blue]スターピース[defcolor]を[ruby:探;さが]してます!",
+        "[size:small]……ついでにお[ruby:宝;たから]が[ruby:出;で]てこないかなぁ～"
+      ],
+      "KrKorean": [
+        "땅을 파서 [icon:purple_starbit][color:blue]스타구슬[defcolor]을 찾고 있어요!",
+        "[size:small]……덩달아 보물도 찾는데 없네요～"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "我在挖掘地面尋找[icon:purple_starbit][color:blue]星塵[defcolor]！",
+        "[size:small]…順便看看有沒有寶藏?…"
+      ]
+    }
+  },
+  {
+    "label": "KinopioBank_Flow009",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_JOYFUL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I decided to continue my search for",
+        "[icon:purple_starbit] [color:blue]Star Bits[defcolor] with a trip to the",
+        "southern seas![pagebreak]",
+        "[size:small]So don't call it a vacation...grumble grumble."
+      ],
+      "EuEnglish": [
+        "I decided to continue my search for",
+        "[icon:purple_starbit] [color:blue]Star Bits[defcolor] with a trip to the",
+        "southern seas![pagebreak]",
+        "[size:small]So don't call it a holiday...grumble grumble."
+      ],
+      "UsSpanish": [
+        "¡He decidido llevar mi búsqueda de [icon:purple_starbit]",
+        "a los mares del sur![pagebreak]",
+        "[size:small]¡Qué pena estar aquí y tener que trabajar![size:normal]"
+      ],
+      "EuSpanish": [
+        "¡He decidido llevar mi búsqueda de [icon:purple_starbit]",
+        "a los mares del sur![pagebreak]",
+        "[size:small]¡Qué rabia, yo trabajando y todo el mundo",
+        "en la playa![size:normal]"
+      ],
+      "UsFrench": [
+        "Je me suis rendu jusqu'aux tropiques",
+        "pour trouver des [color:blue]éclats d'étoile [defcolor][icon:purple_starbit] au",
+        "fond de la mer![pagebreak]",
+        "[size:small]Personne ne me croit quand je dis que",
+        "c'était un voyage d'affaires... Grrmbl..."
+      ],
+      "EuFrench": [
+        "J'ai décidé que le meilleur endroit",
+        "pour chercher des [icon:purple_starbit], c'est les",
+        "tropiques![pagebreak]",
+        "[size:small]Ah, non, non, ce ne sont pas des vacances,",
+        "pas du tout! Groumpf..."
+      ],
+      "EuGerman": [
+        "Ich habe entschieden, in den Tropen",
+        "weiter nach [icon:purple_starbit] [color:purple]Sternenteilen [defcolor]zu suchen.",
+        "[size:small]Von wegen Urlaub... Grummel grummel..."
+      ],
+      "EuItalian": [
+        "Ho deciso di andare a raccogliere",
+        "[color:blue]Astroschegge[defcolor] [icon:purple_starbit]... ai Tropici![pagebreak]",
+        "[size:small]Per favore, non chiamatela vacanza! Uff..."
+      ],
+      "EuDutch": [
+        "I decided to continue my search for",
+        "[icon:purple_starbit] [color:blue]Star Bits[defcolor] with a trip to the",
+        "southern seas![pagebreak]",
+        "[size:small]So don't call it a holiday...grumble grumble."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:近頃;ちかごろ]は、 [icon:purple_starbit][color:blue]スターピース[defcolor]を[ruby:探;さが]しに[ruby:南国;なんごく]の[ruby:海;うみ]へ!",
+        "[size:small][ruby:決;けっ]してバカンスでは・・・・・・ゴニョゴニョ・・・"
+      ],
+      "KrKorean": [
+        "요즘엔 [icon:purple_starbit][color:blue]스타구슬[defcolor]을 남국의 바다에서 찾고",
+        "있어요! [size:small]절대 바캉스가 아니라고요…… 구시렁구시렁…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "最近為了尋找[icon:purple_starbit][color:blue]星塵[color:black]去[color:blue][defcolor]南國大海！",
+        "[size:small]才不是度假呢……嗯…哼…"
+      ]
+    }
+  },
+  {
+    "label": "KinopioBank_Flow010",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_TIRED",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I went looking for [icon:purple_starbit] in a cave! But",
+        "I wasn't on a pleasure trip like our",
+        "so-called [color:red]captain[defcolor]![size:small] [delay:30]Don't tell him I said that."
+      ],
+      "EuEnglish": [
+        "I went looking for [icon:purple_starbit] in a cave! But",
+        "I wasn't on a pleasure trip like our",
+        "so-called [color:red]captain[defcolor]![size:small] [delay:30]Don't tell him I said that."
+      ],
+      "UsSpanish": [
+        "¡He decidido llevar mi búsqueda de [icon:purple_starbit]",
+        "a alguna cueva! No te preocupes, ¡que",
+        "yo no me perderé como nuestro [color:red]jefe[defcolor]!"
+      ],
+      "EuSpanish": [
+        "Se me ocurrió ir a buscar [icon:purple_starbit] por las",
+        "cuevas. Pero lo mío no es por dar un",
+        "paseíto, como el [color:red]jefe[defcolor].[size:small] [delay:30]No te chives, ¿eh?"
+      ],
+      "UsFrench": [
+        "Je cherche des [icon:purple_starbit] dans les grottes!",
+        "Je ne suis pas en [color:red]vacances[defcolor], comme",
+        "le capitaine! [size:small]Ne lui dis pas que j'ai dit ça."
+      ],
+      "EuFrench": [
+        "Les grottes sont connues pour",
+        "renfermer plein de [icon:purple_starbit]![pagebreak]",
+        "Mais attention, je ne fais pas de la",
+        "spéléo juste pour le plaisir comme",
+        "notre [color:red]capitaine[color:black]![color:red][defcolor][size:small][delay:30] Heu, ne lui répète pas ça..."
+      ],
+      "EuGerman": [
+        "Ich habe in einer Höhle nach",
+        "[icon:purple_starbit] [color:purple]Sternenteilen [defcolor]gesucht.[pagebreak]",
+        "Von wegen! Nicht so ein spontaner",
+        "Ausflug, wie unser [color:red]Kapitän[defcolor] sie ständig",
+        "unternimmt![delay:30] [size:small]Das bleibt jetzt aber unter uns!"
+      ],
+      "EuItalian": [
+        "Ho deciso di andare a cercare[color:blue] [defcolor][icon:purple_starbit]",
+        "in una grotta! Ma non preoccuparti!",
+        "Io non mi perdo... [size:small][delay:30]come il [color:red]Capitano[defcolor]!"
+      ],
+      "EuDutch": [
+        "I went looking for [icon:purple_starbit] in a cave! But",
+        "I wasn't on a pleasure trip like our",
+        "so-called [color:red]captain[defcolor]![size:small] [delay:30]Don't tell him I said that."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:最近;さいきん]は、[ruby:洞窟;どうくつ]の[ruby:中;なか]まで[icon:purple_starbit][ruby:探;さが]しにいってるんです",
+        "[ruby:決;けっ]して!! [color:red][icon:toad]あの[ruby:隊長;たいちょう][defcolor]のマネではないですから!!"
+      ],
+      "KrKorean": [
+        "요즘엔 동굴 안으로까지 [icon:purple_starbit] 찾으러 다녀요",
+        "절대로!! [color:red][icon:toad]그 대장님 [defcolor]흉내 내는 게 아니에요!!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "我最近找[icon:purple_starbit]找到洞穴去了！",
+        "絕不是因為在模仿[color:red][icon:toad]那個隊長[defcolor]啦！"
+      ]
+    }
+  },
+  {
+    "label": "KinopioBank_Flow011",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_KINOPIO_TALK_YAHOO",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Unbelievable! So many[color:red] [defcolor][icon:rainbow_starbit]! I can't",
+        "even hold on to any more for you...",
+        "[size:small]What to do..."
+      ],
+      "EuEnglish": [
+        "Unbelievable! So many[color:red] [defcolor][icon:rainbow_starbit]! I can't",
+        "even hold on to any more for you...",
+        "[size:small]What to do..."
+      ],
+      "UsSpanish": [
+        "Jamás pensé que diría esto, ¡pero",
+        "tengo demasiados[color:red] [defcolor][icon:rainbow_starbit]! No puedo",
+        "guardarte ninguno más... [size:small]¡Qué lástima!"
+      ],
+      "EuSpanish": [
+        "Jamás pensé que diría esto, ¡pero",
+        "tengo demasiados[color:red] [defcolor][icon:rainbow_starbit]! No puedo",
+        "guardarte ninguno más... [size:small]¡Qué lástima!"
+      ],
+      "UsFrench": [
+        "Incroyable! Tu as tellement d'[icon:rainbow_starbit]",
+        "que je ne peux plus en prendre...",
+        "[size:small]Mais qu'est-ce que je vais faire..."
+      ],
+      "EuFrench": [
+        "Ouah! Tous [color:red]ces [defcolor][icon:rainbow_starbit]! Ta réserve est",
+        "pleine à craquer, il n'y a plus de",
+        "place... [size:small]Mais que faire?..."
+      ],
+      "EuGerman": [
+        "Wow! [color:red]So viele[defcolor] [icon:rainbow_starbit] [color:purple]Sternenteile[defcolor]!",
+        "Aber jetzt kann ich keine mehr für",
+        "dich aufnehmen... [size:small]Was mach ich nur?"
+      ],
+      "EuItalian": [
+        "Quante [color:red]Astroschegge[defcolor] [icon:rainbow_starbit]! Mi dispiace,",
+        "ma non ne posso accettare di più!",
+        "[size:small]Che peccato!!!"
+      ],
+      "EuDutch": [
+        "Unbelievable! So many[color:red] [defcolor][icon:rainbow_starbit]! I can't",
+        "even hold on to any more for you...",
+        "[size:small]What to do..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "わぁ! [icon:rainbow_starbit][color:red]スターピース[defcolor]がいーっぱい!!",
+        "けど、 これ[ruby:以上;いじょう]あずかれないんです・・・[size:small] あわわ・・・"
+      ],
+      "KrKorean": [
+        "우와아! [icon:rainbow_starbit][color:red]스타구슬[defcolor]이 정말 많네요!! 하지만",
+        "더 이상은 맡아 드릴 수가 없어요… [size:small]에구구…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "嘩！好多[icon:rainbow_starbit][color:red]星塵[defcolor]!!",
+        "我無法再保管了…[size:small] 怎麼…嘩…"
+      ]
+    }
+  }
+]

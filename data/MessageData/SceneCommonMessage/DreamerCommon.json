@@ -1,0 +1,328 @@
+[
+  {
+    "label": "SuperDreamerCommon000_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_HELPERWITCH_TALK_SMILE_2",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Are you in need of a helping hand?[delay:15]",
+        "Would you like me to[color:black] guide you",
+        "to the [icon:star]?[defcolor]"
+      ],
+      "EuEnglish": [
+        "Are you in need of a helping hand?[delay:15]",
+        "Would you like me to[color:black] guide you",
+        "to the [icon:star]?[defcolor]"
+      ],
+      "UsSpanish": [
+        "Parece que no te vendría mal un",
+        "poco de ayuda...[delay:15] [color:black]¿Quieres que te",
+        "guíe hasta la [icon:star]?[defcolor]"
+      ],
+      "EuSpanish": [
+        "A lo mejor necesitas que te eche",
+        "una mano.[delay:15] ¿Quieres que te guíe",
+        "hasta la[color:black] [icon:star]?[defcolor]"
+      ],
+      "UsFrench": [
+        "Dis-moi, as-tu besoin d'aide?[delay:15]",
+        "Veux-tu que je te guide jusqu'à",
+        "la précieuse [icon:star]?"
+      ],
+      "EuFrench": [
+        "On dirait que tu as besoin d'aide...[delay:15]",
+        "Veux-tu que je te guide jusqu'à",
+        "la [color:black][icon:star]?[defcolor]"
+      ],
+      "EuGerman": [
+        "Es sieht fast so aus, als könntest du",
+        "Hilfe gebrauchen...[delay:15] Soll ich dir den",
+        "Weg zum [color:black][icon:star] [color:yellow]Power-Stern[color:black] zeigen?[defcolor]"
+      ],
+      "EuItalian": [
+        "Hai l'aria di chi ha bisogno di aiuto...[delay:15]",
+        "Vuoi che ti [color:red]guidi fino alla",
+        "[defcolor][color:red]Superstella [defcolor][color:black][icon:star]?[defcolor]"
+      ],
+      "EuDutch": [
+        "Are you in need of a helping hand?[delay:15]",
+        "Would you like me to[color:black] guide you",
+        "to the [icon:star]?[defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "お[ruby:困;こま]りのようですね・・・[delay:15] ",
+        "[color:red]パワースターまで[defcolor][color:red][color:red] [color:red][ruby:導;みちび]いて[color:black]さしあげましょうか?[color:red][defcolor]"
+      ],
+      "KrKorean": [
+        "많이 힘들어 보이는군요…[delay:15] ",
+        "[color:red]파워스타까지 안내[defcolor][color:black]해 드릴까요?[defcolor]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "你現在很困擾嗎?…[delay:15] ",
+        "需要我[color:red][color:black]引導你到[color:red]力量星星[defcolor][color:red]之處[defcolor]嗎?"
+      ]
+    }
+  },
+  {
+    "label": "SuperDreamerCommon000_Flow002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_HELPERWITCH_TALK_AHA",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "If you ever need my [color:red]help[defcolor]...",
+        "[delay:15]I will be here."
+      ],
+      "EuEnglish": [
+        "If you ever need my [color:red]help[defcolor]...",
+        "[delay:15]I will be here."
+      ],
+      "UsSpanish": [
+        "Si alguna vez necesitas mi [color:red]ayuda[defcolor]...",
+        "[delay:15]¡Solo tienes que decírmelo!"
+      ],
+      "EuSpanish": [
+        "Si alguna vez necesitas mi [color:red]ayuda[defcolor]...",
+        "[delay:15]¡Solo tienes que decírmelo!"
+      ],
+      "UsFrench": [
+        "Si tu as besoin de mon [color:red]aide[defcolor],",
+        "[delay:15]sache que je suis ici."
+      ],
+      "EuFrench": [
+        "Si tu as besoin d'[color:red]assistance[defcolor],",
+        "[delay:15]je serai là!"
+      ],
+      "EuGerman": [
+        "Solltest du meine [color:red]Hilfe[defcolor] benötigen...",
+        "[delay:15]Frag mich einfach!"
+      ],
+      "EuItalian": [
+        "Se hai bisogno del mio [color:red]aiuto[defcolor]...",
+        "[delay:15]Ti prego di farmelo sapere."
+      ],
+      "EuDutch": [
+        "If you ever need my [color:red]help[defcolor]...",
+        "[delay:15]I will be here."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "わたしの[color:red][ruby:助;たす]け[color:black]が[color:red][defcolor][ruby:必要;ひつよう]でしたら・・・",
+        "[delay:15]また [ruby:声;こえ]をかけてください"
+      ],
+      "KrKorean": [
+        "제[color:red] 도움[defcolor]이 필요하시다면…",
+        "[delay:15]언제든 말씀해 주세요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "如果需要我的[color:red]幫助[defcolor]…",
+        "[delay:15]記得再叫我。"
+      ]
+    }
+  },
+  {
+    "label": "SuperDreamerCommon000_Flow003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_HELPERWITCH_TALK_SMILE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "If you decide at any time that you",
+        "[color:blue]no longer need my help[defcolor], simply",
+        "[color:red]press [icon:plus_button][defcolor]. Off we go!"
+      ],
+      "EuEnglish": [
+        "If you decide at any time that you",
+        "[color:blue]no longer need my help[defcolor], simply",
+        "[color:red]press [icon:plus_button][defcolor]. Off we go!"
+      ],
+      "UsSpanish": [
+        "Cuando te parezca que [color:blue]no me",
+        "necesitas [defcolor][color:blue]más[defcolor], [color:red]oprime[defcolor] [icon:plus_button].",
+        "¡Allá vamos!"
+      ],
+      "EuSpanish": [
+        "Cuando te parezca que [color:blue]no me",
+        "necesitas [defcolor][color:blue]más[defcolor], [color:red]pulsa[defcolor] [color:red][icon:plus_button][defcolor]. ¡Allá vamos!"
+      ],
+      "UsFrench": [
+        "Si tu sens que tu n'as [color:blue]plus besoin de",
+        "mon aide[defcolor], [color:red]appuie simplement [defcolor][color:red]sur [defcolor][color:red][color:red][icon:plus_button][color:red][defcolor].",
+        "Allons-y..."
+      ],
+      "EuFrench": [
+        "Quand tu estimes que tu n'as",
+        "[color:blue]plus besoin de mon aide[defcolor], [color:red]appuie",
+        "[color:black]simplement sur [color:red][defcolor][color:red][color:red][icon:plus_button][color:red][defcolor]. Allons-y!"
+      ],
+      "EuGerman": [
+        "Wenn du [color:blue]genug gesehen hast[defcolor],",
+        "[color:red]drücke[defcolor] einfach [color:red][color:red][icon:plus_button][color:red][defcolor]. Los geht's!"
+      ],
+      "EuItalian": [
+        "Se dovessi decidere che [color:blue]non hai più",
+        "bisogno del mio aiuto[defcolor], devi soltanto",
+        "[color:red]premere[defcolor] [color:red][color:red][icon:plus_button][color:red][defcolor]. Su! Ora, andiamo!"
+      ],
+      "EuDutch": [
+        "If you decide at any time that you",
+        "[color:blue]no longer need my help[defcolor], simply",
+        "[color:red]press [icon:plus_button][defcolor]. Off we go!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:途中;とちゅう]で [color:blue]わたしの[ruby:助;たす]けがいらなく[color:black]なれば[color:blue][defcolor]、",
+        "[icon:plus_button][color:red]ボタン[defcolor][color:red]を[ruby:押;お]して[color:black]ください[color:red][defcolor][pagebreak]",
+        "では [ruby:参;まい]りましょう!"
+      ],
+      "KrKorean": [
+        "도중에 [color:blue]제 도움이 필요 없어[color:black]지면[color:blue][defcolor]",
+        "[icon:plus_button] [color:red]버튼을 눌러 [defcolor][color:black]주세요[defcolor][pagebreak]",
+        "그럼 시작하겠습니다!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "途中[color:blue]不再需要幫助時[defcolor]，[color:red][color:black]請[color:red]按[defcolor][icon:plus_button][pagebreak]",
+        "來！一起走吧！"
+      ]
+    }
+  },
+  {
+    "label": "SuperDreamerEndCommon000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_HELPERWITCH_TALK_LOOK",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "What you will get is a [color:red][icon:bronze_star] Bronze Star[color:black].",
+        "If a [color:red][defcolor][color:yellow][icon:star] Power Star [color:black]is what [color:black]you seek,[color:black][color:yellow][defcolor][pagebreak]",
+        "you must reach it by yourself.",
+        "[color:black][defcolor]May the stars shine down on you.",
+        "[delay:15]Farewell."
+      ],
+      "EuEnglish": [
+        "What you will get is a [color:red][icon:bronze_star] Bronze Star[color:black].",
+        "If a [color:red][defcolor][color:yellow][icon:star] Power Star [color:black]is what [color:black]you seek,[color:black][color:yellow][defcolor][pagebreak]",
+        "you must reach it by yourself.",
+        "[color:black][defcolor]May the stars shine down on you.",
+        "[delay:15]Farewell."
+      ],
+      "UsSpanish": [
+        "Ahora solo podrás conseguir",
+        "una [color:red]estrella de bronce [defcolor][icon:bronze_star][color:black].[pagebreak]",
+        "Si lo que estás buscando",
+        "es una [defcolor][color:yellow][icon:star][color:black], [color:yellow][defcolor]tendrás que",
+        "conseguirla por tu cuenta.[pagebreak]",
+        "Que la luz de las estrellas",
+        "ilumine tu camino.[delay:15] Adiós."
+      ],
+      "EuSpanish": [
+        "Ahora solo podrás conseguir",
+        "una [color:red]estrella de bronce [defcolor][icon:bronze_star][color:black].[pagebreak]",
+        "Si lo que estás buscando",
+        "es una [defcolor][color:yellow][icon:star][color:black], [color:yellow][defcolor]tendrás que",
+        "conseguirla por tu cuenta.[pagebreak]",
+        "Que la luz de las estrellas",
+        "ilumine tu camino.[delay:15] Adiós."
+      ],
+      "UsFrench": [
+        "Ce que tu obtiendras est une [color:red]étoile",
+        "de bronze [defcolor][icon:bronze_star]. Si tu cherches plutôt",
+        "une [color:yellow]super étoile[defcolor] [color:yellow][icon:star][defcolor]...[color:black][pagebreak]",
+        "...Tu devras y parvenir [color:black]sans mon aide[color:black].",
+        "Que la poussière d'étoiles te protège.[defcolor]"
+      ],
+      "EuFrench": [
+        "Tu ne trouveras ici qu'une [color:red]étoile",
+        "de bronze [defcolor][icon:bronze_star].[color:black][pagebreak]",
+        "[defcolor]Si tu es en quête d'une [color:yellow][icon:star][defcolor], tu dois",
+        "l'obtenir seul. Que les étoiles te",
+        "protègent...[delay:15] Adieu."
+      ],
+      "EuGerman": [
+        "Du erhältst nun einen [icon:bronze_star][color:red] Bronzestern[color:black].",
+        "Vielleicht willst du ja auch lieber",
+        "einen [color:red][defcolor][color:yellow][icon:star] Power-Stern [color:black]mitnehmen[color:yellow][color:black]?!?[color:yellow][defcolor][color:black][pagebreak]",
+        "Dann musst [defcolor]du es jedoch allein",
+        "schaffen[color:black].[defcolor] Mögen die Sternenteile",
+        "mit dir sein.[delay:15] Viel Erfolg!"
+      ],
+      "EuItalian": [
+        "Ciò che otterrai è una [color:red]Stella",
+        "Bronzo [defcolor][icon:bronze_star]. Se quello che cerchi",
+        "è una [color:black][color:yellow]Superstella[color:black] [icon:star]...[defcolor][color:black][pagebreak]",
+        "[defcolor]Dovrai raggiungerla [color:black]senza il mio aiuto.",
+        "[defcolor]Che le stelle illuminino la tua via...",
+        "[delay:15]Addio..."
+      ],
+      "EuDutch": [
+        "What you will get is a [color:red][icon:bronze_star] Bronze Star[color:black].",
+        "If a [color:red][defcolor][color:yellow][icon:star] Power Star [color:black]is what [color:black]you seek,[color:black][color:yellow][defcolor][pagebreak]",
+        "you must reach it by yourself.",
+        "[color:black][defcolor]May the stars shine down on you.",
+        "[delay:15]Farewell."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "この[ruby:先;さき]にあるのは[icon:bronze_star][color:red]ブロンズスター[defcolor]・・・",
+        "[color:yellow][color:black][ruby:真;しん]の[ruby:星;ほし]・・・[color:yellow] [icon:star]パワースター[defcolor]をお[ruby:望;のぞ]みならば、[pagebreak]",
+        "わたしに[ruby:頼;たよ]らず[icon:star][color:yellow]スター[defcolor]まで[ruby:辿;たど]り[ruby:着;つ]いて[ruby:下;くだ]さい",
+        "[ruby:星;ほし]くずの[ruby:恵;めぐ]みがありますよう・・・[delay:15] では さようなら"
+      ],
+      "KrKorean": [
+        "이 앞에 있는 것은 [icon:bronze_star][color:red]브론즈스타[defcolor]…",
+        "[color:yellow][color:black]진정한 별… 즉[color:yellow] [icon:star]파워스타[defcolor]를 원하신다면[pagebreak]",
+        "제 도움 없이 [icon:star][color:yellow]스타[defcolor]를 찾아 주세요",
+        "별의 은총이 함께 하기를…[delay:15] 안녕히…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "前方有[icon:bronze_star][color:red]古[defcolor][color:red]銅星星[color:black]…[color:red]",
+        "[color:black]若想要真正的星星[color:red][defcolor][color:yellow][color:black]…[color:yellow][icon:star]力量星星[color:black]，[color:yellow][defcolor][color:black][pagebreak]",
+        "[defcolor]請不要依靠我，",
+        "獨力去到[icon:star][color:yellow]力量[defcolor][color:yellow]星星[color:black]的地方[color:yellow][defcolor]，[pagebreak]",
+        "願星塵保佑你…[delay:15]再會！"
+      ]
+    }
+  }
+]

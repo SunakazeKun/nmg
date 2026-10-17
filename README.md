@@ -13,7 +13,7 @@ all five regional versions of SMG2.
 - Simplified Chinese localization (``CnSimpChinese``)
 - Portuguese localization (``EuPortuguese``)
 - Brazilian Portuguese localization (``UsPortuguese``)
-- Russian translation (``EuRussian``)
+- Russian localization (``EuRussian``)
 
 ## Setup
 ```TODO: This section needs to be rewritten once the codebase becomes more stable in terms of structure.```
@@ -21,8 +21,7 @@ all five regional versions of SMG2.
 This project requires **Python 3.12+** and additional modules (see [requirements.txt](requirements.txt).) The
 [PyCharm](https://www.jetbrains.com/pycharm/) IDE was primarily used to develop this project, though other IDEs will
 work just fine. To build the Syati module, the CodeWarrior compiler (``mwcceppc.exe`` and ``mwasmeppc.exe``) and the 
-Kamek linker (``Kamek.exe``) are required. Lastly, a dump of all unchanged ``LocalizeData`` assets from the original
-games need to be supplied.
+Kamek linker (``Kamek.exe``) are required.
 
 ## Usage
 

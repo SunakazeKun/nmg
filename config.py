@@ -27,7 +27,6 @@ KAMEK_PATH = Path(os.getenv("KAMEK_PATH")).absolute()
 
 NEW_AUDIO_RES_PATH = Path(os.getenv("NEW_AUDIO_RES_PATH")).absolute()
 ORG_MAIN_DOLS_PATH = Path(os.getenv("ORG_MAIN_DOLS_PATH")).absolute()
-ORG_LOCALIZE_DATA_PATH = Path(os.getenv("ORG_LOCALIZE_DATA_PATH")).absolute()
 
 
 # ======================================================================================================================
@@ -98,15 +97,12 @@ SUPPORTED_LANGUAGES = [
 ]
 
 
+def get_language_region(language: str) -> str:
+    return language[:2]
+
+
 def iter_languages_by_region(region: str) -> Iterable[str]:
     return filter(lambda l: l.startswith(region), SUPPORTED_LANGUAGES)
-
-
-PARTIAL_REPLACEMENTS = [
-    "SystemMessage",
-    "LayoutMessage",
-    "SceneCommonMessage",
-]
 
 
 # ======================================================================================================================
@@ -129,15 +125,21 @@ RIIVO_TARGETS = [
         "EuItalian",
         "EuSpanish",
         "EuFrench",
-        "EuDutch",
+        # "EuDutch",
+        # "EuPortuguese",
+        # "EuRussian",
     ]),
     RiivolutionTarget(id="SB4", region="E", error_msg_arc_addr=0x8064E220, error_msg_arc_size=0x6080, languages=[
         "UsEnglish",
         "UsSpanish",
         "UsFrench",
+        # "UsPortuguese",
     ]),
     RiivolutionTarget(id="SB4", region="J", error_msg_arc_addr=0x8064E220, error_msg_arc_size=0x5860, languages=[]),
-    RiivolutionTarget(id="SB4", region="W", error_msg_arc_addr=0x8064E7C0, error_msg_arc_size=0x5D80, languages=[]),
+    RiivolutionTarget(id="SB4", region="W", error_msg_arc_addr=0x8064E7C0, error_msg_arc_size=0x5D80, languages=[
+        # "AsTradChinese",
+        # "CnSimpChinese",
+    ]),
     RiivolutionTarget(id="SB4", region="K", error_msg_arc_addr=0x8064E7C0, error_msg_arc_size=0x4920, languages=[]),
 ]
 

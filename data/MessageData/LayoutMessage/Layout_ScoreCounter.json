@@ -1,0 +1,112 @@
+[
+  {
+    "label": "ScoreCounter_HiScore",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "HIGH SCORE"
+      ],
+      "EuEnglish": [
+        "HIGH SCORE"
+      ],
+      "UsSpanish": [
+        "Récord"
+      ],
+      "EuSpanish": [
+        "Récord"
+      ],
+      "UsFrench": [
+        "Record"
+      ],
+      "EuFrench": [
+        "Record"
+      ],
+      "EuGerman": [
+        "Highscore:"
+      ],
+      "EuItalian": [
+        "Punti record:"
+      ],
+      "EuDutch": [
+        "HIGH SCORE"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ハイスコア"
+      ],
+      "KrKorean": [
+        "하이스코어"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "最高得分"
+      ]
+    }
+  },
+  {
+    "label": "ScoreCounter_Score",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "SCORE"
+      ],
+      "EuEnglish": [
+        "SCORE"
+      ],
+      "UsSpanish": [
+        "Puntos"
+      ],
+      "EuSpanish": [
+        "Puntos"
+      ],
+      "UsFrench": [
+        "Pointage"
+      ],
+      "EuFrench": [
+        "Points"
+      ],
+      "EuGerman": [
+        "Punkte:"
+      ],
+      "EuItalian": [
+        "Punteggio:"
+      ],
+      "EuDutch": [
+        "SCORE"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "スコア"
+      ],
+      "KrKorean": [
+        "스코어"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "得分"
+      ]
+    }
+  }
+]

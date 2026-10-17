@@ -1,0 +1,112 @@
+[
+  {
+    "label": "System_PlayerName000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Mario"
+      ],
+      "EuEnglish": [
+        "Mario"
+      ],
+      "UsSpanish": [
+        "Mario"
+      ],
+      "EuSpanish": [
+        "Mario"
+      ],
+      "UsFrench": [
+        "Mario"
+      ],
+      "EuFrench": [
+        "Mario"
+      ],
+      "EuGerman": [
+        "Mario"
+      ],
+      "EuItalian": [
+        "Mario"
+      ],
+      "EuDutch": [
+        "Mario"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "マリオ"
+      ],
+      "KrKorean": [
+        "마리오"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "瑪利歐"
+      ]
+    }
+  },
+  {
+    "label": "System_PlayerName100",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Luigi"
+      ],
+      "EuEnglish": [
+        "Luigi"
+      ],
+      "UsSpanish": [
+        "Luigi"
+      ],
+      "EuSpanish": [
+        "Luigi"
+      ],
+      "UsFrench": [
+        "Luigi"
+      ],
+      "EuFrench": [
+        "Luigi"
+      ],
+      "EuGerman": [
+        "Luigi"
+      ],
+      "EuItalian": [
+        "Luigi"
+      ],
+      "EuDutch": [
+        "Luigi"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ルイージ"
+      ],
+      "KrKorean": [
+        "루이지"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "路易吉"
+      ]
+    }
+  }
+]

@@ -1,0 +1,2661 @@
+[
+  {
+    "label": "PostmanLetterBee_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Wow! Even we couldn't get to the",
+        "[icon:star] in Honeybloom Galaxy!",
+        "",
+        "Here is a reward for your bravery!",
+        "Please accept this [icon:one_up_mushroom]!"
+      ],
+      "EuEnglish": [
+        "Wow! Even we couldn't get to the",
+        "[icon:star] in Honeybloom Galaxy!",
+        "",
+        "Here is a reward for your bravery!",
+        "Please accept this [icon:one_up_mushroom]!"
+      ],
+      "UsSpanish": [
+        "¡Guau! ¡Ni siquiera nosotras pudimos",
+        "alcanzar la [icon:star] de la Galaxia Floriflor!",
+        "",
+        "¡Por tu valentía y destreza mereces",
+        "una recompensa! ¡Acepta este[color:green] [defcolor][icon:one_up_mushroom]!"
+      ],
+      "EuSpanish": [
+        "¡Hala! Has conseguido la [icon:star] de la",
+        "Galaxia Floriflor sin despeinarte.",
+        "",
+        "Te mereces un premio, así que",
+        "acepta el[color:green] [defcolor][icon:one_up_mushroom] adjunto."
+      ],
+      "UsFrench": [
+        "Wow! Même une colonie complète",
+        "d'abeilles comme nous n'est pas",
+        "arrivée à trouver la [icon:star] dans la",
+        "Galaxie du Printemps éternel!",
+        "",
+        "Tu mérites une récompense! J'espère",
+        "que tu apprécieras ce [icon:one_up_mushroom]!"
+      ],
+      "EuFrench": [
+        "Bzzz! Tu as trouvé la [icon:star] de la galaxie",
+        "du Printemps éternel! Tu as réussi",
+        "là où nous avons échoué! Une telle",
+        "prouesse mérite une récompense.",
+        "Accepte donc ce[color:green] [defcolor][icon:one_up_mushroom]. Bzzz!"
+      ],
+      "EuGerman": [
+        "Wow! Du hast den [icon:star] Power-Stern der",
+        "Honigblüten-Galaxie gefunden!",
+        "Nicht schlecht für eine Jungbiene, wir",
+        "hatten schon lange danach gesucht...",
+        "Nimm diesen [icon:one_up_mushroom] [color:green]1-Up-Pilz [defcolor]als Zeichen",
+        "unserer Anerkennung."
+      ],
+      "EuItalian": [
+        "Per il valore mostrato durante la",
+        "ricerca della [color:yellow]Superstella [defcolor][icon:star] nella",
+        "Galassia Eden Alveare e per aver",
+        "sgominato terribili nemici, abbiamo",
+        "l'onore di conferirti un [color:green]Fungo 1-Up[defcolor] [icon:one_up_mushroom]!"
+      ],
+      "EuDutch": [
+        "Wow! Even we couldn't get to the",
+        "[icon:star] in Honeybloom Galaxy!",
+        "",
+        "Here is a reward for your bravery!",
+        "Please accept this [icon:one_up_mushroom]!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "あなたはフラワーヘブンギャラクシーで",
+        "[ruby:我々;われわれ]も[ruby:近寄;ちかよ]れない[ruby:敵;てき]の[ruby:巣;す]をぬけ、 [ruby:見事;みごと]に",
+        "[icon:star]パワースターを[ruby:発見;はっけん]されたであります。",
+        "よって その[ruby:名誉;めいよ]をたたえ、",
+        "ここに [icon:one_up_mushroom][color:green]1UP[defcolor]をあたえるであります。"
+      ],
+      "KrKorean": [
+        "당신은 플라워 헤븐 갤럭시에서",
+        "우리도 가까이 가지 못하는 적의 진영을 뚫고",
+        "멋지게 [icon:star]파워스타를 찾으셨습니다",
+        "진심을 담아 감사의 뜻으로",
+        "여기 [icon:one_up_mushroom][color:green]1UP[defcolor]을 드립니다"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "您在百花天堂銀河闖過",
+        "我們無法接近的敵人巢穴，",
+        "發現了[icon:star]力量星星。",
+        "在此贈予[icon:one_up_mushroom][color:green]1UP[color:black]以示[color:green][defcolor]表揚。"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterBee_From",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Honeybee"
+      ],
+      "EuEnglish": [
+        "Honeybee"
+      ],
+      "UsSpanish": [
+        "                                  Abeja"
+      ],
+      "EuSpanish": [
+        "                                  Abeja"
+      ],
+      "UsFrench": [
+        "Les abeilles"
+      ],
+      "EuFrench": [
+        "Signé: Les abeilles émerveillées"
+      ],
+      "EuGerman": [
+        "Deine Honigbiene"
+      ],
+      "EuItalian": [
+        "                             Dolceape"
+      ],
+      "EuDutch": [
+        "Honeybee"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ハニービーより"
+      ],
+      "KrKorean": [
+        "허니비 드림"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "     蜜蜂"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterBee_To",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Certificate of Commendation"
+      ],
+      "EuEnglish": [
+        "Certificate of Commendation"
+      ],
+      "UsSpanish": [
+        "Diploma al Mérito Heroico"
+      ],
+      "EuSpanish": [
+        "Carta de agradecimiento"
+      ],
+      "UsFrench": [
+        "Lettre de recommandation"
+      ],
+      "EuFrench": [
+        "Récompense!"
+      ],
+      "EuGerman": [
+        "Empfehlungsschreiben"
+      ],
+      "EuItalian": [
+        "               Encomio"
+      ],
+      "EuDutch": [
+        "Certificate of Commendation"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:表彰状;ひょうしょうじょう]"
+      ],
+      "KrKorean": [
+        "표창장"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "獎狀"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterCaretaker_From",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Gearmo"
+      ],
+      "EuEnglish": [
+        "Gearmo"
+      ],
+      "UsSpanish": [
+        "                           Cybernana"
+      ],
+      "EuSpanish": [
+        "                          Mecachacha"
+      ],
+      "UsFrench": [
+        "Roberta"
+      ],
+      "EuFrench": [
+        "Signé: Robby"
+      ],
+      "EuGerman": [
+        "Dein Hausmeister"
+      ],
+      "EuItalian": [
+        "                            Tuttofare"
+      ],
+      "EuDutch": [
+        "Gearmo"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "パマタリアンより"
+      ],
+      "KrKorean": [
+        "파맘마 씀"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "  捲髮大姐"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterCaretaker1_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I've got some cosmic odd jobs I need",
+        "done. Slackers need not apply!",
+        "",
+        "If you're ready to work, come to",
+        "[color:red]★Boulder Bowl Galaxy★[color:black]!",
+        "I'll make it worth your while![color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "I've got some cosmic odd jobs I need",
+        "done. Slackers need not apply!",
+        "",
+        "If you're ready to work, come to",
+        "[color:red]★Boulder Bowl Galaxy★[color:black]!",
+        "I'll make it worth your while![color:red][defcolor]"
+      ],
+      "UsSpanish": [
+        "Sé que de vez en cuando aceptas",
+        "trabajos un tanto especiales. ",
+        "Tengo uno que seguro te interesará.",
+        "",
+        "Ven a la [color:red]★Galaxia Cantera Bolera[color:red]★",
+        "[color:black]si quieres que te lo explique.",
+        "¡La recompensa te encantará![color:red][color:red][defcolor]"
+      ],
+      "EuSpanish": [
+        "Sé que de vez en cuando aceptas",
+        "trabajos un tanto especiales. ",
+        "Tengo uno que te interesará seguro.",
+        "",
+        "Ven a la [color:red]★Galaxia Cantera Bolera[color:red]★",
+        "[color:black]si quieres que te lo explique.",
+        "¡La recompensa te encantará![color:red][color:red][defcolor]"
+      ],
+      "UsFrench": [
+        "J'ai entendu dire que tu offrais tes",
+        "services de héros de temps en temps.",
+        "Eh bien, j'ai besoin de ton aide! Viens",
+        "me voir dans la [color:red]★Galaxie de la Pierre",
+        "qui roule★[defcolor]! Je récompense le travail",
+        "bien fait, alors ne tarde pas trop!"
+      ],
+      "EuFrench": [
+        "Les tâches insolites de l'espace,",
+        "ça te connaît, pas vrai? Eh bien,",
+        "mémé Robby a un travail pour toi!",
+        "Je t'attends dans la galaxie de la",
+        "[color:red]★Mine d'étoiles★[defcolor], alors dépêche-toi!"
+      ],
+      "EuGerman": [
+        "Ich habe da ein Anliegen, für das ich",
+        "deine Hilfe gebrauchen könnte.",
+        "",
+        "Komm zur [color:red]★Bröselbrock-Galaxie★[defcolor],",
+        "ich warte dort auf dich!"
+      ],
+      "EuItalian": [
+        "Se ti occupi di lavoretti vari nello",
+        "spazio, ho qualcosa che fa al caso",
+        "tuo! Raggiungimi al più presto nella",
+        "[color:red]★Galassia Bocce di Rocce★[color:black]![color:red][defcolor]"
+      ],
+      "EuDutch": [
+        "I've got some cosmic odd jobs I need",
+        "done. Slackers need not apply!",
+        "",
+        "If you're ready to work, come to",
+        "[color:red]★Boulder Bowl Galaxy★[color:black]!",
+        "I'll make it worth your while![color:red][defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:宇宙;うちゅう]のなんでも[ruby:屋;や]って、 アンタのことやろ?",
+        "アンタをみこんで、お[ruby:願;ねが]いがあるんや!",
+        "[color:red]★ ゴロ[ruby:岩;いわ]ゴロゴロギャラクシー ★[defcolor]",
+        "でまってるさかい、 はよ きたってな!"
+      ],
+      "KrKorean": [
+        "우주의 해결사라는 게 니 얘기 맞제?",
+        "니 믿고 부탁 하나만 해도 되겠나?",
+        "[color:red]★데굴바위 데굴데굴 갤럭시★[defcolor]",
+        "에서 기다릴꾸마, 퍼뜩 오그래이!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "你就是那個宇宙萬事通?",
+        "我就是看得起你啊，來幫我一個忙!",
+        "我在[color:red]★滾滾岩石銀河★[defcolor]等你，",
+        "趕快過來啊!"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterCaretaker2_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I've got a few odds and ends I need",
+        "taken care of. If you don't mind a",
+        "little hard work, come find me!",
+        "",
+        "I'm working over in",
+        "[color:red][color:red]★Space Storm Galaxy★[color:red][color:black]!",
+        "I'll make it worth your while![color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "I've got a few odds and ends I need",
+        "taken care of. If you don't mind a",
+        "little hard work, come find me!",
+        "",
+        "I'm working over in",
+        "[color:red][color:red]★Space Storm Galaxy★[color:red][color:black]!",
+        "I'll make it worth your while![color:red][defcolor]"
+      ],
+      "UsSpanish": [
+        "Sé que de vez en cuando aceptas",
+        "trabajos un tanto especiales. ",
+        "¡Tengo uno para ti!",
+        "",
+        "Ven a verme cuando quieras. Estoy",
+        "en la [color:red]★Galaxia Estación Eléctrica[color:red]★[color:black].[color:red][color:red][defcolor]"
+      ],
+      "EuSpanish": [
+        "Sé que de vez en cuando aceptas",
+        "trabajos un tanto especiales. ",
+        "¡Tengo uno para ti!",
+        "",
+        "Ven a verme cuando quieras. Estoy",
+        "en la [color:red]★Galaxia Estación Eléctrica[color:red]★[color:black].[color:red][color:red][defcolor]"
+      ],
+      "UsFrench": [
+        "J'ai un travail pour toi, petit! Viens",
+        "me voir dans la [color:red]★Galaxie de la",
+        "Nébuleuse orageuse★[defcolor]!",
+        "",
+        "Évidemment, j'ai une récompense à",
+        "t'offrir en échange!"
+      ],
+      "EuFrench": [
+        "Les tâches cosmiques et insolites",
+        "ne te font pas peur, mon garçon?",
+        "Parfait, j'ai un travail pour toi!",
+        "Je t'attends dans la galaxie du",
+        "[color:red]★Satellite survolté★[color:black].[color:red][defcolor][color:black] D[defcolor]épêche-toi!"
+      ],
+      "EuGerman": [
+        "Ich könnte deine Hilfe gut gebrauchen.",
+        "Komm vorbei, wenn du Zeit hast!",
+        "",
+        "Ich bin in der [color:red]★Raumwirbel-Galaxie★[defcolor],",
+        "lass mich aber nicht zu lange warten!"
+      ],
+      "EuItalian": [
+        "Se ti occupi di lavoretti vari nello",
+        "spazio, ho qualcosa che fa al caso",
+        "tuo! Raggiungimi al più presto nella",
+        "[color:red]★Galassia Bufera Spaziale★[color:black]![color:red][defcolor]"
+      ],
+      "EuDutch": [
+        "I've got a few odds and ends I need",
+        "taken care of. If you don't mind a",
+        "little hard work, come find me!",
+        "",
+        "I'm working over in",
+        "[color:red][color:red]★Space Storm Galaxy★[color:red][color:black]!",
+        "I'll make it worth your while![color:red][defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:宇宙;うちゅう]のなんでも[ruby:屋;や]って、 アンタのことやろ?",
+        "アンタをみこんで、お[ruby:願;ねが]いがあるんや!",
+        "[color:red]★ イナズマの[ruby:雲海;うんかい]ギャラクシー ★[defcolor]",
+        "でまってるさかい、 はよ きたってな!"
+      ],
+      "KrKorean": [
+        "우주의 해결사라는 게 니 얘기 맞제?",
+        "니 믿고 부탁 하나만 해도 되겠나?",
+        "[color:red]★선더 스페이스 갤럭시★[defcolor]",
+        "에서 기다릴꾸마, 퍼뜩 오그래이!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "你就是那個宇宙萬事通?",
+        "我就是看得起你啊，來幫我一個忙!",
+        "我在[color:red]★閃電雲海銀河★[defcolor]等你，",
+        "趕快過來啊!"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterChallenge_To",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Challenge!"
+      ],
+      "EuEnglish": [
+        "Challenge!"
+      ],
+      "UsSpanish": [
+        "¿Te atreves?"
+      ],
+      "EuSpanish": [
+        "¿Te atreves?"
+      ],
+      "UsFrench": [
+        "Défi!"
+      ],
+      "EuFrench": [
+        "Course!"
+      ],
+      "EuGerman": [
+        "Herausforderung!"
+      ],
+      "EuItalian": [
+        "                 Sfida!"
+      ],
+      "EuDutch": [
+        "Challenge!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:挑戦状;ちょうせんじょう]!"
+      ],
+      "KrKorean": [
+        "도전장!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "戰書!"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterInvitation_To",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Invitation"
+      ],
+      "EuEnglish": [
+        "Invitation"
+      ],
+      "UsSpanish": [
+        "Invitación"
+      ],
+      "EuSpanish": [
+        "Invitación"
+      ],
+      "UsFrench": [
+        "Invitation"
+      ],
+      "EuFrench": [
+        "Défi!"
+      ],
+      "EuGerman": [
+        "Einladung"
+      ],
+      "EuItalian": [
+        "                  Invito"
+      ],
+      "EuDutch": [
+        "Invitation"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:招待状;しょうたいじょう]"
+      ],
+      "KrKorean": [
+        "초대장"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "邀請卡"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterLuigi_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:black]Still looking for [icon:star] Power Stars?",
+        "",
+        "If you need any help from me, just",
+        "look for the \"L\" on Starship Mario.",
+        "",
+        "I'll switch with you anytime, Bro![defcolor]"
+      ],
+      "EuEnglish": [
+        "[color:black]Still looking for [icon:star] Power Stars?",
+        "",
+        "If you need any help from me, just",
+        "look for the \"L\" on Starship Mario.",
+        "",
+        "I'll switch with you anytime, Bro![defcolor]"
+      ],
+      "UsSpanish": [
+        "¿Sigues buscando [color:red]Superestrellas [defcolor][icon:star]?",
+        "",
+        "Si necesitas mi [color:red]ayuda[defcolor], búscame",
+        "bajo la \"[color:blue]L[defcolor]\" en la Astronave Mario.",
+        "",
+        "¡Te [color:red]sustituiré [defcolor]cuando quieras!"
+      ],
+      "EuSpanish": [
+        "¡Eres todo un hacha encontrando [icon:star]!",
+        "",
+        "Pero si necesitas mi [color:red]ayuda[defcolor], busca",
+        "la \"[color:blue]L[defcolor]\" en la Astronave Mario.",
+        "",
+        "¡Te [color:red]sustituiré [defcolor]cuando quieras!"
+      ],
+      "UsFrench": [
+        "Es-tu encore à la recherche des [color:black]super",
+        "étoiles [defcolor][icon:star]?",
+        "",
+        "Si tu as besoin de mon aide, cherche",
+        "[color:black]le « L » sur le vaisseau. On peut",
+        "changer de place quand tu veux![defcolor]"
+      ],
+      "EuFrench": [
+        "Tu recherches encore les [icon:star]? Si tu",
+        "veux que je te [color:red]remplace [defcolor]à l'occasion,",
+        "cherche la marque en forme de \"[color:blue]L[defcolor]\"",
+        "sur le vaisseau Mario! N'hésite pas!"
+      ],
+      "EuGerman": [
+        "Herzlichen Glückwunsch, du hast schon",
+        "einige [color:yellow][icon:star] Power-Sterne [defcolor]gefunden!",
+        "Ich bin bereit, mitzumachen. Wenn du",
+        "mit mir [color:red]tauschen [defcolor]möchtest, halte nach",
+        "dem „[color:blue]L[defcolor]“ auf dem Raumschiff",
+        "Ausschau. Dann übernehme ich!"
+      ],
+      "EuItalian": [
+        "complimenti! Hai un gran fiuto per le",
+        "[color:yellow]Superstelle [defcolor][icon:star]! Sono pronto ad unirmi",
+        "a te! Se vuoi che ti dia il [color:red]cambio[defcolor],",
+        "cerca la \"[color:blue]L[defcolor]\" sull'Astronave Mario e",
+        "sarò pronto a [color:black]sostituirti[defcolor], fratello!"
+      ],
+      "EuDutch": [
+        "[color:black]Still looking for [icon:star] Power Stars?",
+        "",
+        "If you need any help from me, just",
+        "look for the \"L\" on Starship Mario.",
+        "",
+        "I'll switch with you anytime, Bro![defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "パワースター[ruby:探;さが]し、 [ruby:頑張;がんば]ってるかい?",
+        "ボクは[ruby:準備;じゅんび]バッチリさ!",
+        "ボクと[color:red][ruby:交代;こうたい][defcolor]したくなったら ",
+        "[ruby:星船;ほしぶね]の[color:blue]Lマーク[defcolor]を[ruby:探;さが]してくれよ!",
+        "いつでも[color:red][ruby:交代;こうたい][defcolor][color:red]する[defcolor]からね!!"
+      ],
+      "KrKorean": [
+        "파워스타는 잘 찾고 있어?",
+        "난 준비 다 됐어!",
+        "나와 [color:red]교대[defcolor]하고 싶어지면",
+        "마리오호의 [color:blue]L 마크[defcolor]를 찾아 줘!",
+        "언제든지 [color:red]교대[defcolor]해 줄 테니까!!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "你還在努力地尋找力量星星嗎?",
+        "我可是做好萬全準備了哦!",
+        "如果你想要和我[color:red]交[defcolor][color:red]換[defcolor]時，",
+        "就找星艦上的[color:blue]L[defcolor][color:blue]標誌[color:black]，[color:blue][color:black]",
+        "讓我隨時和你[color:red][color:red]交[color:red]換[color:black]![color:blue][defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterLuigi_From",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Luigi"
+      ],
+      "EuEnglish": [
+        "Luigi"
+      ],
+      "UsSpanish": [
+        "                                   Luigi"
+      ],
+      "EuSpanish": [
+        "                                   Luigi"
+      ],
+      "UsFrench": [
+        "Luigi"
+      ],
+      "EuFrench": [
+        "Signé: Luigi"
+      ],
+      "EuGerman": [
+        "Dein Luigi"
+      ],
+      "EuItalian": [
+        "                                 Luigi"
+      ],
+      "EuDutch": [
+        "Luigi"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ルイージより"
+      ],
+      "KrKorean": [
+        "루이지가"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "路易吉  上"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterLuigi_To",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Dear Bro,"
+      ],
+      "EuEnglish": [
+        "Dear Bro,"
+      ],
+      "UsSpanish": [
+        "Querido hermano:"
+      ],
+      "EuSpanish": [
+        "Querido hermano:"
+      ],
+      "UsFrench": [
+        "Cher grand frère,"
+      ],
+      "EuFrench": [
+        "Cher frangin,"
+      ],
+      "EuGerman": [
+        "Liebes Bruderherz!"
+      ],
+      "EuItalian": [
+        "Caro fratello,"
+      ],
+      "EuDutch": [
+        "Dear Bro,"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:兄;にい]さんへ"
+      ],
+      "KrKorean": [
+        "형에게"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "給  哥哥"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterMario_To",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Mario"
+      ],
+      "EuEnglish": [
+        "Mario"
+      ],
+      "UsSpanish": [
+        "Querido Mario:"
+      ],
+      "EuSpanish": [
+        "Querido Mario:"
+      ],
+      "UsFrench": [
+        "Cher Mario,"
+      ],
+      "EuFrench": [
+        "Cher Mario,"
+      ],
+      "EuGerman": [
+        "Lieber Mario!"
+      ],
+      "EuItalian": [
+        "Caro Mario,"
+      ],
+      "EuDutch": [
+        "Mario"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "マリオへ"
+      ],
+      "KrKorean": [
+        "마리오에게"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "給  瑪利歐"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterPeach_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I am very far away right now. But I'm",
+        "OK! I know you will come save me!",
+        "",
+        "P.S. I've attached something to this",
+        "letter. I hope it will be useful..."
+      ],
+      "EuEnglish": [
+        "I am very far away right now. But I'm",
+        "OK! I know you will come save me!",
+        "",
+        "P.S. I've attached something to this",
+        "letter. I hope it will be useful..."
+      ],
+      "UsSpanish": [
+        "Aunque ahora mismo estoy muy lejos",
+        "de ti, eso no me preocupa. ¡Sé que",
+        "vendrás a rescatarme!",
+        "",
+        "P. D.: Te adjunto algo con esta carta.",
+        "¡Ojalá te sea útil!"
+      ],
+      "EuSpanish": [
+        "Aunque ahora mismo estoy muy lejos",
+        "de ti, eso no me preocupa. ¡Sé que",
+        "nos volveremos a ver pronto!",
+        "",
+        "P. D.: Te adjunto algo con esta carta.",
+        "¡Ojalá te sea útil!"
+      ],
+      "UsFrench": [
+        "Je suis dans un endroit très éloigné,",
+        "mais je me porte bien. Je sais que",
+        "tu viendras à ma rescousse!",
+        "",
+        "P.-S. Je t'envoie quelque chose qui",
+        "te sera peut-être utile!"
+      ],
+      "EuFrench": [
+        "Des années-lumière nous séparent",
+        "à l'heure qu'il est. Mais tout va bien,",
+        "et je sais que nous nous reverrons",
+        "bientôt!",
+        "P.-S.: ci-joint un petit quelque chose.",
+        "J'espère que ça te sera utile."
+      ],
+      "EuGerman": [
+        "Ich bin gerade sehr weit weg von dir,",
+        "aber es geht mir gut. Ich hoffe, dass",
+        "wir uns schon bald wiedersehen!",
+        "",
+        "P.S.: Diesem Brief liegt etwas bei, das",
+        "du hoffentlich gebrauchen kannst!"
+      ],
+      "EuItalian": [
+        "in questo momento mi trovo in un",
+        "posto remoto, ma il solo pensiero di",
+        "rivederti presto mi fa star bene.",
+        "Ah... Allego un regalino alla lettera.",
+        "Mi auguro che possa esserti utile!"
+      ],
+      "EuDutch": [
+        "I am very far away right now. But I'm",
+        "OK! I know you will come save me!",
+        "",
+        "P.S. I've attached something to this",
+        "letter. I hope it will be useful..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:今;いま] とても [ruby:遠;とお]いところにいるの。 でも[ruby:大丈夫;だいじょうぶ]!",
+        "マリオが [ruby:助;たす]けに[ruby:来;き]てくれるって [ruby:信;しん]じてるから!",
+        "",
+        "p.s. この[ruby:手紙;てがみ]と[ruby:一緒;いっしょ]に[ruby:送;おく]ったもの、",
+        "     [ruby:役;やく]に[ruby:立;た]つかしら?"
+      ],
+      "KrKorean": [
+        "지금 아주 먼 곳에 있지만 괜찮아요!",
+        "마리오가 구하러 와 주리라 믿거든요!",
+        "",
+        "p.s. 이 편지와 함께 보내는 물건이",
+        "     유용하게 쓰이면 좋겠어요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "我人在遙遠的地方。不過你放心!",
+        "我相信你一定會來救我的!",
+        "",
+        "p.s.隨信附上的東西能幫得到你嗎?"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterPeach_From",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Peach"
+      ],
+      "EuEnglish": [
+        "Peach"
+      ],
+      "UsSpanish": [
+        "                                 Peach"
+      ],
+      "EuSpanish": [
+        "                                 Peach"
+      ],
+      "UsFrench": [
+        "Peach"
+      ],
+      "EuFrench": [
+        "Signé: Peach"
+      ],
+      "EuGerman": [
+        "Deine Peach"
+      ],
+      "EuItalian": [
+        "                               Peach"
+      ],
+      "EuDutch": [
+        "Peach"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ピーチより"
+      ],
+      "KrKorean": [
+        "피치공주 드림"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "           碧姬"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterPichan_From",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Jibberjay"
+      ],
+      "EuEnglish": [
+        "Jibberjay"
+      ],
+      "UsSpanish": [
+        "                               Periquín"
+      ],
+      "EuSpanish": [
+        "                               Periquín"
+      ],
+      "UsFrench": [
+        "Jako"
+      ],
+      "EuFrench": [
+        "Signé: Jacoco"
+      ],
+      "EuGerman": [
+        "Dein Tuku-Tukan"
+      ],
+      "EuItalian": [
+        "                              Lollorito"
+      ],
+      "EuDutch": [
+        "Jibberjay"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ピーチャンより"
+      ],
+      "KrKorean": [
+        "재잘버드 보냄"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "  吱吱雀"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterPichan1_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Race! Race! Racing at",
+        "[color:red]★Wild Glide Galaxy★[defcolor]!",
+        "",
+        "Don't chicken out! Don't chicken out!",
+        "",
+        "C'mon--don't wait! Don't wait!"
+      ],
+      "EuEnglish": [
+        "Race! Race! Racing at ",
+        "[color:red]★Wild Glide Galaxy★[defcolor]!",
+        "",
+        "Don't chicken out! Don't chicken out!",
+        "",
+        "C'mon - don't wait! Don't wait!"
+      ],
+      "UsSpanish": [
+        "¡Reto! ¡Reto! ¡Vamos a competir en la ",
+        "[color:red]★Galaxia Descenso Tropical★[defcolor]!",
+        "",
+        "¡No seas gallina! ¡No seas gallina!",
+        "",
+        "¡Anda, ven ya! ¡Ven ya!"
+      ],
+      "EuSpanish": [
+        "¿Te hace una carrera? ¡Estamos en ",
+        "la [color:red]★Galaxia Descenso Tropical★[defcolor]!",
+        "",
+        "¡No hay excusa que valga! ¿O es que",
+        "eres un gallina?",
+        "¡Ven pronto o empezaremos sin ti!"
+      ],
+      "UsFrench": [
+        "Course! Course! On fait la course",
+        "dans la [color:red]★Galaxie de l'Escale",
+        "tropicale★[defcolor]!",
+        "",
+        "Ne sois pas peureux! Ne sois pas",
+        "peureux! Allez, viens vite! Viens vite!"
+      ],
+      "EuFrench": [
+        "Course! Course! On est impatients",
+        "de t'affronter dans la galaxie de",
+        "l'[color:red]★Araplane tropical★[defcolor]! Tropical!",
+        "Tropical! Alors viens vite si tu n'es",
+        "pas une poule mouillée! Yark! Yark!"
+      ],
+      "EuGerman": [
+        "Schnell! Schnell! Wir machen einen",
+        "Wettflug in der [color:red]★Gleitflug-Galaxie★[defcolor]!",
+        "",
+        "Sei kein Frosch! Sei kein Frosch!",
+        "Hey hey! Hey hey!"
+      ],
+      "EuItalian": [
+        "Gara! Gara! Siamo tutti in gara nella",
+        "[color:red]★Galassia Selvaggia★[color:black]!",
+        "",
+        "Non essere fifone! Non essere fifone!",
+        "Capito?! Capito?![color:red][defcolor]"
+      ],
+      "EuDutch": [
+        "Race! Race! Racing at ",
+        "[color:red]★Wild Glide Galaxy★[defcolor]!",
+        "",
+        "Don't chicken out! Don't chicken out!",
+        "",
+        "C'mon - don't wait! Don't wait!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "レース! レース!",
+        "[color:red]★ ジャングルグライダーギャラクシー ★",
+        "[defcolor]で、 みんなでレースだぜ!",
+        " ",
+        "にげんな! にげんな! おら! おら!"
+      ],
+      "KrKorean": [
+        "레이스하자! 레이스!",
+        "[color:red]★정글 글라이더 갤럭시★",
+        "[defcolor]에서 다 같이 레이스하자!",
+        " ",
+        "숨지 마! 숨지 말라구! 알았지?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "競賽!競賽!",
+        "[color:red]★叢林滑翔翼銀河★",
+        "[color:black]大家來競賽[color:red][defcolor][color:black]![defcolor]",
+        " ",
+        "別跑啊!不准跑! 喂! 喂!"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterPichan2_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Race! Race! Showdown at ",
+        "[color:red]★Fleet Glide Galaxy★[defcolor]!",
+        "",
+        "Come on! Come on! It's on!"
+      ],
+      "EuEnglish": [
+        "Race! Race! Showdown at ",
+        "[color:red]★Fleet Glide Galaxy★[defcolor]!",
+        "",
+        "Come on! Come on! It's on!"
+      ],
+      "UsSpanish": [
+        "¡Reto! ¡Reto! ¡Vamos a competir en la ",
+        "[color:red]★Galaxia Descenso Tortuoso★[defcolor]!",
+        "",
+        "¡Ven acá! ¡Ven acá!",
+        "¡Es hora de competir!"
+      ],
+      "EuSpanish": [
+        "¿Te hace una carrera? ¡Estamos en ",
+        "la [color:red]★Galaxia Descenso Tortuoso★[defcolor]!",
+        "",
+        "¡Ven pronto! ¡Ya estás tardando!",
+        "¿Qué haces que no estás aquí?"
+      ],
+      "UsFrench": [
+        "Course! Course! C'est la course du",
+        "siècle dans la [color:red]★Galaxie du Sauve qui",
+        "plane★[defcolor]!",
+        "",
+        "Allez! Allez! Viens nous rejoindre!"
+      ],
+      "EuFrench": [
+        "Course! Course! Si tu es à la",
+        "recherche de sensations fortes, alors",
+        "viens nous trouver dans la galaxie de",
+        "l'[color:red]★Araplane extrême★[defcolor]! Allez, à toute",
+        "allure! Yark! Yark!"
+      ],
+      "EuGerman": [
+        "Schnell! Schnell! Wer ist der schnellste",
+        "Vogel der [color:red]★Sturzflug-Galaxie★[defcolor]?",
+        "",
+        "Traust du dich? Traust du dich?",
+        "Komm schon! Komm schon!"
+      ],
+      "EuItalian": [
+        "Gara! Gara! Mostra ciò che vali nella",
+        "[color:red]★Galassia Sfida di Volo★[color:black]!",
+        "",
+        "Forza! Forza! Si vola![color:red][defcolor]"
+      ],
+      "EuDutch": [
+        "Race! Race! Showdown at ",
+        "[color:red]★Fleet Glide Galaxy★[defcolor]!",
+        "",
+        "Come on! Come on! It's on!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "レース! レース!",
+        "[color:red]★ チャレンジグライダーギャラクシー ★[defcolor]",
+        "で、 [ruby:勝負;しょうぶ]だぜ!",
+        "",
+        "[ruby:来;こ]いよ! [ruby:来;こ]いよ! ガチンコだぜ!"
+      ],
+      "KrKorean": [
+        "레이스하자! 레이스!",
+        "[color:red]★챌린지 글라이더 갤럭시★[defcolor]",
+        "에서 시합하자!",
+        "",
+        "꼭 와야 돼! 제대로 붙어 보자구!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "競賽!競賽!  ",
+        "就在[color:red]★挑戰滑翔翼銀河★[color:black]分勝負!",
+        "[color:red][defcolor][color:black]",
+        "[defcolor]來呀! 來呀! 一較高下!"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterRabbit_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:blue]Jump [color:black]and [color:blue][defcolor][color:red]spin[defcolor]! [color:blue]Jump [color:black]and [color:blue][defcolor][color:red]spin[defcolor]!",
+        "",
+        "Wall-jumping and spinning in midair",
+        "will show you all sorts of secret",
+        "places! So says the wisdom of the",
+        "bunny tribe! Boiyoing!"
+      ],
+      "EuEnglish": [
+        "[color:blue]Jump [color:black]and [color:blue][defcolor][color:red]spin[defcolor]! [color:blue]Jump [color:black]and [color:blue][defcolor][color:red]spin[defcolor]!",
+        "",
+        "Wall-jumping and spinning in mid-air",
+        "will show you all sorts of secret",
+        "places! So says the wisdom of the",
+        "bunny tribe! Boiyoing!"
+      ],
+      "UsSpanish": [
+        "¡[color:blue]Salta [color:black]y [color:blue][defcolor][color:red]gira[defcolor]! [color:blue]¡[color:blue]Salta [color:black]y [color:blue][color:blue][color:red]gira[color:blue][defcolor]!",
+        "",
+        "¡Que no te de pena combinar tus",
+        "habilidades! ¡Si rebotas en las",
+        "paredes y das un giro en el aire",
+        "podrás encontrar sitios ocultos!",
+        "¡Haz caso al consejo de un conejo!"
+      ],
+      "EuSpanish": [
+        "¡[color:blue]Salta [color:black]y [color:blue][defcolor][color:red]gira[defcolor]! [color:blue][color:black]¡[color:blue][color:blue]Salta [color:black]y [color:blue][color:blue][color:red]gira[color:blue][color:black]![color:blue][defcolor]",
+        "¡Que no te dé vergüenza combinar tus",
+        "movimientos! ¡El Salto Escalada y el",
+        "Salto Giro te llevarán a los lugares",
+        "más recónditos de la galaxia! ",
+        "Eso dice la leyenda de nuestra tribu."
+      ],
+      "UsFrench": [
+        "[color:red]Sauter[defcolor]! [color:blue]Tourbillonner[defcolor]! N'hésite pas à",
+        "combiner des mouvements! Un saut",
+        "mural suivi d'un tourbillon pourrait",
+        "te permettre d'accéder à des endroits",
+        "secrets! C'est ce que le sage de la",
+        "tribu des lapins dit tout le temps!"
+      ],
+      "EuFrench": [
+        "[color:black]Sauter[defcolor]! [color:black]Tournoyer[defcolor]! Exploites-tu",
+        "bien tes capacités? Les lapereaux",
+        "apprennent très vite à combiner",
+        "ces actions pour atteindre les",
+        "lieux inaccessibles! Boïng!"
+      ],
+      "EuGerman": [
+        "[color:blue]Springen[defcolor], [color:red]drehen[defcolor]! [color:blue]Springen[defcolor], [color:red]drehen[defcolor]!",
+        "Immer schön im Rhythmus, hoppelhopp!",
+        "Kombiniert mit einem Wandsprung",
+        "entdeckst du alle Geheimnisse...",
+        "Nützliches Wissen aus dem Hasenbau,",
+        "hoppelhopphopp!"
+      ],
+      "EuItalian": [
+        "[color:blue]Salta[defcolor] e [color:red]gira[defcolor]! Sai usare le mosse come",
+        "si deve? [color:blue]Salto a parete [defcolor]e [color:red]piroetta[defcolor]!",
+        "Questa è la tecnica per raggiungere",
+        "posti elevati... È uno dei segreti",
+        "tramandati fra i conigli! PION-PION!"
+      ],
+      "EuDutch": [
+        "[color:blue]Jump [color:black]and [color:blue][defcolor][color:red]spin[defcolor]! [color:blue]Jump [color:black]and [color:blue][defcolor][color:red]spin[defcolor]!",
+        "",
+        "Wall-jumping and spinning in mid-air",
+        "will show you all sorts of secret",
+        "places! So says the wisdom of the",
+        "bunny tribe! Boiyoing!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ジャ～ンプ アンド スピ～ン!",
+        "[ruby:使;つか]ってるピョンか?",
+        "カベキック アンド スピ～ン!",
+        "すると [ruby:高;たか]く[ruby:跳;と]べるピョ～ン!",
+        "これぞ、 [ruby:星;ほし]ウサギ[ruby:族;ぞく]に[ruby:伝;つた]わる[ruby:秘伝;ひでん]だピョン!"
+      ],
+      "KrKorean": [
+        "점～프 앤드 스피～인",
+        "사용하고 있어 깡총?",
+        "벽차기 앤드 스피～인!",
+        "하면 높이 올라갈 수 있어 깡총! 이게 바로",
+        "스타토끼 대대로 내려오는 비기야 깡총!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "我跳!  再旋轉!",
+        "有沒有用?",
+        "踢牆跳  再旋轉!",
+        "然後就   跳很高!",
+        "這可是星星兔一族的獨家功夫!"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterRabbit_From",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Star Bunny"
+      ],
+      "EuEnglish": [
+        "Star Bunny"
+      ],
+      "UsSpanish": [
+        "                       Conejo estelar"
+      ],
+      "EuSpanish": [
+        "                       Conejo estelar"
+      ],
+      "UsFrench": [
+        "Le Lapin Stellaire"
+      ],
+      "EuFrench": [
+        "Signé: Les Lapins stellaires"
+      ],
+      "EuGerman": [
+        "Dein Sternenhase"
+      ],
+      "EuItalian": [
+        "                         Astroniglio"
+      ],
+      "EuDutch": [
+        "Star Bunny"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:星;ほし]ウサギより"
+      ],
+      "KrKorean": [
+        "스타토끼 보냄"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "星星兔  字"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterRabbit_To",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Manual of Secret Techniques"
+      ],
+      "EuEnglish": [
+        "Manual of Secret Techniques"
+      ],
+      "UsSpanish": [
+        "Manual de técnicas secretas"
+      ],
+      "EuSpanish": [
+        "¡Técnicas secretas!"
+      ],
+      "UsFrench": [
+        "Techniques secrètes"
+      ],
+      "EuFrench": [
+        "Techniques secrètes"
+      ],
+      "EuGerman": [
+        "Handbuch der Geheimtechniken"
+      ],
+      "EuItalian": [
+        " Manuale delle tecniche segrete"
+      ],
+      "EuDutch": [
+        "Manual of Secret Techniques"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:秘伝書;ひでんしょ]"
+      ],
+      "KrKorean": [
+        "비밀 문서"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "秘笈"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterRequest_To",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Help Wanted!"
+      ],
+      "EuEnglish": [
+        "Help Wanted!"
+      ],
+      "UsSpanish": [
+        "¡Necesito ayuda!"
+      ],
+      "EuSpanish": [
+        "¡Necesito ayuda!"
+      ],
+      "UsFrench": [
+        "Volontaires recherchés"
+      ],
+      "EuFrench": [
+        "Recherche main-d'œuvre!"
+      ],
+      "EuGerman": [
+        "Hilfe gesucht!"
+      ],
+      "EuItalian": [
+        "         Richiesta di aiuto!"
+      ],
+      "EuDutch": [
+        "Help Wanted!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "お[ruby:願;ねが]いや!"
+      ],
+      "KrKorean": [
+        "부탁 하나만 하재이!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "拜託你啦!"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterRosetta1_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I hope this letter reaches you in",
+        "bright spirits, little one.",
+        "",
+        "This should be of some help to you",
+        "on your journey back to me. May the",
+        "stars shine down on you..."
+      ],
+      "EuEnglish": [
+        "I hope this letter reaches you in",
+        "bright spirits, little one.",
+        "",
+        "This should be of some help to you",
+        "on your journey back to me. May the",
+        "stars shine down on you..."
+      ],
+      "UsSpanish": [
+        "Espero que te encuentres bien cuando",
+        "recibas esta carta, peque.",
+        "",
+        "Ojalá esto te sea útil. ¡Que la luz",
+        "de las estrellas ilumine tu camino!"
+      ],
+      "EuSpanish": [
+        "Espero que te encuentres bien",
+        "cuando recibas esta carta, peque.",
+        "",
+        "Ojalá esto te ayude a llegar hasta",
+        "mí. ¡Que la luz de las estrellas",
+        "ilumine tu camino!"
+      ],
+      "UsFrench": [
+        "Puisse cette lettre franchir les",
+        "espaces interstellaires et te parvenir,",
+        "petite Luma.",
+        "",
+        "Voici un objet qui pourrait t'être utile",
+        "durant ton voyage de retour. Que la",
+        "poussière d'étoiles te protège..."
+      ],
+      "EuFrench": [
+        "Puisse cette lettre franchir les",
+        "espaces interstellaires et te parvenir.",
+        "",
+        "Je joins à ce courrier un objet qui,",
+        "je l'espère, te sera salutaire. Et que",
+        "les étoiles te protègent..."
+      ],
+      "EuGerman": [
+        "Ich hoffe, dass dich dieser Brief",
+        "wohlbehalten erreicht. Geht es dir gut?",
+        "Anbei etwas, das Mario und dir auf",
+        "eurer Reise von Nutzen sein dürfte.",
+        "Möge die Kraft der Sternenteile",
+        "mit euch sein..."
+      ],
+      "EuItalian": [
+        "spero che tu riceva presto questa",
+        "lettera. Potrebbe non esserti di aiuto",
+        "durante il tuo lungo viaggio, ma ti",
+        "allego un pensiero... Mi auguro che la",
+        "benedizione stellare rimanga con te..."
+      ],
+      "EuDutch": [
+        "I hope this letter reaches you in",
+        "bright spirits, little one.",
+        "",
+        "This should be of some help to you",
+        "on your journey back to me. May the",
+        "stars shine down on you..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "あなたに[ruby:届;とど]くことを[ruby:願;ねが]って・・・",
+        "",
+        "もし この[ruby:手紙;てがみ]が[ruby:届;とど]いているのなら、",
+        "[ruby:同封;どうふう]したものも [ruby:役立;やくだ]ててください。",
+        "[ruby:星;ほし]の[ruby:恵;めぐ]みがあらんことを・・・。"
+      ],
+      "KrKorean": [
+        "당신에게 도착하길 바라며…",
+        "",
+        "만약 이 편지를 받아 본다면",
+        "함께 보내는 물건이 도움이 될 거예요",
+        "별의 은총이 함께 하기를…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "但願你能收到…",
+        "",
+        "若你已收到這封信，",
+        "希望隨信附上的東西能幫到你。",
+        "願星塵保佑你…"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterRosetta2_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "We worry about you, but we know",
+        "you are safe with your new friend.",
+        "",
+        "I hope the attached item is helpful.",
+        "May the stars shine down on you..."
+      ],
+      "EuEnglish": [
+        "We worry about you, but we know",
+        "you are safe with your new friend.",
+        "",
+        "I hope the attached item is helpful.",
+        "May the stars shine down on you..."
+      ],
+      "UsSpanish": [
+        "Nos preocupamos por ti, aunque",
+        "sabemos que intentarás estar a salvo.",
+        "",
+        "Ojalá esto te sea útil. ¡Que la luz",
+        "de las estrellas ilumine tu camino!"
+      ],
+      "EuSpanish": [
+        "Nos preocupamos por ti aunque",
+        "sepamos que estarás bien con tu",
+        "nuevo amigo.",
+        "",
+        "Ojalá esto te sea útil. ¡Que la luz",
+        "de las estrellas ilumine tu camino!"
+      ],
+      "UsFrench": [
+        "Nous sommes inquiets pour toi, mais",
+        "nous savons que tu es entre bonnes",
+        "mains.",
+        "",
+        "J'espère que l'objet joint à cette",
+        "lettre te sera utile. Que la poussière",
+        "d'étoiles te protège..."
+      ],
+      "EuFrench": [
+        "Nous nous faisons du souci pour toi,",
+        "mais nous savons que tu es entre de",
+        "bonnes mains.",
+        "",
+        "Puisse l'objet joint à cette lettre",
+        "t'être salutaire. Et que les étoiles",
+        "te protègent..."
+      ],
+      "EuGerman": [
+        "Ich mache mir Sorgen um dich, doch",
+        "ich weiß, dass Mario gut auf dich",
+        "achtgibt und dich nicht in Gefahr",
+        "bringen würde. Vielleicht könnt ihr",
+        "hiermit etwas anfangen. Möge die",
+        "Kraft der Sternenteile mit euch sein..."
+      ],
+      "EuItalian": [
+        "sono sinceramente preoccupata per",
+        "te, ma sono certa che farai del",
+        "tuo meglio senza commettere",
+        "sciocchezze. Ivi allego un pensierino",
+        "nella speranza che possa esserti utile."
+      ],
+      "EuDutch": [
+        "We worry about you, but we know",
+        "you are safe with your new friend.",
+        "",
+        "I hope the attached item is helpful.",
+        "May the stars shine down on you..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "あなたは まだ[ruby:小;ちい]さいので、",
+        "[ruby:他;ほか]の[ruby:星;ほし]の[ruby:民;たみ]も[ruby:心配;しんぱい]しています・・・",
+        "もし この[ruby:手紙;てがみ]が[ruby:届;とど]いているのなら、",
+        "[ruby:同封;どうふう]したものも [ruby:役立;やくだ]ててください。",
+        "[ruby:星;ほし]の[ruby:恵;めぐ]みがあらんことを・・・。"
+      ],
+      "KrKorean": [
+        "당신은 아직 어리기 때문에",
+        "다른 별의 백성들도 걱정하고 있어요…",
+        "만약 이 편지를 받아 본다면",
+        "함께 보내는 물건이 도움이 될 거예요",
+        "별의 은총이 함께 하기를…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "你還太年幼，大家也都在擔心你…",
+        "若你收到這封信，",
+        "希望隨信附上的東西能幫到你。",
+        "願星塵保佑你…"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterRosetta3_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "If you're ever feeling alone, just know",
+        "that your friends are behind you.",
+        "",
+        "I hope the attached item is helpful.",
+        "May the stars shine down on you..."
+      ],
+      "EuEnglish": [
+        "If you're ever feeling alone, just know",
+        "that your friends are behind you.",
+        "",
+        "I hope the attached item is helpful.",
+        "May the stars shine down on you..."
+      ],
+      "UsSpanish": [
+        "Si alguna vez te sientes solo,",
+        "recuerda que tus amigos te apoyan.",
+        "",
+        "Ojalá esto te sea útil. ¡Que la luz",
+        "de las estrellas ilumine tu camino!"
+      ],
+      "EuSpanish": [
+        "Si en alguna ocasión te sientes",
+        "solo, recuerda que tus amigos",
+        "te apoyan.",
+        "",
+        "Ojalá esto te sea útil. ¡Que la luz",
+        "de las estrellas ilumine tu camino!"
+      ],
+      "UsFrench": [
+        "Lorsque tu te sens seule, n'oublie pas",
+        "que tous tes amis pensent à toi.",
+        "",
+        "J'espère que l'objet que je t'envoie",
+        "te sera utile. Que la poussière",
+        "d'étoiles te protège..."
+      ],
+      "EuFrench": [
+        "Si tu te sens seul, sache que nous",
+        "sommes de tout cœur avec toi.",
+        "",
+        "Puisse l'objet joint à cette lettre",
+        "t'être salutaire. Et que les étoiles",
+        "te protègent..."
+      ],
+      "EuGerman": [
+        "Auch wenn du dich manchmal einsam",
+        "fühlst, sei dir sicher, dass wir auf dich",
+        "warten. Grüße Mario von mir. Anbei ein",
+        "Geschenk, um euch die gefährliche",
+        "Mission zu erleichtern. Möge die",
+        "Kraft der Sternenteile mit euch sein..."
+      ],
+      "EuItalian": [
+        "se dovessi sentirti solo, ricorda che",
+        "gli amici ti sono accanto con il",
+        "pensiero in ogni momento. Allego alla",
+        "presente un piccolo regalo nella",
+        "speranza che possa tornarti utile."
+      ],
+      "EuDutch": [
+        "If you're ever feeling alone, just know",
+        "that your friends are behind you.",
+        "",
+        "I hope the attached item is helpful.",
+        "May the stars shine down on you..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:悲;かな]しんではいないでしょうか。",
+        "ひとりでなければいいのですが・・・",
+        "[ruby:同封;どうふう]したものが、",
+        "[ruby:役立;やくだ]ってくれることを[ruby:願;ねが]います。",
+        "[ruby:星;ほし]の[ruby:恵;めぐ]みがあらんことを・・・。"
+      ],
+      "KrKorean": [
+        "슬퍼하고 있지는 않은가요?",
+        "혼자가 아니면 좋으련만…",
+        "함께 보내는 물건이",
+        "도움이 되기를 바랍니다",
+        "별의 은총이 함께 하기를…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "你心情還好嗎?",
+        "但願你不是獨自一個人…",
+        "希望隨信附上的東西能幫到你。",
+        "願星塵保佑你…"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterRosetta4_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "There are many kindhearted people",
+        "out there who are watching over you.",
+        "",
+        "I hope the attached item is helpful.",
+        "May the stars shine down on you..."
+      ],
+      "EuEnglish": [
+        "There are many kindhearted people",
+        "out there who are watching over you.",
+        "",
+        "I hope the attached item is helpful.",
+        "May the stars shine down on you..."
+      ],
+      "UsSpanish": [
+        "Hay muchos seres bondadosos que",
+        "velan por ti. No lo olvides.",
+        "",
+        "Ojalá esto te sea útil. ¡Que la luz",
+        "de las estrellas ilumine tu camino!"
+      ],
+      "EuSpanish": [
+        "Hay mucha gente de gran corazón",
+        "que cuida de ti cada día.",
+        "",
+        "Ojalá esto te sea útil. ¡Que la luz",
+        "de las estrellas ilumine tu camino!"
+      ],
+      "UsFrench": [
+        "Des êtres attentionnés veillent sur",
+        "toi, chère petite Luma.",
+        "",
+        "J'espère que l'objet joint à cette",
+        "lettre te sera utile. Que la poussière",
+        "d'étoiles te protège..."
+      ],
+      "EuFrench": [
+        "Des êtres attentionnés veillent",
+        "sur toi.",
+        "",
+        "Puisse l'objet joint à cette lettre",
+        "t'être salutaire. Et que les étoiles te",
+        "protègent..."
+      ],
+      "EuGerman": [
+        "Wir fiebern alle mit euch mit und hoffen",
+        "auf bestes Gelingen! Wie schön, dass",
+        "Mario gut auf dich aufpasst. Anbei ist",
+        "etwas, um euch auf eurer Reise zu",
+        "unterstützen. Möge die Kraft der",
+        "Sternenteile mit euch sein..."
+      ],
+      "EuItalian": [
+        "ricorda sempre che ci sono molte",
+        "persone che ti proteggono da lontano.",
+        "Spero che il pensiero qui allegato",
+        "possa aiutarti. Che la benedizione",
+        "stellare sia con te..."
+      ],
+      "EuDutch": [
+        "There are many kindhearted people",
+        "out there who are watching over you.",
+        "",
+        "I hope the attached item is helpful.",
+        "May the stars shine down on you..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:心優;こころやさ]しい[ruby:方々;かたがた]が、あなたのことを",
+        "[ruby:見守;みまも]ってくれているのでしょう。",
+        "[ruby:同封;どうふう]したものが",
+        "[ruby:役立;やくだ]ってくれることを[ruby:願;ねが]います。",
+        "[ruby:星;ほし]の[ruby:恵;めぐ]みがあらんことを・・・。"
+      ],
+      "KrKorean": [
+        "따뜻한 마음을 가진 자들이",
+        "당신을 보살펴 줄 거예요",
+        "함께 보내는 물건이",
+        "도움이 되기를 바랍니다",
+        "별의 은총이 함께 하기를…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "我想應該有許多善心人",
+        "在你身邊守護著你。",
+        "希望隨信附上的東西能幫到你。",
+        "願星塵保佑你…"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterRosetta5_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Be strong, and know that wherever",
+        "you are right now, I believe we will",
+        "be reunited soon.",
+        "",
+        "I hope the attached item is helpful.",
+        "May the stars shine down on you..."
+      ],
+      "EuEnglish": [
+        "Be strong, and know that wherever",
+        "you are right now, I believe we will",
+        "be reunited soon.",
+        "",
+        "I hope the attached item is helpful.",
+        "May the stars shine down on you..."
+      ],
+      "UsSpanish": [
+        "Sé valiente y ten por seguro que,",
+        "te encuentres donde te encuentres,",
+        "pronto volveremos a estar juntos.",
+        "",
+        "Ojalá esto te sea útil. ¡Que la luz",
+        "de las estrellas ilumine tu camino!"
+      ],
+      "EuSpanish": [
+        "Sé valiente y ten por seguro que,",
+        "te encuentres donde te encuentres,",
+        "pronto volveremos a estar juntos.",
+        "",
+        "Ojalá esto te sea útil. ¡Que la luz",
+        "de las estrellas ilumine tu camino!"
+      ],
+      "UsFrench": [
+        "Sois forte, et sache que, où que tu",
+        "sois, nous nous retrouverons très",
+        "bientôt.",
+        "",
+        "J'espère que l'objet que j'ai joint à",
+        "cette lettre te sera utile. Que la",
+        "poussière d'étoiles te protège..."
+      ],
+      "EuFrench": [
+        "J'ignore où tu te trouves, mais je",
+        "sens que nous serons bientôt réunis.",
+        "",
+        "Puisse l'objet joint à cette lettre",
+        "t'être salutaire. Et que les étoiles",
+        "te protègent..."
+      ],
+      "EuGerman": [
+        "Ich erwarte bereits unser baldiges",
+        "Wiedersehen. Wo du auch steckst, ich",
+        "vertraue darauf, dass Mario uns bald",
+        "wieder vereint. Hoffentlich hilft euch",
+        "das beigelegte Geschenk. Möge die",
+        "Kraft der Sternenteile mit euch sein..."
+      ],
+      "EuItalian": [
+        "sii forte e sappi che, ovunque tu sia,",
+        "le nostre vie si rincongiungeranno",
+        "presto. Mi auguro che il pensierino",
+        "qui allegato possa esserti utile. Che",
+        "le stelle siano con te..."
+      ],
+      "EuDutch": [
+        "Be strong, and know that wherever",
+        "you are right now, I believe we will",
+        "be reunited soon.",
+        "",
+        "I hope the attached item is helpful.",
+        "May the stars shine down on you..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "まだ、[ruby:居場所;いばしょ]はわかりませんが、",
+        "きっと[ruby:会;あ]えると[ruby:信;しん]じています。",
+        "[ruby:同封;どうふう]したものが",
+        "[ruby:役立;やくだ]ってくれることを[ruby:願;ねが]います。",
+        "[ruby:星;ほし]の[ruby:恵;めぐ]みがあらんことを・・・。"
+      ],
+      "KrKorean": [
+        "아직 어느 곳에 있는지 알 순 없지만",
+        "반드시 만날 수 있으리라 믿어요",
+        "함께 보내는 물건이",
+        "도움이 되기를 바랍니다",
+        "별의 은총이 함께 하기를…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "雖然不知你身在何處，",
+        "但我深信一定能和你見面。",
+        "希望隨信附上的東西能幫到你，",
+        "願星塵保佑你…"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterScoreAttack_From",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The Chimp"
+      ],
+      "EuEnglish": [
+        "The Chimp"
+      ],
+      "UsSpanish": [
+        "                           Bananacho"
+      ],
+      "EuSpanish": [
+        "                                Molonio"
+      ],
+      "UsFrench": [
+        "Billy Banane"
+      ],
+      "EuFrench": [
+        "Signé: Billy Banane"
+      ],
+      "EuGerman": [
+        "Dein Wanderaffe"
+      ],
+      "EuItalian": [
+        "                 Scimmia Bighellona"
+      ],
+      "EuDutch": [
+        "The Chimp"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "さすらいの[ruby:遊;あそ]び[ruby:人;にん]より"
+      ],
+      "KrKorean": [
+        "자유로운 유랑자 보냄"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "  放浪遊人"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterScoreAttack1_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Hey, it's The Chimp. There's a",
+        "new game over in the",
+        "[color:red]★Honeyhop Galaxy★[defcolor].",
+        "",
+        "If you think you got what it takes, ",
+        "swing on by..."
+      ],
+      "EuEnglish": [
+        "Hey, it's The Chimp. There's a",
+        "new game over in",
+        "[color:red]★Honeyhop Galaxy★[defcolor].",
+        "",
+        "If you think you got what it takes, ",
+        "swing on by..."
+      ],
+      "UsSpanish": [
+        "Eh, colega, soy yo, ¡el mono más guay",
+        "de la galaxia! Tengo un nuevo reto en",
+        "la [color:red]★Galaxia Montes Melosos★[defcolor].",
+        "",
+        "Si te atreves a afrontar mi reto,",
+        "ya sabes donde estoy..."
+      ],
+      "EuSpanish": [
+        "Eh, colega, soy yo, ¡el mono más guay",
+        "de la galaxia! Tengo un nuevo reto en",
+        "la [color:red]★Galaxia Montes Melosos★[defcolor].",
+        "",
+        "Si te atreves a afrontar mi reto,",
+        "ya sabes dónde estoy..."
+      ],
+      "UsFrench": [
+        "Hé, salut bonhomme! J'ai un nouveau",
+        "jeu à te faire essayer. Je t'attends",
+        "dans la [color:red]★Galaxie du Mont mielleux★[defcolor]!",
+        "",
+        "Viens me voir si tu penses pouvoir",
+        "battre mon record..."
+      ],
+      "EuFrench": [
+        "Yo, c'est moi, Billy Banane! Tu sais,",
+        "tous les jeux de l'univers m'ennuient,",
+        "alors j'ai créé mon propre jeu!",
+        "Je t'attends dans la galaxie du",
+        "[color:red]★Mont mielleux★[defcolor]. A plus, man!"
+      ],
+      "EuGerman": [
+        "Ich bin ein legendärer Spieleprofi.",
+        "",
+        "Es gibt ein neues Spiel, in dem du dich",
+        "mit mir messen musst! Ich warte auf",
+        "dich in der [color:red]★Honighüpfer-Galaxie★[defcolor].",
+        "Zeig mir, wie gut du bist!"
+      ],
+      "EuItalian": [
+        "Sono la Scimmia Bighellona! Conosco",
+        "tutti i giochi dell'universo e mi annoio!",
+        "Per questo ho inventato un gioco",
+        "tutto mio! Raggiungimi presto nella",
+        "[color:red]★Galassia Dolce Miele★[defcolor]!"
+      ],
+      "EuDutch": [
+        "Hey, it's The Chimp. There's a",
+        "new game over in",
+        "[color:red]★Honeyhop Galaxy★[defcolor].",
+        "",
+        "If you think you got what it takes, ",
+        "swing on by..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "おれさまは、 さすらいの[ruby:遊;あそ]び[ruby:人;にん]",
+        "[ruby:宇宙;うちゅう]の[ruby:遊;あそ]びは[ruby:遊;あそ]びつくして[ruby:飽;あ]き[ruby:飽;あ]きなのだ",
+        "だから[ruby:今度;こんど]はおれさまがゲームを[ruby:作;つく]った!",
+        "[color:red]★ ハニービービレッジギャラクシー ★[defcolor]",
+        "で [ruby:待;ま]ってるぜい! ゼッタイ[ruby:来;こ]いよ!"
+      ],
+      "KrKorean": [
+        "나는 자유로운 유랑자야",
+        "우주의 놀이는 다 해 봐서 더는 할 게 없어!",
+        "그래서 내가 직접 게임을 만들었지!",
+        "[color:red]★허니비 빌리지 갤럭시★[defcolor]",
+        "에서 기다릴게! 꼭 와야 돼!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "本少爺是放浪遊人，",
+        "玩膩了宇宙所有玩意。",
+        "所以這次是我自己做了遊戲!",
+        "我在[color:red]★蜜蜂村莊銀河★[color:black]等你![color:red][defcolor][color:black]![defcolor]",
+        "一定要來啊!"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterScoreAttack2_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Hey, it's The Chimp. There's a",
+        "new game over in the",
+        "[color:red]★Slimy Spring Galaxy★[defcolor].",
+        "",
+        "If you think you got what it takes, ",
+        "swing on by..."
+      ],
+      "EuEnglish": [
+        "Hey, it's The Chimp. There's a",
+        "new game over in",
+        "[color:red]★Slimy Spring Galaxy★[defcolor].",
+        "",
+        "If you think you got what it takes, ",
+        "swing on by..."
+      ],
+      "UsSpanish": [
+        "Eh, colega, soy yo, ¡el mono más guay",
+        "de la galaxia! Tengo un nuevo reto en",
+        "la [color:red]★Galaxia Gruta Acuática★[defcolor].",
+        "",
+        "Si te atreves a afrontar mi reto,",
+        "ya sabes donde estoy..."
+      ],
+      "EuSpanish": [
+        "Eh, colega, soy yo, ¡el mono más guay",
+        "de la galaxia! Tengo un nuevo reto en",
+        "la [color:red]★Galaxia Gruta Acuática★[defcolor].",
+        "",
+        "Si te atreves a afrontar mi reto,",
+        "ya sabes dónde estoy..."
+      ],
+      "UsFrench": [
+        "Hé, salut bonhomme! J'ai un nouveau",
+        "jeu à te faire essayer. Je t'attends",
+        "dans la [color:red][color:red]★Galaxie des Cavernes",
+        "englouties[color:red][color:red]★[color:red][defcolor]!",
+        "",
+        "Viens me voir si tu penses pouvoir",
+        "battre mon record..."
+      ],
+      "EuFrench": [
+        "Yo, c'est moi, Billy Banane! Tu sais,",
+        "tous les jeux de l'univers m'ennuient,",
+        "alors j'ai créé mon propre jeu!",
+        "Je t'attends dans la galaxie des",
+        "[color:red]★Cavernes englouties★[defcolor].",
+        "Te débine pas, man!"
+      ],
+      "EuGerman": [
+        "Ich bin ein legendärer Spieleprofi.",
+        "",
+        "Es gibt ein neues Spiel, in dem du dich",
+        "mit mir messen musst! Du findest mich",
+        "in der [color:red]★Wasserverlies-Galaxie★[defcolor].",
+        "Mach hin, ich warte nicht gerne!"
+      ],
+      "EuItalian": [
+        "Sono la Scimmia Bighellona! Conosco",
+        "tutti i giochi dell'universo e mi annoio!",
+        "Per questo ho inventato un gioco",
+        "tutto mio! Raggiungimi presto nella",
+        "[color:red]★Galassia Cava Sotterranea★[defcolor]!"
+      ],
+      "EuDutch": [
+        "Hey, it's The Chimp. There's a",
+        "new game over in",
+        "[color:red]★Slimy Spring Galaxy★[defcolor].",
+        "",
+        "If you think you got what it takes, ",
+        "swing on by..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "おれさまは、 さすらいの[ruby:遊;あそ]び[ruby:人;にん]",
+        "[ruby:宇宙;うちゅう]の[ruby:遊;あそ]びは[ruby:遊;あそ]びつくして[ruby:飽;あ]き[ruby:飽;あ]きなのだ",
+        "だから[ruby:今度;こんど]はおれさまがゲームを[ruby:作;つく]った!",
+        "[color:red]★ [ruby:地;ち]の[ruby:底;そこ]の[ruby:洞窟;どうくつ]ギャラクシー ★[defcolor]",
+        "で [ruby:待;ま]ってるぜい! ゼッタイ[ruby:来;こ]いよ!"
+      ],
+      "KrKorean": [
+        "나는 자유로운 유랑자야",
+        "우주의 놀이는 다 해 봐서 더는 할 게 없어!",
+        "그래서 내가 직접 게임을 만들었지!",
+        "[color:red]★해저 동굴 갤럭시★[defcolor]",
+        "에서 기다릴게! 꼭 와야 돼!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "本少爺是放浪遊人，",
+        "玩膩了宇宙所有玩意。",
+        "所以這次是我自己做了遊戲!",
+        "我在[color:red]★地底洞銀河★[color:black]等你![color:red][defcolor][color:black]![defcolor]",
+        "一定要來啊!"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterScoreAttack3_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Hey, remember me? I got a new game",
+        "over in the [color:red]★Fluffy Bluff Galaxy★[defcolor].",
+        "",
+        "Come on by and we'll do the whole",
+        "introductions thing. I wanna see",
+        "what kind of game skills you got."
+      ],
+      "EuEnglish": [
+        "Hey, remember me? I got a new game",
+        "over in [color:red]★Fluffy Bluff Galaxy★[defcolor].",
+        "",
+        "Come on by and we'll do the whole",
+        "introductions thing. I wanna see",
+        "what kind of game skills you got."
+      ],
+      "UsSpanish": [
+        "Eh, colega, soy yo, ¡el mono más guay",
+        "de la galaxia! Tengo un nuevo reto en",
+        "la [color:red]★Galaxia Nubes de Algodón★[defcolor].",
+        "",
+        "Si te atreves a afrontar mi reto,",
+        "ya sabes donde estoy..."
+      ],
+      "EuSpanish": [
+        "Eh, colega, soy yo, ¡el mono más guay",
+        "de la galaxia! Tengo un nuevo reto en",
+        "la [color:red]★Galaxia Nubes de Algodón★[defcolor].",
+        "",
+        "¿Que no sabes quién soy? ¡Pues",
+        "pásate por aquí! Además, así veré",
+        "si eres capaz de superar mi juego."
+      ],
+      "UsFrench": [
+        "Hé, tu te souviens de moi? J'ai un",
+        "jeu à te faire essayer dans la",
+        "[color:red][color:red]★Galaxie du Saute-mouton[color:red][color:red]★[color:red][defcolor]!",
+        "",
+        "Viens me rencontrer et on fera les",
+        "présentations officielles. Je veux",
+        "aussi voir si tu as du talent!"
+      ],
+      "EuFrench": [
+        "Yo, man, c'est moi, tu te souviens?",
+        "J'ai inventé un nouveau jeu extra!",
+        "Je t'attends dans la galaxie des",
+        "[color:red]★Terrasses des rigolonimbus★[defcolor].",
+        "Te débine pas, man!"
+      ],
+      "EuGerman": [
+        "Ich bin ein legendärer Spieleprofi.",
+        "",
+        "Es gibt ein neues Spiel, in dem du dich",
+        "mit mir messen musst! Triff mich in",
+        "der [color:red]★Wattewolken-Galaxie★[defcolor] und wir",
+        "finden heraus, was du drauf hast!"
+      ],
+      "EuItalian": [
+        "Sono la Scimmia Bighellona! Conosco",
+        "tutti i giochi dell'universo e mi annoio!",
+        "Per questo ho inventato un gioco",
+        "tutto mio! Raggiungimi presto nella",
+        "[color:red]★Galassia Nuvola Batuffolo★[defcolor]!"
+      ],
+      "EuDutch": [
+        "Hey, remember me? I got a new game",
+        "over in [color:red]★Fluffy Bluff Galaxy★[defcolor].",
+        "",
+        "Come on by and we'll do the whole",
+        "introductions thing. I wanna see",
+        "what kind of game skills you got."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "おれさまは、 さすらいの[ruby:遊;あそ]び[ruby:人;にん]",
+        "[ruby:宇宙;うちゅう]の[ruby:遊;あそ]びは[ruby:遊;あそ]びつくして[ruby:飽;あ]き[ruby:飽;あ]きなのだ",
+        "だから[ruby:今度;こんど]はおれさまがゲームを[ruby:作;つく]った!",
+        "[color:red]★ もくもくけいこくギャラクシー ★[defcolor]",
+        "で [ruby:待;ま]ってるぜい! ゼッタイ[ruby:来;こ]いよ!"
+      ],
+      "KrKorean": [
+        "나는 자유로운 유랑자야",
+        "우주의 놀이는 다 해 봐서 더는 할 게 없어!",
+        "그래서 내가 직접 게임을 만들었지!",
+        "[color:red]★뭉게뭉게 계곡 갤럭시★[defcolor]",
+        "에서 기다릴게! 꼭 와야 돼!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "本少爺是放浪遊人，",
+        "玩膩了宇宙所有玩意。",
+        "所以這次是我自己做了遊戲!",
+        "我在[color:red]★雲朵溪谷銀河★[color:black]等你![color:red][defcolor][color:black]![defcolor]",
+        "一定要來啊!"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterTico_To",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "To my lost Luma,"
+      ],
+      "EuEnglish": [
+        "To my lost Luma,"
+      ],
+      "UsSpanish": [
+        "Querido destello perdido:"
+      ],
+      "EuSpanish": [
+        "Querido destello perdido:"
+      ],
+      "UsFrench": [
+        "Ma chère petite Luma égarée,"
+      ],
+      "EuFrench": [
+        "Mon cher petit Luma,"
+      ],
+      "EuGerman": [
+        "Mein lieber Baby-Luma!"
+      ],
+      "EuItalian": [
+        "Caro Sfavillotto perduto,"
+      ],
+      "EuDutch": [
+        "To my lost Luma,"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:迷子;まいご]の[ruby:星の子;チコ]へ"
+      ],
+      "KrKorean": [
+        "잃어버린 치코에게"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "給  迷路的孩子"
+      ]
+    }
+  },
+  {
+    "label": "PostmanLetterWitch_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I have watched your actions from",
+        "across the galaxy. Here is a bit of",
+        "the power created from the energy",
+        "of you and your special one...",
+        "Use it wisely."
+      ],
+      "EuEnglish": [
+        "I have watched your actions from",
+        "across the galaxy. Here is a bit of",
+        "the power created from the energy",
+        "of you and your special one...",
+        "Use it wisely."
+      ],
+      "UsSpanish": [
+        "Tras observar tus acciones desde",
+        "los confines del universo, he decidido",
+        "entregarte un poco del poder que tú",
+        "y tu ser querido han esparcido por",
+        "el universo... Úsalo sabiamente."
+      ],
+      "EuSpanish": [
+        "Tras observar tus acciones desde",
+        "los confines del universo, he decidido",
+        "entregarte un poco del poder que tú",
+        "y tu princesa habéis esparcido por",
+        "el universo... Úsalo sabiamente."
+      ],
+      "UsFrench": [
+        "Le récit de tes exploits a parcouru",
+        "l'univers à la vitesse de la lumière!",
+        "Je souhaitais vous encourager, toi",
+        "et ta bien-aimée, en vous offrant un",
+        "petit cadeau!",
+        "",
+        "Utilise-le à bon escient!"
+      ],
+      "EuFrench": [
+        "Le récit de tes exploits a parcouru",
+        "l'univers à la vitesse de la lumière.",
+        "L'énergie née de ton désir de sauver",
+        "la princesse a généré ce puissant",
+        "objet. Utilise-le judicieusement!"
+      ],
+      "EuGerman": [
+        "Ich habe dein Abenteuer durch die",
+        "verschiedenen Galaxien mit Interesse",
+        "verfolgt. Ich schicke dir einen Teil der",
+        "Kraft, die eine dir kostbare Person ",
+        "für dich gesammelt hat...",
+        "Setze sie mit Bedacht ein!"
+      ],
+      "EuItalian": [
+        "Ho osservato le tue gesta per la",
+        "Galassia. Questa è una piccola parte",
+        "del potere creato da te e da chi ti",
+        "considera speciale. Fanne buon uso..."
+      ],
+      "EuDutch": [
+        "I have watched your actions from",
+        "across the galaxy. Here is a bit of",
+        "the power created from the energy",
+        "of you and your special one...",
+        "Use it wisely."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "あなたの[ruby:活躍;かつやく]は",
+        "[ruby:宇宙;うちゅう]の[ruby:遠;とお]くからでも[ruby:見;み]えています。",
+        "これは、 あなたと[ruby:絆;きずな]のある[ruby:方;かた]の",
+        "[ruby:宇宙;うちゅう]に[ruby:残;のこ]された[ruby:力;ちから]…",
+        "[ruby:大切;たいせつ]に[ruby:使;つか]ってください。"
+      ],
+      "KrKorean": [
+        "당신의 활약상은",
+        "우주 먼 곳에서도 잘 보인답니다",
+        "이것은 당신과 가까운 분의",
+        "우주에 남겨진 힘…",
+        "소중히 사용해 주세요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "即使在宇宙遠方，",
+        "你的表現我都有看見。",
+        "這是和你有密切關係的人",
+        "遺留在宇宙的力量…",
+        "希望你好好珍惜善用。"
+      ]
+    }
+  }
+]

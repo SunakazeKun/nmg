@@ -1,0 +1,377 @@
+[
+  {
+    "label": "TicoFatCoin_Request001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_NORMAL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I'm so hungry! Will you give",
+        "me [color:red][intvar:1;0;0][defcolor] [icon:coin]? They taste soooo good![pagebreak]",
+        "If I eat [color:red][intvar:1;0;0] [defcolor][icon:coin], I might transform!"
+      ],
+      "EuEnglish": [
+        "I'm so hungry! Will you give",
+        "me [color:red][intvar:1;0;0][defcolor] [icon:coin]? They taste soooo good![pagebreak]",
+        "If I eat [color:red][intvar:1;0;0] [defcolor][icon:coin], I might transform!"
+      ],
+      "UsSpanish": [
+        "¡Tengo hambre! ¿Me das [color:red][intvar:1;0;0][defcolor] [icon:coin]?",
+        "¡Son taaaaaan ricas![pagebreak]",
+        "Si como unas [color:red][intvar:1;0;0] [defcolor][icon:coin], ¡podría",
+        "transformarme en algo divertido!"
+      ],
+      "EuSpanish": [
+        "¡Menuda hambre tengo! ¿No tendrás",
+        "por ahí [color:red][intvar:1;0;0] [defcolor][icon:coin]? ¡Están riquísimas![pagebreak]",
+        "Si me das [color:red][intvar:1;0;0] [defcolor][icon:coin], ¡me transformaré!"
+      ],
+      "UsFrench": [
+        "J'ai faaaaaim! Tu n'aurais pas [color:red][intvar:1;0;0] [defcolor][icon:coin]",
+        "à me donner? Je les adore! Elles sont",
+        "tellement déééélicieuses![pagebreak]",
+        "Si j'en mange [color:red][intvar:1;0;0][defcolor], je vais peut-être",
+        "me transformer!"
+      ],
+      "EuFrench": [
+        "Je suis affamé! Tu veux bien me",
+        "donner [color:red][intvar:1;0;0][defcolor] [icon:coin]? J'en raffole![pagebreak]",
+        "Si j'avale [color:red][intvar:1;0;0] [defcolor][icon:coin], je vais peut-être",
+        "me transformer!"
+      ],
+      "EuGerman": [
+        "Ich bin so hungrig! Gibst du mir",
+        "[color:red][intvar:1;0;0][defcolor] [icon:coin] [color:yellow]Münzen [defcolor]zu essen?",
+        "Die sind sooooo lecker!!! ♪[pagebreak]",
+        "Wenn ich [color:red][intvar:1;0;0] [defcolor][icon:coin] [color:yellow]Münzen [defcolor]esse,",
+        "ver-wan-de-le ich mich!"
+      ],
+      "EuItalian": [
+        "Che fame! Mi dai [color:red][intvar:1;0;0][defcolor] [color:yellow]Monete[defcolor] [icon:coin]?",
+        "Sono deliziose!!![pagebreak]",
+        "Se mangio [color:red][intvar:1;0;0][color:black] [color:yellow]Monete [color:black][color:red][defcolor][color:black][icon:coin],",
+        "[defcolor]mi trasformerò! ♪"
+      ],
+      "EuDutch": [
+        "I'm so hungry! Will you give",
+        "me [color:red][intvar:1;0;0][defcolor] [icon:coin]? They taste soooo good![pagebreak]",
+        "If I eat [color:red][intvar:1;0;0] [defcolor][icon:coin], I might transform!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "おなかすいたー!  ボク、 [icon:coin][color:red]コイン[defcolor][color:black][ruby:大好;だいす]き[defcolor]♪",
+        "ねぇねぇ  [icon:coin][color:red]コイン[intvar:1;0;0][ruby:枚;まい] [defcolor]くれない?[pagebreak]",
+        "[icon:coin][color:red]コイン[intvar:1;0;0][color:red][ruby:枚;まい][color:red] [defcolor][ruby:食;た]べたら [ruby:変身;へんしん]できるかも♪"
+      ],
+      "KrKorean": [
+        "나 배고파! 근데 난 [icon:coin][color:red]코인[defcolor][color:black]이 너무 좋아[defcolor]♪",
+        "있잖아, [icon:coin][color:red]코인 [intvar:1;0;0]개[defcolor]만 주면 안 돼?[pagebreak]",
+        "[icon:coin][color:red]코인 [intvar:1;0;0][color:red]개[color:red][defcolor] 먹으면 변신할지도 모르거든♪"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "我肚子餓了！我最喜歡[icon:coin][color:red]金幣[defcolor]♪",
+        "給我[color:red][intvar:1;0;0]枚[defcolor][color:red][icon:coin]金幣[color:black]好不好嘛[color:red][defcolor]?[pagebreak]",
+        "如果吃了[color:red][color:red][intvar:1;0;0]枚[color:red][color:red][icon:coin]金幣[color:red][defcolor][color:red][color:black]，",
+        "或許[color:red][color:black]我會變身呢[color:red][defcolor]♪"
+      ]
+    }
+  },
+  {
+    "label": "TicoFatCoin_Request002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_WAKU",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Yessss! I've got a huge coin craving",
+        "right now!"
+      ],
+      "EuEnglish": [
+        "Yessss! I've got a huge coin craving",
+        "right now!"
+      ],
+      "UsSpanish": [
+        "¡Síiiii! ¡Tengo antojo de monedas!"
+      ],
+      "EuSpanish": [
+        "¡Menudo antojo de monedas tengo!"
+      ],
+      "UsFrench": [
+        "Youppi! Merci! Vas-y, je suis prête!"
+      ],
+      "EuFrench": [
+        "Merci! Allez, par ici la monnaie!"
+      ],
+      "EuGerman": [
+        "Au fein! Ich habe gerade einen",
+        "solchen Kohldampf darauf!!!"
+      ],
+      "EuItalian": [
+        "Sì! ♪",
+        "Che voglia incredibile di [color:yellow]Monete [defcolor][color:black][icon:coin][defcolor]! ♪"
+      ],
+      "EuDutch": [
+        "Yessss! I've got a huge coin craving",
+        "right now!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ありがとう!",
+        "いっただきま～す♪"
+      ],
+      "KrKorean": [
+        "고마워!",
+        "잘 먹을게～♪"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "謝謝啦！",
+        "我不客氣啦～♪"
+      ]
+    }
+  },
+  {
+    "label": "TicoFatCoin_Request003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_WAKU",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Oh... Maybe you could find [color:red][intvar:1;0;0] [icon:coin]",
+        "[color:black]and bring them here? For me to eat?[color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "Oh... Maybe you could find [color:red][intvar:1;0;0] [icon:coin]",
+        "[color:black]and bring them here? For me to eat?[color:red][defcolor]"
+      ],
+      "UsSpanish": [
+        "Oh... ¿Me podrías traer unas [color:red][intvar:1;0;0] [icon:coin][color:black]?",
+        "¡Tengo mucha hambre![color:red][defcolor]"
+      ],
+      "EuSpanish": [
+        "Vaya... ¿No podrías traerme [color:red][intvar:1;0;0] [icon:coin][color:black]?",
+        "Tengo tanta hambre...[color:red][defcolor]"
+      ],
+      "UsFrench": [
+        "Oh... Tu ne veux pas me donner",
+        "[color:red][intvar:1;0;0] [icon:coin][defcolor]? Pour mon petit ventre",
+        "affamé? Bon, je comprends..."
+      ],
+      "EuFrench": [
+        "Ah... Comme tu veux. Si tu changes",
+        "d'avis, reviens avec [color:red][intvar:1;0;0] [icon:coin] [color:black]pour",
+        "calmer mon estomac en détresse![color:red][defcolor]"
+      ],
+      "EuGerman": [
+        "Och... Wie wäre es, wenn du [color:red][intvar:1;0;0] [icon:coin]",
+        "[color:yellow]Münzen [color:red][color:black]findest und zu mir bringst?",
+        "Für meinen hungrigen Magen?[color:red][defcolor]"
+      ],
+      "EuItalian": [
+        "Oh... Cerca [color:red][intvar:1;0;0] [color:black][color:yellow]Monete [color:black][icon:coin]![color:red][color:black][color:black]",
+        "[color:black]E quando le avrai trovate, portamele,",
+        "così potrò rimpinzarmi![color:red][defcolor]"
+      ],
+      "EuDutch": [
+        "Oh... Maybe you could find [color:red][intvar:1;0;0] [icon:coin]",
+        "[color:black]and bring them here? For me to eat?[color:red][defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "えー・・・ ",
+        "[ruby:次;つぎ]は[icon:coin][color:red][color:red]コイン[intvar:1;0;0][ruby:枚;まい] [color:red][defcolor]ちょ～だい、 ね?"
+      ],
+      "KrKorean": [
+        "음… ",
+        "다음엔 [icon:coin][color:red]코인 [intvar:1;0;0]개 [defcolor]주라～ 응?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "啊…",
+        "下次可要給我[color:red][color:red][intvar:1;0;0]枚[color:red][color:red][icon:coin]金幣[color:red][defcolor]哦?"
+      ]
+    }
+  },
+  {
+    "label": "TicoFatCoin_Request004",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_GIVE_ME",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You don't have [color:red][intvar:1;0;0] [color:black][icon:coin]...",
+        "But if you were to find some tasty,",
+        "tasty coins, you could come on by![color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "You don't have [color:red][intvar:1;0;0] [color:black][icon:coin]...",
+        "But if you were to find some tasty,",
+        "tasty coins, you could come on by![color:red][defcolor]"
+      ],
+      "UsSpanish": [
+        "No tienes [color:red][intvar:1;0;0] [color:black][icon:coin], pero...",
+        "¡[color:black]No dudes en volver s[color:black]i llegas a",
+        "encontrar unas deliciosas monedas![color:red][defcolor]"
+      ],
+      "EuSpanish": [
+        "No tienes [color:red][intvar:1;0;0] [color:black][icon:coin]...",
+        "Bueno, si encuentras algunas",
+        "monedillas ricas, ¡pásate por aquí![color:red][defcolor]"
+      ],
+      "UsFrench": [
+        "Oh, tu n'as pas [color:red][intvar:1;0;0][defcolor] [icon:coin]... Bon, si tu",
+        "trouves d'autres délicieuses petites",
+        "pièces, reviens me voir, d'accord?"
+      ],
+      "EuFrench": [
+        "Hélas, tu n'as pas [color:red][intvar:1;0;0] [color:black][icon:coin]... N'hésite",
+        "pas à repasser quand tu auras le",
+        "compte![color:red][defcolor]"
+      ],
+      "EuGerman": [
+        "Och, du hast keine [color:red][intvar:1;0;0] [color:black][icon:coin] [color:yellow]Münzen[color:black]...",
+        "Komm doch bitte wieder, wenn",
+        "du genügend dabei hast![color:red][defcolor]"
+      ],
+      "EuItalian": [
+        "Ma non hai [color:red][intvar:1;0;0] [color:yellow]Monete [color:red][color:black][icon:coin]!",
+        "Se dovessi trovare delle deliziose",
+        "[color:yellow]Monete [color:black][color:black][icon:coin][color:black], portamele![color:red][defcolor]"
+      ],
+      "EuDutch": [
+        "You don't have [color:red][intvar:1;0;0] [color:black][icon:coin]...",
+        "But if you were to find some tasty,",
+        "tasty coins, you could come on by![color:red][defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:coin][color:red]コイン[intvar:1;0;0][color:red][ruby:枚;まい][color:red][defcolor] [ruby:持;も]ってないよー・・・",
+        "[ruby:集;あつ]まったら ぜひちょ～だい、 ね!"
+      ],
+      "KrKorean": [
+        "[icon:coin][color:red]코인 [intvar:1;0;0][color:red]개[color:red][defcolor]가 없잖아…",
+        "다 모이면 꼭 주라～ 꼭이야!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "沒有[color:red][intvar:1;0;0]枚[defcolor][color:red][icon:coin]金幣[defcolor]啊?…",
+        "收集到了的話，一定要給我啊！"
+      ]
+    }
+  },
+  {
+    "label": "TicoFatCoin_Request005",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_KITA",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "That's the stuff! I'm so FULL!",
+        "Wow... I think I'm going to...[pagebreak]",
+        "[size:large][color:red]TRANS[defcolor][color:red][color:red][sound:SE_SV_TICOFAT_META][color:red]FOOOOORM![defcolor]"
+      ],
+      "EuEnglish": [
+        "That's the stuff! I'm so FULL!",
+        "Wow... I think I'm going to...[pagebreak]",
+        "[size:large][color:red]TRANS[defcolor][color:red][color:red][sound:SE_SV_TICOFAT_META][color:red]FOOOOORM![defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Qué bien! ¡Me he LLENADO!",
+        "Guau... Creo que es hora de una...[pagebreak]",
+        "[size:large][color:red]¡TRANS[defcolor][color:red][color:red][sound:SE_SV_TICOFAT_META][color:red]FOOORMACIÓN![defcolor]"
+      ],
+      "EuSpanish": [
+        "¡Ya está! ¡Ya está! ¡Ya está!",
+        "¡Lo has conseguidoooooooo![pagebreak]",
+        "[color:red][color:black][size:large]¡¡[color:red]MU[color:red][delay:15][color:red]TA[defcolor][color:red][color:red][delay:15][sound:SE_SV_TICOFAT_META][color:red]CIÓN[color:black]!![color:red][defcolor]"
+      ],
+      "UsFrench": [
+        "Ahh, c'est tellement BON! Je suis",
+        "pleine! Oh! Je sens que je vais me...[pagebreak]",
+        "[size:large][color:red]TRANS[defcolor][color:red][color:red][sound:SE_SV_TICOFAT_META][color:red]FOOOOORMER!![defcolor]"
+      ],
+      "EuFrench": [
+        "Ça y est! Je suis repu!",
+        "Houla! Qu'est-ce qui m'arrive?[pagebreak]",
+        "[size:large][color:red]TRANS-[delay:15]FOR-[color:red][delay:15][color:red]MA-[color:red][sound:SE_SV_TICOFAT_META][color:red][delay:15][color:red][color:red]TION![defcolor]"
+      ],
+      "EuGerman": [
+        "Oh ja, das war's! ♪ Mein Bauch ist so",
+        "VOLL! Dann wollen wir mal loslegen...[pagebreak]",
+        "[size:large][color:red][color:red]VER-[delay:15]WAN-[delay:15]DE-[color:red][color:red][color:red][delay:15][sound:SE_SV_TICOFAT_META][color:red]LUUUNG!!![color:red][defcolor]"
+      ],
+      "EuItalian": [
+        "Ohi ohi... Ho la pancia piena! E ora...[pagebreak]",
+        "[color:red][color:black][size:large][color:red]TRA[defcolor][color:red]-[color:red][delay:15][color:red]SFOR-[sound:SE_SV_TICOFAT_META][color:red][delay:15][color:red]MA-[color:red][delay:15][color:red]ZIO-[color:red][delay:15][color:red]NE![defcolor]"
+      ],
+      "EuDutch": [
+        "That's the stuff! I'm so FULL!",
+        "Wow... I think I'm going to...[pagebreak]",
+        "[size:large][color:red]TRANS[defcolor][color:red][color:red][sound:SE_SV_TICOFAT_META][color:red]FOOOOORM![defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "キタキタキター! おなかイッパ～イ!",
+        "じゃ、 [ruby:張;は]り[ruby:切;き]って いってみよー![pagebreak]",
+        "[ycenter][size:large][color:red]ヘ ・ ン ・ [color:red][sound:SE_SV_TICOFAT_META][color:red]シ～～～ン!![defcolor]"
+      ],
+      "KrKorean": [
+        "바로 이거야! 배가 빵빵～해!",
+        "지금부터 가 보는 거야![pagebreak]",
+        "[ycenter][size:large][color:red]변・[color:red][sound:SE_SV_TICOFAT_META][color:red]신～～～!![defcolor]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "來了來了！哇！我吃飽了！",
+        "看我一展身手！[pagebreak]",
+        "[ycenter][color:red][size:large]我[color:red]變[color:red][color:red][color:red][color:red]．[color:red]變[color:red][color:red]．[color:red][color:red][color:red][sound:SE_SV_TICOFAT_META][color:red]變[color:red]．[color:red]變身!![defcolor]"
+      ]
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "label": "MiiSelect_Change",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Select an icon."
+      ],
+      "EuEnglish": [
+        "Select an icon."
+      ],
+      "UsSpanish": [
+        "Elige un ícono."
+      ],
+      "EuSpanish": [
+        "Elige el icono que más te guste."
+      ],
+      "UsFrench": [
+        "Sélectionnez une icône."
+      ],
+      "EuFrench": [
+        "Choisissez une icône."
+      ],
+      "EuGerman": [
+        "Wähle ein Symbol aus."
+      ],
+      "EuItalian": [
+        "Seleziona l'icona che preferisci."
+      ],
+      "EuDutch": [
+        "Select an icon."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:好;す]きなアイコンを[ruby:選;えら]んでください"
+      ],
+      "KrKorean": [
+        "사용할 아이콘을 선택해 주세요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "請自行選擇圖示"
+      ]
+    }
+  }
+]

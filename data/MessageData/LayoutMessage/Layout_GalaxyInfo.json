@@ -1,0 +1,112 @@
+[
+  {
+    "label": "GalaxyInfo_Hole",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "o"
+      ],
+      "EuEnglish": [
+        "o"
+      ],
+      "UsSpanish": [
+        "o"
+      ],
+      "EuSpanish": [
+        "o"
+      ],
+      "UsFrench": [
+        "o"
+      ],
+      "EuFrench": [
+        "o"
+      ],
+      "EuGerman": [
+        "o"
+      ],
+      "EuItalian": [
+        "o"
+      ],
+      "EuDutch": [
+        "o"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "o"
+      ],
+      "KrKorean": [
+        "o"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "o"
+      ]
+    }
+  },
+  {
+    "label": "GalaxyInfo_Medal",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "j"
+      ],
+      "EuEnglish": [
+        "j"
+      ],
+      "UsSpanish": [
+        "j"
+      ],
+      "EuSpanish": [
+        "j"
+      ],
+      "UsFrench": [
+        "j"
+      ],
+      "EuFrench": [
+        "j"
+      ],
+      "EuGerman": [
+        "j"
+      ],
+      "EuItalian": [
+        "j"
+      ],
+      "EuDutch": [
+        "j"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "j"
+      ],
+      "KrKorean": [
+        "j"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "j"
+      ]
+    }
+  }
+]

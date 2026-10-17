@@ -1,0 +1,57 @@
+[
+  {
+    "label": "AirMeter_Air",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "AIR"
+      ],
+      "EuEnglish": [
+        "AIR"
+      ],
+      "UsSpanish": [
+        "AIRE"
+      ],
+      "EuSpanish": [
+        "AIRE"
+      ],
+      "UsFrench": [
+        "AIR"
+      ],
+      "EuFrench": [
+        "Air"
+      ],
+      "EuGerman": [
+        "LUFT"
+      ],
+      "EuItalian": [
+        "ARIA"
+      ],
+      "EuDutch": [
+        "AIR"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "AIR"
+      ],
+      "KrKorean": [
+        "AIR"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "AIR"
+      ]
+    }
+  }
+]

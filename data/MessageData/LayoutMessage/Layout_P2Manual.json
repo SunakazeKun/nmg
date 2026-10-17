@@ -1,0 +1,859 @@
+[
+  {
+    "label": "2PGuidance001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "If you have two Wii Remotes, two people",
+        "can play. Press [icon:a_button] and aim [icon:wiimote] at the screen.",
+        "When you see [icon:co_pointer], you're ready to play!"
+      ],
+      "EuEnglish": [
+        "If you have [color:red]two [defcolor][color:red]Wii Remotes[defcolor], two people",
+        "can play. Press [icon:a_button] and aim [icon:wiimote] at the screen.",
+        "When you see [icon:co_pointer], you're ready to play!"
+      ],
+      "UsSpanish": [
+        "Pueden jugar dos personas con dos [icon:wiimote].",
+        "Apunta a la pantalla y oprime [icon:a_button] en el [icon:wiimote].",
+        "En cuanto salga [icon:co_pointer], todo estará listo",
+        "para jugar."
+      ],
+      "EuSpanish": [
+        "Con [color:red]dos mandos de Wii pueden [color:black]jugar",
+        "dos personas[color:red][defcolor]. Apunta a la pantalla y",
+        "pulsa [icon:a_button] en el [icon:wiimote]. En cuanto salga [icon:co_pointer],",
+        "todo estará listo para comenzar."
+      ],
+      "UsFrench": [
+        "Si vous avez deux Wii Remote, deux joueurs",
+        "peuvent jouer ensemble! Appuyez sur [icon:a_button] sur",
+        "la seconde manette et pointez-la vers l'écran.",
+        "Dès que le curseur du [color:orange]J2[defcolor] [icon:co_pointer] apparaît, vous",
+        "êtes prêts à jouer!"
+      ],
+      "EuFrench": [
+        "[color:black]Deux joueurs[defcolor] peuvent coopérer si vous",
+        "disposez de [color:red]deux télécommandes Wii [defcolor][icon:wiimote].",
+        "Appuyez sur [icon:a_button] sur la seconde [icon:wiimote]",
+        "et pointez l'écran. Quand le curseur [icon:co_pointer]",
+        "du [color:orange]J2 [defcolor]apparaît, tout est prêt!"
+      ],
+      "EuGerman": [
+        "Mit zwei [icon:wiimote] Wii-Fernbedienungen können zwei",
+        "Spieler spielen. Richte die zweite [icon:wiimote] auf den",
+        "Bildschirm und drücke [icon:a_button]. Sobald der",
+        "[icon:co_pointer] [color:orange]Sternenzeiger [defcolor]erscheint, geht's los!"
+      ],
+      "EuItalian": [
+        "Con due [color:red]telecomandi Wii [defcolor][icon:wiimote] è possibile",
+        "giocare in due. [color:orange]G2[color:black],[color:orange][defcolor][color:black] [defcolor]punta [icon:wiimote] verso lo schermo",
+        "e premi [icon:a_button]. Quando appare[color:orange] [defcolor][icon:co_pointer], potrai iniziare!"
+      ],
+      "EuDutch": [
+        "If you have [color:red]two [defcolor][color:red]Wii Remotes[defcolor], two people",
+        "can play. Press [icon:a_button] and aim [icon:wiimote] at the screen.",
+        "When you see [icon:co_pointer], you're ready to play!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:wiimote][color:red]Wiiリモコンが2つ[color:black]あれば[color:red] [defcolor][ruby:二人;ふたり]で[ruby:遊;あそ]べます!",
+        "[color:orange]2P[defcolor]の[color:red]Wiiリモコン[defcolor]を[ruby:画面;がめん]に[ruby:向;む]けて [icon:a_button]を[ruby:押;お]してください",
+        "[ruby:画面;がめん]に[icon:co_pointer][color:orange]ポインター[defcolor]が[ruby:出;で]れば [ruby:準備;じゅんび]OKです!"
+      ],
+      "KrKorean": [
+        "[icon:wiimote][color:red]Wii 리모컨 2개[color:black]로 협력 플레이! [color:red][defcolor][color:orange]2P[defcolor]의",
+        "[color:red]Wii 리모컨[defcolor]이 화면을 향하게 해서 [icon:a_button]!",
+        "화면에 [icon:co_pointer][color:orange]포인터[defcolor]가 나오면 준비 OK!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "有兩個[icon:wiimote][color:red]Wii遙控器[color:black]就可以雙人協力[color:red][defcolor]!",
+        "將[color:orange]2P[color:black]的[color:orange][defcolor][color:red][color:red]Wii[color:red]遙控器[defcolor]對著螢幕後按[icon:a_button]，",
+        "螢幕上出現[icon:co_pointer]就可以開始!"
+      ]
+    }
+  },
+  {
+    "label": "2PGuidance002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Collect [icon:purple_starbit] with [icon:co_pointer]! Aim [icon:co_pointer], then press [icon:b_button]",
+        "to shoot [icon:purple_starbit]. Try hitting enemies with a [icon:purple_starbit]!"
+      ],
+      "EuEnglish": [
+        "Collect [icon:purple_starbit] with [icon:co_pointer]! Aim [icon:co_pointer], then press [icon:b_button]",
+        "to shoot [icon:purple_starbit]. Try hitting enemies with a [icon:purple_starbit]!"
+      ],
+      "UsSpanish": [
+        "¡Reúne [icon:purple_starbit] con [icon:co_pointer]! Apunta con [icon:co_pointer] y oprime [icon:b_button]",
+        "para lanzar [icon:purple_starbit]. ¿Qué pasará si le das a un",
+        "enemigo con los [icon:purple_starbit]? ¡Ya lo verás!"
+      ],
+      "EuSpanish": [
+        "¡Reúne [icon:purple_starbit] con [icon:co_pointer]! Apunta con [icon:co_pointer] y",
+        "pulsa [icon:b_button] para lanzar [icon:purple_starbit]. ¡Intenta darle",
+        "a los enemigos usando [icon:purple_starbit]!"
+      ],
+      "UsFrench": [
+        "Ramassez des éclats d'étoile [icon:purple_starbit] avec le",
+        "curseur [icon:co_pointer]! Vous pouvez tirer un éclat",
+        "d'étoile [icon:purple_starbit] en visant avec le curseur [icon:co_pointer] et",
+        "en appuyant sur [icon:b_button]. Essayez d'en tirer un",
+        "sur un ennemi!"
+      ],
+      "EuFrench": [
+        "Ramassez des fragments d'étoile [icon:purple_starbit] avec",
+        "le [icon:co_pointer]! Visez avec le [icon:co_pointer] et appuyez sur [icon:b_button]",
+        "pour tirer des [icon:purple_starbit] sur les ennemis!"
+      ],
+      "EuGerman": [
+        "Sammele mit dem [icon:co_pointer] [color:orange]Sternenzeiger[defcolor]",
+        "[icon:purple_starbit] [color:purple]Sternenteile[defcolor]! Ziele mit dem [icon:co_pointer] und",
+        "drücke [icon:b_button], um [icon:purple_starbit] abzufeuern.",
+        "Versuche, die Gegner mit [icon:purple_starbit] zu erwischen!"
+      ],
+      "EuItalian": [
+        "Prendi le [color:red]Astroschegge[defcolor] [icon:purple_starbit] con il [color:orange]Cursore",
+        "Stella [defcolor][icon:co_pointer]! Mira ai nemici con il [color:black][color:orange]Cursore Stella[color:black]",
+        "[defcolor][icon:co_pointer] e spara [color:red]Astroschegge[defcolor] [icon:purple_starbit] premendo [icon:b_button]."
+      ],
+      "EuDutch": [
+        "Collect [icon:purple_starbit] with [icon:co_pointer]! Aim [icon:co_pointer], then press [icon:b_button]",
+        "to shoot [icon:purple_starbit]. Try hitting enemies with a [icon:purple_starbit]!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:orange][icon:co_pointer]ポインター[defcolor]で[icon:purple_starbit][color:red]スターピース[defcolor]を[ruby:集;あつ]めましょう!",
+        "[icon:co_pointer]でねらって[icon:b_button]ボタンを[ruby:押;お]せば [icon:purple_starbit]を[ruby:撃;う]てます",
+        "[icon:purple_starbit][color:red]スターピース[defcolor]を[ruby:敵;てき]に[ruby:当;あ]てると…?"
+      ],
+      "KrKorean": [
+        "[color:orange][icon:co_pointer]포인터[defcolor]로 [icon:purple_starbit][color:red]스타구슬[defcolor]을 모아 주세요!",
+        "[icon:co_pointer]로 조준, [icon:b_button]로 [icon:purple_starbit]을 쏠 수 있어요",
+        "[icon:purple_starbit][color:red]스타구슬[defcolor]을 적에게 맞히면…?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "用[color:orange][icon:co_pointer][color:black]收集[color:orange][defcolor][icon:purple_starbit][color:red]星塵[defcolor]!",
+        "將[icon:co_pointer]對準目標後按[icon:b_button]就可以發射[icon:purple_starbit]",
+        "[icon:purple_starbit][color:red]星塵[color:black]射中[color:red][defcolor]敵人就…?"
+      ]
+    }
+  },
+  {
+    "label": "2PGuidance003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:orange]P2 [defcolor]can move the [color:orange]Co-Star Luma[defcolor]. [color:black]Point at stuff",
+        "with [icon:co_pointer], then press [icon:a_button] to see what happens!",
+        "Try pointing at various things with [icon:co_pointer]...[defcolor]"
+      ],
+      "EuEnglish": [
+        "[color:orange]P2 [defcolor]can move [icon:orange_luma]. [color:black]Point at stuff with [icon:co_pointer], then",
+        "press [icon:a_button] to see what happens! Try pointing at",
+        "various things with [icon:co_pointer]...[defcolor]"
+      ],
+      "UsSpanish": [
+        "El [color:orange]J2 [defcolor]puede mover al [color:orange]destello compañero[defcolor].",
+        "Apunta con [color:black][icon:co_pointer], oprime [icon:a_button] ¡y a ver qué pasa!",
+        "[defcolor][color:black]¡Usa tu imaginación y prueba en todos lados![defcolor]"
+      ],
+      "EuSpanish": [
+        "El [color:orange]J2 [defcolor]puede mover al [color:orange]destello compañero[defcolor].",
+        "Apunta con [color:black][icon:co_pointer] a cosas diferentes, pulsa [icon:a_button]",
+        "¡y a ver qué pasa![defcolor]"
+      ],
+      "UsFrench": [
+        "Le [color:orange]J2[defcolor] peut déplacer le [color:orange]Luma allié[defcolor]! Pointez un",
+        "endroit avec le curseur [icon:co_pointer] et appuyez sur [icon:a_button]",
+        "pour voir ce qui se passera! Essayez de",
+        "pointer plusieurs types d'objets avec [color:black][icon:co_pointer]...[defcolor]"
+      ],
+      "EuFrench": [
+        "[color:orange]J2[color:black], vous [color:orange][defcolor]incarnez le [color:orange]Luma allié [defcolor][color:black][icon:orange_luma][defcolor]. Pointez",
+        "divers éléments avec le [color:black][icon:co_pointer], puis appuyez",
+        "sur [defcolor][icon:a_button] pour voir ce qui se passe!"
+      ],
+      "EuGerman": [
+        "[color:orange]SP2[defcolor] kann den [color:orange][icon:orange_luma] Assistent-Luma [defcolor]bewegen.",
+        "Ziele mit [color:black][icon:co_pointer] [defcolor]auf verschiedene Dinge und",
+        "drücke [icon:a_button], um zu sehen, was passiert!"
+      ],
+      "EuItalian": [
+        "[color:orange]G2[color:black],[color:orange][defcolor][color:black] [defcolor]puoi agire come [color:orange]Sfavillotto Aiutante [defcolor][icon:orange_luma].",
+        "Prova a puntare il [color:red]Cursore Stella [defcolor][color:black][icon:co_pointer] [defcolor]a cose",
+        "diverse e a premere [icon:a_button]!"
+      ],
+      "EuDutch": [
+        "[color:orange]P2 [defcolor]can move [icon:orange_luma]. [color:black]Point at stuff with [icon:co_pointer], then",
+        "press [icon:a_button] to see what happens! Try pointing at",
+        "various things with [icon:co_pointer]...[defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:orange]2P[defcolor]は[icon:orange_luma][color:orange]アシストチコ[defcolor]が[ruby:動;うご]かせます",
+        "[color:red][icon:co_pointer]と[icon:a_button]ボタン[defcolor]で [ruby:色々;いろいろ]さわってみましょう!",
+        "[ruby:様々;さまざま]な[ruby:場所;ばしょ]を [icon:co_pointer]ポイントすると・・・?"
+      ],
+      "KrKorean": [
+        "[color:orange]2P[defcolor]는 [icon:orange_luma][color:orange]도우미치코[defcolor]를 움직입니다",
+        "[color:red][icon:co_pointer]와 [icon:a_button][defcolor]로 이것저것 해 보세요!",
+        "다양한 장소를 [icon:co_pointer]포인트하면…?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[color:orange]2P[color:black]可以操作[color:orange][defcolor][icon:orange_luma][color:orange]助手奇可[color:black]，[color:orange][defcolor]",
+        "將[icon:co_pointer]對準目標後就會…?",
+        "想知道就使用[color:red][icon:co_pointer]和[icon:a_button][defcolor]試試看!"
+      ]
+    }
+  },
+  {
+    "label": "2PGuidance004",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:black][color:blue]Aim at enemies[color:black] with [icon:co_pointer], then press [icon:a_button] to stop",
+        "them in their tracks! You can then [color:red]shake [color:black][icon:wiimote]",
+        "to make [icon:orange_luma] [color:blue]spin [color:black]and defeat enemies![defcolor]"
+      ],
+      "EuEnglish": [
+        "[color:black][color:blue]Aim at enemies[color:black] with [icon:co_pointer], then press [icon:a_button] to stop",
+        "them in their tracks! You can then [color:red]shake [color:black][icon:wiimote]",
+        "to make [icon:orange_luma] [color:blue]spin [color:black]and attack enemies![defcolor]"
+      ],
+      "UsSpanish": [
+        "[color:black][color:blue]Apunta a los enemigos[color:black] con [icon:co_pointer] y oprime [icon:a_button]",
+        "para detenerlos. Si después [color:red]agitas [color:black]el[color:red][color:black][icon:wiimote],",
+        "¡[icon:orange_luma] [color:blue]girará [color:black]y acabará con ellos![defcolor]"
+      ],
+      "EuSpanish": [
+        "[color:black][color:blue]Apunta a los enemigos[color:black] con [icon:co_pointer] y pulsa [icon:a_button]",
+        "para detenerlos. Si después [color:red]agitas [color:black]el [color:red][color:black][icon:wiimote],",
+        "¡[icon:orange_luma] [color:blue]girará [color:black]y los atacará![defcolor]"
+      ],
+      "UsFrench": [
+        "[color:blue]Visez les ennemis [defcolor]avec le curseur [icon:co_pointer] et",
+        "appuyez sur [icon:a_button] pour les empêcher d'avancer!",
+        "Vous pouvez ensuite [color:red]secouer [defcolor][icon:wiimote] pour faire",
+        "[color:blue]tourbillonner[defcolor] le Luma allié [icon:orange_luma] et éliminer les",
+        "monstres tout près!"
+      ],
+      "EuFrench": [
+        "[color:black][color:blue]Visez les ennemis [color:black]avec le curseur [icon:co_pointer], puis",
+        "appuyez sur [icon:a_button] pour les immobiliser! [color:red]Agitez",
+        "[color:red]la [color:red][color:black][icon:wiimote] pour que le [icon:orange_luma] [color:blue]tournoie [color:black]et les attaque![defcolor]"
+      ],
+      "EuGerman": [
+        "[color:black][color:blue]Ziele mit [icon:co_pointer] auf deine Gegner [color:black][color:black]und drücke [icon:a_button],",
+        "um sie taumeln zu lassen! Wenn du dann die",
+        "[icon:wiimote] Wii-Fernbedienung [color:black][color:red]schüttelst[color:black], [color:blue]dreht sich [color:black][icon:orange_luma]",
+        "[color:black]und räumt so mit den Gegnern auf![color:black][defcolor]"
+      ],
+      "EuItalian": [
+        "[color:blue]Mira ai nemici [defcolor]con il [color:orange]Cursore Stella [defcolor][icon:co_pointer] e premi",
+        "[icon:a_button] per fermarli. [color:red]Scuoti[defcolor] il telecomando Wii [color:black][icon:wiimote]",
+        "per far eseguire una [color:blue]piroetta [color:black]a [defcolor][color:black][icon:orange_luma][defcolor][color:black]![defcolor]"
+      ],
+      "EuDutch": [
+        "[color:black][color:blue]Aim at enemies[color:black] with [icon:co_pointer], then press [icon:a_button] to stop",
+        "them in their tracks! You can then [color:red]shake [color:black][icon:wiimote]",
+        "to make [icon:orange_luma] [color:blue]spin [color:black]and attack enemies![defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:blue][ruby:敵;てき]を[icon:co_pointer]でねらって [icon:a_button][defcolor]で、 [ruby:敵;てき]の[ruby:動;うご]きをおさえられます!",
+        "さらに[ruby:続;つづ]けて [icon:wiimote][color:red]Wiiリモコンを[ruby:振;ふ]る[color:black]と[color:red][defcolor]、",
+        "[icon:orange_luma]が[color:blue]スピン[defcolor]をして [ruby:敵;てき]を[ruby:倒;たお]すことができます!"
+      ],
+      "KrKorean": [
+        "[color:blue]적을 [icon:co_pointer]로 조준[defcolor], [color:blue][icon:a_button][defcolor]로 움직임을 봉쇄!",
+        "그 상태로 [icon:wiimote][color:red]Wii 리모컨을 흔들면 [defcolor][icon:orange_luma]가",
+        "[color:blue]스핀[defcolor]해서 적을 쓰러뜨릴 수 있습니다!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "將[color:blue][icon:co_pointer]對[color:blue]準敵人[color:black]後[color:blue][color:black]按[color:blue][color:blue][icon:a_button][defcolor]可以壓制敵人!",
+        "接下來[color:red]揮動[defcolor][icon:wiimote][color:red]Wii遙控器[color:black]，[color:red][defcolor]",
+        "[icon:orange_luma]就可以[color:blue]旋轉[defcolor]擊退敵人!"
+      ]
+    }
+  },
+  {
+    "label": "2PGuidance005",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:black]Point at a [icon:coin][color:yellow] [color:black]with [icon:co_pointer], and then press [icon:a_button]!",
+        "...The [icon:orange_luma] [color:orange]Co-Star[color:black][color:orange][color:orange] [color:orange]Luma [color:black]will run and grab it.",
+        "Release [icon:a_button] to toss the [icon:coin] to [defcolor][color:black][player:0]![defcolor]"
+      ],
+      "EuEnglish": [
+        "Point at a [icon:coin] with [icon:co_pointer], and then press [icon:a_button]!",
+        "...[icon:orange_luma] will run and grab it. Release [icon:a_button] to",
+        "toss the [icon:coin] to [color:blue]P1[defcolor]!"
+      ],
+      "UsSpanish": [
+        "¡[color:black]Apunta a una [icon:coin][color:yellow] [color:black]con[color:yellow][color:black] [icon:co_pointer] y oprime [icon:a_button] para que",
+        "[icon:orange_luma] la recoja! ¡Suelta [icon:a_button] y le tirará la [icon:coin]",
+        "a [defcolor][color:black][player:0]![defcolor]"
+      ],
+      "EuSpanish": [
+        "¡[color:black]Apunta a una [icon:coin][color:yellow] [color:black]con[color:yellow][color:black] [icon:co_pointer] y mantén pulsado [icon:a_button] ",
+        "para que [icon:orange_luma] la recoja! ¡Suelta [icon:a_button] y le tirará",
+        "la [icon:coin] al [color:blue]jugador 1[color:black][defcolor][color:black]![defcolor]"
+      ],
+      "UsFrench": [
+        "Placez le curseur [icon:co_pointer] sur une pièce [icon:coin] et",
+        "appuyez sur [icon:a_button] pour envoyer le [color:orange]Luma allié",
+        "[defcolor]la chercher! Relâchez [icon:a_button] pour lancer la",
+        "pièce [icon:coin] à [player:0]!"
+      ],
+      "EuFrench": [
+        "[color:black]Pointez une [icon:coin][color:yellow] [color:black]avec[color:yellow][color:black] le [icon:co_pointer] et appuyez sur [icon:a_button]!",
+        "Le [icon:orange_luma] se précipitera pour aller l'attraper.",
+        "Relâchez [icon:a_button] pour lancer la [icon:coin] à [color:blue]J1[color:black][defcolor][color:black]![defcolor]"
+      ],
+      "EuGerman": [
+        "[color:black]Zeige mit dem [color:black][icon:co_pointer] [color:orange]Sternenzeiger [color:black]auf",
+        "[color:black][icon:coin] [color:yellow]Münzen[color:black] und drücke dann [icon:a_button]!",
+        "Der [icon:orange_luma] [color:orange]Assistent-[color:black][color:orange]Luma [color:black]wird sie sich holen...",
+        "Lass [icon:a_button] los, um die [icon:coin] an [color:blue]SP1[color:black][defcolor][color:black] zu geben![defcolor]"
+      ],
+      "EuItalian": [
+        "Punta [icon:co_pointer] alle [color:yellow]Monete[defcolor] [color:black][icon:coin][color:yellow] [color:black][defcolor]e premi [icon:a_button]! Lo",
+        "[color:orange]Sfavillotto Aiutante [defcolor][icon:orange_luma] le prenderà! Poi",
+        "rilascia [color:black][icon:a_button] per lanciare le [color:yellow]Monete[color:black] [color:black][icon:coin][color:yellow] [color:black][color:black]al [color:blue]G1[color:black]![defcolor]"
+      ],
+      "EuDutch": [
+        "Point at a [icon:coin] with [icon:co_pointer], and then press [icon:a_button]!",
+        "...[icon:orange_luma] will run and grab it. Release [icon:a_button] to",
+        "toss the [icon:coin] to [color:blue]P1[defcolor]!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:yellow][icon:coin]コイン[defcolor]を[color:orange][icon:co_pointer]ポインター[defcolor]でねらって [icon:a_button]を[ruby:押;お]し[ruby:続;つづ]けて!",
+        "・・・すると、 [icon:orange_luma][color:orange]アシストチコ[defcolor]が[color:yellow]コイン[defcolor]を[ruby:持;も]ちます",
+        "[icon:a_button]ボタンを[ruby:離;はな]せば、 [player:0]に[ruby:向;む]けて[icon:coin]を[ruby:飛;と]ばします!"
+      ],
+      "KrKorean": [
+        "[color:yellow][icon:coin]코인[defcolor]을 [color:orange][icon:co_pointer][defcolor]로 조준하고 [icon:a_button]를 누르고",
+        "있으면… [icon:orange_luma][color:orange]도우미치코[defcolor]가 [color:yellow]코인[defcolor]을 듭니다",
+        "[icon:a_button]에서 떼면 [player:0]에게 [icon:coin]을 보냅니다!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "用[color:orange][icon:co_pointer][color:black]對[color:orange][defcolor]準[color:yellow][icon:coin]金幣[color:black]後持續按著[color:yellow][defcolor][icon:a_button]!",
+        "[icon:orange_luma][color:orange]助手奇可[color:black]會取得[color:orange][defcolor][color:yellow]金幣[color:black]。",
+        "[color:yellow][defcolor]放開[icon:a_button]後[icon:coin]會朝[player:0]飛去!"
+      ]
+    }
+  },
+  {
+    "label": "2PGuidanceIcon",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Things you can do in Co-Star Mode"
+      ],
+      "EuEnglish": [
+        "Things you can do in Co-Star Mode"
+      ],
+      "UsSpanish": [
+        "Cómo jugar en modo cooperativo"
+      ],
+      "EuSpanish": [
+        "Cómo jugar en modo cooperativo"
+      ],
+      "UsFrench": [
+        "Mode Luma allié"
+      ],
+      "EuFrench": [
+        "Jeu en coopération"
+      ],
+      "EuGerman": [
+        "Wie das unterstützende Spiel funktioniert"
+      ],
+      "EuItalian": [
+        "Azioni possibili nel gioco cooperativo"
+      ],
+      "EuDutch": [
+        "Things you can do in Co-Star Mode"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "2人協力プレイでできること"
+      ],
+      "KrKorean": [
+        "2인 협력 플레이에 대하여"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "雙人協力功能"
+      ]
+    }
+  },
+  {
+    "label": "2PGuidanceTitle001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "How do you play with [icon:co_pointer] two people?",
+        "Co-Star Mode!"
+      ],
+      "EuEnglish": [
+        "How do you play with [icon:co_pointer] two people?",
+        "Co-Star Mode!"
+      ],
+      "UsSpanish": [
+        "¿Sabes cómo jugar con un segundo [icon:co_pointer]?",
+        "¡Es la clave del modo cooperativo!"
+      ],
+      "EuSpanish": [
+        "¿Sabes cómo jugar con otro cursor [icon:co_pointer]?",
+        "¡Es la clave del modo cooperativo!"
+      ],
+      "UsFrench": [
+        "Jouer à deux grâce au mode Luma allié"
+      ],
+      "EuFrench": [
+        "Deux joueurs [icon:co_pointer] peuvent s'entraider grâce",
+        "au jeu en coopération!"
+      ],
+      "EuGerman": [
+        "So geht's: Unterstützendes Spiel zu zweit [icon:co_pointer]"
+      ],
+      "EuItalian": [
+        "Come giocare in due con il Cursore Stella [icon:co_pointer]?",
+        "Con il gioco cooperativo!"
+      ],
+      "EuDutch": [
+        "How do you play with [icon:co_pointer] two people?",
+        "Co-Star Mode!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:co_pointer] [ruby:二人;ふたり]で[ruby:遊;あそ]ぶには?"
+      ],
+      "KrKorean": [
+        "[icon:co_pointer]2명이 함께 플레이하려면?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "如何玩雙人遊戲"
+      ]
+    }
+  },
+  {
+    "label": "2PGuidanceTitle002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You can grab [icon:purple_starbit] Star Bits and shoot them!"
+      ],
+      "EuEnglish": [
+        "You can grab [icon:purple_starbit] Star Bits and shoot them!"
+      ],
+      "UsSpanish": [
+        "¡Recoge trozos de estrella [icon:purple_starbit] y lánzalos!"
+      ],
+      "EuSpanish": [
+        "¡Coge trozos de estrella [icon:purple_starbit] y lánzalos!"
+      ],
+      "UsFrench": [
+        "Manier les éclats d'étoile [icon:purple_starbit]"
+      ],
+      "EuFrench": [
+        "Ramassez les fragments d'étoile [icon:purple_starbit] et",
+        "utilisez-les pour tirer sur les ennemis!"
+      ],
+      "EuGerman": [
+        "Sammele und verschieße [icon:purple_starbit] Sternenteile!"
+      ],
+      "EuItalian": [
+        "Puoi afferrare le [color:purple]Astroschegge [defcolor][icon:purple_starbit] e spararle!"
+      ],
+      "EuDutch": [
+        "You can grab [icon:purple_starbit] Star Bits and shoot them!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:purple_starbit] スターピースを[ruby:集;あつ]めて [ruby:撃;う]とう!"
+      ],
+      "KrKorean": [
+        "[icon:purple_starbit]스타구슬을 모아서 쏘세요!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "如何收集星塵和發射星塵"
+      ]
+    }
+  },
+  {
+    "label": "2PGuidanceTitle003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You can move the [icon:orange_luma] Co-Star Luma!"
+      ],
+      "EuEnglish": [
+        "You can move the [icon:orange_luma] Co-Star Luma!"
+      ],
+      "UsSpanish": [
+        "¡Puedes controlar al destello compañero [icon:orange_luma]!"
+      ],
+      "EuSpanish": [
+        "¡Puedes controlar al destello compañero [icon:orange_luma]!"
+      ],
+      "UsFrench": [
+        "Déplacer le Luma allié [icon:orange_luma]"
+      ],
+      "EuFrench": [
+        "Vous incarnez le Luma allié [icon:orange_luma]!"
+      ],
+      "EuGerman": [
+        "Du kannst den [icon:orange_luma] Assistent-Luma steuern!"
+      ],
+      "EuItalian": [
+        "Puoi agire come Sfavillotto Aiutante [icon:orange_luma]!"
+      ],
+      "EuDutch": [
+        "You can move the [icon:orange_luma] Co-Star Luma!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:orange_luma] アシストチコを[ruby:動;うご]かそう!"
+      ],
+      "KrKorean": [
+        "[icon:orange_luma]도우미치코를 조종하세요!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "如何操作助手奇可"
+      ]
+    }
+  },
+  {
+    "label": "2PGuidanceTitle004",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You can freeze [icon:goomba] enemies and defeat them!"
+      ],
+      "EuEnglish": [
+        "You can freeze [icon:goomba] enemies and defeat them!"
+      ],
+      "UsSpanish": [
+        "¡Puedes congelar a enemigos [icon:goomba] y derrotarlos!"
+      ],
+      "EuSpanish": [
+        "¡Puedes congelar a los [icon:goomba] y derrotarlos!"
+      ],
+      "UsFrench": [
+        "Bloquer et éliminer les ennemis"
+      ],
+      "EuFrench": [
+        "Vous pouvez immobiliser les ennemis [icon:goomba]",
+        "et les éliminer!"
+      ],
+      "EuGerman": [
+        "Bringe [icon:goomba] Gegner zum Taumeln und besiege sie!"
+      ],
+      "EuItalian": [
+        "Puoi bloccare i nemici [icon:goomba] ed eliminarli!"
+      ],
+      "EuDutch": [
+        "You can freeze [icon:goomba] enemies and defeat them!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:goomba] [ruby:敵;てき]をおさえよう! [ruby:倒;たお]そう!"
+      ],
+      "KrKorean": [
+        "[icon:goomba]적을 잡거나 쓰러뜨릴 수 있어요!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "如何壓制擊敗敵人"
+      ]
+    }
+  },
+  {
+    "label": "2PGuidanceTitle005",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You can even carry [icon:coin] coins!"
+      ],
+      "EuEnglish": [
+        "You can even carry [icon:coin] coins!"
+      ],
+      "UsSpanish": [
+        "¡Hasta puedes cargar monedas [icon:coin]!"
+      ],
+      "EuSpanish": [
+        "¡Incluso puedes llevar monedas [icon:coin]!"
+      ],
+      "UsFrench": [
+        "Transporter des pièces [icon:coin]"
+      ],
+      "EuFrench": [
+        "Vous pouvez même ramasser des pièces [icon:coin]!"
+      ],
+      "EuGerman": [
+        "Du kannst sogar [icon:coin] Münzen mitnehmen!"
+      ],
+      "EuItalian": [
+        "Puoi anche portare delle [color:yellow][color:black]Monete[color:yellow] [defcolor][icon:coin]!"
+      ],
+      "EuDutch": [
+        "You can even carry [icon:coin] coins!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:coin]コインも[ruby:運;はこ]べる!"
+      ],
+      "KrKorean": [
+        "[icon:coin]코인도 운반할 수 있어요!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "如何搬動金幣"
+      ]
+    }
+  },
+  {
+    "label": "P2Manual_P1",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "P1"
+      ],
+      "EuEnglish": [
+        "P1"
+      ],
+      "UsSpanish": [
+        "J1"
+      ],
+      "EuSpanish": [
+        "J1"
+      ],
+      "UsFrench": [
+        "J1"
+      ],
+      "EuFrench": [
+        "J1"
+      ],
+      "EuGerman": [
+        "SP1"
+      ],
+      "EuItalian": [
+        "G1"
+      ],
+      "EuDutch": [
+        "P1"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "1P"
+      ],
+      "KrKorean": [
+        "1P"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "1P"
+      ]
+    }
+  },
+  {
+    "label": "P2Manual_P2",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "P2"
+      ],
+      "EuEnglish": [
+        "P2"
+      ],
+      "UsSpanish": [
+        "J2"
+      ],
+      "EuSpanish": [
+        "J2"
+      ],
+      "UsFrench": [
+        "J2"
+      ],
+      "EuFrench": [
+        "J2"
+      ],
+      "EuGerman": [
+        "SP2"
+      ],
+      "EuItalian": [
+        "G2"
+      ],
+      "EuDutch": [
+        "P2"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "2P"
+      ],
+      "KrKorean": [
+        "2P"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "2P"
+      ]
+    }
+  }
+]

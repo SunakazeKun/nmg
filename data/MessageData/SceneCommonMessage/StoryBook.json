@@ -1,0 +1,2498 @@
+[
+  {
+    "label": "StoryBook_KoopaCastle000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO1]\"All right! Time for the grand finale, Captain!\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO1]\"All right! Time for the grand finale, Captain!\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO1]\"¡Muy bien, jefe! ¡Es hora de cerrar con ",
+        "broche de oro!\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO1]¡Estupendo! ¡Llegó la hora del gran final!"
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO1]« C'est l'heure du combat final, capitaine! »"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO1]\"Matelot, l'heure de l'épreuve",
+        "finale est arrivée!\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO1]„Gut! Es ist an der Zeit für",
+        "das große Finale, Steuermann!“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO1]E va bene! È giunto il momento del gran finale,",
+        "Comandante!"
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO1]\"All right! Time for the grand finale, Captain!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO1]「さ! [ruby:大詰;おおづ]めだよ [ruby:船長;せんちょう]!!」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO1]「자! 목적지가 눈앞에 있어, 캡틴!!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO1]「這是關鍵時刻啦！」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_KoopaCastle001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO2]\"Somewhere in there...\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO2]\"Somewhere in there...\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO2]\"En algún lugar por ahí...\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO2]Ahí dentro..."
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO2]« Quelque part dans cette forteresse... »"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO2]\"Quelque part dans ce lieu sordide...\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO2]„Irgendwo dort drinnen...“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO2]Da qualche parte là dentro..."
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO2]\"Somewhere in there...\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO2]「あの[ruby:中;なか]で・・・」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO2]「저기 어딘가에…」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO2]「就在那裡…」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_KoopaCastle002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO3]\"Your princess is waiting!\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO3]\"Your princess is waiting!\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO3]\"¡Te espera tu ser querido!\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO3]¡La princesa te espera!"
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO3]« Ta princesse t'attend! »"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO3]\"... t'attend ta chère princesse!\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO3]„Dort wartet deine Prinzessin",
+        "auf niemand anderen als dich!“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO3]La tua Principessa... ti sta aspettando!"
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO3]\"Your princess is waiting!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO3]「アンタの[ruby:大切;たいせつ]なヒトが [ruby:待;ま]っている!」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO3]「너의 소중한 사람이 기다리고 있어!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO3]「你最重要的人在等著你！」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_KoopaCastle003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO4]\"What a surprise... It's a comet!\"[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO5]\"It looks like Power Stars weren't the only",
+        " things getting eaten up around here!\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO4]\"What a surprise... It's a comet!\"[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO5]\"It looks like Power Stars weren't the only",
+        " things getting eaten up around here!\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO4]\"HUY... ¡Eso es un cometa!\"[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO5]\"¡Parece que las Superestrellas no eran",
+        "lo único en su dieta!\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO4]¡Menuda sorpresa! ¡Un cometa![pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO5]¡No solo se comía las Superestrellas!"
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO4]« Par les océans stellaires! C'est une comète! »[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO5]« Il ne mangeait pas que des super étoiles! »"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO4]\"Ça alors... Mais c'est une comète!\"[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO5]\"Apparemment, il n'y a pas que",
+        "les [icon:star] qui se font engloutir ici!\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO4]„Was für eine Überraschung... Ein Komet!“[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO5]„Sieht fast so aus, als ob er nicht nur",
+        "Power-Sterne verspeist hat!“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO4]Che sorpresa... È una Cometa![pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO5]Allora le Superstelle",
+        "non erano le sole cose che mangiasse!"
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO4]\"What a surprise... It's a comet!\"[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO5]\"It looks like Power Stars weren't the only",
+        " things getting eaten up around here!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO4]「[ruby:驚;おどろ]いたね・・・ あれは[ruby:彗星;すいせい]だ!」[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO5]「[ruby:食;く]ってたのは パワースターだけじゃなかったんだよ」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO4]「놀라워… 저것은 혜성이야!」[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO5]「파워스타만 먹은 게 아니었나 봐!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO4]「嚇我一跳…那是彗星啊！」[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO5]「他吃的不只是力量星星啊！」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_KoopaCastle004",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO6]\"It looks like [icon:bowser] wants to get even bigger!\"[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO7]\"You need to stop that [icon:bowser] monster before he",
+        " devours everything in his path!\"[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO8]\"Get in there and show him what ya got!\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO6]\"It looks like [icon:bowser] wants to get even bigger!\"[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO7]\"You need to stop that [icon:bowser] monster before he",
+        " devours everything in his path!\"[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO8]\"Get in there and show him what ya got!\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO6]\"¡Parece que [icon:bowser] quiere seguir creciendo!\"[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO7]\"¡Detén a ese monstruo [icon:bowser] antes de que arrase",
+        "con todo lo que se encuentre a su paso!\"[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO8]\"¡Vamos, dale su merecido!\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO6]¡Parece que [icon:bowser] quiere seguir creciendo![pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO7]¡Tienes que pararle los pies a [icon:bowser] antes",
+        "de que arrase con todo lo que pille![pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO8]¡Venga, enséñale de qué pasta estás hecho!"
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO6]« Il essaie de devenir encore plus puissant! »[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO7]« Tu dois arrêter ce monstre [icon:bowser] avant qu'il",
+        "ne dévore tout sur son passage! »[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO8]« Montre à ce marin d'eau douce de quel bois",
+        "tu te chauffes! À L'ABORDAGE! »"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO6]\"[icon:bowser] a l'air de vouloir",
+        "grandir encore et encore!\"[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO7]\"Tu dois absolument arrêter ce pirate de [icon:bowser]",
+        "avant qu'il ne dévore tout sur son passage!\"[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO8]\"Va lui montrer que ce n'est pas",
+        "lui qui fait la loi dans le cosmos!\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO6]„Auweia, der Unhold scheint noch mächtiger",
+        "werden zu wollen!“[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO7]„Halte den Unhold auf, bevor er alles",
+        "in seinem Weg dem Erdboden gleichmacht!“[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO8]„Also raus mit dir! Zeig, was du draufhast!“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO6]Sembra che quel tizio [icon:bowser] voglia diventare",
+        "ancora più grande![pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO7]Devi fermare quel mostro [icon:bowser] prima che divori",
+        "ogni cosa che incontra sul suo cammino![pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO8]Affrontalo e mostragli quanto vali!"
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO6]\"It looks like [icon:bowser] wants to get even bigger!\"[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO7]\"You need to stop that [icon:bowser] monster before he",
+        " devours everything in his path!\"[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO8]\"Get in there and show him what ya got!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO6]「[icon:bowser]ヤツはまだまだ デカくなるつもりだ!」[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO7]「[ruby:食;く]い[ruby:尽;つ]くされる[ruby:前;まえ]に [icon:bowser]カイブツを[ruby:止;と]めるんだ!」[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO8]「さっ! [ruby:思;おも]う[ruby:存分;ぞんぶん] [ruby:暴;あば]れてきな!!」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO6]「[icon:bowser]녀석은 아직도 더 커질 심산인 거야!」[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO7]「모두 먹히기 전에 [icon:bowser]괴물을 막아야 해!」[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO8]「자! 마음껏 실력 발휘하고 와!!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_KPA_MEISTER_VO6]「[icon:bowser]他還打算再繼續變大啊！」[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO7]「在一切被吃完之前，快阻止那[icon:bowser]怪物！」[pagebreak]",
+        "[sound:SE_DM_V_KPA_MEISTER_VO8]「來！讓他瞧瞧你的厲害!!」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_MeetKoopa_PeachHelp",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_PEACH_TALK_HELP",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:red]HELP ME![defcolor]"
+      ],
+      "EuEnglish": [
+        "[color:red]HELP ME![defcolor]"
+      ],
+      "UsSpanish": [
+        "[color:red]¡SOCORRO![defcolor]"
+      ],
+      "EuSpanish": [
+        "[color:red][color:black]¡[color:red]SOCORRO[color:black]![color:red][defcolor]"
+      ],
+      "UsFrench": [
+        "[color:red]À L'AIDE![defcolor]"
+      ],
+      "EuFrench": [
+        "[color:red]Au secours!!![defcolor]"
+      ],
+      "EuGerman": [
+        "[color:red]HILFE![defcolor]"
+      ],
+      "EuItalian": [
+        "[color:red]AIUTO!!![defcolor]"
+      ],
+      "EuDutch": [
+        "[color:red]HELP ME![defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:red]HELP![defcolor]"
+      ],
+      "KrKorean": [
+        "[color:red]HELP![defcolor]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[color:red]救命！[defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_MeetKoopa000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK1]\"You're too late, [player:0]!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2]\"The power of the stars is already MINE!",
+        " And look what else I got...\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK1]\"You're too late, [player:0]!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2]\"The power of the stars is already MINE!",
+        " And look what else I got...\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK1]\"¡Demasiado tarde, [player:0]!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2]\"¡La fuerza de las estrellas es solo mía!",
+        "Y fíjate quién se va a venir conmigo...\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK1]¡Demasiado tarde, [player:0]![pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2]¡La fuerza de las estrellas es solo mía!",
+        "Y fíjate quién se va a venir conmigo..."
+      ],
+      "UsFrench": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK1]« Tu arrives trop tard, [player:0]! »[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2]« L'énergie des super étoiles m'appartient! Et",
+        "regarde qui j'ai trouvé... »"
+      ],
+      "EuFrench": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK1]\"Tu arrives trop tard, [player:0]!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2]\"Je maîtrise désormais le pouvoir des étoiles!",
+        "Et regarde ce que j'ai trouvé en plus de ça!\""
+      ],
+      "EuGerman": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK1]„Zu spät, [player:0]!",
+        "Die Kraft der Sterne gehört jetzt MIR!“[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2]„Und sieh mal, was ich mir noch unter",
+        " den Nagel gerissen habe!“"
+      ],
+      "EuItalian": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK1]Stavolta arrivi troppo tardi, [player:0]![pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2]Il potere delle stelle è già nelle mie mani!",
+        "E guarda cos'altro ho preso!"
+      ],
+      "EuDutch": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK1]\"You're too late, [player:0]!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2]\"The power of the stars is already MINE!",
+        " And look what else I got...\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK1]「おそいぞ [player:0]!」[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2][delay:15]「ワガハイもついにスターのパワーを[ruby:身;み]に[ruby:付;つ]けた!!」"
+      ],
+      "KrKorean": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK1]「늦었군 [player:0]!」[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2][delay:15]「이 몸은 이미 스타의 힘을 손에 넣었다!!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK1]「你來晚了，[player:0]！」[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2][delay:15]「本大王終於得到星星的力量啦!!」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_MeetKoopa001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH_LONG] \"GWAHAHAAH!\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH_LONG] \"GWAHAHAAH!\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH_LONG]\"¡¡JUAR, JUAR, JUAR, JUAR!!\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH_LONG]¡¡JUA, JUA, JUA, JUA!!"
+      ],
+      "UsFrench": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH_LONG]« BWAHAHAHA! »"
+      ],
+      "EuFrench": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH_LONG]\"Gouahahaha!\""
+      ],
+      "EuGerman": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH_LONG] „GWAHAHAAAHAAA!!!“"
+      ],
+      "EuItalian": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH_LONG]GAHAHAHA!!!"
+      ],
+      "EuDutch": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH_LONG] \"GWAHAHAAH!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH_LONG] 「ガーッハッハッハッハ!」"
+      ],
+      "KrKorean": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH_LONG] 「크핫핫핫핫!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH_LONG] 「哇！哈！哈！哈!!」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_MeetKoopa002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK3]\"I'm HUUUUGE!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK4]\"Even scarier up close, huh?\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK3]\"I'm HUUUUGE!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK4]\"Even scarier up close, huh?\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK3]\"¡Ahora soy ENOOORME!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK4]\"¡Seguro que doy más miedo de cerca!",
+        "¿Verdad, chaparrito?\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK3]¡¡¡Soy ENORME!!![pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK4]¡¿A que de cerca doy más miedo?!"
+      ],
+      "UsFrench": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK3]« Je suis GIGANTESQUE! »[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK4]« Et je suis encore plus effrayant de près, tu",
+        "ne trouves pas, minus? »"
+      ],
+      "EuFrench": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK3]\"Je suis ENOOOOOORME!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK4]\"Regarde-moi de plus près... Avoue que",
+        "je suis encore plus terrifiant comme ça!\""
+      ],
+      "EuGerman": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK3]„ICH BIN RIIIIESENGROOOOOSS!!!“[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK4]„Sogar noch furchterregender",
+        "aus der Nähe, oder?“"
+      ],
+      "EuItalian": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK3]Io sono... ENORME!!![pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK4]E a vedermi da vicino, piccoletto,",
+        "te la starai già facendo sotto!"
+      ],
+      "EuDutch": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK3]\"I'm HUUUUGE!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK4]\"Even scarier up close, huh?\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK3]「どうだ スーパーサイズなワガハイは」[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK4]「[ruby:近;ちか]くでみると もーっとコワイだろ!」"
+      ],
+      "KrKorean": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK3]「어떠냐, 슈퍼 사이즈가 된 이 몸이!」[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK4]「가까이서 보니 더 두렵지 않느냐?」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK3]「超級雄壯的本大王如何?」[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK4]「近看讓你更害怕了吧！」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_MeetKoopa003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2_2]\"Maybe I'll have Peach bake ME something",
+        " for once...\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK_2_3]\"I sure could go for a galaxy-sized slice",
+        " of cake right now!\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2_2]\"Maybe I'll have Peach bake ME something",
+        " for once...\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK_2_3]\"I sure could go for a galaxy-sized slice",
+        " of cake right now!\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2_2]\"Y esta vez, Peach hará un pastel",
+        "para MÍ, para variar...\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK_2_3]\"¡Ahora mismo me podría comer un pastel",
+        "tan grande como una galaxia!\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2_2]Quizá hasta consiga que Peach me haga",
+        "una tarta de una vez por todas...[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK_2_3]¡Ahora mismo me podría comer una tarta",
+        "tan grande como una galaxia!"
+      ],
+      "UsFrench": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2_2]« Peut-être que je vais demander à Peach de",
+        "ME cuisiner quelque chose, pour une fois... »[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK_2_3]« Moi aussi j'ai envie d'un morceau de gâteau...",
+        "mais de la grosseur d'une GALAXIE! HAH!»"
+      ],
+      "EuFrench": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2_2]\"Pour une fois, Peach [icon:peach] va faire de",
+        "bons petits gâteaux rien que pour MOI!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK_2_3]\"Voilà ce qu'il me faut, un gâteau de la taille",
+        "d'une galaxie! Oh oui, un gâteau galactique!\""
+      ],
+      "EuGerman": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2_2]„Und Peach kann bestimmt was ",
+        "Leckeres für MICH backen.“[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK_2_3]„Ich bin genau in der Stimmung für",
+        "einen riesigen Schokokuchen!“"
+      ],
+      "EuItalian": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2_2]Forse chiederò a Peach di cucinare qualcosa",
+        "per me...[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK_2_3]Ho voglia di una torta di dimensioni galattiche!"
+      ],
+      "EuDutch": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2_2]\"Maybe I'll have Peach bake ME something",
+        " for once...\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK_2_3]\"I sure could go for a galaxy-sized slice",
+        " of cake right now!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2_2]「ピーチには ワガハイのために」[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK_2_3]「スーパーサイズのケーキを[ruby:焼;や]いてもらおう」"
+      ],
+      "KrKorean": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2_2]「피치공주는 이 몸을 위해」[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK_2_3]「슈퍼 사이즈 케이크를 굽게 될 것이다!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK2_2]「就讓碧姬為本大王我」[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK_2_3]「烤個超級巨大的蛋糕吧」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_MeetKoopa004",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK5]\"I'm way too huge for this puny planet!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK6]\"I deserve an empire that's more ME size!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK7]\"And I'll put it in the center of the universe!\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK5]\"I'm way too huge for this puny planet!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK6]\"I deserve an empire that's more ME size!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK7]\"And I'll put it in the centre of the universe!\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK5]\"¡Ya estoy harto de este planetucho!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK6]\"¡Necesito un imperio galáctico que",
+        "esté a mi altura!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK7]\"Y lo pondré en el único lugar digno de mi",
+        "estatura: ¡el centro del universo!\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK5]¡Ya me he cansado de esta birria de planeta![pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK6]¡Necesito un imperio galáctico",
+        "que esté a mi altura![pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK7]Así ocuparé el sitio que me merezco:",
+        "¡el centro del universo! ¡JUA, JUA, JUA!"
+      ],
+      "UsFrench": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK5]« Bon, j'en ai assez de ta mini planète! »[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK6]« Je mérite un empire à ma taille! »[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK7]« Et je compte l'installer au seul endroit digne",
+        "de ma personne : le centre de l'univers! »"
+      ],
+      "EuFrench": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK5]\"Ta petite planète de rien",
+        "du tout est trop minable!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK6]\"A nouvelle taille, nouveaux appétits:",
+        "il me faut un royaume à ma mesure!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK7]\"Je vais placer mon trône au centre de",
+        "l'univers et de là je régnerai sur le cosmos!\""
+      ],
+      "EuGerman": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK5]„Euer erbärmlicher Planet ist zu klein für mich!“[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK6]„Mein neues Riesen-Ich verlangt ",
+        "nach einem neuen Riesen-Reich!“[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK7]„Das Zentrum des Universums wird",
+        "der perfekte Ort für meine neue Heimat sein!\""
+      ],
+      "EuItalian": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK5]Ad ogni modo il vostro Pianeta è noiosissimo...[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK6]Per uno della mia grandezza serve un regno di",
+        "dimensioni cosmiche![pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK7]E conosco il posto ideale...",
+        "Mi merito di essere al centro dell'universo!"
+      ],
+      "EuDutch": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK5]\"I'm way too huge for this puny planet!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK6]\"I deserve an empire that's more ME size!\"[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK7]\"And I'll put it in the centre of the universe!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK5]「こんな せまくるしい[ruby:星;ほし]は [ruby:住;す]みあきた!」[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK6]「スーパーなワガハイは スーパーな[ruby:帝国;ていこく]を」[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK7]「[ruby:宇宙;うちゅう]の[ruby:中心;ちゅうしん]に つくるのだ!!」"
+      ],
+      "KrKorean": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK5]「이런 비좁은 별에서 사는 건 지긋지긋해!」[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK6]「이 몸은 슈퍼니까 슈퍼 제국을」[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK7]「우주의 중심에 건설할 것이다!!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK5]「這超窄的星球，本大王已不想再住啦！」[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK6]「超級的本大王該把超級帝國」[pagebreak]",
+        "[sound:SE_SY_OP_D_KOOPA_SPEAK7]「建立在宇宙的中心!!」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_MeetKoopa005",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH]\"Have fun with your stupid mushrooms!\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH]\"Have fun with your stupid mushrooms!\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH]\"¡Que te diviertas comiendo champiñoncitos!\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH]¡Que te diviertas con tus tristes champiñones!"
+      ],
+      "UsFrench": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH]« Amuse-toi bien avec tes mini champignons! »"
+      ],
+      "EuFrench": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH]\"Allez, amuse-toi bien avec tes",
+        "petits champignons ridicules!\""
+      ],
+      "EuGerman": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH]„Viel Spaß noch mit deinen",
+        "jämmerlichen Pilzen!“"
+      ],
+      "EuItalian": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH]Continua pure a masticare funghetti",
+        "tutto il giorno!!!"
+      ],
+      "EuDutch": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH]\"Have fun with your stupid mushrooms!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH]「オマエはここに[ruby:残;のこ]って キノコでもかじっていろ!」"
+      ],
+      "KrKorean": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH]「네 녀석은 여기에 남아 버섯이나 씹어라!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_SY_OP_D_KOOPA_LAUGH]「你就留在這裡，咬你的蘑菇吧！」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_MeetTicoBaby000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[size:large]\"△××△△×?!\""
+      ],
+      "EuEnglish": [
+        "[size:large]\"△××△△×?!\""
+      ],
+      "UsSpanish": [
+        "[size:large]\"¡¿△××△△×?!\""
+      ],
+      "EuSpanish": [
+        "[size:large]¡¿△××△△×?!"
+      ],
+      "UsFrench": [
+        "[size:large]« △××△△×?! »"
+      ],
+      "EuFrench": [
+        "[size:large]\"△××△△×?!\""
+      ],
+      "EuGerman": [
+        "[size:large]„△××△△×?!?“"
+      ],
+      "EuItalian": [
+        "[size:large]△××△△×?!"
+      ],
+      "EuDutch": [
+        "[size:large]\"△××△△×?!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[size:large]「△××△△×?!」"
+      ],
+      "KrKorean": [
+        "[size:large]「△××△△×?!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[size:large]「△××△△×?!」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_MeetTicoBaby001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The strange little fellow seemed confused...[pagebreak]",
+        "Was he lost?"
+      ],
+      "EuEnglish": [
+        "The strange little fellow seemed confused...[pagebreak]",
+        "Was he lost?"
+      ],
+      "UsSpanish": [
+        "El extraño pequeñín parecía desconcertado...[pagebreak]",
+        "¿Acaso se había extraviado?"
+      ],
+      "EuSpanish": [
+        "Este pequeñín parece haberse perdido..."
+      ],
+      "UsFrench": [
+        "Notre héros découvrit sur son chemin une",
+        "pauvre petite étoile qui semblait bien confuse...[pagebreak]",
+        "Était-elle perdue?"
+      ],
+      "EuFrench": [
+        "L'étrange petit bonhomme",
+        "avait l'air un peu perdu..."
+      ],
+      "EuGerman": [
+        "Dieser sonderbare kleine Geselle",
+        "sieht verwirrt aus...[pagebreak]",
+        "Ob er sich verlaufen hat?"
+      ],
+      "EuItalian": [
+        "Questo piccolo sembra un po' confuso...[pagebreak]",
+        "Si sarà perso?"
+      ],
+      "EuDutch": [
+        "The strange little fellow seemed confused...[pagebreak]",
+        "Was he lost?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:見;み]たことない[ruby:子;こ]ですね････[pagebreak]",
+        "[ruby:迷子;まいご]のようです"
+      ],
+      "KrKorean": [
+        "처음 보는 친구네요…[pagebreak]",
+        "가족과 떨어져 길을 잃었나 봐요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "我沒見過這孩子呢…[pagebreak]",
+        "似乎是迷路了"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_MeetTicoBaby002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "He seemed to take a shine to [player:0]!"
+      ],
+      "EuEnglish": [
+        "He seemed to take a shine to [player:0]!"
+      ],
+      "UsSpanish": [
+        "Ooooh, ¡parece que la presencia de [player:0] ha",
+        "tranquilizado al pequeñín! ¡Ahora está feliz!"
+      ],
+      "EuSpanish": [
+        "Ooooh, ¡qué lindo! ¡Le ha cogido cariño a [player:0]!"
+      ],
+      "UsFrench": [
+        "Une chose est sûre, elle semblait adorer [player:0]!"
+      ],
+      "EuFrench": [
+        "Il se prit tout de suite d'affection pour [player:0]!"
+      ],
+      "EuGerman": [
+        "Oh, wie schön... [player:0] ist ihm sympathisch!"
+      ],
+      "EuItalian": [
+        "Sembra che si sia già affezionato a [player:0]!"
+      ],
+      "EuDutch": [
+        "He seemed to take a shine to [player:0]!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "おやおや・・・ [player:0]は [ruby:気;き]に[ruby:入;い]られたようですね"
+      ],
+      "KrKorean": [
+        "어머나… [player:0]가 마음에 드나 봐요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "哎呀呀…[player:0]，他好像很喜歡你呢"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_MeetTicoBaby003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[player:0]'s cap filled with warmth as he felt a new",
+        "power surging through him!"
+      ],
+      "EuEnglish": [
+        "[player:0]'s cap filled with warmth as he felt a new",
+        "power surging through him!"
+      ],
+      "UsSpanish": [
+        "¡Un ligero calor emana de la gorra de [player:0] ",
+        "y él nota una nueva fuerza en su interior!"
+      ],
+      "EuSpanish": [
+        "¡[player:0] siente un ligero calor bajo su gorra ",
+        "y nota una nueva fuerza en su interior!"
+      ],
+      "UsFrench": [
+        "Soudain, [player:0] sentit un nouveau pouvoir l'envahir,",
+        "et sa casquette brilla d'une douce lueur!"
+      ],
+      "EuFrench": [
+        "Soudain, [player:0] vit sa casquette briller d'un",
+        "nouvel éclat! Un nouveau pouvoir l'envahit!"
+      ],
+      "EuGerman": [
+        "Eine behagliche Wärme breitet sich unter",
+        "Marios Mütze aus, während sich eine ungeahnte,",
+        "mysteriöse Kraft in seinem Körper verteilt!"
+      ],
+      "EuItalian": [
+        "Mario avverte uno strano calore sotto il suo",
+        "cappello... Un nuovo potere che si manifesta..."
+      ],
+      "EuDutch": [
+        "[player:0]'s cap filled with warmth as he felt a new",
+        "power surging through him!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:帽子;ぼうし]の[ruby:中;なか]が[ruby:暖;あたた]かくて、 [ruby:体中;からだじゅう]に[ruby:力;ちから]がわいてきました"
+      ],
+      "KrKorean": [
+        "모자 안이 따뜻해서 온 몸에 기운이 솟아났습니다"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "帽子裡好溫暖，我整個人開始充滿力量"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_NormalEnding1st000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_ED_PEACH_SIGH_AT_ASTRO]\"Oh, it's so beautiful...\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_ED_PEACH_SIGH_AT_ASTRO]\"Oh, it's so beautiful...\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_ED_PEACH_SIGH_AT_ASTRO]\"Oh, es lindísimo...\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_ED_PEACH_SIGH_AT_ASTRO]¡Oooh, qué bonito!..."
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_ED_PEACH_SIGH_AT_ASTRO]« Oh... C'est magnifique... »"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_ED_PEACH_SIGH_AT_ASTRO]\"Oh, c'est magnifique...\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_ED_PEACH_SIGH_AT_ASTRO]„Oh, schau mal...“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_ED_PEACH_SIGH_AT_ASTRO]Oh, che meraviglia..."
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_ED_PEACH_SIGH_AT_ASTRO]\"Oh, it's so beautiful...\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_ED_PEACH_SIGH_AT_ASTRO]「・・・まあ! きれい」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_ED_PEACH_SIGH_AT_ASTRO]「…어머나! 예뻐라」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_ED_PEACH_SIGH_AT_ASTRO]「…嘩！好漂亮」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_NormalEnding1st001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[size:large]\"△△×△×△--!\""
+      ],
+      "EuEnglish": [
+        "[size:large]\"△△×△×△--!\""
+      ],
+      "UsSpanish": [
+        "[size:large]\"¡△△×△×△---!\""
+      ],
+      "EuSpanish": [
+        "[size:large]¡¡△△×△×△---!!"
+      ],
+      "UsFrench": [
+        "[size:large]« △△×△×△...!!! »"
+      ],
+      "EuFrench": [
+        "[size:large]\"△△×△×△---!!!\""
+      ],
+      "EuGerman": [
+        "[size:large]„△△×△×△---!!!“"
+      ],
+      "EuItalian": [
+        "[size:large]△△×△×△---!!!"
+      ],
+      "EuDutch": [
+        "[size:large]\"△△×△×△--!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[size:large]「△△×△×△ーーー!!!」"
+      ],
+      "KrKorean": [
+        "[size:large]「△△×△×△---!!!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[size:large]「△△×△×△----!!!」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_NormalEnding2nd000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_ED_MEISTER_VO1]\"...I always thought we would meet again.\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_ED_MEISTER_VO1]\"...I always thought we would meet again.\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_ED_MEISTER_VO1]\"Sabía que nos encontraríamos de nuevo...\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_ED_MEISTER_VO1]Sabía que nos encontraríamos de nuevo..."
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_ED_MEISTER_VO1]« Je savais que nous nous reverrions un jour. »"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_ED_MEISTER_VO1]\"... Je savais bien qu'on finirait par se revoir.\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_ED_MEISTER_VO1]„Ich habe immer gewusst, dass wir ",
+        "uns wiedersehen würden.“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_ED_MEISTER_VO1]Sapevo che ci saremmo rivisti!"
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_ED_MEISTER_VO1]\"...I always thought we would meet again.\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_ED_MEISTER_VO1]「・・・お[ruby:会;あ]い[ruby:出来;でき]ると[ruby:思;おも]っていましたよ」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_ED_MEISTER_VO1]「…만날 수 있을 거라 생각했어요」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_ED_MEISTER_VO1]「…我就知道能再見到你」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_NormalEnding2nd001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_ED_BABY_TICO_CALL_MOM][size:large]\"Mama!\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_ED_BABY_TICO_CALL_MOM][size:large]\"Mama!\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_ED_BABY_TICO_CALL_MOM][size:large]\"¡Mamá!\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_ED_BABY_TICO_CALL_MOM][size:large]¡Mami!"
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_ED_BABY_TICO_CALL_MOM][size:large]« Maman! »"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_ED_BABY_TICO_CALL_MOM][size:large]\"Maman!\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_ED_BABY_TICO_CALL_MOM][size:large]„Mama!!!“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_ED_BABY_TICO_CALL_MOM][size:large]Mamma!"
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_ED_BABY_TICO_CALL_MOM][size:large]\"Mama!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_ED_BABY_TICO_CALL_MOM][size:large]「ママーー!!」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_ED_BABY_TICO_CALL_MOM][size:large]「엄마--!!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_ED_BABY_TICO_CALL_MOM][size:large]「媽媽～!!」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_NormalEnding2nd002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_ED_ROS_SMILE_ROSETTA]\"I am Rosalina... I watch over and protect",
+        " the cosmos.\"[pagebreak]",
+        "\"I have been waiting for all of you.\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_ED_ROS_SMILE_ROSETTA]\"I am Rosalina... I watch over and protect",
+        " the cosmos.\"[pagebreak]",
+        "\"I have been waiting for all of you.\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_ED_ROS_SMILE_ROSETTA]\"Me llamo Rosalina y me encargo",
+        "de proteger el universo.\"[pagebreak]",
+        "\"Te he estado esperando.\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_ED_ROS_SMILE_ROSETTA]Me llamo Estela y me encargo",
+        "de proteger el universo.[pagebreak]",
+        "Os he estado esperando."
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_ED_ROS_SMILE_ROSETTA]« Mon nom est Rosalina... Je suis la gardienne",
+        "et la protectrice du cosmos. »[pagebreak]",
+        "« Je vous attendais. »"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_ED_ROS_SMILE_ROSETTA]\"Mon nom est Harmonie... Je suis",
+        "la gardienne et la protectrice du cosmos.\"[pagebreak]",
+        "\"Je vous attendais, mes amis.\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_ED_ROS_SMILE_ROSETTA]„Ich bin Rosalina... Meine Aufgabe ist es, über",
+        "den Kosmos zu wachen und ihn zu beschützen.“[pagebreak]",
+        "„Ich habe lange auf euch gewartet.“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_ED_ROS_SMILE_ROSETTA]Io sono Rosalinda...",
+        "Osservo dall'alto e proteggo il cosmo intero...[pagebreak]",
+        "Aspettavo tutti voi."
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_ED_ROS_SMILE_ROSETTA]\"I am Rosalina... I watch over and protect",
+        " the cosmos.\"[pagebreak]",
+        "\"I have been waiting for all of you.\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_ED_ROS_SMILE_ROSETTA]「わたしは ロゼッタ・・・ [ruby:星;ほし]を[ruby:観;み]る[ruby:者;もの]」[pagebreak]",
+        "「あなた[ruby:方;がた]を [ruby:待;ま]っていました」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_ED_ROS_SMILE_ROSETTA]「저는 로젤리나… 별을 보는 자입니다」[pagebreak]",
+        "「당신들을 기다리고 있었습니다」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_ED_ROS_SMILE_ROSETTA]「我是羅潔塔…星星的守護者」[pagebreak]",
+        "「我一直在等你們」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_NormalEnding2nd003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_ED_ROS_TALK_BREATH1]\"When that evil monster took our star power...\"[pagebreak]",
+        "\"I was separated from my precious little one...\"[pagebreak]",
+        "\"But I knew we'd see each other again.\"[pagebreak]",
+        "\"Because...\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_ED_ROS_TALK_BREATH1]\"When that evil monster took our star power...\"[pagebreak]",
+        "\"I was separated from my precious little one...\"[pagebreak]",
+        "\"But I knew we'd see each other again.\"[pagebreak]",
+        "\"Because...\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_ED_ROS_TALK_BREATH1]\"Ese monstruo robó nuestras Superestrellas...\"[pagebreak]",
+        "\"Y me separó de mi querido pequeñín.\"[pagebreak]",
+        "\"Aunque estaba segura de que",
+        "nos volveríamos a ver.\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_ED_ROS_TALK_BREATH1]Ese monstruo nos había robado",
+        "toda la fuerza de las estrellas.[pagebreak]",
+        "Y me había separado de",
+        "mi querido pequeñín.[pagebreak]",
+        "Aunque estaba segura de que",
+        "nos volveríamos a ver."
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_ED_ROS_TALK_BREATH1]« Lorsque ce vil monstre a dérobé nos",
+        "précieuses super étoiles... »[pagebreak]",
+        "« Ma chère petite Luma et moi avons été",
+        "tragiquement séparées. »[pagebreak]",
+        "« Mais je savais que je la retrouverais... »[pagebreak]",
+        "« Oui, je savais, parce que...»"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_ED_ROS_TALK_BREATH1]\"Ce monstre a dérobé le pouvoir des étoiles...\"[pagebreak]",
+        "\"... et nous a séparés, mon cher petit et moi.\"[pagebreak]",
+        "\"Mais je savais que nous nous retrouverions.\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_ED_ROS_TALK_BREATH1]„Dieser riesige Unhold hat sich",
+        "unserer Power-Sterne bemächtigt...“[pagebreak]",
+        "„Und er hat mich auf gemeinste Art von",
+        "meinem kostbaren Baby-Luma getrennt...“ [pagebreak]",
+        "„Ich war mir jedoch sicher, dass es ihm gut",
+        "ergehen würde,[delay:30] weil ich dir vertraut habe.“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_ED_ROS_TALK_BREATH1]Quel mostro ci ha rubato le Superstelle...[pagebreak]",
+        "E mi ha separato dal mio piccolo...[pagebreak]",
+        "Ma sapevo che ci saremmo rivisti...[pagebreak]",
+        "Perché..."
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_ED_ROS_TALK_BREATH1]\"When that evil monster took our star power...\"[pagebreak]",
+        "\"I was separated from my precious little one...\"[pagebreak]",
+        "\"But I knew we'd see each other again.\"[pagebreak]",
+        "\"Because...\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_ED_ROS_TALK_BREATH1]「[ruby:邪;よこしま]な[ruby:魔物;まもの]に 『[ruby:星;ほし]の[ruby:力;ちから]』 を[ruby:奪;うば]われた[ruby:時;とき]・・・」[pagebreak]",
+        "「わが[ruby:子;こ]と、 [ruby:離;はな]ればなれになってしまいましたが」[pagebreak]",
+        "「わたしは、 [ruby:再;ふたた]び[ruby:会;あ]えると[ruby:確信;かくしん]していました」[pagebreak]",
+        "「なぜなら・・・」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_ED_ROS_TALK_BREATH1]「사악한 괴물에게 『별의 힘』을 빼앗긴 그때…」[pagebreak]",
+        "「우리 아이와 헤어지고 말았지만」[pagebreak]",
+        "「저는 다시 만나게 되리라 확신했습니다」[pagebreak]",
+        "「왜냐하면…」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_ED_ROS_TALK_BREATH1]「被邪惡魔怪奪走『星星力量』時…」[pagebreak]",
+        "「我和我的孩子分散了」[pagebreak]",
+        "「但我確信終有一天會再重逢」[pagebreak]",
+        "「因為…」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_NormalEnding2nd004",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_ED_ROS_WORRIED]\"There is a force that binds us, defying even",
+        " time and space...\"[pagebreak]",
+        "\"Not even the laws of the universe can stop it.\"[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_TALK_SHORT1]\"I knew its gentle pull would prevail.\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_ED_ROS_WORRIED]\"There is a force that binds us, defying even",
+        " time and space...\"[pagebreak]",
+        "\"Not even the laws of the universe can stop it.\"[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_TALK_SHORT1]\"I knew its gentle pull would prevail.\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_ED_ROS_WORRIED]\"Porque nos une una fuerza especial",
+        "que desafía el tiempo y el espacio.\"[pagebreak]",
+        "\"Ni siquiera las leyes del universo",
+        "pueden detenerla.\"[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_TALK_SHORT1]\"Sabía desde el principio que",
+        "volveríamos a estar juntos.\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_ED_ROS_WORRIED]Porque nos une una fuerza especial",
+        "que desafía el tiempo y el espacio.[pagebreak]",
+        "Ni siquiera las leyes del universo",
+        "pueden detenerla.[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_TALK_SHORT1]Sabía desde el principio que",
+        "volveríamos a estar juntos."
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_ED_ROS_WORRIED]« Une force nous unit l'une à l'autre, un",
+        "pouvoir qui défie le temps et l'espace... »[pagebreak]",
+        "« Et même les puissantes lois de l'univers n'y",
+        "peuvent rien. »[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_TALK_SHORT1]« Je savais que cette force l'emporterait. »"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_ED_ROS_WORRIED]\"Nous sommes unis par des liens très puissants,",
+        "plus forts que l'espace et le temps...\"[pagebreak]",
+        "\"Même les lois implacables de",
+        "l'univers ne peuvent les défaire.\"[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_TALK_SHORT1]\"Et j'étais sûre que cette",
+        "force finirait par l'emporter.\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_ED_ROS_WORRIED]„Losgelöst von Raum und Zeit, von einer",
+        "geheimen Macht angetrieben...“[pagebreak]",
+        "„Bist du, mutiger Raumfahrer, durch die",
+        "Weiten des Universums gereist.“[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_TALK_SHORT1]„Ich wusste, dass du die Kraft in dir trägst...“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_ED_ROS_WORRIED]C'è una forza che ci congiunge e ci permette",
+        "di superare i limiti spaziali e temporali...[pagebreak]",
+        "Nessuna legge universale potrebbe fermarla.[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_TALK_SHORT1]Ero certa che anche tu l'avresti avvertita..."
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_ED_ROS_WORRIED]\"There is a force that binds us, defying even",
+        " time and space...\"[pagebreak]",
+        "\"Not even the laws of the universe can stop it.\"[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_TALK_SHORT1]\"I knew its gentle pull would prevail.\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_ED_ROS_WORRIED]「[ruby:時間;じかん]と[ruby:空間;くうかん]を[ruby:越;こ]え、 わたし[ruby:達;たち]を[ruby:結;むす]び[ruby:続;つづ]ける 『[ruby:力;ちから]』 ・・・」[pagebreak]",
+        "「[ruby:宇宙;うちゅう]の[ruby:理;ことわり]でも [ruby:阻;はば]むことの[ruby:出来;でき]ない・・・」[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_TALK_SHORT1]「[ruby:温;あたた]かい 『[ruby:引力;いんりょく]』 の[ruby:存在;そんざい]を わたしは[ruby:知;し]っているからです」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_ED_ROS_WORRIED]「시간과 공간을 초월하여 우리들을 이어주는 『힘』…」[pagebreak]",
+        "「우주의 이치로도 저지할 수 없는…」[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_TALK_SHORT1]「따뜻한 『인력』의 존재를 저는 알고 있었기 때문이죠」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_ED_ROS_WORRIED]「穿越時空，不斷連繫著你我的『力量』…」[pagebreak]",
+        "「即使是宇宙恆理也無法阻隔…」[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_TALK_SHORT1]「我深知這份溫暖『牽引』的存在」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_NormalEnding2nd005",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_ED_LOOK_UP_AT_ROSETTA]\"It is the desire to be reunited with someone",
+        " who is important to you.\"[pagebreak]",
+        "\"That pull is what brought us together.\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_ED_LOOK_UP_AT_ROSETTA]\"It is the desire to be reunited with someone",
+        " who is important to you.\"[pagebreak]",
+        "\"That pull is what brought us together.\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_ED_LOOK_UP_AT_ROSETTA]\"Deseabas con todo tu corazón",
+        "encontrar a tu ser querido...\"[pagebreak]",
+        "\"Y esa fuerza te ha traído hasta aquí.\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_ED_LOOK_UP_AT_ROSETTA]Deseabas con todo tu corazón",
+        "estar junto a tu princesa...[pagebreak]",
+        "Y esa fuerza te ha traído hasta aquí."
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_ED_LOOK_UP_AT_ROSETTA]« Et c'est le désir de retrouver un être cher",
+        "qui nous a tous rassemblés. »"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_ED_LOOK_UP_AT_ROSETTA]\"Le désir de retrouver un être cher...\"[pagebreak]",
+        "\"... Oui, c'est cette force",
+        "irréfrénable qui nous a réunis.\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_ED_LOOK_UP_AT_ROSETTA]„Du warst fest entschlossen, deine Prinzessin",
+        "aus den Fängen des Unholds zu befreien.“[pagebreak]",
+        "„Es war diese Kraft deiner Entschlossenheit,",
+        "die dich hierher geführt hat.“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_ED_LOOK_UP_AT_ROSETTA]Il tuo desiderio di riunirti con qualcuno",
+        "che ti sta a cuore...[pagebreak]",
+        "È la forza che ti ha fatto arrivare fin qua."
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_ED_LOOK_UP_AT_ROSETTA]\"It is the desire to be reunited with someone",
+        " who is important to you.\"[pagebreak]",
+        "\"That pull is what brought us together.\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_ED_LOOK_UP_AT_ROSETTA]「『[ruby:大切;たいせつ]な[ruby:人;ひと]に[ruby:会;あ]いたい』 と[ruby:願;ねが]う[ruby:気持;きも]ち」[pagebreak]",
+        "「その 『[ruby:引力;いんりょく]』 が わたし[ruby:達;たち]を[ruby:引;ひ]き[ruby:合;あ]わせるのです」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_ED_LOOK_UP_AT_ROSETTA]「『소중한 사람과 만나기』를 바라는 마음」[pagebreak]",
+        "「그 『인력』이 우리들을 끌어당기고 있는 것입니다」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_ED_LOOK_UP_AT_ROSETTA]「想見到『最重要的人』的那份盼望」[pagebreak]",
+        "「那份『牽引』促使你我相遇」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_NormalEnding2nd006",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_ED_ROS_APPEAR_YES]\"We have come through so much to meet again.\"[pagebreak]",
+        "\"This is not some mere whim of the stars...\"[pagebreak]",
+        "\"I am sure of that.\"[pagebreak]",
+        "[delay:120][sound:SE_DM_V_ED_ROS_BREATH_TO_MR]\"[player:0]...\"[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_THANK_YOU]\"Thank you for returning this child to me.\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_ED_ROS_APPEAR_YES]\"We have come through so much to meet again.\"[pagebreak]",
+        "\"This is not some mere whim of the stars...\"[pagebreak]",
+        "\"I am sure of that.\"[pagebreak]",
+        "[delay:120][sound:SE_DM_V_ED_ROS_BREATH_TO_MR]\"[player:0]...\"[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_THANK_YOU]\"Thank you for returning this child to me.\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_ED_ROS_APPEAR_YES]\"Hemos pasado por tanto para volver",
+        "a encontrarnos...\"[pagebreak]",
+        "\"Parece que nuestro destino estuviera",
+        "escrito en las estrellas.\"[pagebreak]",
+        "[delay:120][sound:SE_DM_V_ED_ROS_BREATH_TO_MR]\"[player:0]...\"[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_THANK_YOU]\"Gracias por traer de vuelta a mi pequeñín.\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_ED_ROS_APPEAR_YES]Hemos pasado por tanto hasta reencontrarnos...[pagebreak]",
+        "Parece que nuestro destino estuviera",
+        "escrito en las estrellas.[pagebreak]",
+        "[delay:120][sound:SE_DM_V_ED_ROS_BREATH_TO_MR][player:0]...[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_THANK_YOU]Gracias por traer de vuelta a mi pequeñín."
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_ED_ROS_APPEAR_YES]« Nous avons vécu une aventure des plus",
+        "mouvementées pour nous revoir. »[pagebreak]",
+        "« Ce n'est pas un simple caprice des étoiles",
+        "si notre souhait a été réalisé... »[pagebreak]",
+        "« Ça, j'en suis certaine. »[pagebreak]",
+        "[delay:120][sound:SE_DM_V_ED_ROS_BREATH_TO_MR]« [player:0]... »[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_THANK_YOU]« Merci du fond du cœur d'avoir ramené mon",
+        "enfant à la maison. »"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_ED_ROS_APPEAR_YES]\"Nous avons traversé tant d'épreuves",
+        "avant de pouvoir nous retrouver...\"[pagebreak]",
+        "\"Cela n'a rien d'un miracle, j'en suis persuadée.\"[pagebreak]",
+        "\"C'est le pouvoir des étoiles",
+        " qui a rendu tout ça possible.\"[pagebreak]",
+        "[delay:120][sound:SE_DM_V_ED_ROS_BREATH_TO_MR]\"[player:0]...\"[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_THANK_YOU]\"Merci d'avoir ramené mon petit sain et sauf.\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_ED_ROS_APPEAR_YES]„Dass wir hier wohlbehalten",
+        "aufeinandertreffen, ist ein wahres Wunder.“[pagebreak]",
+        "„Lass uns der Kraft der Sterne dafür danken.“[pagebreak]",
+        "[delay:120][sound:SE_DM_V_ED_ROS_BREATH_TO_MR]„[player:0]...“[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_THANK_YOU]„Danke, dass du meinen Baby-Luma",
+        "nach Hause geleitet hast.“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_ED_ROS_APPEAR_YES]Se ci siamo incontrati...[pagebreak]",
+        "Non è per semplice capriccio delle stelle...[pagebreak]",
+        "Di questo ne sono certa.[pagebreak]",
+        "[delay:120][sound:SE_DM_V_ED_ROS_BREATH_TO_MR][player:0]...[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_THANK_YOU]Grazie per aver riportato a casa il mio piccolo."
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_ED_ROS_APPEAR_YES]\"We have come through so much to meet again.\"[pagebreak]",
+        "\"This is not some mere whim of the stars...\"[pagebreak]",
+        "\"I am sure of that.\"[pagebreak]",
+        "[delay:120][sound:SE_DM_V_ED_ROS_BREATH_TO_MR]\"[player:0]...\"[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_THANK_YOU]\"Thank you for returning this child to me.\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_ED_ROS_APPEAR_YES]「この[ruby:巡;めぐ]りでも あなたに[ruby:出会;であ]えたのは」[pagebreak]",
+        "「[ruby:星々;ほしぼし]がおこした [ruby:気;き]まぐれな[ruby:現象;げんしょう]では[ruby:無;な]いと・・・」[pagebreak]",
+        "「わたしは [ruby:信;しん]じます」[pagebreak]",
+        "[delay:120][sound:SE_DM_V_ED_ROS_BREATH_TO_MR]「[player:0]・・・」[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_THANK_YOU]「わが[ruby:子;こ]を ・・・ありがとう」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_ED_ROS_APPEAR_YES]「이렇게 다시 당신을 만나게 된 것은」[pagebreak]",
+        "「별들의 변덕으로 일어난 현상이 아니라고…」[pagebreak]",
+        "「저는 믿고 있습니다」[pagebreak]",
+        "[delay:120][sound:SE_DM_V_ED_ROS_BREATH_TO_MR]「[player:0]…」[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_THANK_YOU]「우리 아이를 보살펴 주셔서… 고마워요」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_ED_ROS_APPEAR_YES]「這緣分讓我遇見你」[pagebreak]",
+        "「我深信這緣分不是星星們特意的安排…」[pagebreak]",
+        "[delay:120][sound:SE_DM_V_ED_ROS_BREATH_TO_MR]「[player:0]…」[pagebreak]",
+        "[sound:SE_DM_V_ED_ROS_THANK_YOU]「謝謝你…照顧我的孩子」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_NormalEnding2nd007",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "\"I will never forget you.\"[pagebreak]",
+        "\"Even when I someday become a star myself...\"[pagebreak]",
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO2]\"I will never forget you, [player:0]!\""
+      ],
+      "EuEnglish": [
+        "\"I will never forget you.\"[pagebreak]",
+        "\"Even when I someday become a star myself...\"[pagebreak]",
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO2]\"I will never forget you, [player:0]!\""
+      ],
+      "UsSpanish": [
+        "\"No te olvidaré nunca.\"[pagebreak]",
+        "\"Incluso cuando crezca y sea una estrella...\"[pagebreak]",
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO2]\"¡Jamás te olvidaré, [player:0]!\""
+      ],
+      "EuSpanish": [
+        "No te olvidaré nunca.[pagebreak]",
+        "Incluso cuando crezca y sea una estrella...[pagebreak]",
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO2]¡Jamás te olvidaré, [player:0]!"
+      ],
+      "UsFrench": [
+        "« Je ne t'oublierai pas. »[pagebreak]",
+        "« Même lorsque je deviendrai moi-même une",
+        "grande étoile, un jour... »[pagebreak]",
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO2]« Je ne t'oublierai jamais, [player:0]! »"
+      ],
+      "EuFrench": [
+        "\"Je ne t'oublierai jamais.\"[pagebreak]",
+        "\"Même lorsque je me transformerai",
+        "moi-même en étoile...\"[pagebreak]",
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO2]\"Non, jamais je ne t'oublierai, [player:0]!\""
+      ],
+      "EuGerman": [
+        "„Ich werde dich niemals vergessen!“[pagebreak]",
+        "„Auch wenn ich eines Tages ein",
+        "Stern sein werde...“[pagebreak]",
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO2]„Werde ich dich niemals vergessen, [player:0]!“"
+      ],
+      "EuItalian": [
+        "Non ti dimenticherò mai...[pagebreak]",
+        "Anche quando un giorno diventerò io stessa",
+        "una Stella...[pagebreak]",
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO2]Non mi dimenticherò mai di te, [player:0]!"
+      ],
+      "EuDutch": [
+        "\"I will never forget you.\"[pagebreak]",
+        "\"Even when I someday become a star myself...\"[pagebreak]",
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO2]\"I will never forget you, [player:0]!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[size:large]「わすれない!」[pagebreak]",
+        "[size:normal]「ボクが・・・ いつか[ruby:星;ほし]になっても・・・」[pagebreak]",
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO2]「[player:0]のこと・・・ わすれない!」"
+      ],
+      "KrKorean": [
+        "[size:large]「잊지 않을 거야!」[pagebreak]",
+        "[size:normal]「내가… 언젠가 별이 되어도…」[pagebreak]",
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO2]「[player:0]를… 잊지 않을 거야!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[size:large]「我不會忘記！」[pagebreak]",
+        "[size:normal]「即使我…變成星星之後…」[pagebreak]",
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO2]「我不會把[player:0]你…忘記！」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_NormalEnding2nd008",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO3]\"Never! Ever! I won't forget!\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO3]\"Never! Ever! I won't forget!\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO3]\"¡Nunca te olvidaré!\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO3]¡Nunca te olvidaré!"
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO3]« Jamais, jamais! Promis! »"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO3]\"Ta bravoure restera gravée dans",
+        "ma mémoire pour l'éternité!\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO3]„Niemals! Das werde ich nicht vergessen!“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO3]Mai! Non ti dimenticherò mai!"
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO3]\"Never! Ever! I won't forget!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO3]「ゼッタイ! ゼッタイ!! わすれない!!」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO3]「절대로! 절대로!! 잊지 않을 거야!!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO3]「一定！ 一定!! 不會忘記!!」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_NormalEnding3rd000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "\"May the stars shine down on you...\""
+      ],
+      "EuEnglish": [
+        "\"May the stars shine down on you...\""
+      ],
+      "UsSpanish": [
+        "\"Que la luz de las estrellas",
+        "ilumine tu camino...\""
+      ],
+      "EuSpanish": [
+        "Que la luz de las estrellas",
+        "ilumine vuestro camino..."
+      ],
+      "UsFrench": [
+        "« Que la poussière d'étoiles vous protège... »"
+      ],
+      "EuFrench": [
+        "\"Que les étoiles te protègent...\""
+      ],
+      "EuGerman": [
+        "„Mögen die Sterne auf dich leuchten...“"
+      ],
+      "EuItalian": [
+        "Che le stelle continuino ad illuminare la tua via..."
+      ],
+      "EuDutch": [
+        "\"May the stars shine down on you...\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "「[ruby:皆様方;みなさまがた]に [ruby:善;よ]き[ruby:星;ほし]くずが [ruby:降;ふ]りますように・・・」"
+      ],
+      "KrKorean": [
+        "「여러분에게 축복의 별똥별이 쏟아지기를…」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "「願各位受到幸運星塵的庇祐…」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_NormalEnding3rd001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_ED_PEACH_SEE_SKY_ASTRO]\"So the little one was reunited with his",
+        " special someone!\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_ED_PEACH_SEE_SKY_ASTRO]\"So the little one was reunited with his",
+        " special someone!\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_ED_PEACH_SEE_SKY_ASTRO]\"¡Qué lindo! El pequeño destello ha vuelto",
+        "junto a su ser querido.\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_ED_PEACH_SEE_SKY_ASTRO]¡Qué lindo! El pequeño destello ha vuelto",
+        "junto a ser querido."
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_ED_PEACH_SEE_SKY_ASTRO]« Alors, la petite Luma a retrouvé son être",
+        "cher! C'est merveilleux! »"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_ED_PEACH_SEE_SKY_ASTRO]\"Ainsi, Harmonie et le jeune [icon:master_luma]",
+        "sont à nouveau réunis!\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_ED_PEACH_SEE_SKY_ASTRO]„Wie rührend... Der besondere Luma hat zurück",
+        "zu der ihm kostbaren Person gefunden.“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_ED_PEACH_SEE_SKY_ASTRO]E così il piccolo ha ritrovato",
+        "la persona a lui cara!"
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_ED_PEACH_SEE_SKY_ASTRO]\"So the little one was reunited with his",
+        " special someone!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_ED_PEACH_SEE_SKY_ASTRO]「あの[ruby:子;こ]は [ruby:大切;たいせつ]な[ruby:人;ひと]に[ruby:会;あ]えたのね」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_ED_PEACH_SEE_SKY_ASTRO]「저 아이는 소중한 사람을 만났네요」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_ED_PEACH_SEE_SKY_ASTRO]「他見到了最重要的人」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_NormalEnding3rd002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "\"And you too, pal! Am I right?\""
+      ],
+      "EuEnglish": [
+        "\"And you too, pal! Am I right?\""
+      ],
+      "UsSpanish": [
+        "\"¡Y tú también! ¿Estoy en lo correcto?\""
+      ],
+      "EuSpanish": [
+        "Y tú también, ¿a que sí?"
+      ],
+      "UsFrench": [
+        "« Et toi aussi, matelot! Pas vrai? »"
+      ],
+      "EuFrench": [
+        "\"Et toi aussi, tu as retrouvé ta",
+        "chère princesse! Pas vrai, matelot?\""
+      ],
+      "EuGerman": [
+        "„Aber auch du, mein Freund!",
+        "Ist es nicht so?“"
+      ],
+      "EuItalian": [
+        "Proprio come te, vero?"
+      ],
+      "EuDutch": [
+        "\"And you too, pal! Am I right?\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "「アンタも だろ?」"
+      ],
+      "KrKorean": [
+        "「너도잖아?」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "「你不也是一樣嗎?」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_NormalEnding3rd003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[sound:SE_DM_V_ED_MEISTER_LETS_GO]\"All right, you two! It's time to get you back",
+        " to your home planet!\""
+      ],
+      "EuEnglish": [
+        "[sound:SE_DM_V_ED_MEISTER_LETS_GO]\"All right, you two! It's time to get",
+        " you back to your home planet!\""
+      ],
+      "UsSpanish": [
+        "[sound:SE_DM_V_ED_MEISTER_LETS_GO]\"¡Muy bien! ¡Es hora de llevarlos a su planeta!\""
+      ],
+      "EuSpanish": [
+        "[sound:SE_DM_V_ED_MEISTER_LETS_GO]¡Venga, pareja, ya va siendo hora",
+        "de que os llevemos a vuestro planeta!"
+      ],
+      "UsFrench": [
+        "[sound:SE_DM_V_ED_MEISTER_LETS_GO]« Bon, allez, vous deux! Il est temps de vous",
+        "ramener sur votre planète! »"
+      ],
+      "EuFrench": [
+        "[sound:SE_DM_V_ED_MEISTER_LETS_GO]\"Très bien, vous deux! Il est temps",
+        "de retourner sur votre planète!\""
+      ],
+      "EuGerman": [
+        "[sound:SE_DM_V_ED_MEISTER_LETS_GO]„Alles klar, ihr zwei! Es ist höchste Zeit,",
+        "zu eurem Heimatplaneten zurückzukehren!“"
+      ],
+      "EuItalian": [
+        "[sound:SE_DM_V_ED_MEISTER_LETS_GO]Dunque... Voi due!",
+        "È ora di riportarvi al vostro Pianeta!"
+      ],
+      "EuDutch": [
+        "[sound:SE_DM_V_ED_MEISTER_LETS_GO]\"All right, you two! It's time to get",
+        " you back to your home planet!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[sound:SE_DM_V_ED_MEISTER_LETS_GO]「さ アンタたちの[ruby:星;ほし]へ もどろうか [ruby:船長;せんちょう]!」"
+      ],
+      "KrKorean": [
+        "[sound:SE_DM_V_ED_MEISTER_LETS_GO]「그럼 너희들의 별로 돌아갈까, 캡틴!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[sound:SE_DM_V_ED_MEISTER_LETS_GO]「來！回你們的星球去吧！艦長！」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_RideSpinDriver000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "\"[player:0]? Where did that monster come from?!\"[pagebreak]",
+        "\"He took your princess to the center of the",
+        "universe! You must hurry and save her!\""
+      ],
+      "EuEnglish": [
+        "\"[player:0]? Where did that monster come from?!\"[pagebreak]",
+        "\"He took your princess to the centre of the",
+        "universe! You must hurry and save her!\""
+      ],
+      "UsSpanish": [
+        "\"¿[player:0]? ¡¿De dónde ha salido ese villano?!\"[pagebreak]",
+        "\"¡Se ha llevado a tu princesa al centro",
+        "del universo! ¡Tienes que ir a rescatarla!\""
+      ],
+      "EuSpanish": [
+        "¿[player:0]? ¡¿De dónde ha salido ese villano?![pagebreak]",
+        "¡Se ha llevado a la princesa al centro",
+        "del universo! ¡Tienes que ir a rescatarla!"
+      ],
+      "UsFrench": [
+        "« [player:0], c'est bien ça? Tu es celui à qui le",
+        "monstre était en train de parler! »[pagebreak]",
+        "« Si je comprends bien, il vient de kidnapper la",
+        "princesse de ce royaume? Tu dois la secourir! »"
+      ],
+      "EuFrench": [
+        "\"[player:0]? Mais d'où il sort, ce monstre?\"[pagebreak]",
+        "\"Il a kidnappé la princesse [icon:peach] pour",
+        "l'emporter au centre de l'univers?\"[pagebreak]",
+        "\"Mais alors, il faut le rattraper au plus vite!\""
+      ],
+      "EuGerman": [
+        "„[player:0], wo kam dieser riesige Unhold nur her?“[pagebreak]",
+        "„Er hat deine Prinzessin ins Zentrum",
+        "des Universums verschleppt.",
+        "Befreie sie, so schnell du kannst!“"
+      ],
+      "EuItalian": [
+        "[player:0]! Cosa vuole quel mostro?![pagebreak]",
+        "Ha rapito la Principessa?! Dobbiamo salvarla!"
+      ],
+      "EuDutch": [
+        "\"[player:0]? Where did that monster come from?!\"[pagebreak]",
+        "\"He took your princess to the centre of the",
+        "universe! You must hurry and save her!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "「あなたが [player:0]さん? ですよね?!」[pagebreak]",
+        "「お[ruby:姫様;ひめさま]が タイヘンですよ!!」"
+      ],
+      "KrKorean": [
+        "「당신이 [player:0]님이죠?」[pagebreak]",
+        "「공주님이 위험해요!!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "「你是[player:0]?是嗎?!」[pagebreak]",
+        "「公主有危險啦!!」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_RideSpinDriver001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "\"[size:large]OH! Master [icon:master_luma] Luma!\"[pagebreak]",
+        "[size:normal]\"Young master [icon:master_luma] Luma, did you get thrown",
+        " overboard too? Good thing you're safe!\"[pagebreak]",
+        "\"I see... So you're going to stay in [player:0]'s cap?",
+        " That should be safe for now...\"[pagebreak]",
+        "\"But, [player:0], you have other things to worry",
+        " about...like saving the princess! ...But how?\""
+      ],
+      "EuEnglish": [
+        "[size:large]\"OH! Master [icon:master_luma] Luma!\"[pagebreak]",
+        "[size:normal]\"Young master [icon:master_luma] Luma, did you get thrown",
+        " overboard too? Good thing you're safe!\"[pagebreak]",
+        "\"I see... So you're going to stay in [player:0]'s cap?",
+        " That should be safe for now...\"[pagebreak]",
+        "\"But, [player:0], you have other things to worry",
+        " about...like saving the princess! ...But how?\""
+      ],
+      "UsSpanish": [
+        "[size:large]\"¡¿Cómo?! [size:normal]¡Increíble! ¡El destello",
+        "maestro [icon:master_luma] se encuentra aquí!\"[pagebreak]",
+        "\"Joven maestro [icon:master_luma], ¿cómo has acabado aquí?\"[pagebreak]",
+        "\"Hum... Entiendo. Prefieres quedarte en la gorra",
+        "de [player:0], ¿eh? Ahí estarás a salvo por ahora...\"[pagebreak]",
+        "\"Y [player:0], tú tienes que preocuparte de",
+        "rescatar a la princesa. ¿Pero cómo lo harás?\""
+      ],
+      "EuSpanish": [
+        "[size:large]¡Oh! ¡Si es el destello maestro [icon:master_luma]![pagebreak]",
+        "[size:normal]Joven maestro [icon:master_luma], ¿cómo has acabado aquí?[pagebreak]",
+        "Hum... Entiendo. Prefieres quedarte en la gorra",
+        "de [player:0], ¿eh? Ahí estarás a salvo por ahora...[pagebreak]",
+        "En fin, tenemos otras cosas de las que",
+        "preocuparnos... ¡como rescatar a la princesa!"
+      ],
+      "UsFrench": [
+        "« [size:large]OH! La... La Luma prodige [icon:master_luma]![size:normal] »[pagebreak]",
+        "« Jeune Luma prodige [icon:master_luma], vous avez été",
+        "projetée par-dessus bord, vous aussi? »[pagebreak]",
+        "« Par chance, vous allez bien! Oh, vous voulez",
+        "rester sous le chapeau de [player:0]? Très bien! »[pagebreak]",
+        "« Bon, [player:0], tu dois trouver un moyen d'aider",
+        "la princesse! ...Mais comment? »"
+      ],
+      "EuFrench": [
+        "\"[size:large]Oh![size:normal] Mais c'est le jeune maître Luma [icon:master_luma]!\"[pagebreak]",
+        "\"Tu es tombé du vaisseau, toi aussi?",
+        "Heureusement tu as l'air de bien aller!\"[pagebreak]",
+        "\"Tu es heureux, sous la casquette de [player:0]?",
+        "Là au moins, tu seras en sécurité...\"[pagebreak]",
+        "\"Mais on a d'autres préoccupations pour le",
+        "moment. [player:0], il faut absolument qu'on sauve",
+        "la princesse!\""
+      ],
+      "EuGerman": [
+        "„[size:large]Wow![size:normal] Der ehrwürdige Baby-Luma!“[pagebreak]",
+        "„Hallo, mein Kleiner. Geht es dir gut?“[pagebreak]",
+        "„Hast du es bequem dort unter [player:0]s Mütze?",
+        "Nun, da ist es wohl genauso sicher",
+        "wie überall sonst auch...“[pagebreak]",
+        "„Aber es gibt jetzt wichtigere Dinge zu tun.",
+        "[player:0], wir müssen die Prinzessin retten!“"
+      ],
+      "EuItalian": [
+        "[size:large]Oh! [size:normal]Uno Sfavillotto Babylume [icon:master_luma]![pagebreak]",
+        "Ehi, piccolo [icon:master_luma], sei stato scagliato fuori bordo",
+        "anche tu? Meno male che sei salvo![pagebreak]",
+        "Vuoi tornare sotto il cappello di [player:0]?",
+        "Beh, certo! È più sicuro di tanti altri posti...[pagebreak]",
+        "Comunque... [player:0], ora dobbiamo pensare a",
+        "come aiutare la Principessa!"
+      ],
+      "EuDutch": [
+        "[size:large]\"OH! Master [icon:master_luma] Luma!\"[pagebreak]",
+        "[size:normal]\"Young master [icon:master_luma] Luma, did you get thrown",
+        " overboard too? Good thing you're safe!\"[pagebreak]",
+        "\"I see... So you're going to stay in [player:0]'s cap?",
+        " That should be safe for now...\"[pagebreak]",
+        "\"But, [player:0], you have other things to worry",
+        " about...like saving the princess! ...But how?\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "「[size:large]わっ![size:normal] [icon:master_luma]チコ[ruby:様;さま]!!」[pagebreak]",
+        "「[icon:master_luma]チコ[ruby:様;さま]も [ruby:飛;と]ばされてきたのですか?? よくご[ruby:無事;ぶじ]で!」[pagebreak]",
+        "「なるほど [player:0]さんの[ruby:帽子;ぼうし]の[ruby:中;なか]で! そこなら[ruby:安全;あんぜん]・・・」[pagebreak]",
+        "「いやいや それより [player:0]さん!!」[pagebreak]",
+        "「お[ruby:姫様;ひめさま]を お[ruby:助;たす]けしないと!!」"
+      ],
+      "KrKorean": [
+        "「[size:large]우왓![size:normal] [icon:master_luma]치코님!!」[pagebreak]",
+        "「[icon:master_luma]치코님도 이곳에 계셨어요? 무사하셔서 다행이에요!」[pagebreak]",
+        "「그렇군요! [player:0]님의 모자 속에서! 그럼 안심이지요…」[pagebreak]",
+        "「아니, 그것보다 [player:0]님!!」[pagebreak]",
+        "「공주님을 구해야 해요!!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "「[size:large]哇！[size:normal] [icon:master_luma]奇可王子！」[pagebreak]",
+        "「[icon:master_luma]您也被震到這裡來了嗎?還好您平安無事！」[pagebreak]",
+        "「原來躲在[player:0]的帽子裡啊！那就安全了…」[pagebreak]",
+        "「對了，[player:0]！有件更重要的事！」[pagebreak]",
+        "「你要去拯救公主啦！」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_RideSpinDriver002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "\"I know! With young master [icon:master_luma] Luma's help,",
+        " you can use the power of the stars!\"[pagebreak]",
+        "\"And we [icon:luma] Lumas can help a little too!\""
+      ],
+      "EuEnglish": [
+        "\"I know! With young master [icon:master_luma] Luma's help,",
+        " you can use the power of the stars!\"[pagebreak]",
+        "\"And we [icon:luma] Lumas can help a little too!\""
+      ],
+      "UsSpanish": [
+        "\"¡Ya sé! Con el joven maestro [icon:master_luma] a tu lado",
+        "podrás hacer uso del poder de las estrellas.\"[pagebreak]",
+        "\"¡Y nosotros [icon:luma] también podemos ayudarte!\""
+      ],
+      "EuSpanish": [
+        "El joven maestro [icon:master_luma] te permitirá",
+        "usar la fuerza de las estrellas.[pagebreak]",
+        "¡Y los [icon:luma] también podemos ayudarte!"
+      ],
+      "UsFrench": [
+        "« Oh! Je sais! La jeune Luma prodige [icon:master_luma] peut",
+        "t'aider à utiliser l'énergie des étoiles! »[pagebreak]",
+        "« Et nous, les autres Luma [icon:luma], pourrons aussi",
+        "te donner un coup de main! »"
+      ],
+      "EuFrench": [
+        "\"Ton ami le jeune [icon:master_luma] t'aidera",
+        "à utiliser le pouvoir des étoiles...\"[pagebreak]",
+        "\"Et nous, les Luma [icon:luma], on t'aidera",
+        "aussi de notre mieux!\""
+      ],
+      "EuGerman": [
+        "„Wie ich sehe, erlaubt dir die Macht",
+        "des besonderen Baby-Luma, die",
+        "Kraft der Sterne zu nutzen.“[pagebreak]",
+        "„Und auch wir Luma werden dir helfen,",
+        "wo wir nur können!“"
+      ],
+      "EuItalian": [
+        "Ah! Ma se lo Sfavillotto Babylume [icon:master_luma] sta con te,",
+        "potrai usare il potere delle stelle![pagebreak]",
+        "E anche noi altri Sfavillotti [icon:luma] possiamo darti",
+        "una mano!"
+      ],
+      "EuDutch": [
+        "\"I know! With young master [icon:master_luma] Luma's help,",
+        " you can use the power of the stars!\"[pagebreak]",
+        "\"And we [icon:luma] Lumas can help a little too!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "「そうだ! [icon:master_luma]チコ[ruby:様;さま]が[ruby:一緒;いっしょ]なら 『[ruby:星;ほし]の[ruby:力;ちから]』 で・・・」[pagebreak]",
+        "「ボクたち [icon:luma]チコがお[ruby:手伝;てつだ]いできますよ!」"
+      ],
+      "KrKorean": [
+        "「그래! [icon:master_luma]치코님과 함께라면 『별의 힘』으로…」[pagebreak]",
+        "「[icon:luma]우리들이 도와드릴게요!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "「對了！和[icon:master_luma]奇可王子一起，就能借助『星星之力』…」[pagebreak]",
+        "「我們[icon:luma]奇可也可以幫忙的！」"
+      ]
+    }
+  },
+  {
+    "label": "StoryBook_RideSpinDriver003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "STORY_BOOK_TOP",
+      "sound_id": "NULL",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "\"As thanks for saving our friends...\"[pagebreak]",
+        "\"We'll send you into space to get that monster!\"[pagebreak]",
+        "\"Now! Let's go after them!\""
+      ],
+      "EuEnglish": [
+        "\"As thanks for saving our friends...\"[pagebreak]",
+        "\"We'll send you into space to get that monster!\"[pagebreak]",
+        "\"Now! Let's go after them!\""
+      ],
+      "UsSpanish": [
+        "\"Como agradecimiento por salvar a",
+        "nuestros amigos...\"[pagebreak]",
+        "\"¡Te ayudaremos a llegar al espacio exterior!\"[pagebreak]",
+        "\"Prepárate, ¡que vamos tras el monstruo!\""
+      ],
+      "EuSpanish": [
+        "Por cierto, ¡gracias por",
+        "salvar a nuestros amigos![pagebreak]",
+        "¡Te enviaremos al espacio exterior!",
+        "¡Venga, a por ese canalla!"
+      ],
+      "UsFrench": [
+        "« D'ailleurs, pour te remercier d'avoir aidé",
+        "nos semblables... »[pagebreak]",
+        "« Nous allons t'envoyer dans l'espace pour que",
+        "tu puisses pourchasser ce monstre! »[pagebreak]",
+        "« Pas de temps à perdre! Allons-y! »"
+      ],
+      "EuFrench": [
+        "\"Pour te remercier d'être",
+        "venu en aide à nos amis...\"[pagebreak]",
+        "\"... nous allons te propulser dans l'espace.\"[pagebreak]",
+        "\"Partons à la poursuite de ce monstre!",
+        "Attention au décollage!\""
+      ],
+      "EuGerman": [
+        "„Du bist ein wahrer Freund der Luma!",
+        "Aus Dank, dass du uns geholfen hast,",
+        "helfen wir dir bei deiner Reise.“[pagebreak]",
+        "„Wir katapultieren dich ins Weltall, damit",
+        "du dich an die Fersen des Unholds heftest!“"
+      ],
+      "EuItalian": [
+        "Come ringraziamento per aver salvato i nostri",
+        "amici...[pagebreak]",
+        "Ti lanceremo nello spazio affinché tu possa",
+        "catturare quel mostro![pagebreak]",
+        "Andiamo!"
+      ],
+      "EuDutch": [
+        "\"As thanks for saving our friends...\"[pagebreak]",
+        "\"We'll send you into space to get that monster!\"[pagebreak]",
+        "\"Now! Let's go after them!\""
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "「ボクらの[ruby:仲間;なかま]を[ruby:助;たす]けてくれたお[ruby:礼;れい]に」[pagebreak]",
+        "「[ruby:宇宙;うちゅう]へご[ruby:案内;あんない]します!」[pagebreak]",
+        "「さあ! [ruby:追;お]いかけましょう!」"
+      ],
+      "KrKorean": [
+        "「우리들의 친구를 도와준 감사의 뜻으로」[pagebreak]",
+        "「우주까지 안내해 드릴게요!」[pagebreak]",
+        "「자! 어서 가요!」"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "「為了謝謝你救了我們的伙伴，」[pagebreak]",
+        "「讓我們帶你到宇宙去！」[pagebreak]",
+        "「來！一起去追！」"
+      ]
+    }
+  }
+]

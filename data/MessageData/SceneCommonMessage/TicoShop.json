@@ -1,0 +1,412 @@
+[
+  {
+    "label": "TicoShop001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOSHOP_TALK_PIKARIN",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Lumalee! ♪ Lumabop! ♪ Welcome to",
+        "the [color:blue]Luma Shop[defcolor]! [pagebreak]",
+        "I can sell you [color:blue]something helpful[defcolor] for",
+        "only [color:red]30[defcolor] [color:red][icon:purple_starbit] [defcolor][color:red]Star Bits[defcolor]."
+      ],
+      "EuEnglish": [
+        "Lumalee! ♪ Lumabop! ♪ Welcome to",
+        "the [color:blue]Luma Shop[defcolor]! [pagebreak]",
+        "I can sell you [color:blue]something helpful[defcolor] for",
+        "only [color:red]30[defcolor] [color:red][icon:purple_starbit] [defcolor][color:red]Star Bits[defcolor]."
+      ],
+      "UsSpanish": [
+        "¡La-la-lí! ♪ ¡La-la-lero! ♪",
+        "¡Bienvenido al [color:blue]Destellomercado[defcolor]! [pagebreak]",
+        "Te venderé [color:blue]algo útil [defcolor]por",
+        "[color:red]30 trozos de estrella [defcolor][color:red][icon:purple_starbit][defcolor]."
+      ],
+      "EuSpanish": [
+        "¡Tirorín! ¡Tiroriro!",
+        "¡Bienvenido al [color:blue]Destellomercado[defcolor]![pagebreak]",
+        "Tenemos [color:blue]ofertas interesantes [defcolor]por",
+        "solo [color:red]30 [defcolor][color:red][icon:purple_starbit][color:black]. ¿Quieres comprar algo?[color:red][defcolor]"
+      ],
+      "UsFrench": [
+        "Lumali! ♪ Lumala! ♪",
+        "Bienvenue au [color:blue]magasin Luma[defcolor]![pagebreak]",
+        "J'ai des [color:blue]objets très utiles [defcolor]en stock en",
+        "ce moment! Je les vends [color:red]30 éclats",
+        "d'étoile [defcolor][color:red][icon:purple_starbit][defcolor]! Ça t'intéresse?"
+      ],
+      "EuFrench": [
+        "La, la, Luma! ♪ Luma-Luma-lère! ♪",
+        "Bienvenue à la [color:blue]boutique Luma[defcolor]! [pagebreak]",
+        "Pour la modique somme [color:red][color:black]de[color:red] 30[defcolor] [color:black][color:red][icon:purple_starbit][color:black],[defcolor]",
+        "je peux te vendre [color:blue][color:black]un [color:blue]truc utile[defcolor]."
+      ],
+      "EuGerman": [
+        "Lalala! ♪ Lalala! ♪",
+        "Willkommen im [color:blue]Luma-Laden[defcolor]![pagebreak]",
+        "Im Moment haben wir",
+        "etwas [color:blue]überaus Nützliches",
+        "[defcolor]für nur[color:red] 30 [defcolor][color:purple][color:red][icon:purple_starbit] [color:purple]Sternenteile[defcolor]."
+      ],
+      "EuItalian": [
+        "Trallallà! ♪",
+        "Questo è il [color:blue]Bazar degli Sfavillotti[defcolor]![pagebreak]",
+        "Posso darti [color:blue]qualcosa di utile [defcolor]per",
+        "sole [color:red]30 Astroschegge [defcolor][color:red][color:red][icon:purple_starbit][color:red][color:black]. [color:red][defcolor]♪"
+      ],
+      "EuDutch": [
+        "Lumalee! ♪ Lumabop! ♪ Welcome to",
+        "the [color:blue]Luma Shop[defcolor]! [pagebreak]",
+        "I can sell you [color:blue]something helpful[defcolor] for",
+        "only [color:red]30[defcolor] [color:red][icon:purple_starbit] [defcolor][color:red]Star Bits[defcolor]."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ピカリン♪ ピカリン♪",
+        "まいど! [color:blue]チコショップ[defcolor]に ようこそ～[pagebreak]",
+        "[ruby:今;いま]なら[color:red][icon:purple_starbit]スターピース30コ[defcolor]で",
+        "[color:blue][ruby:役立;やくだ]つモノ[defcolor]と[ruby:交換;こうかん]しまっせ～"
+      ],
+      "KrKorean": [
+        "깜빡♪ 깜빡♪",
+        "안녕하세요! [color:blue]치코 상점[defcolor]에 어서 오세요～[pagebreak]",
+        "지금 [color:red][icon:purple_starbit]스타구슬 30개[defcolor]만 주면",
+        "[color:blue]도움이 되는 물건[defcolor]이랑 바꿔 줄게요～"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "亮晶晶♪ 亮晶晶♪",
+        "謝謝！歡迎你到[color:blue]奇可小店[defcolor]來！[pagebreak]",
+        "現在只要[color:red][color:red]30顆[color:red][color:red][icon:purple_starbit][color:red]星塵[defcolor]",
+        "[color:blue][color:black]就可以交換[color:blue]有用之物[defcolor]哦！"
+      ]
+    }
+  },
+  {
+    "label": "TicoShop002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_GIVE_ME",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Oooh... Seems you don't have",
+        "enough [icon:purple_starbit] [color:red]Star Bits[defcolor]."
+      ],
+      "EuEnglish": [
+        "Oooh... Seems you don't have",
+        "enough [icon:purple_starbit] [color:red]Star Bits[defcolor]."
+      ],
+      "UsSpanish": [
+        "¡Oooh!, parece que no tienes",
+        "suficientes [color:red]trozos de estrella [defcolor][icon:purple_starbit]."
+      ],
+      "EuSpanish": [
+        "¡Qué pena! ¡No tienes suficientes [icon:purple_starbit]!"
+      ],
+      "UsFrench": [
+        "Oooh, tu n'as pas assez d'[color:red]éclats",
+        "d'étoile [defcolor][color:red][icon:purple_starbit][defcolor]."
+      ],
+      "EuFrench": [
+        "Ah... je vois que tu n'as pas",
+        "suffisamment de [color:black][color:red][color:red][icon:purple_starbit][color:red][color:black].[defcolor]"
+      ],
+      "EuGerman": [
+        "Oooh schade, du hast leider nicht",
+        "genügend [icon:purple_starbit] [color:purple]Sternenteile[defcolor]."
+      ],
+      "EuItalian": [
+        "Ohhh! ♪ Che peccato! Non hai",
+        "abbastanza [color:red]Astroschegge[defcolor] [icon:purple_starbit]! ♪"
+      ],
+      "EuDutch": [
+        "Oooh... Seems you don't have",
+        "enough [icon:purple_starbit] [color:red]Star Bits[defcolor]."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "あ～ でも、 [icon:purple_starbit][color:red]スターピース[defcolor]が",
+        "[ruby:足;た]りんようですわ"
+      ],
+      "KrKorean": [
+        "아～ 하지만",
+        "[icon:purple_starbit][color:red]스타구슬[defcolor]이 부족하네요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "嗯…可是[icon:purple_starbit][color:red]星塵[defcolor]似乎不夠哦！"
+      ]
+    }
+  },
+  {
+    "label": "TicoShop003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_WAKU",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Well, just stop by again later!"
+      ],
+      "EuEnglish": [
+        "Well, just stop by again later!"
+      ],
+      "UsSpanish": [
+        "¡Bueno, vuelve más tarde!"
+      ],
+      "EuSpanish": [
+        "¡Hasta la próxima!"
+      ],
+      "UsFrench": [
+        "Ce n'est pas grave. Reviens plus tard!"
+      ],
+      "EuFrench": [
+        "Dans ce cas, à la prochaine!"
+      ],
+      "EuGerman": [
+        "Schön! Bis zum nächsten Mal!"
+      ],
+      "EuItalian": [
+        "Beh, io sono qui! ♪ Torna più tardi! ♪"
+      ],
+      "EuDutch": [
+        "Well, just stop by again later!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ほな また、 たのんます～"
+      ],
+      "KrKorean": [
+        "그럼 또 오세요～"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "那就請你下次再來啦！"
+      ]
+    }
+  },
+  {
+    "label": "TicoShop004",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_WAKU",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Which will it be?"
+      ],
+      "EuEnglish": [
+        "Which will it be?"
+      ],
+      "UsSpanish": [
+        "¿Cuál quieres?"
+      ],
+      "EuSpanish": [
+        "Dime, ¿qué quieres?"
+      ],
+      "UsFrench": [
+        "Quel objet t'intéresse?"
+      ],
+      "EuFrench": [
+        "Alors, que veux-tu?"
+      ],
+      "EuGerman": [
+        "Was möchtest du haben?"
+      ],
+      "EuItalian": [
+        "Quale scegli? ♪"
+      ],
+      "EuDutch": [
+        "Which will it be?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "どちらにしまひょ?"
+      ],
+      "KrKorean": [
+        "뭘로 하실래요?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "你要哪一個?"
+      ]
+    }
+  },
+  {
+    "label": "TicoShop005",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOFAT_TALK_GIVE_ME",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "All right! Now fill me up with",
+        "exact change!"
+      ],
+      "EuEnglish": [
+        "All right! Now fill me up with",
+        "exact change!"
+      ],
+      "UsSpanish": [
+        "Perfecto. ¡Entonces lléname con el",
+        "importe exacto!"
+      ],
+      "EuSpanish": [
+        "¡Muy bien!",
+        "¡Cébame con los trocitos justos!"
+      ],
+      "UsFrench": [
+        "Bon choix! Et maintenant, lance-moi",
+        "les éclats d'étoile!"
+      ],
+      "EuFrench": [
+        "D'accord! Par ici la monnaie!"
+      ],
+      "EuGerman": [
+        "Zeit zu bezahlen! Aber kein ",
+        "Sternenteil weniger als vereinbart!"
+      ],
+      "EuItalian": [
+        "Bene! ♪ Ora saziami con la quantità",
+        "giusta di [color:red]Astroschegge[defcolor] [icon:purple_starbit]! ♪"
+      ],
+      "EuDutch": [
+        "All right! Now fill me up with",
+        "exact change!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ほな キッカリピッタシ いただきます～!"
+      ],
+      "KrKorean": [
+        "그럼 후루룩 냠냠냠 잘 먹겠습니다～!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "那我就吃到剛剛好啦！"
+      ]
+    }
+  },
+  {
+    "label": "TicoShop006",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_TICOSHOP_TALK_KITA",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Oooooh... Sooo FULL. But I'm feeling",
+        "so GOOD! I think I'm about to...[pagebreak]",
+        "[size:large][color:red]TRANS[defcolor][color:red][color:red][sound:SE_SV_TICOFAT_META][color:red][delay:15][color:red][color:red]FOOOOORM![defcolor]"
+      ],
+      "EuEnglish": [
+        "Oooooh... Sooo FULL. But I'm feeling",
+        "so GOOD! I think I'm about to...[pagebreak]",
+        "[size:large][color:red]TRANS[defcolor][color:red][color:red][sound:SE_SV_TICOFAT_META][color:red][delay:15][color:red][color:red]FOOOOORM![defcolor]"
+      ],
+      "UsSpanish": [
+        "Oooh... estoy muy LLENO.",
+        "¡Me siento genial! ¡Allá voy![pagebreak]",
+        "[color:red][size:large]¡[defcolor][color:red]TRANS[delay:15][sound:SE_SV_TICOFAT_META]FOOORMACIÓN![defcolor]"
+      ],
+      "EuSpanish": [
+        "¡Hurraaaa! ¡Estoy llenoooo!",
+        "¡Allá voyyyyyyy![pagebreak]",
+        "[color:red][size:large][defcolor][color:red][color:black]¡¡[color:red]MU[color:red][delay:15][color:red]TA[delay:15][sound:SE_SV_TICOFAT_META]CIÓN[color:black]![color:red][defcolor][color:black]![defcolor]"
+      ],
+      "UsFrench": [
+        "Ooooooh... Je suis PLEIN! Je me sens",
+        "vraiment bien! Alors... Allons-y![pagebreak]",
+        "[color:red][size:large][defcolor][color:red]TRANS[delay:15][sound:SE_SV_TICOFAT_META]FOOOORMATION![defcolor]"
+      ],
+      "EuFrench": [
+        "Ouh, voilà! Je suis repu!",
+        "Attention les yeux![pagebreak]",
+        "[size:large][color:red]TRANS-[color:red][delay:15][color:red]FOR-[color:red][delay:15][color:red]MA-[color:red][delay:15][color:red][color:red][sound:SE_SV_TICOFAT_META][color:red]TION![defcolor]"
+      ],
+      "EuGerman": [
+        "Ja, genau so! Mein Bauch ist so VOLL!",
+        "Dann wollen wir mal![pagebreak]",
+        "[color:red][size:large][color:red][color:red]VER-[delay:15]WAN-[delay:15]DE-[color:red][color:red][color:red][delay:15][sound:SE_SV_TICOFAT_META][color:red]LUUUNG!!![color:red][color:red][defcolor]"
+      ],
+      "EuItalian": [
+        "Ooohhh... ♪ Come sono sazio!",
+        "Ora sì che mi sento in forma![pagebreak]",
+        "[color:red][color:red][size:large][color:red]TRA-[color:red][delay:15][color:red]SFOR-[delay:15][sound:SE_SV_TICOFAT_META]MA-[color:red][delay:15][color:red]ZIO-[color:red][delay:15][color:red]NE![defcolor]"
+      ],
+      "EuDutch": [
+        "Oooooh... Sooo FULL. But I'm feeling",
+        "so GOOD! I think I'm about to...[pagebreak]",
+        "[size:large][color:red]TRANS[defcolor][color:red][color:red][sound:SE_SV_TICOFAT_META][color:red][delay:15][color:red][color:red]FOOOOORM![defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "キタキタキター! まんまんぷくぷく～!!",
+        "ほな いきまっせ～～![pagebreak]",
+        "[ycenter][color:red][size:large]ヘ ・ [delay:15]ン ・ [delay:15][sound:SE_SV_TICOFAT_META]シ～～～ン!![defcolor]"
+      ],
+      "KrKorean": [
+        "바로 이거예요! 배가 빵빵～해요!!",
+        "그럼 가 볼래요～～![pagebreak]",
+        "[ycenter][color:red][size:large]변・[delay:15][sound:SE_SV_TICOFAT_META]신～～～!![defcolor]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "來啦來啦～！吃好飽哦!!",
+        "看好哦～！[pagebreak]",
+        "[ycenter][color:red][size:large]我[color:red]變．[color:red][delay:15]變[color:red]．[color:red][delay:15][sound:SE_SV_TICOFAT_META]變[color:red]．[color:red]變身!![defcolor]"
+      ]
+    }
+  }
+]

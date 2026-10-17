@@ -1,0 +1,57 @@
+[
+  {
+    "label": "GameSet_GameSet",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "GAME!"
+      ],
+      "EuEnglish": [
+        "FINISHED!"
+      ],
+      "UsSpanish": [
+        "¡FIN!"
+      ],
+      "EuSpanish": [
+        "¡FIN!"
+      ],
+      "UsFrench": [
+        "TERMINÉ!"
+      ],
+      "EuFrench": [
+        "Terminé!"
+      ],
+      "EuGerman": [
+        "ZIEL!"
+      ],
+      "EuItalian": [
+        "FINE!"
+      ],
+      "EuDutch": [
+        "FINISHED!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "GAME SET !"
+      ],
+      "KrKorean": [
+        "GAME SET!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "GAME SET !"
+      ]
+    }
+  }
+]

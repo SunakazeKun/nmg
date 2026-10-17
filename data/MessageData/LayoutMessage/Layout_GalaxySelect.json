@@ -1,0 +1,167 @@
+[
+  {
+    "label": "GalaxySelect_StartGalaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Fly to This Galaxy"
+      ],
+      "EuEnglish": [
+        "Fly to This Galaxy"
+      ],
+      "UsSpanish": [
+        "Volar a esta galaxia"
+      ],
+      "EuSpanish": [
+        "Volar a esta galaxia"
+      ],
+      "UsFrench": [
+        "Visiter la galaxie"
+      ],
+      "EuFrench": [
+        "Rejoindre cette galaxie"
+      ],
+      "EuGerman": [
+        "Dorthin fliegen"
+      ],
+      "EuItalian": [
+        "Vai in questa Galassia"
+      ],
+      "EuDutch": [
+        "Fly to This Galaxy"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ギャラクシーにとぶ"
+      ],
+      "KrKorean": [
+        "갤럭시로 출발"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "前往銀河"
+      ]
+    }
+  },
+  {
+    "label": "GalaxySelect_StartMarioFace",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "To Starship Mario"
+      ],
+      "EuEnglish": [
+        "To Starship Mario"
+      ],
+      "UsSpanish": [
+        "Ir a la Astronave Mario"
+      ],
+      "EuSpanish": [
+        "Ir a la Astronave Mario"
+      ],
+      "UsFrench": [
+        "Vers le Vaisseau Mario"
+      ],
+      "EuFrench": [
+        "Vers le vaisseau Mario"
+      ],
+      "EuGerman": [
+        "Zum Raumschiff Mario"
+      ],
+      "EuItalian": [
+        "Vai all'Astronave Mario"
+      ],
+      "EuDutch": [
+        "To Starship Mario"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:星船;ほしぶね]マリオへ"
+      ],
+      "KrKorean": [
+        "우주선 마리오호로"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "前往瑪利歐星艦"
+      ]
+    }
+  },
+  {
+    "label": "GalaxySelect_StartTico",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Call [icon:hungry_luma]"
+      ],
+      "EuEnglish": [
+        "Call [icon:hungry_luma]"
+      ],
+      "UsSpanish": [
+        "Llamar a [icon:hungry_luma]"
+      ],
+      "EuSpanish": [
+        "Llamar a [icon:hungry_luma]"
+      ],
+      "UsFrench": [
+        "Inviter [icon:hungry_luma] à bord"
+      ],
+      "EuFrench": [
+        "Inviter [icon:hungry_luma] à bord"
+      ],
+      "EuGerman": [
+        "[icon:hungry_luma] an Bord nehmen"
+      ],
+      "EuItalian": [
+        "Chiama [icon:hungry_luma]"
+      ],
+      "EuDutch": [
+        "Call [icon:hungry_luma]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:hungry_luma]を[ruby:呼;よ]ぶ"
+      ],
+      "KrKorean": [
+        "[icon:hungry_luma] 부르기"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "呼叫[icon:hungry_luma]"
+      ]
+    }
+  }
+]

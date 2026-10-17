@@ -1,0 +1,400 @@
+[
+  {
+    "label": "LuigiIntrusively000_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_LUIGI_HEY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Hey, Bro! You're looking for a [icon:star]",
+        "around here, huh? You want me to",
+        "take over for a little while?"
+      ],
+      "EuEnglish": [
+        "Hey, Bro! You're looking for a [icon:star]",
+        "around here, huh? You want me to",
+        "take over for a little while?"
+      ],
+      "UsSpanish": [
+        "¡Oye, Mario! Estás buscando una [icon:star],",
+        "¿verdad? ¿Quieres que me encargue",
+        "un rato?"
+      ],
+      "EuSpanish": [
+        "¡Oye, Mario! Estás buscando una [icon:star],",
+        "¿a que sí? ¿Quieres que me ocupe",
+        "yo un rato?"
+      ],
+      "UsFrench": [
+        "Hé, Mario! Tu cherches une [icon:star] dans",
+        "cette galaxie? Veux-tu que je prenne",
+        "la relève?"
+      ],
+      "EuFrench": [
+        "Hé, frangin! Pas évident de trouver",
+        "des [icon:star], hein? Tu veux que je te",
+        "remplace un peu?"
+      ],
+      "EuGerman": [
+        "Hallo Bruderherz! Wieder auf der",
+        "Suche nach [icon:star] [color:yellow]Power-Sternen[color:black]?[color:yellow][defcolor]",
+        "Ich kann dich ablösen!"
+      ],
+      "EuItalian": [
+        "Ehi, fratello!!! Non è facile trovare le",
+        "[color:yellow]Superstelle [defcolor][icon:star], eh? Posso darti il",
+        "[color:red]cambio[defcolor], se vuoi!"
+      ],
+      "EuDutch": [
+        "Hey, Bro! You're looking for a [icon:star]",
+        "around here, huh? You want me to",
+        "take over for a little while?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:兄;にい]さん![icon:star][color:yellow]パワースター[defcolor][ruby:探;さが]しの[ruby:調子;ちょうし]はどうだい?",
+        "たまには [ruby:気分;きぶん]を[ruby:変;か]えてみないかい?"
+      ],
+      "KrKorean": [
+        "형! [icon:star][color:yellow]파워스타[defcolor]는 잘 찾고 있어?",
+        "가끔씩 기분 전환을 해 보는 건 어때?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "哥哥！[icon:star][color:yellow]力量星星[defcolor]找得還順利嗎?",
+        "偶爾換個心情如何?"
+      ]
+    }
+  },
+  {
+    "label": "LuigiIntrusively000_Flow002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_LUIGI_TALK_OH_YEAH",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Well, I'll be right here if you ever",
+        "want me to jump in!"
+      ],
+      "EuEnglish": [
+        "Well, I'll be right here if you ever",
+        "want me to [color:red]jump in[defcolor]!"
+      ],
+      "UsSpanish": [
+        "Está bien Mario... esperaré aquí.",
+        "¡Avísame si cambias de opinión",
+        "y quieres que siga yo!"
+      ],
+      "EuSpanish": [
+        "Vale, como quieras. Aquí te espero",
+        "por si [color:red]cambias de opinión[defcolor]."
+      ],
+      "UsFrench": [
+        "Pas de problème! Je vais rester ici",
+        "au cas où tu changerais d'idée. Dis-le-",
+        "moi si tu veux que je prenne ta place!"
+      ],
+      "EuFrench": [
+        "Ah. Comme tu voudras... Je ne bouge",
+        "pas d'ici. Fais-moi signe si tu changes",
+        "d'avis."
+      ],
+      "EuGerman": [
+        "Nun gut... Ich bleibe hier.",
+        "Komm zurück und sag mir Bescheid,",
+        "wenn ich [color:red]einspringen [defcolor]soll!"
+      ],
+      "EuItalian": [
+        "Come vuoi, fratello. Ti aspetterò qui.",
+        "Se vuoi il [color:red]cambio[defcolor], sai dove trovarmi!"
+      ],
+      "EuDutch": [
+        "Well, I'll be right here if you ever",
+        "want me to [color:red]jump in[defcolor]!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ボクは ここで[ruby:待;ま]っているから",
+        "[color:red][ruby:交代;こうたい][defcolor]したければ [ruby:声;こえ]をかけてよ!"
+      ],
+      "KrKorean": [
+        "난 여기에서 기다릴 테니까",
+        "[color:red]교대[defcolor]하고 싶어지면 와서 말을 걸어 줘!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "我就在這裡等你，",
+        "[color:red][color:black]想[color:red]交[color:black][color:red]換[defcolor]就來叫我吧！"
+      ]
+    }
+  },
+  {
+    "label": "LuigiIntrusively000_Flow003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You [color:black]want to [color:red]switch[color:black], Bro[color:red][color:black][color:black]?[color:black][defcolor]"
+      ],
+      "EuEnglish": [
+        "You [color:black]want to [color:red]switch[color:black], Bro[color:red][color:black][color:black]?[color:black][defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Hola hermano!",
+        "¿Quieres que te [color:red]releve[defcolor]?"
+      ],
+      "EuSpanish": [
+        "¿Qué tal? ¿Necesitas un [color:red]relevo[defcolor]?"
+      ],
+      "UsFrench": [
+        "Veux-tu que je [color:red]prenne la relève[defcolor]?"
+      ],
+      "EuFrench": [
+        "Alors, tu veux que je te [color:red]remplace[defcolor]?"
+      ],
+      "EuGerman": [
+        "Also entscheide dich! [color:red]Wer von uns[defcolor]",
+        "soll hier sein Glück versuchen?"
+      ],
+      "EuItalian": [
+        "Ehi, fratello! Vuoi il [color:black][color:red]cambio[color:black]?[defcolor]"
+      ],
+      "EuDutch": [
+        "You [color:black]want to [color:red]switch[color:black], Bro[color:red][color:black][color:black]?[color:black][defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:red][color:black]ボクと [color:red][ruby:交代;こうたい][defcolor]するかい?"
+      ],
+      "KrKorean": [
+        "나랑 [color:red]교대[defcolor]할래?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "要和我[color:red]交[defcolor][color:red]換[defcolor]嗎?"
+      ]
+    }
+  },
+  {
+    "label": "LuigiIntrusively000_Flow004",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_LUIGI_TALK_OH_YEAH",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK, Bro. I'll be right here!",
+        "Good luck out there!"
+      ],
+      "EuEnglish": [
+        "OK, Bro. I'll be right here!",
+        "Good luck out there!"
+      ],
+      "UsSpanish": [
+        "De acuerdo Mario, aquí te espero.",
+        "¡Buena suerte!"
+      ],
+      "EuSpanish": [
+        "Vale, yo seguiré por aquí.",
+        "¡Buena suerte!"
+      ],
+      "UsFrench": [
+        "D'accord. Je ne bouge pas d'ici!",
+        "Bonne chance!"
+      ],
+      "EuFrench": [
+        "D'accord. J'attendrai ici, alors.",
+        "Bonne chance!"
+      ],
+      "EuGerman": [
+        "Einverstanden, Bruderherz!",
+        "Ich bleibe hier. Viel Glück da draußen!"
+      ],
+      "EuItalian": [
+        "Allora ti aspetterò qui, fratello!",
+        "Datti da fare!"
+      ],
+      "EuDutch": [
+        "OK, Bro. I'll be right here!",
+        "Good luck out there!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "じゃあ、 ここで[ruby:待;ま]っているよ!",
+        "[ruby:兄;にい]さん! がんばって!"
+      ],
+      "KrKorean": [
+        "알았어! 난 여기에서 기다릴게!",
+        "힘내, 형!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "那我在這裡等著！",
+        "哥哥！加油啊！"
+      ]
+    }
+  },
+  {
+    "label": "LuigiIntrusivelyStart_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_LUIGI_HEY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Hey, Bro! Everyone left me behind! I",
+        "had to hustle to get up here![pagebreak]",
+        "So, hey, guess what! I decided to",
+        "look for [icon:star] [color:yellow]Power Stars[defcolor] too![pagebreak]",
+        "If you see me out there, [color:red]come say hi[defcolor]!",
+        "I can help you [color:blue]save the universe[defcolor]!"
+      ],
+      "EuEnglish": [
+        "Hey, Bro! Everyone left me behind! I",
+        "had to hustle to get up here![pagebreak]",
+        "So, hey, guess what! I decided to",
+        "look for [icon:star] [color:yellow]Power Stars[defcolor] too![pagebreak]",
+        "If you see me out there, [color:red]come say hi[defcolor]!",
+        "I can help you [color:blue]save the universe[defcolor]!"
+      ],
+      "UsSpanish": [
+        "¿En serio? ¡¿Se olvidaron de mí?!",
+        "No veas lo que me ha costado",
+        "llegar hasta aquí yo solo.[pagebreak]",
+        "En fin, ¡he decidido ayudarte a ",
+        "buscar [color:yellow]Superestrellas[defcolor] [icon:star]![pagebreak]",
+        "Si me ves por ahí, [color:red]acércate a [defcolor][color:red]hablar",
+        "conmigo[defcolor]. ¡Recuerda que yo puedo",
+        "ayudarte a [color:blue]salvar el universo[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡Hola, Mario! ¡No veas, los demás",
+        "se largaron sin mí! Me ha costado",
+        "lo mío llegar hasta aquí solo.[pagebreak]",
+        "Por cierto, ¡que sepas que he",
+        "decidido ayudarte a conseguir [icon:star]![pagebreak]",
+        "Si me ves por ahí, [color:red]acércate a [defcolor][color:red]hablar",
+        "conmigo[defcolor]. ¡Yo también tengo derecho",
+        "a[color:blue] salvar el universo[defcolor]!"
+      ],
+      "UsFrench": [
+        "Hé, Mario! Je me demandais où tu",
+        "étais passé! Par chance, j'ai trouvé",
+        "un moyen de monter jusqu'ici![pagebreak]",
+        "J'aimerais bien te donner un coup",
+        "de main pour trouver des [color:yellow]super",
+        "[color:yellow]étoiles [color:yellow][defcolor][icon:star]![pagebreak]",
+        "[color:red]Viens me parler [defcolor]si on se croise dans",
+        "une galaxie! Je veux t'aider à [color:blue]sauver",
+        "l'univers[defcolor]!"
+      ],
+      "EuFrench": [
+        "Salut, frangin! Tu ne m'as pas oublié,",
+        "tout de même?![pagebreak]",
+        "Bon, je préfère ça! Au fait, j'ai une",
+        "grande nouvelle pour toi! Je vais",
+        "t'aider à chercher des [icon:star][color:black]![defcolor][pagebreak]",
+        "Si on se croise dans une galaxie,",
+        "n'hésite pas à [color:red]faire [defcolor][color:red]appel à moi[defcolor]![pagebreak]",
+        "Moi aussi, j'aimerais bien [color:blue]sauver",
+        "l'univers [defcolor]de temps en temps!"
+      ],
+      "EuGerman": [
+        "Oh hallo, Bruderherz![delay:30] Dreimal darfst",
+        "du raten: Ich helfe dir von nun an, nach",
+        "den [icon:star] [color:yellow]Power-Sternen [color:black]zu suchen![color:yellow][defcolor][pagebreak]",
+        "Also [color:red]sprich mich einfach an[defcolor], wenn du",
+        "mich in einer Galaxie dort draußen",
+        "treffen solltest![pagebreak]",
+        "Dann bin [color:black]ich[defcolor] an der Reihe, das",
+        "[color:blue]Universum zu retten[defcolor]!!!"
+      ],
+      "EuItalian": [
+        "Gli altri se ne sono andati senza di",
+        "me ed è stata dura arrivare fin qui![pagebreak]",
+        "Allora, sai una cosa, fratello?",
+        "Mi metto anch'io a caccia delle",
+        "[color:yellow]Superstelle [defcolor][icon:star]![pagebreak]",
+        "Se dovessi avere bisogno di aiuto,",
+        "[color:red]fammelo sapere[defcolor]! Voglio darti una",
+        "mano a [color:blue]salvare l'universo[defcolor]!"
+      ],
+      "EuDutch": [
+        "Hey, Bro! Everyone left me behind! I",
+        "had to hustle to get up here![pagebreak]",
+        "So, hey, guess what! I decided to",
+        "look for [icon:star] [color:yellow]Power Stars[defcolor] too![pagebreak]",
+        "If you see me out there, [color:red]come say hi[defcolor]!",
+        "I can help you [color:blue]save the universe[defcolor]!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ボクを[ruby:置;お]いてきぼりにするなんて",
+        "みんな、 ひどいや![pagebreak]",
+        "やっと たどり[ruby:着;つ]いたよ・・・・・・ [delay:15]そうだ、 [ruby:兄;にい]さん!",
+        "ボクも[color:yellow][icon:star]パワースター[defcolor]を[ruby:探;さが]すことにしたんだ[pagebreak]",
+        "[ruby:銀河;ギャラクシー]であったら、 ボクに[color:red][ruby:声;こえ]をかけて[color:black]よね[color:red][defcolor]!",
+        "[color:blue][ruby:宇宙;うちゅう]を[ruby:救;すく]う[color:black]のは[color:blue][defcolor]、 このボクさ!"
+      ],
+      "KrKorean": [
+        "나만 남겨 두다니 다들 너무하잖아![pagebreak]",
+        "여기까지 오느라 힘들었어…… [delay:15]맞다, 형!",
+        "나도 [color:yellow][icon:star]파워스타[defcolor]를 찾아보기로 했어[pagebreak]",
+        "갤럭시에서 날 보면 [color:red]말을 걸어 [color:black]줘![color:red][defcolor]",
+        "[color:blue]우주를 구하는 것[color:black]은 바로 나라구![color:blue][defcolor]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "竟然丟下我…太過分了！[pagebreak]",
+        "終於抵達這裡啦…[delay:15]對了，哥哥！",
+        "我也打算去尋找[color:yellow][icon:star]力量星星[color:black]，[color:yellow][defcolor][color:black][pagebreak]",
+        "[defcolor]在銀河遇見我時，記得[color:red]叫我[defcolor]啊！",
+        "我才是[color:blue]拯救宇宙[defcolor]的救星！"
+      ]
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "label": "OneUp_OneUp",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[intvar:1;0;0]UP"
+      ],
+      "EuEnglish": [
+        "[intvar:1;0;0]UP"
+      ],
+      "UsSpanish": [
+        "VIDA EXTRA",
+        "x [intvar:1;0;0]"
+      ],
+      "EuSpanish": [
+        "VIDA EXTRA",
+        "x [intvar:1;0;0]"
+      ],
+      "UsFrench": [
+        "[intvar:1;0;0]UP"
+      ],
+      "EuFrench": [
+        "[intvar:1;0;0]UP"
+      ],
+      "EuGerman": [
+        "[intvar:1;0;0]-UP"
+      ],
+      "EuItalian": [
+        "[intvar:1;0;0]-Up"
+      ],
+      "EuDutch": [
+        "[intvar:1;0;0]UP"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[intvar:1;0;0]UP"
+      ],
+      "KrKorean": [
+        "[intvar:1;0;0]UP"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[intvar:1;0;0]UP"
+      ]
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "label": "MapGalaxyState_New",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "NEW"
+      ],
+      "EuEnglish": [
+        "NEW"
+      ],
+      "UsSpanish": [
+        "NUEVO"
+      ],
+      "EuSpanish": [
+        "NUEVA"
+      ],
+      "UsFrench": [
+        "NOUVELLE"
+      ],
+      "EuFrench": [
+        "Nouveau"
+      ],
+      "EuGerman": [
+        "NEU"
+      ],
+      "EuItalian": [
+        "NUOVA"
+      ],
+      "EuDutch": [
+        "NEW"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "NEW"
+      ],
+      "KrKorean": [
+        "NEW"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "NEW"
+      ]
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "label": "GetStar_GStar",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got a",
+        "Grand Star!"
+      ],
+      "EuEnglish": [
+        "You got a",
+        "Grand Star!"
+      ],
+      "UsSpanish": [
+        "¡Ganaste una",
+        "Maxiestrella!"
+      ],
+      "EuSpanish": [
+        "¡Nueva",
+        "Maxiestrella!"
+      ],
+      "UsFrench": [
+        "Vous avez trouvé",
+        "une grande étoile!"
+      ],
+      "EuFrench": [
+        "Vous avez trouvé",
+        "une grande étoile!"
+      ],
+      "EuGerman": [
+        "GROSSEN STERN",
+        "ERHALTEN!"
+      ],
+      "EuItalian": [
+        "Hai ottenuto",
+        "una Megastella!"
+      ],
+      "EuDutch": [
+        "You got a",
+        "Grand Star!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "GRAND STAR GET !"
+      ],
+      "KrKorean": [
+        "GRAND STAR GET!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "YOU GOT A",
+        "GRAND STAR !"
+      ]
+    }
+  },
+  {
+    "label": "GetStar_Star",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You got a Star!"
+      ],
+      "EuEnglish": [
+        "You got a Star!"
+      ],
+      "UsSpanish": [
+        "¡Ganaste una",
+        "estrella!"
+      ],
+      "EuSpanish": [
+        "¡Nueva",
+        "Superestrella!"
+      ],
+      "UsFrench": [
+        "Vous avez trouvé",
+        "une étoile!"
+      ],
+      "EuFrench": [
+        "Vous avez trouvé",
+        "une étoile!"
+      ],
+      "EuGerman": [
+        "STERN ERHALTEN!"
+      ],
+      "EuItalian": [
+        "Hai ottenuto",
+        "una Superstella!"
+      ],
+      "EuDutch": [
+        "You got a Star!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "STAR GET !"
+      ],
+      "KrKorean": [
+        "STAR GET!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "YOU GOT A STAR !"
+      ]
+    }
+  }
+]

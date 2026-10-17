@@ -1,0 +1,1668 @@
+[
+  {
+    "label": "GrandGalaxyMapNewsGrandGalaxyExplain",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_QUESTION",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "This is the [color:red]Grand World Map[defcolor].[pagebreak]",
+        "With the power of the [icon:grand_star] [color:yellow]Grand Star[defcolor],",
+        "we can travel great distances across",
+        "space and time.[pagebreak]",
+        "[color:black]Now we can travel to another [defcolor][color:blue]world",
+        "[color:black]whenever you're ready, Captain![color:blue][defcolor]"
+      ],
+      "EuEnglish": [
+        "This is the [color:red]Grand World Map[defcolor].[pagebreak]",
+        "With the power of the [icon:grand_star] [color:yellow]Grand Star[defcolor],",
+        "we can travel great distances across",
+        "space and time.[pagebreak]",
+        "Now we can [color:blue]travel between worlds",
+        "[defcolor]whenever you like, Captain!"
+      ],
+      "UsSpanish": [
+        "Este es el [color:red]gran mapa galáctico[defcolor].[pagebreak]",
+        "Solamente podemos viajar a través",
+        "del espacio y del tiempo con el poder",
+        "de una [color:yellow]Maxiestrella [defcolor][icon:grand_star]...[pagebreak]",
+        "Y gracias a[color:red] esta[color:black], pronto[color:red] [defcolor][color:blue]llegaremos",
+        "a un nuevo mundo[defcolor].[pagebreak]",
+        "¿Estás listo para este viaje espacial?",
+        "¡Pues agarra el timón, capitán!"
+      ],
+      "EuSpanish": [
+        "Este es el [color:red]mapa galáctico[defcolor].[pagebreak]",
+        "Gracias a las [icon:grand_star] podemos movernos",
+        "por el tiempo y el espacio y [color:blue]viajar",
+        "de un mundo a otro[defcolor].[pagebreak]",
+        "¿Estás listo para este viaje espacial?",
+        "¡Pues agarra el timón, capitán!"
+      ],
+      "UsFrench": [
+        "Voici la [color:red]carte de l'univers[defcolor].[pagebreak]",
+        "Nous pouvons voyager à travers",
+        "le temps et l'espace grâce à l'énergie",
+        "des [color:yellow]grandes étoiles [defcolor][icon:grand_star]...[pagebreak]",
+        "Nous pouvons maintenant[color:black] [defcolor][color:blue][color:black]naviguer",
+        "jusqu'au [color:blue]prochain monde[defcolor]! Paré à",
+        "mettre les voiles, capitaine?"
+      ],
+      "EuFrench": [
+        "Ça, c'est la [color:red]c[defcolor][color:red]arte de l'univers[defcolor].[pagebreak]",
+        "Grâce au pouvoir d'une [icon:grand_star], on peut",
+        "traverser le temps et l'espace et",
+        "[color:red][color:black]voyager[color:red] [color:blue]d'un[color:red][defcolor][color:blue] monde à un autre[defcolor].[pagebreak]",
+        "Prêt à enclencher la vitesse de la",
+        "lumière? Tu connais le cap, matelot!"
+      ],
+      "EuGerman": [
+        "Dies ist die [color:red]Weltenkarte[defcolor].[pagebreak]",
+        "Dank der Kraft der [icon:grand_star] [color:yellow]Großen Sterne[defcolor]",
+        "reisen wir durch Raum und Zeit...[pagebreak]",
+        "Wir können [color:blue]eine weitere Welt",
+        "[defcolor]bereisen, sobald du so weit",
+        "bist, Steuermann!"
+      ],
+      "EuItalian": [
+        "Questa è la [color:red]Mappa dei Mondi[defcolor].[pagebreak]",
+        "Con il potere della [color:yellow]Megastella [defcolor][icon:grand_star],",
+        "possiamo attraversare lo spazio",
+        "e il tempo...[pagebreak]",
+        "[color:black]E possiamo[defcolor][color:blue] viaggiare da un Mondo",
+        "all'altro[defcolor]![pagebreak]",
+        "Sei pronto per lanciarti nuovamente",
+        "nello spazio? Il timone è nelle tue",
+        "mani, Comandante!"
+      ],
+      "EuDutch": [
+        "This is the [color:red]Grand World Map[defcolor].[pagebreak]",
+        "With the power of the [icon:grand_star] [color:yellow]Grand Star[defcolor],",
+        "we can travel great distances across",
+        "space and time.[pagebreak]",
+        "Now we can [color:blue]travel between worlds",
+        "[defcolor]whenever you like, Captain!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "こいつは [color:red]グランドワールドマップ[defcolor]だよ[pagebreak]",
+        "[icon:grand_star][color:yellow]グランドスターの[ruby:力;ちから][defcolor]で",
+        "[ruby:時空;じくう]を[ruby:越;こ]えりゃ…[pagebreak]",
+        "[color:red]こいつ[defcolor]で [color:blue]となりの[ruby:大銀河;ワールド]へ[ruby:行;い]ける[color:black]のさ[color:blue][defcolor][pagebreak]",
+        "どうだい?",
+        "[ruby:宇宙;うちゅう]を またに[ruby:翔;か]ける[ruby:気分;きぶん]だろ?[pagebreak]",
+        "[color:red]こいつ[defcolor]をどう[ruby:使;つか]うかは アンタ[ruby:次第;しだい]だ",
+        "まかせたよ [ruby:船長;せんちょう]"
+      ],
+      "KrKorean": [
+        "이건 [color:red]그랜드 월드 맵[defcolor]이야[pagebreak]",
+        "[icon:grand_star][color:yellow]그랜드스타의 힘[defcolor]으로",
+        "시공을 건너면…[pagebreak]",
+        "[color:red]이것[defcolor]으로 [color:blue]다음 월드에 [color:black]갈 수 있어[color:blue][defcolor][pagebreak]",
+        "어때?",
+        "우주를 무대로 활약하는 게 실감 나?[pagebreak]",
+        "[color:red]이것[defcolor]을 어떻게 사용할지는 너에게 달렸어",
+        "부탁해, 캡틴"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "這就是[color:red]光榮大銀河地圖[defcolor]！[pagebreak]",
+        "只要靠[icon:grand_star][color:yellow]光榮星星之力[color:black]",
+        "就能[color:yellow][defcolor]穿越時空…[pagebreak]",
+        "有了[color:red]它[defcolor]就能[color:blue][color:black]去[color:blue]鄰近[color:black][color:blue][color:black]的大銀[color:black]河。[color:black][color:blue][defcolor][pagebreak]",
+        "如何?",
+        "有宇宙任你飛翔的感覺吧?[pagebreak]",
+        "怎樣使用[color:red]這東西[defcolor]由你決定，",
+        "交給你啦！艦長！"
+      ]
+    }
+  },
+  {
+    "label": "WorldMapEventStarCheckPointClose",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_BAD",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Now, just hang on there. We can't get",
+        "over there[color:blue] [defcolor]just yet. We need more",
+        "juice from the [icon:star] [color:red]Power Stars[defcolor]![pagebreak]",
+        "It's all on you, Captain!"
+      ],
+      "EuEnglish": [
+        "Now, just hang on there. We can't get",
+        "over there[color:blue] [defcolor]just yet. We need [color:red]more",
+        "juice from the [icon:star][defcolor] [color:red]Power Stars[defcolor]![pagebreak]",
+        "It's all on you, Captain!"
+      ],
+      "UsSpanish": [
+        "A ver, a ver, espérame un poquito.",
+        "Todavía no podemos avanzar.",
+        "¡Necesitamos más [color:red]Superestrellas [defcolor][icon:star]![pagebreak]",
+        "¡Todo está en tus manos, capitán!"
+      ],
+      "EuSpanish": [
+        "No vayas con tanta prisa...",
+        "¡Aún no podemos ir por allí!",
+        "Necesitamos la [color:red]energía de más [defcolor][icon:star].[pagebreak]",
+        "¡Todo depende de ti, capitán!"
+      ],
+      "UsFrench": [
+        "Un instant, matelot... Nous n'avons pas",
+        "assez d'énergie pour naviguer jusque-",
+        "là pour l'instant.[pagebreak]",
+        "Nous avons besoin de plus de [color:red]super",
+        "[color:red]étoiles [color:red][defcolor][icon:star] pour faire le plein!"
+      ],
+      "EuFrench": [
+        "Une minute, moussaillon...[pagebreak]",
+        "Pour aller par là, faut trouver [color:red]plus de",
+        "[icon:star] pour extraire leur pouvoir [defcolor]et s'en",
+        "servir comme carburant! Au travail!"
+      ],
+      "EuGerman": [
+        "Einen Augenblick... Anscheinend reicht",
+        "[color:red]die Energie [defcolor][color:red]der [defcolor][icon:star] [color:yellow]Power-Sterne [defcolor]nicht",
+        "aus, um diese [color:blue]Galaxie [color:black]anzusteuern[color:blue][color:black]![color:blue][defcolor][pagebreak]",
+        "Kümmere dich darum, Steuermann!"
+      ],
+      "EuItalian": [
+        "Aspetta... Per andare là, ci serve",
+        "il potere di altre [color:red]Superstelle [defcolor][icon:star].",
+        "Allora, Comandante! Andiamo?"
+      ],
+      "EuDutch": [
+        "Now, just hang on there. We can't get",
+        "over there[color:blue] [defcolor]just yet. We need [color:red]more",
+        "juice from the [icon:star][defcolor] [color:red]Power Stars[defcolor]![pagebreak]",
+        "It's all on you, Captain!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "まいったね…",
+        "まだ [ruby:次;つぎ]の[color:blue]【[ruby:銀河;ギャラクシー]】[defcolor]へは[ruby:行;い]けないようだ[pagebreak]",
+        "[icon:star][color:red]パワースターの[ruby:力;ちから]が たりない[color:black]せいだよ[color:red][defcolor][pagebreak]",
+        "さぁさ、 [ruby:戻;もど]って[icon:star][color:yellow]パワースター[defcolor]を[ruby:探;さが]そうかね?",
+        "[ruby:船長;せんちょう]"
+      ],
+      "KrKorean": [
+        "저런…",
+        "아직 다음 [color:blue]갤럭시[defcolor]로는 갈 수가 없어[pagebreak]",
+        "[icon:star][color:red]파워스타의 힘이 부족[color:black]하거든[color:red][defcolor][pagebreak]",
+        "자, 일단 돌아가서",
+        "[icon:star][color:yellow]파워스타[defcolor]를 찾을까, 캡틴?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "這下糟了…",
+        "好像無法前往下一個[color:blue]【銀河】[color:black]，[color:blue][defcolor][pagebreak]",
+        "因為[icon:star][color:red]力量星星之力[color:black]不夠[color:red][color:black]吧！[color:red][defcolor][pagebreak]",
+        "回頭尋找[icon:star][color:yellow]力量星星[defcolor]吧?艦長！"
+      ]
+    }
+  },
+  {
+    "label": "WorldMapEventStarCheckPointCloseAndAdvice",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_BAD",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Now, just hang on there. We can't get",
+        "over there[color:blue] [defcolor]just yet. We need more",
+        "juice from the [icon:star] [color:red]Power Stars[defcolor]![pagebreak]",
+        "Did ya miss any [color:red][icon:star] Power Stars[defcolor] back",
+        "there? Go check out some of the",
+        "[color:red]previous galaxies[defcolor], if ya need to!"
+      ],
+      "EuEnglish": [
+        "Now, just hang on there. We can't get",
+        "over there[color:blue] [defcolor]just yet. We [color:red]need more",
+        "juice from the [icon:star] Power Stars[defcolor]![pagebreak]",
+        "Did ya miss any[color:yellow] [icon:star] Power Stars [defcolor]back",
+        "there? Go check out some of the",
+        "[color:red]previous galaxies[defcolor], if ya need to!"
+      ],
+      "UsSpanish": [
+        "A ver, a ver, espérame un poquito.",
+        "Todavía no podemos avanzar.",
+        "¡Necesitamos más [color:red]Superestrellas [defcolor][icon:star]![pagebreak]",
+        "¿No se te habrá olvidado alguna que",
+        "otra [color:red]Superestrella[defcolor] [color:red][icon:star] [defcolor]por ahí?[pagebreak]",
+        "Si vuelves a las [color:red]galaxias anteriores[defcolor]",
+        "¡quizás encontrarás más!"
+      ],
+      "EuSpanish": [
+        "No vayas con tanta prisa...",
+        "Todavía no podemos ir por allí.",
+        "Necesitamos la energía de más [icon:star].[pagebreak]",
+        "¿No te habrás olvidado alguna [color:red][icon:star][defcolor] por",
+        "el camino? ¡Será mejor que eches un",
+        "vistazo en las [color:red]galaxias anteriores[defcolor]!"
+      ],
+      "UsFrench": [
+        "Un instant, matelot... Nous n'avons pas",
+        "assez d'énergie pour naviguer jusque-",
+        "là pour l'instant.[pagebreak]",
+        "Nous avons besoin de plus de [color:red]super",
+        "[color:red]étoiles [color:red][defcolor][icon:star] pour faire le plein![pagebreak]",
+        "En as-tu oublié dans les [color:red]galaxies que",
+        "tu as déjà visitées[defcolor]? Tu devrais aller",
+        "voir..."
+      ],
+      "EuFrench": [
+        "Une minute, moussaillon...[pagebreak]",
+        "Pour aller là-bas, faut trouver [color:red]plus de",
+        "[defcolor][icon:star] [color:red]pour extraire leur pouvoir [defcolor]et s'en",
+        "servir comme carburant![pagebreak]",
+        "Va donc refaire un tour dans les",
+        "[color:red]galaxies déjà visitées[color:black], tu trouveras",
+        "peut-être de nouvelles [color:red][defcolor][color:red][icon:star][color:black], petit gars![color:red][defcolor]"
+      ],
+      "EuGerman": [
+        "Einen Augenblick... Anscheinend reicht",
+        "[color:red]die Energie der [defcolor][icon:star] [color:yellow]Power-Sterne [defcolor]noch",
+        "nicht, um diese [color:blue]Galaxie [color:black]anzusteuern[color:blue][color:black]![color:blue][defcolor][pagebreak]",
+        "Sind etwa noch [color:red][icon:star] [color:yellow]Power-Sterne [color:red][defcolor]dort",
+        "draußen, die wir übersehen haben?[pagebreak]",
+        "Wir sollten die [color:red]bereits besuchten",
+        "Galaxien [defcolor]noch einmal überprüfen,",
+        "um ganz sicherzugehen!"
+      ],
+      "EuItalian": [
+        "Aspetta... Per andare là [color:red]ci serve",
+        "il potere di altre [defcolor][color:red]Superstelle [defcolor][icon:star].",
+        "Comandante, andiamo a cercarle?[pagebreak]",
+        "Forse hai dimenticato qualche",
+        "[color:yellow]Superstella [defcolor][icon:star] nelle [color:red]Galassie",
+        "precedenti[defcolor]!"
+      ],
+      "EuDutch": [
+        "Now, just hang on there. We can't get",
+        "over there[color:blue] [defcolor]just yet. We [color:red]need more",
+        "juice from the [icon:star] Power Stars[defcolor]![pagebreak]",
+        "Did ya miss any[color:yellow] [icon:star] Power Stars [defcolor]back",
+        "there? Go check out some of the",
+        "[color:red]previous galaxies[defcolor], if ya need to!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "まいったね…",
+        "この[ruby:先;さき]の[color:red]【[ruby:銀河;ギャラクシー]】[defcolor]は、 まだ[ruby:行;い]けないねえ…[pagebreak]",
+        "どこかで[ruby:見逃;みのが]している[icon:star][color:yellow]パワースター[defcolor]が",
+        "あるんじゃないかい?[pagebreak]",
+        "たとえば [color:red][ruby:以前;いぜん]の[ruby:大銀河;ワールド]に[ruby:戻;もど]って[defcolor]",
+        "[ruby:探;さが]してみたらどうかね・・・ [ruby:船長;せんちょう]"
+      ],
+      "KrKorean": [
+        "저런…",
+        "다음 [color:red]갤럭시[defcolor]로 아직은 갈 수가 없어…[pagebreak]",
+        "어딘가에서 [icon:star][color:yellow]파워스타[defcolor]를",
+        "지나치거나 놓친 게 아닐까?[pagebreak]",
+        "일단 [color:red]예전에 지나온 월드로 돌아가서[defcolor]",
+        "찾아보는 게 어때, 캡틴?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "這下糟了…",
+        "看來還無法前往下一個[color:blue][color:red]【銀河[color:blue][color:red]】[color:blue][defcolor]…[pagebreak]",
+        "遺漏了某處的[icon:star][color:yellow]力量星星[color:black]吧?[color:yellow][defcolor][color:black]",
+        "[defcolor]或許回去[color:red]以前的大銀河[defcolor]找找看，[pagebreak]",
+        "如何?…艦長！"
+      ]
+    }
+  },
+  {
+    "label": "WorldMapEventStarCheckPointRequestStar",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:star][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuEnglish": [
+        "[icon:star][icon:x_mark][intvar:3;0;0]"
+      ],
+      "UsSpanish": [
+        "[icon:star][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuSpanish": [
+        "[icon:star][icon:x_mark][intvar:3;0;0]"
+      ],
+      "UsFrench": [
+        "[icon:star][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuFrench": [
+        "[icon:star][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuGerman": [
+        "[icon:star][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuItalian": [
+        "[icon:star][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuDutch": [
+        "[icon:star][icon:x_mark][intvar:3;0;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:star][icon:x_mark][intvar:3;0;0]"
+      ],
+      "KrKorean": [
+        "[icon:star][icon:x_mark][intvar:3;0;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:star][icon:x_mark][intvar:3;0;0]"
+      ]
+    }
+  },
+  {
+    "label": "WorldMapEventTicoRequestStarPiece",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuEnglish": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "UsSpanish": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuSpanish": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "UsFrench": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuFrench": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuGerman": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuItalian": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuDutch": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "KrKorean": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ]
+    }
+  },
+  {
+    "label": "WorldMapNewsAnotherGalaxy",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_QUESTION",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "From here, you sure can see the",
+        "[color:blue]entire universe[defcolor] in all her glory... Yep.[pagebreak]",
+        "Be sure and try to [color:red]visit each galaxy[defcolor]",
+        "so you experience every possibility![pagebreak]",
+        "All right... Well... Where to now?",
+        "The wheel is all yours, Captain!"
+      ],
+      "EuEnglish": [
+        "From here, you sure can see the",
+        "[color:blue]entire universe[defcolor] in all her glory... Yep.[pagebreak]",
+        "Be sure and try to [color:red]visit each galaxy[defcolor]",
+        "so you experience every possibility![pagebreak]",
+        "All right... Well... Where to now?",
+        "The wheel is all yours, Captain!"
+      ],
+      "UsSpanish": [
+        "Desde aquí se puede ver el [color:blue]universo[defcolor]",
+        "en todo su esplendor...[pagebreak]",
+        "¡[color:red]Visita cada galaxia [defcolor]y descubrirás",
+        "un sinfín de posibilidades![pagebreak]",
+        "Bien, ¿adónde vamos ahora?",
+        "¡El timón es todo tuyo, capitán!"
+      ],
+      "EuSpanish": [
+        "Desde aquí se puede ver el [color:blue]universo[defcolor]",
+        "en todo su esplendor...[pagebreak]",
+        "¡[color:red]Visita cada galaxia [defcolor]y descubrirás",
+        "un sinfín de posibilidades![pagebreak]",
+        "Bien, capitán, ¿adónde vamos ahora?",
+        "¡El timón es tuyo!"
+      ],
+      "UsFrench": [
+        "D'ici, tu peux voir[color:black] [defcolor][color:blue][color:black]l'[color:blue]univers dans toute",
+        "sa grandeur[defcolor]... Imposant, pas vrai?[pagebreak]",
+        "Essaie de [color:red]visiter chacune des",
+        "galaxies [defcolor]pour explorer toutes les",
+        "possibilités qui s'offrent à toi![pagebreak]",
+        "Bon... Où veux-tu aller maintenant,",
+        "capitaine?"
+      ],
+      "EuFrench": [
+        "D'ici, on peut voir toutes les galaxies",
+        "de l'[color:blue]univers[defcolor]...[pagebreak]",
+        "[color:red]Faut toutes les visiter [defcolor]pour être",
+        "sûr de rien louper![pagebreak]",
+        "Très bien, où on va à présent?",
+        "C'est toi le capitaine à bord!"
+      ],
+      "EuGerman": [
+        "Von hier aus kannst du die Galaxien",
+        "des [color:blue]Universums [defcolor]erforschen...[pagebreak]",
+        "Bleib wachsam und erkunde",
+        "auch [color:red]den letzten Winkel[defcolor],",
+        "damit dir nichts entgeht![pagebreak]",
+        "Nun gut, dann... Wohin geht die Reise?",
+        "Übernimm du das Steuerrad!"
+      ],
+      "EuItalian": [
+        "Da qui puoi osservare la vastità",
+        "dell'[color:blue]universo[defcolor]...[pagebreak]",
+        "Devi [color:red]visitare tutte le Galassie [defcolor]per",
+        "riuscire a sperimentare ogni cosa![pagebreak]",
+        "Bene... E ora dove andiamo?",
+        "Il timone è nelle tue mani,",
+        "Comandante!"
+      ],
+      "EuDutch": [
+        "From here, you sure can see the",
+        "[color:blue]entire universe[defcolor] in all her glory... Yep.[pagebreak]",
+        "Be sure and try to [color:red]visit each galaxy[defcolor]",
+        "so you experience every possibility![pagebreak]",
+        "All right... Well... Where to now?",
+        "The wheel is all yours, Captain!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "こうしてみると[ruby:宇宙;うちゅう]には",
+        "[color:blue]いろいろな[defcolor][color:blue][ruby:大銀河;ワールド][defcolor]があるだろう?[pagebreak]",
+        "ひとつのところにこだわらず",
+        "[color:red][ruby:他;ほか]のところに[ruby:行;い]ってみる[color:black]のも[color:red][defcolor]、 ひとつの[ruby:手;て]だよ[pagebreak]",
+        "まあ、 [ruby:決;き]めるのは [ruby:船長;せんちょう]のアンタだ!",
+        "よろしくたのんだよ"
+      ],
+      "KrKorean": [
+        "여기에서 이렇게 보니 우주에는",
+        "참 [color:blue]여러 월드[defcolor]가 있지?[pagebreak]",
+        "한곳에 머무르지 말고",
+        "[color:red]다른 곳에 가 보는 것[color:black]도 하나의 방법이야[color:red][defcolor][pagebreak]",
+        "선택은 캡틴 몫이지만 말이야!",
+        "그럼 잘 부탁해!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "宇宙[color:black]有[defcolor][color:blue][color:black][color:blue]形形色色[color:black]的[color:blue][color:black]大銀河[color:blue][defcolor]吧?[pagebreak]",
+        "不要只著眼於一個地方，[color:red]去[color:black][color:red]看看",
+        "[color:black][color:red]其他地方[color:black][color:red][color:black]也許是另一個選擇，[color:red][defcolor][pagebreak]",
+        "總之，身為艦長的你來決定吧！",
+        "拜託你啦！"
+      ]
+    }
+  },
+  {
+    "label": "WorldMapNewsNormalStarAll",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_QUESTION",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "It looks like you've collected all the",
+        "[icon:star] [color:yellow]Power Stars [defcolor]here.[pagebreak]",
+        "Are there any [icon:star] [color:yellow]Power Stars [defcolor]in",
+        "previous worlds you might've missed?[pagebreak]",
+        "And remember that [icon:comet_medal][color:red] Comet Medals",
+        "[color:black]will [color:blue]make [color:black][color:blue][color:blue]comets appear[color:blue][color:black], too[color:blue][color:black]![color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "It looks like you've collected pretty",
+        "much all the [icon:star] [color:yellow]Power Stars [defcolor]here.[pagebreak]",
+        "Are there any [icon:star] [color:yellow]Power Stars [defcolor]in",
+        "previous worlds you might've missed?[pagebreak]",
+        "And remember that [icon:comet_medal][color:red] Comet Medals",
+        "[color:black]will [color:blue]make comets appear[color:black], too![color:red][defcolor]"
+      ],
+      "UsSpanish": [
+        "Has conseguido todas las",
+        "[color:yellow]Superestrellas [defcolor][icon:star] de este mundo.[pagebreak]",
+        "¿No se te habrá pasado alguna [icon:star]",
+        "en los mundos anteriores?[pagebreak]",
+        "Y supongo que también recuerdas",
+        "que las [color:red]medallas de cometa[color:black] [icon:comet_medal] [color:blue]hacen",
+        "que los cometas aparezcan[color:black], ¿no?[color:red][defcolor]"
+      ],
+      "EuSpanish": [
+        "Has conseguido casi todas las [icon:star][color:yellow] [defcolor]de",
+        "este mundo. ¿No se te habrá pasado",
+        "alguna [icon:star] en los mundos anteriores?[pagebreak]",
+        "¡Recuerda también que al coger [icon:comet_medal]",
+        "aparecerán [color:black][color:blue]nuevos cometas[color:black]![defcolor]"
+      ],
+      "UsFrench": [
+        "Hmmm... Je crois que tu as trouvé",
+        "toutes les [color:yellow]super étoiles [defcolor][icon:star] de cette",
+        "zone, moussaillon![pagebreak]",
+        "As-tu oublié des [color:yellow]super étoiles [icon:star]",
+        "[defcolor]dans les mondes que tu as déjà",
+        "explorés?[pagebreak]",
+        "Et n'oublie pas non plus que les",
+        "[color:red]médailles comète [defcolor][icon:comet_medal] font[color:blue] apparaître",
+        "des comètes[defcolor], matelot!"
+      ],
+      "EuFrench": [
+        "T'as dû ramasser à peu près toutes",
+        "les [icon:star], par ici.[pagebreak]",
+        "Peut-être que t'en as oublié en",
+        "chemin dans une autre galaxie?[pagebreak]",
+        "Et les [color:red]médailles comète[defcolor] [icon:comet_medal], penses-y,",
+        "matelot![color:red] [color:black]Elles nous permettraient",
+        "[color:blue]d'attirer des [icon:comet][color:black]![color:red][defcolor]"
+      ],
+      "EuGerman": [
+        "Du hast hier schon fast alle",
+        "[icon:star] [color:yellow]Power-Sterne [defcolor]geborgen.[pagebreak]",
+        "Sind noch [icon:star] [color:yellow]Power-Sterne [defcolor]in vorigen",
+        "Welten übrig, die du übersehen hast?[pagebreak]",
+        "Vielleicht sollten wir uns auch auf die",
+        "[icon:comet_medal][color:red] Kometenmünzen [color:black]konzentrieren, um",
+        "[color:blue]Schabernack-Kometen[color:black] anzulocken?!?[color:red][defcolor]"
+      ],
+      "EuItalian": [
+        "Sembra che tu abbia collezionato",
+        "quasi tutte le [color:yellow]Superstelle[defcolor] [icon:star] qui![pagebreak]",
+        "Forse ci sono delle [color:yellow]Superstelle[defcolor] [icon:star]",
+        "che hai dimenticato di prendere in",
+        "qualcuno dei Mondi precedenti?[pagebreak]",
+        "Stai anche raccogliendo le [color:red]Medaglie",
+        "Cometa [defcolor][icon:comet_medal]? [color:blue]Fanno apparire delle",
+        "Comete Burlone[defcolor], sai?"
+      ],
+      "EuDutch": [
+        "It looks like you've collected pretty",
+        "much all the [icon:star] [color:yellow]Power Stars [defcolor]here.[pagebreak]",
+        "Are there any [icon:star] [color:yellow]Power Stars [defcolor]in",
+        "previous worlds you might've missed?[pagebreak]",
+        "And remember that [icon:comet_medal][color:red] Comet Medals",
+        "[color:black]will [color:blue]make comets appear[color:black], too![color:red][defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "この[ruby:大銀河;ワールド]の[icon:star][color:yellow]パワースター[color:black]は[color:yellow][defcolor]",
+        "あらかた[ruby:集;あつ]めたようだねえ[pagebreak]",
+        "[ruby:前;まえ]の[ruby:大銀河;ワールド]に まだ[ruby:集;あつ]めていない",
+        "[icon:star][color:yellow]パワースター[defcolor]は[ruby:無;な]いかい?[pagebreak]",
+        "[icon:comet_medal][color:red][ruby:彗星;すいせい]メダル[defcolor]を[ruby:集;あつ]めて[color:blue]",
+        "[color:blue][ruby:彗星;すいせい][color:blue][defcolor][color:blue]をよびよせる[defcolor]のも[ruby:一;ひと]つの[ruby:手;て]だよ"
+      ],
+      "KrKorean": [
+        "이 월드의 [icon:star][color:yellow]파워스타[color:black]는[color:yellow][defcolor]",
+        "거의 모은 것 같군[pagebreak]",
+        "혹시 지나온 월드에서 모으지 못한",
+        "[icon:star][color:yellow]파워스타[defcolor]는 없어?[pagebreak]",
+        "[icon:comet_medal][color:red]혜성메달[defcolor]을 모아서[color:blue]",
+        "[color:blue]혜성을 부르는 것[color:blue][defcolor]도 하나의 방법이야"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "這大銀河的[icon:star][color:yellow]力量星星[color:black]，[color:yellow][defcolor][color:black]",
+        "好像[defcolor]全被你收集到了啊！[pagebreak]",
+        "在之前的大銀河裡，",
+        "還有未收集的[icon:star][color:yellow]力量星星[defcolor]嗎?[pagebreak]",
+        "先收集[icon:comet_medal][color:red]彗星獎章[color:black]，[color:red][defcolor][color:blue]",
+        "[color:blue]再引[color:blue]彗星[color:blue]出來[color:blue][defcolor]也是另一個方法哦！"
+      ]
+    }
+  },
+  {
+    "label": "WorldMapNewsStartWorld01_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_QUESTION",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "So...this is the [color:red]World Map[defcolor].[pagebreak]",
+        "Just point [icon:hand_point] at [color:blue]your[defcolor] [color:blue]destination[defcolor], and",
+        "[color:black]press [icon:a_button] to [color:black][color:red]jump into that galaxy[color:black]![color:black][defcolor]"
+      ],
+      "EuEnglish": [
+        "So...this is the [color:red]World Map[defcolor].[pagebreak]",
+        "Just point [icon:hand_point] at [color:blue]your [defcolor][color:blue]destination[color:black],[color:blue] [defcolor]and",
+        "[color:black]press [icon:a_button] to [color:black][color:red]jump [color:black]into that [color:blue]galaxy[color:black]![color:black][defcolor]"
+      ],
+      "UsSpanish": [
+        "Este es el [color:red]mapa galáctico[defcolor].[pagebreak]",
+        "Apunta con [icon:hand_point] a la [color:black][color:blue]galaxia que",
+        "quieras visitar[color:black],[defcolor][color:black][color:black] [color:black]¡y oprime [icon:a_button] para",
+        "[color:red]volar [color:black]hasta allí![defcolor]"
+      ],
+      "EuSpanish": [
+        "Este es el [color:red]mapa de este mundo[defcolor].[pagebreak]",
+        "Apunta con [icon:hand_point] a la [color:black][color:blue]galaxia que",
+        "quieras visitar[color:black],[defcolor][color:black][color:black] [color:black]¡y pulsa [icon:a_button] para",
+        "[color:red]volar [color:black]hasta allí![defcolor]"
+      ],
+      "UsFrench": [
+        "Voici la [color:red]carte du monde[defcolor], matelot.[pagebreak]",
+        "Pointe simplement le [icon:hand_point] sur la [color:black][color:red]galaxie",
+        "que tu veux visiter [color:black]et appuie sur [defcolor][color:black][color:black][icon:a_button]",
+        "[color:black]une fois arrivé à [color:blue]destination[color:black]![defcolor]"
+      ],
+      "EuFrench": [
+        "Bon, ouvre bien tes écoutilles,",
+        "matelot... Ça, c'est la [color:red]carte[defcolor].[pagebreak]",
+        "Pointe [icon:hand_point] simplement [color:blue]la galaxie",
+        "que tu veux aller visiter[defcolor][color:black].[pagebreak]",
+        "Quand tu as fait ton choix,",
+        "appuie sur [icon:a_button] [color:red]pour t'y rendre [color:black][color:red]illico[color:black]![defcolor]"
+      ],
+      "EuGerman": [
+        "Das ist also die [color:red]Galaxienkarte[defcolor].[pagebreak]",
+        "Zeige einfach mit dem [icon:hand_point] auf",
+        "dein [color:blue]gewünschtes Ziel[defcolor][color:black].[pagebreak]",
+        "Bist du bei der entsprechenden",
+        "[color:blue]Galaxie [color:black]angelangt, drücke [icon:a_button],",
+        "um sie [color:red]anzusteuern[color:black].[defcolor]"
+      ],
+      "EuItalian": [
+        "Allora questa è la [color:red]Mappa dei Mondi[defcolor]...[pagebreak]",
+        "Punta [icon:hand_point] verso la [color:black][color:blue]Galassia [color:black]in cui vuoi",
+        "[color:blue]andare [color:black]e [defcolor]premi [color:black][icon:a_button] per[color:black] [color:red]raggiungerla[color:black]![color:black][defcolor]"
+      ],
+      "EuDutch": [
+        "So...this is the [color:red]World Map[defcolor].[pagebreak]",
+        "Just point [icon:hand_point] at [color:blue]your [defcolor][color:blue]destination[color:black],[color:blue] [defcolor]and",
+        "[color:black]press [icon:a_button] to [color:black][color:red]jump [color:black]into that [color:blue]galaxy[color:black]![color:black][defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "さあて・・・ こいつが[color:red]ワールドマップ[defcolor]だ[pagebreak]",
+        "マップ[ruby:上;じょう]の[color:blue][ruby:行;い]きたい[ruby:銀河;ギャラクシー][defcolor]を[icon:hand_point]で[ruby:指;さ]すんだよ",
+        "[color:blue][ruby:銀河;ギャラクシー][defcolor]に[ruby:星船;ほしぶね]が[ruby:着;つ]いたら [color:red][icon:a_button]で[ruby:探索開始;たんさくかいし][defcolor]だ"
+      ],
+      "KrKorean": [
+        "어디 보자… 이것은 [color:red]월드 맵[defcolor]이야[pagebreak]",
+        "맵에서 [color:blue]가고 싶은 갤럭시[defcolor]를 [icon:hand_point]로 가리키면 돼",
+        "우주선이 [color:blue]갤럭시[defcolor]에 도착하면 [color:red][icon:a_button]로 탐색[defcolor]해 봐!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "原來…這就是[color:red]大銀河地圖[defcolor]啊！",
+        "在地圖上將[color:blue][icon:hand_point][color:black]對準[color:blue]想去的銀[color:black][color:blue]河[color:black]，[color:blue][defcolor][pagebreak]",
+        "當[color:blue][color:black]星艦抵達[color:blue]銀河[color:black]後，",
+        "按[color:blue][defcolor][color:red][icon:a_button]開始搜索[color:black]。[color:red][defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "WorldMapNewsStartWorld01_Flow001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_BOAST",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Like I said, this[color:black] spaceship runs on",
+        "[color:yellow]energy from [color:black][color:yellow][icon:star] Power Stars[color:black].[color:yellow][color:black][color:black][color:black][pagebreak]",
+        "[color:black]Right now, it looks like we got enough",
+        "power to go [icon:orange_arrow] [color:red]this far[color:black].[delay:15] We're",
+        "gonna need more[color:black] [color:yellow][icon:star] Power Stars[color:black]![color:yellow][color:black][pagebreak]",
+        "So let's do it! For your princess and",
+        "my crew! [color:black][delay:15]Take it away, Captain![color:black][defcolor]"
+      ],
+      "EuEnglish": [
+        "Like I said, this[color:black] spaceship runs on",
+        "[color:yellow]energy from [color:black][color:yellow][icon:star] Power Stars[color:black].[color:yellow][color:black][color:black][color:black][pagebreak]",
+        "[color:black]Right now, it looks like we got enough",
+        "power to go [icon:orange_arrow] [color:red]this far[color:black].[delay:15] We're",
+        "gonna need more[color:black] [color:yellow][icon:star] Power Stars[color:black]![color:yellow][color:black][pagebreak]",
+        "So let's do it! For your princess and",
+        "my crew! [color:black][delay:15]Take it away, Captain![color:black][defcolor]"
+      ],
+      "UsSpanish": [
+        "[color:black]Esta astronave necesita de la [color:yellow]energía",
+        "de las Superestrellas [color:black][color:yellow][icon:star][color:black].[color:yellow][color:black][color:black][color:black][pagebreak]",
+        "[color:black]Con la energía que tenemos, solo",
+        "podemos llegar [color:red]hasta aquí[color:black] [icon:orange_arrow]. ¡Creo",
+        "que ocupamos más[color:black] [color:yellow]Superestrellas [color:black][color:yellow][icon:star][color:black]![color:yellow][color:black][pagebreak]",
+        "¡Busquémoslas! ¡Por el bien de tu",
+        "princesa y por el nuestro![color:black][delay:15]",
+        "¡El timón es tuyo, capitán![color:black][defcolor]"
+      ],
+      "EuSpanish": [
+        "El combustible de esta astronave",
+        "es la [color:yellow]energía de las [defcolor][color:black][color:yellow][icon:star][color:black].[color:yellow][color:black][color:black][color:black][pagebreak]",
+        "Solo t[color:black]enemos suficiente energía para",
+        "llegar [color:red]hasta [color:black][icon:orange_arrow]. ¡Parece que",
+        "nos harán falta más[color:black] [color:yellow][icon:star][color:black]![color:yellow][color:black][pagebreak]",
+        "¡Adelante! Por tu princesa y por",
+        "nosotros. [color:black][delay:15]¡Coge el timón, capitán![color:black][defcolor]"
+      ],
+      "UsFrench": [
+        "Le vaisseau se propulse grâce à",
+        "l'[color:yellow]énergie des [defcolor][color:yellow]super étoiles [defcolor][color:yellow][icon:star][defcolor][color:black][color:black].[color:black][color:black][pagebreak]",
+        "Nous avons assez d'énergie pour",
+        "naviguer jusqu'à[color:red] cette limite [color:black][color:black][icon:orange_arrow][color:black].[color:black][pagebreak]",
+        "[color:black]Tu vas devoir trouver d'autres",
+        "[color:yellow]super étoiles [color:black][color:yellow][icon:star][color:black] pour aller plus",
+        "loin![color:black][defcolor][color:black][pagebreak]",
+        "Mettons-nous au travail! Pour ta",
+        "bien-aimée et pour les Luma...[color:black][delay:15][color:black]",
+        "À l'abordage![defcolor]"
+      ],
+      "EuFrench": [
+        "[color:black]Ce vaisseau utilise le [color:yellow]pouvoir des [color:black][color:yellow][icon:star]",
+        "[color:yellow]comme [color:yellow]carburant[color:black].[color:yellow][color:black][color:black][pagebreak]",
+        "Pour l'instant, on a de quoi aller",
+        "[color:red]jusqu'ici [color:black][color:black][icon:orange_arrow].[color:black][delay:15] [color:black]Alors il va[color:black] nous falloir",
+        "plus de [color:black][color:yellow][icon:star][color:black]![color:yellow][color:black][pagebreak]",
+        "Au boulot, petit mousse! Ta princesse",
+        "compte sur toi, et l'équipage aussi!",
+        "En avant![defcolor]"
+      ],
+      "EuGerman": [
+        "[color:black]Dieses Raumschiff fliegt mit der",
+        "[color:yellow]Energie der [color:black][color:yellow][icon:star] Power-Sterne[color:black].[color:yellow][color:black][color:black][color:black][pagebreak]",
+        "[color:black]Mit unseren jetzigen Energiereserven",
+        "kommen wir [icon:orange_arrow] [color:red]bis hier hin[color:black].[color:black][pagebreak]",
+        "Um noch weiter zu gelangen,",
+        "müssen wir noch mehr",
+        "[color:yellow][icon:star] Power-Sterne [color:black]bergen![color:yellow][color:black][pagebreak]",
+        "Los geht's[color:yellow][color:black]![color:yellow] [color:black]Für deine Prinzessin",
+        "wie für uns. [color:black]Du bestimmst den",
+        "weiteren Kurs, Steuermann![color:black][defcolor]"
+      ],
+      "EuItalian": [
+        "Come ti ho detto, quest'astronave",
+        "si muove grazie all'[color:yellow]energia delle",
+        "[defcolor][color:yellow]Superstelle[defcolor][color:black] [icon:star].[pagebreak]",
+        "Con l'energia attuale possiamo",
+        "raggiungere [color:red]questo punto[color:black] [defcolor][color:black][icon:orange_arrow].",
+        "Ci servono altre [color:yellow]Superstelle [color:black][color:black][icon:star]![pagebreak]",
+        "[color:black]Andiamo! Facciamolo per la",
+        "Principessa e per tutti noi!",
+        "[color:black][delay:15][color:black]A te il timone, Comandante![defcolor]"
+      ],
+      "EuDutch": [
+        "Like I said, this[color:black] spaceship runs on",
+        "[color:yellow]energy from [color:black][color:yellow][icon:star] Power Stars[color:black].[color:yellow][color:black][color:black][color:black][pagebreak]",
+        "[color:black]Right now, it looks like we got enough",
+        "power to go [icon:orange_arrow] [color:red]this far[color:black].[delay:15] We're",
+        "gonna need more[color:black] [color:yellow][icon:star] Power Stars[color:black]![color:yellow][color:black][pagebreak]",
+        "So let's do it! For your princess and",
+        "my crew! [color:black][delay:15]Take it away, Captain![color:black][defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:black][ruby:星船;ほしぶね]は、 [color:yellow][icon:star]パワースター[color:black][color:black][color:yellow]の[ruby:力;ちから][color:black]で[ruby:動;うご]くんだ[color:black][color:black]",
+        "[ruby:今;いま]のパワーで[ruby:行;い]けるところは[icon:orange_arrow][color:red]ココ[color:black]だよ[color:black][pagebreak]",
+        "[ruby:先;さき]に[ruby:進;すす]むには、 もっと[color:yellow][icon:star]パワースター[color:black]を",
+        "アンタに [ruby:持;も]ってきてもらわないとね![color:yellow][color:black][pagebreak]",
+        "さあ! お[ruby:姫様;ひめさま]のため、 わたしらのために",
+        "[color:yellow][icon:star]パワースター[color:black]に[ruby:向;む]け [ruby:出航;しゅっこう]だ! [delay:15][ruby:船長;せんちょう]!![color:yellow][color:black][defcolor]"
+      ],
+      "KrKorean": [
+        "우주선은[color:black] [color:yellow][icon:star]파워스타의 힘[color:black][color:black]으로 움직이는데[color:black][color:black]",
+        "지금 가진 힘으로는 [icon:orange_arrow][color:red]여기[color:black]까지만 갈 수 있어[color:black][pagebreak]",
+        "다른 곳도 가고 싶다면",
+        "[color:yellow][icon:star]파워스타[color:black]를 더 많이 찾아 줘야 돼![color:yellow][color:black][pagebreak]",
+        "자! 공주님을 위해, 우리들을 위해",
+        "[color:yellow][icon:star]파워스타[color:black]를 찾으러 출발하자! [delay:15]캡틴!![color:yellow][color:black][defcolor]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[color:black]星艦是靠[color:yellow][icon:star]力量星星之力[color:black]來推動[color:yellow][color:black]，",
+        "[color:yellow][color:black][color:black]現在力量最遠能到[icon:orange_arrow][color:red]這裡[color:black]，[color:red][color:black][color:black][pagebreak]",
+        "要繼續前進，就要靠你去拿",
+        "更多的[color:yellow][icon:star]力量星星[color:black]回來[color:yellow][color:black]啦！[color:yellow][color:black][pagebreak]",
+        "好了！為了公主，為了我們，",
+        "向[color:yellow][icon:star]力量星星[color:black]出發！[delay:15]艦長！[color:yellow][color:black][defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "WorldMapNewsStartWorld02",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_QUESTION",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Wow. Take a look at that! We found",
+        "an entirely new [color:red]world[defcolor]![pagebreak]",
+        "Looks like there should be plenty",
+        "of [icon:star] [color:yellow]Power Stars [defcolor]here. Go ahead--",
+        "we're all counting on you, Captain!"
+      ],
+      "EuEnglish": [
+        "Wow. Take a look at that! We found",
+        "an entirely [color:red]new [defcolor][color:red]world[defcolor]![pagebreak]",
+        "Looks like there should be plenty",
+        "of [icon:star] [color:yellow]Power Stars [defcolor]here. Go ahead -",
+        "we're all counting on you, Captain!"
+      ],
+      "UsSpanish": [
+        "Oye. ¡Mira eso! ¡Encontramos",
+        "un [color:red]mundo[defcolor] completamente nuevo![pagebreak]",
+        "Seguro que aquí habrá un montón",
+        "de [color:yellow]Superestrellas [defcolor][icon:star].",
+        "¡Contamos contigo, capitán!"
+      ],
+      "EuSpanish": [
+        "Vaya, vaya. ¡Hemos dado con",
+        "un [color:red]mundo [defcolor]completamente nuevo![pagebreak]",
+        "Seguro que aquí hay un montón de [icon:star].",
+        "¡Contamos contigo, capitán!"
+      ],
+      "UsFrench": [
+        "Par les rivages étoilés! Regarde le",
+        "magnifique nouveau [color:red]monde[defcolor] que nous",
+        "avons trouvé![pagebreak]",
+        "Il contient sûrement des tonnes de",
+        "[color:yellow]super étoiles [defcolor][icon:star]! Allez, capitaine!",
+        "Au travail!"
+      ],
+      "EuFrench": [
+        "Ouah! Regarde ça, moussaillon!",
+        "On a dégoté un [color:red]nouveau [defcolor][color:red]monde[defcolor]![pagebreak]",
+        "Il doit y en avoir, des [icon:star], par ici!",
+        "En avant toute, petit mousse!",
+        "L'aventure nous attend!"
+      ],
+      "EuGerman": [
+        "Wow. Sieh dir das mal an!",
+        "Eine komplett [color:red]neue [defcolor][color:red]Welt[defcolor]![pagebreak]",
+        "Es gibt hier vermutlich eine Menge",
+        "weiterer [icon:star] [color:yellow]Power-Sterne[defcolor]. Volle Kraft",
+        "voraus, du bestimmst den Kurs!"
+      ],
+      "EuItalian": [
+        "Uhao! Dai un'occhiata!",
+        "Abbiamo raggiunto un [color:red]nuovo [defcolor][color:red]Mondo[defcolor]![pagebreak]",
+        "Credo che qui ci siano tantissime",
+        "[color:yellow]Superstelle[defcolor] [icon:star]! Avanti, Comandante!",
+        "Contiamo su di te!"
+      ],
+      "EuDutch": [
+        "Wow. Take a look at that! We found",
+        "an entirely [color:red]new [defcolor][color:red]world[defcolor]![pagebreak]",
+        "Looks like there should be plenty",
+        "of [icon:star] [color:yellow]Power Stars [defcolor]here. Go ahead -",
+        "we're all counting on you, Captain!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "こいつをみてごらん?",
+        "[color:red][ruby:新;あたら]しい[ruby:大銀河;ワールド][defcolor]にやってきたよ[pagebreak]",
+        "ここにも たくさんの[icon:star][color:yellow]パワースター[defcolor]が",
+        "ありそうだ[pagebreak]",
+        "よろしくたのんだよ! [ruby:船長;せんちょう]"
+      ],
+      "KrKorean": [
+        "이걸 봐!",
+        "[color:red]새로운 월드[defcolor]에 도착했어[pagebreak]",
+        "이곳에도 [icon:star][color:yellow]파워스타[defcolor]가",
+        "많이 있을 것 같은 예감이 들어[pagebreak]",
+        "잘 부탁해, 캡틴!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "看看這些吧！",
+        "[color:red][color:black]我們來到了[color:red]新的大銀河[color:black]，[color:red][defcolor][pagebreak]",
+        "這裡應該有許多[icon:star][color:yellow]力量星星[color:black]，[color:yellow][defcolor][pagebreak]",
+        "拜託你啦！艦長！"
+      ]
+    }
+  },
+  {
+    "label": "WorldMapNewsStartWorld03",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_QUESTION",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Wow! [delay:15]An entirely [color:red]new world[defcolor]![delay:30] Looks",
+        "like the [color:yellow]path splits [color:black]up [color:yellow][defcolor]ahead.[color:black][pagebreak]",
+        "Hey, don't look at me! The captain",
+        "makes the choices, am I right?[defcolor]"
+      ],
+      "EuEnglish": [
+        "Wow! [delay:15]An entirely [color:red]new world[defcolor]![delay:30] Looks",
+        "like the [color:yellow]path splits [color:black]up [color:yellow][defcolor]ahead.[color:black][pagebreak]",
+        "Hey, don't look at me! The captain",
+        "makes the choices, am I right?[defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Astros a la vista! Hemos llegado a",
+        "un [color:red]nuevo mundo[defcolor].[delay:30] ¡Huy! Parece que",
+        "[color:yellow]el[defcolor] [color:yellow]camino se bifurca[defcolor].[color:black][pagebreak]",
+        "¡A mí no me preguntes! A fin de",
+        "cuentas, ¡tú eres el capitán![defcolor]"
+      ],
+      "EuSpanish": [
+        "¡Astros a la vista! Hemos llegado a",
+        "un [color:red]nuevo mundo[defcolor]. ¡Huy! Parece que",
+        "[color:yellow]el[defcolor] [color:yellow]camino se bifurca[defcolor].[color:black][pagebreak]",
+        "¡A mí no me preguntes! A fin de",
+        "cuentas, ¡tú eres el capitán![defcolor]"
+      ],
+      "UsFrench": [
+        "Nous avons découvert un [color:red]nouveau",
+        "monde[defcolor]! On dirait que[color:yellow] plusieurs",
+        "chemins s'offrent à nous[defcolor]...[color:black][pagebreak]",
+        "Ne me regarde pas comme ça, c'est",
+        "toi, le capitaine! C'est à toi de faire",
+        "un choix![defcolor]"
+      ],
+      "EuFrench": [
+        "Nous voici dans un [color:red]nouveau monde[defcolor].",
+        "On dirait que [color:yellow]plusieurs itinéraires[defcolor]",
+        "s'offrent à nous, matelot![color:black][pagebreak]",
+        "Heu... Me regarde pas comme ça,",
+        "c'est toi qui diriges ce rafiot![defcolor]"
+      ],
+      "EuGerman": [
+        "Wir haben soeben eine weitere",
+        "[color:red]Welt [color:black]betreten[color:red][defcolor]. Der [color:yellow]Pfad [color:black]scheint",
+        "sich vor uns [color:yellow]zu teilen[defcolor].[color:black][pagebreak]",
+        "Entscheide du, in welche Richtung",
+        "wir schippern sollen. Ein Steuermann",
+        "ist schließlich zum Steuern da![defcolor]"
+      ],
+      "EuItalian": [
+        "Siamo arrivati in un [color:red]nuovo Mondo[defcolor].",
+        "Sembra che più avanti il [color:yellow]percorso",
+        "si divida[defcolor]...[pagebreak]",
+        "Non chiedere a me quale scegliere!",
+        "D'altronde sei tu il Comandante!"
+      ],
+      "EuDutch": [
+        "Wow! [delay:15]An entirely [color:red]new world[defcolor]![delay:30] Looks",
+        "like the [color:yellow]path splits [color:black]up [color:yellow][defcolor]ahead.[color:black][pagebreak]",
+        "Hey, don't look at me! The captain",
+        "makes the choices, am I right?[defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "また[color:red][ruby:新;あたら]しい[ruby:大銀河;ワールド][defcolor]に[color:black]やってきたね",
+        "この[ruby:先;さき]は [color:yellow][ruby:航路;こうろ]が[ruby:分;わ]かれてる[color:black]みたいだ[color:yellow][color:black][pagebreak]",
+        "どっちからいくかは アンタ[ruby:次第;しだい]だ",
+        "まかせたよ [ruby:船長;せんちょう][defcolor]"
+      ],
+      "KrKorean": [
+        "또 [color:red]새로운 월드[defcolor]에 도착했어[color:black]",
+        "이 앞에는 [color:yellow]항로가 갈라져 [color:black]있는 것 같아[color:yellow][color:black][pagebreak]",
+        "어느 쪽부터 갈지는 네 마음이야",
+        "그럼 출발해 볼까, 캡틴?[defcolor]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "又來到[color:red]新大銀河[defcolor][color:black]了！",
+        "前方好像是[color:yellow]分叉路口[color:black]，[color:yellow]  [color:black][pagebreak]",
+        "無論如何都聽你吩咐啦！",
+        "交給你啦！艦長！[defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "WorldMapNewsStartWorld04",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_QUESTION",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "We've sure come a long way, thanks",
+        "to [color:red]your efforts[defcolor]! Let's keep this good",
+        "thing going, am I right?[pagebreak]",
+        "The helm is yours, Captain!"
+      ],
+      "EuEnglish": [
+        "We've sure come a long way, thanks",
+        "to [color:red]your efforts[defcolor]! Let's keep this good",
+        "thing going, am I right?[pagebreak]",
+        "The helm is yours, Captain!"
+      ],
+      "UsSpanish": [
+        "Hemos llegado muy lejos...",
+        "¡Y todo gracias a tu [color:red]esfuerzo[defcolor]![pagebreak]",
+        "Pero no debemos aflojar el paso.",
+        "Si los vientos solares son favorables",
+        "¡hay que aprovecharlos, capitán!"
+      ],
+      "EuSpanish": [
+        "¡Hemos llegado muy lejos gracias",
+        "a tu [color:red]esfuerzo[defcolor]! ¡Sigamos así, capitán!"
+      ],
+      "UsFrench": [
+        "Nous avons fait de grands progrès,",
+        "capitaine! Et tout ça, c'est grâce à",
+        "ton [color:red]travail acharné[defcolor]![pagebreak]",
+        "Continue comme ça, tu as le vent",
+        "dans les voiles!"
+      ],
+      "EuFrench": [
+        "On a déjà fait un sacré bout de",
+        "chemin... Et tout ça grâce à [color:red]tes",
+        "efforts[color:black], petit mousse[color:red][defcolor]![pagebreak]",
+        "Continue de suivre ta bonne étoile,",
+        "hé hé!"
+      ],
+      "EuGerman": [
+        "Wir sind wirklich schon weit",
+        "gekommen... Und das verdanken wir",
+        "nur [color:red]deinen Anstrengungen[defcolor]![pagebreak]",
+        "Übernimm das Ruder und bestimme",
+        "den weiteren Kurs, Steuermann!"
+      ],
+      "EuItalian": [
+        "Abbiamo fatto tanta strada...",
+        "E tutto questo è grazie ai [color:red]tuoi sforzi[defcolor]![pagebreak]",
+        "A te il timone, Comandante!"
+      ],
+      "EuDutch": [
+        "We've sure come a long way, thanks",
+        "to [color:red]your efforts[defcolor]! Let's keep this good",
+        "thing going, am I right?[pagebreak]",
+        "The helm is yours, Captain!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "けっこう[ruby:遠;とお]くまで[ruby:来;き]たねえ・・・・・・",
+        "ここまで[ruby:来;こ]れたのも[color:red]アンタの[ruby:力;ちから][defcolor]だよ[pagebreak]",
+        "ここからも よろしくたのんだよ! [ruby:船長;せんちょう]"
+      ],
+      "KrKorean": [
+        "꽤 멀리까지 왔어……",
+        "여기까지 온 건 모두 [color:red]네 노력 [defcolor]덕분이야[pagebreak]",
+        "앞으로도 잘 부탁해, 캡틴!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "竟然來到這麼遙遠的地方…",
+        "能到這裡都是靠[color:red]你的力量[color:black]，[color:red][defcolor][pagebreak]",
+        "往後還要靠你啊！艦長！"
+      ]
+    }
+  },
+  {
+    "label": "WorldMapNewsStartWorld05_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_NOT_SEEN",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "This place...[delay:15] It looks like it might be",
+        "pretty well protected.[pagebreak]",
+        "I betcha we're moving right in on the",
+        "[color:red]enemy's home base[defcolor]. Whaddya say",
+        "we drop in unannounced?[pagebreak]",
+        "Maybe the baddies will have snacks",
+        "for us when we show up! Har har! [delay:15][pagebreak]",
+        "All right, it's all you, [color:red]Captain[defcolor]!"
+      ],
+      "EuEnglish": [
+        "This place...[delay:15] It looks like it might be",
+        "pretty well protected.[pagebreak]",
+        "I betcha we're moving right in on the",
+        "[color:red]enemy's home base[defcolor]. Whaddya say",
+        "we drop in unannounced?[pagebreak]",
+        "Maybe the baddies will have snacks",
+        "for us when we show up! Har har! [delay:15][pagebreak]",
+        "All right,[color:red] it's all you[defcolor], [color:black]Captain[defcolor]!"
+      ],
+      "UsSpanish": [
+        "Las defensas de este lugar",
+        "son casi inexpugnables.[pagebreak]",
+        "Eso querrá decir que nos acercamos",
+        "a la [color:red]base del enemigo[defcolor].[pagebreak]",
+        "¿Qué te parece si les hacemos una",
+        "visita sorpresa? ¡[color:red]Tú puedes, capitán[defcolor]!"
+      ],
+      "EuSpanish": [
+        "Las defensas de este lugar",
+        "son casi inexpugnables.[pagebreak]",
+        "Eso querrá decir que nos acercamos",
+        "a la [color:red]base del enemigo[defcolor].[pagebreak]",
+        "¿Qué te parece si les hacemos una",
+        "visita sorpresa? ¡[color:red]Tú puedes, capitán[defcolor]!"
+      ],
+      "UsFrench": [
+        "Bateau de bateau... [delay:15]Ce monde grouille",
+        "de monstres![pagebreak]",
+        "Nous sommes probablement près de",
+        "la [color:red]base ennemie[defcolor]. Prêt à leur rendre",
+        "une petite visite surprise? Har, har![pagebreak]",
+        "Vas-y, [color:red]capitaine[defcolor]!"
+      ],
+      "EuFrench": [
+        "Mazette,[delay:15] cet endroit a l'air d'être",
+        "vraiment bien gardé![pagebreak]",
+        "Si tu veux mon avis, matelot, ça veut",
+        "dire qu'on se rapproche du [color:red]quartier",
+        "général de l'ennemi[defcolor].[pagebreak]",
+        "A coup sûr, ces pirates te réservent",
+        "un accueil explosif...[delay:15] [color:red]A toi de jouer[defcolor],",
+        "petit mousse!"
+      ],
+      "EuGerman": [
+        "Oh, dieser Ort sieht aber",
+        "ziemlich gut bewacht aus.[pagebreak]",
+        "Es könnte ein Hinweis darauf",
+        "sein, dass wir uns der [color:red]feindlichen",
+        "Heimatbasis [defcolor]nähern.[pagebreak]",
+        "Die Bösewichte erwarten uns",
+        "mit Sicherheit schon...",
+        "Aber [color:red]du schaffst das[defcolor][color:black], Steuermann[defcolor]!"
+      ],
+      "EuItalian": [
+        "Questo posto sembra ben protetto...[pagebreak]",
+        "Può solo significare che ci stiamo",
+        "avvicinando alla [color:red]base nemica[defcolor].",
+        "Scommetto che ci stanno aspettando![pagebreak]",
+        "Ma [color:red]ce la faremo[color:black], Comandante[color:red][defcolor][color:black]![defcolor]"
+      ],
+      "EuDutch": [
+        "This place...[delay:15] It looks like it might be",
+        "pretty well protected.[pagebreak]",
+        "I betcha we're moving right in on the",
+        "[color:red]enemy's home base[defcolor]. Whaddya say",
+        "we drop in unannounced?[pagebreak]",
+        "Maybe the baddies will have snacks",
+        "for us when we show up! Har har! [delay:15][pagebreak]",
+        "All right,[color:red] it's all you[defcolor], [color:black]Captain[defcolor]!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "…なにやら、 ものものしい[ruby:雰囲気;ふんいき]だねえ[pagebreak]",
+        "ということは、 それだけ",
+        "[color:red][ruby:敵;てき]の[ruby:本陣;ほんじん][defcolor]に[ruby:近;ちか]づいたってことだ[pagebreak]",
+        "[ruby:敵;てき]も[ruby:本気;ほんき]を[ruby:出;だ]してくるだろうが",
+        "[color:red]アンタの[ruby:力;ちから][defcolor]で なんとかしなよ! [ruby:船長;せんちょう]!"
+      ],
+      "KrKorean": [
+        "…어쩐지 으스스해졌는걸[pagebreak]",
+        "그만큼 [color:red]적의 본진[defcolor]에",
+        "다가갔다는 뜻일 거야[pagebreak]",
+        "적도 슬슬 정체를 드러낼 테니까",
+        "[color:red]네 힘[defcolor]으로 잘 해결해 봐, 캡틴!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "…感覺周圍似乎戒備森嚴！[pagebreak]",
+        "也就是很接近[color:red]敵人的大本營[defcolor]，[pagebreak]",
+        "敵人雖也是全力以赴，",
+        "[color:black]但要靠[color:red]你的力量[color:black]擺平一切[defcolor]！艦長！"
+      ]
+    }
+  },
+  {
+    "label": "WorldMapNewsStartWorld06_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_STRONG",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:black]The battle draws near... Do your best!",
+        "[delay:15]And let's get [color:red]him [color:black]this time![defcolor]"
+      ],
+      "EuEnglish": [
+        "[color:black]The battle draws near... Do your best!",
+        "[delay:15]And let's get [color:red]him [color:black]this time![defcolor]"
+      ],
+      "UsSpanish": [
+        "[color:black]¡La batalla definitiva contra el",
+        "[color:red]monstruo [color:black][icon:bowser] está próxima![pagebreak]",
+        "[defcolor][color:black]¡Prepárate![delay:15] ¡Y da tu mejor esfuerzo!",
+        "[color:black]¡No [color:red][color:black]permitiremos[color:red] [color:black]que se salga con",
+        "la suya en esta ocasión![color:black][defcolor]"
+      ],
+      "EuSpanish": [
+        "¡Por fin hemos llegado[color:black]! La batalla",
+        "definitiva contra el [color:red]canalla [color:black]de[color:red] [color:black][icon:bowser]",
+        "está próxima.[pagebreak]",
+        "¡Prepárate y ve a por todas![color:black][delay:15][color:black]",
+        "¡No [color:red][color:black]permitiremos[color:red] [color:black]que se salga con",
+        "la suya en esta ocasión![defcolor]"
+      ],
+      "UsFrench": [
+        "Le combat final approche... F[color:black]ais de",
+        "ton mieux! [color:black][color:black][delay:15][color:black]Nous ne [color:red]le [color:black]laisserons [color:black]pas",
+        "s'échapper, cette fois![defcolor]"
+      ],
+      "EuFrench": [
+        "[color:black]Nous y voilà! Il est temps d'en",
+        "découdre avec [color:red][color:black]ce [color:red]pirate de [color:black][icon:bowser]![pagebreak]",
+        "Prépare-toi à l'abordage, matelot![delay:15]",
+        "Et ne [color:red]lui [color:black]laisse [color:red][color:black]aucune chance de",
+        "s'échapper, cette fois![color:red][color:black][defcolor]"
+      ],
+      "EuGerman": [
+        "[color:black]Wir haben es endlich geschafft!",
+        "Der Kampf mit dem [icon:bowser][color:red] Unhold",
+        "[color:black]steht kurz bevor![pagebreak]",
+        "Sei wachsam! [delay:15]Und gib dein Bestes!",
+        "Diesmal kommt[color:black] er [color:black]uns nicht davon![defcolor]"
+      ],
+      "EuItalian": [
+        "Finalmente siamo qui! Si avvicina il",
+        "momento dello scontro con [color:red]quel",
+        "tipo [defcolor][color:black][icon:bowser][defcolor]![pagebreak]",
+        "Stai in guardia! E dai il meglio di te!",
+        "Non dobbiamo [color:black]lasciarcelo [color:red]scappare[color:black][defcolor],",
+        "stavolta!"
+      ],
+      "EuDutch": [
+        "[color:black]The battle draws near... Do your best!",
+        "[delay:15]And let's get [color:red]him [color:black]this time![defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ついに[ruby:来;き]たよ!",
+        "もうすぐ [color:red][icon:bowser]アイツ[color:black]との[ruby:対決;たいけつ]だね・・・[color:red][defcolor]![pagebreak]",
+        "[ruby:準備;じゅんび]はいいかい! [delay:15][ruby:気張;きば]っていきな!!",
+        "[ruby:今度;こんど]こそ、 [color:red]アイツ[defcolor]を[ruby:逃;のが]さないからね "
+      ],
+      "KrKorean": [
+        "드디어 여기까지 왔어!",
+        "이제 머지않아 [color:red][icon:bowser]녀석[color:black]과 대결하게 돼…![color:red][defcolor][pagebreak]",
+        "준비는 됐어? [delay:15]각오 단단히 해!!",
+        "이번에야말로 [color:red]녀석[defcolor]을 놓치지 말자구!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "終於到了這個時候！",
+        "跟[color:red][icon:bowser]那傢伙[color:black]的決戰也不遠了…[color:red][defcolor]！[pagebreak]",
+        "準備好了沒有?[delay:15]一鼓作氣！",
+        "這次絕不放過[color:red]那傢伙[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "WorldMapNewsStartWorld07",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_STRONG",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Wow! Can ya believe it?![delay:15] This must",
+        "be that [color:red]strange, [defcolor][color:red]legendary world",
+        "[defcolor]we've been hearing rumors about![pagebreak]",
+        "There are even more [icon:star] [color:yellow]Power Stars",
+        "[defcolor]around here![pagebreak]",
+        "So! [color:blue]Let's go get 'em[defcolor], Captain!"
+      ],
+      "EuEnglish": [
+        "Wow! Can ya believe it?![delay:15] This must",
+        "be that [color:red]strange[color:black], [color:red][defcolor][color:red]legendary world",
+        "[defcolor]we've been hearing rumours about![pagebreak]",
+        "There are even more [icon:star] [color:yellow]Power Stars",
+        "[defcolor]around here![pagebreak]",
+        "So! [color:blue]Let's go get 'em[defcolor], Captain!"
+      ],
+      "UsSpanish": [
+        "¡Rayos y centellas! ¡Este debe de ser",
+        "el [color:red]mundo legendario[defcolor] del que tanto",
+        "he oído hablar![pagebreak]",
+        "¡Aquí hay aún más [icon:star]![pagebreak]",
+        "Así que, ¡[color:blue]vamos por ellas[defcolor], capitán!"
+      ],
+      "EuSpanish": [
+        "¡Rayos y centellas! ¡Este debe de ser",
+        "el [color:red]mundo legendario[defcolor] del que tanto",
+        "he oído hablar![pagebreak]",
+        "¡Aquí hay aún más [icon:star]![pagebreak]",
+        "¡[color:blue]A por ellas[defcolor], capitán!"
+      ],
+      "UsFrench": [
+        "Par les profondeurs des océans",
+        "cosmiques![delay:15] Ce doit être le [color:red]légendaire",
+        "Monde spécial[defcolor]!![pagebreak]",
+        "Tu pourras trouver encore plus de",
+        "[color:yellow]super étoiles [icon:star] [defcolor]dans ces galaxies![pagebreak]",
+        "[color:blue]Allons-y[defcolor], capitaine!"
+      ],
+      "EuFrench": [
+        "Alors ça, quelle surprise! Ça ne serait",
+        "pas le fameux [color:red]m[defcolor][color:red][color:red]onde [color:red]légendaire [defcolor]dont",
+        "parlent les marins de l'espace?[pagebreak]",
+        "Y a sûrement un paquet de [icon:star][color:yellow]",
+        "[color:black]à dégoter par ici[color:yellow][defcolor]![pagebreak]",
+        "[color:blue]Allons les chercher[defcolor], matelot!",
+        "Cap sur les galaxies!"
+      ],
+      "EuGerman": [
+        "Was für eine Überraschung![pagebreak]",
+        "Das sieht mir ganz nach der",
+        "berüchtigten [color:red]legendären Welt[defcolor] aus,",
+        "die als verschollen galt!!![pagebreak]",
+        "Anscheinend gibt es hier noch weitere",
+        "versteckte [icon:star] [color:yellow]Power-Sterne[defcolor]![pagebreak]",
+        "Also dann! [color:blue]Begeben wir uns auf die",
+        "Suche[defcolor], Steuermann!"
+      ],
+      "EuItalian": [
+        "Che sorpresa! Questo deve essere",
+        "il [color:red][color:red]Mitico [color:red]Mondo [defcolor]di cui abbiamo tanto",
+        "sentito parlare![pagebreak]",
+        "Ci sono ancor più [color:yellow]Superstelle[defcolor] [icon:star] da",
+        "cercare qui![pagebreak]",
+        "[color:blue]Andiamo a prenderle[defcolor], Comandante!"
+      ],
+      "EuDutch": [
+        "Wow! Can ya believe it?![delay:15] This must",
+        "be that [color:red]strange[color:black], [color:red][defcolor][color:red]legendary world",
+        "[defcolor]we've been hearing rumours about![pagebreak]",
+        "There are even more [icon:star] [color:yellow]Power Stars",
+        "[defcolor]around here![pagebreak]",
+        "So! [color:blue]Let's go get 'em[defcolor], Captain!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "こりゃ [ruby:驚;おどろ]いたね!",
+        "ここは うわさに[ruby:聞;き]く[color:red][ruby:伝説;でんせつ][defcolor][color:red]の[ruby:大銀河;ワールド][color:black]じゃないか[color:red][defcolor]?![pagebreak]",
+        "ここにも まだまだ",
+        "[icon:star][color:yellow]パワースター[defcolor]が あるようだよ![pagebreak]",
+        "さあ![color:blue] [ruby:集;あつ]めにいこう[color:black]じゃないか[color:blue] [defcolor][ruby:船長;せんちょう]! "
+      ],
+      "KrKorean": [
+        "정말 놀라워!",
+        "여긴 소문으로만 듣던 [color:red]전설의 월드[defcolor][color:black]잖아!?[defcolor][pagebreak]",
+        "여기에도 [icon:star][color:yellow]파워스타[defcolor]가",
+        "더 있는 모양이야![pagebreak]",
+        "자! 어서 [color:blue]모으러 가자[color:black], 캡틴![color:blue][defcolor]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "太驚奇啦！",
+        "這就是[color:red]傳說中的大銀河[defcolor][color:black]嗎[defcolor]?![pagebreak]",
+        "這裡還有許多[icon:star][color:yellow]力量星星[defcolor]啊！",
+        "來！[color:blue]去收集[color:black]吧，艦[color:blue][defcolor]長！"
+      ]
+    }
+  },
+  {
+    "label": "WorldMapNewsStartWorld08",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_STRONG",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "AY-O! Did ya see that? Those",
+        "[color:green]Prankster Comets [color:black]were [color:green][defcolor][color:green][color:green]g[color:green]reen[defcolor]![pagebreak]",
+        "That means there are [color:green]Green Stars",
+        "[color:black]around now[color:green][color:black]! [color:green][defcolor][delay:30]Those must be the",
+        "[color:green]cosmic jewels[defcolor] I keep hearing about![pagebreak]",
+        "Those [color:green]Green Stars [color:black]are pretty hard to",
+        "find, so keep your eyes and ears",
+        "peeled![color:green] [defcolor]Take it away, Captain!"
+      ],
+      "EuEnglish": [
+        "AY-O! Did ya see that? Those",
+        "[color:green]Prankster Comets [color:black]were [color:green][defcolor][color:green][color:green]g[color:green]reen[defcolor]![pagebreak]",
+        "That means there are [color:green]Green Stars",
+        "[color:black]around now[color:green][color:black]! [color:green][defcolor][delay:30]Those must be the",
+        "[color:green]cosmic jewels[defcolor] I keep hearing about![pagebreak]",
+        "Those [color:green]Green Stars [color:black]are pretty hard to",
+        "find, so keep your eyes and ears",
+        "peeled![color:green] [defcolor]Take it away, Captain!"
+      ],
+      "UsSpanish": [
+        "Oye, ¿te has fijado? ¡Esos [color:green]Cometas",
+        "Pícaros [color:black]eran [color:green]verdes[defcolor]! ¡Seguro que",
+        "ahora hay [color:green]Estrellas Verdes [defcolor]por ahí![pagebreak]",
+        "Son tan raras que también se las",
+        "conoce como \"[color:green]joyas espaciales[defcolor]\".[pagebreak]",
+        "¡Me temo que no vas a poder",
+        "resistirte a ir en busca de esas",
+        "[color:green]Estrellas Verdes[defcolor], capitán!"
+      ],
+      "EuSpanish": [
+        "Oye, ¿te has fijado? ¡Esos [color:green]Cometas",
+        "Pícaros [color:black]eran [color:green]verdes[defcolor]! ¡Seguro que",
+        "ahora hay [color:green]Estrellas Verdes [defcolor]por ahí![pagebreak]",
+        "Son tan raras que también se las",
+        "conoce como [color:green]joyas cósmicas[defcolor].[pagebreak]",
+        "¡Me temo que no vas a poder",
+        "resistirte a ir en busca de esas",
+        "[color:green]Estrellas Verdes[defcolor], capitán!"
+      ],
+      "UsFrench": [
+        "Bateau de bateau! As-tu vu ça? Ces",
+        "[color:green]comètes blagueuses [color:black]sont [color:green]vertes[defcolor]![pagebreak]",
+        "Elles cachent sûrement des tonnes",
+        "d'[color:green]étoiles vertes[defcolor]! C'est donc ça, les",
+        "« [color:green]émeraudes célestes [defcolor]»! [pagebreak]",
+        "Ces [color:green]étoiles vertes [defcolor]sont difficiles à",
+        "trouver, alors observe bien autour de",
+        "toi et tends l'oreille! Allons-y!"
+      ],
+      "EuFrench": [
+        "Oh! T'as vu ça, matelot? Ces [color:green][color:black][icon:comet]",
+        "[color:green][color:black]étaient [color:green]vertes[defcolor]![pagebreak]",
+        "Je parie que des [color:green]étoiles vertes [color:black][icon:green_comet]",
+        "ont commencé à apparaître",
+        "[color:green][color:black]maintenant![pagebreak]",
+        "C'est sans doute les fameuses",
+        "[color:green]émeraudes [color:black][color:green]célestes [color:black]dont on parle",
+        "tellement[color:green][color:black]![pagebreak]",
+        "T'as envie de partir à leur conquête,",
+        "pas vrai, petit mousse?[color:green][defcolor][pagebreak]",
+        "Les [icon:green_comet] sont bougrement dures à",
+        "trouver, alors ouvre l'œil!"
+      ],
+      "EuGerman": [
+        "Oh, wie interessant!",
+        "Ein [color:green]grüner Schabernack-Komet[defcolor]![pagebreak]",
+        "Weil diese [color:green][icon:green_comet] Grünsterne [defcolor]so selten",
+        "sind, sind sie auch unter dem",
+        "Namen [color:green]Raumphantome[defcolor] bekannt.[pagebreak]",
+        "Jetzt, wo wir sie gesichtet haben,",
+        "willst du sicherlich gleich beginnen,",
+        "die [color:green][icon:green_comet] Grünsterne[defcolor] zu ergattern, oder?[pagebreak]",
+        "Bestimme du den Kurs, Steuermann!"
+      ],
+      "EuItalian": [
+        "Oh, hai visto?! Quelle [color:green]Comete Burlone",
+        "[color:black]erano [color:green]verdi[defcolor][color:black]![defcolor][pagebreak]",
+        "Le [color:green]Stelle Verdi [defcolor][color:black][icon:green_comet] [defcolor]sono così rare",
+        "che talvolta vengono dette [color:green]Miraggi",
+        "dello Spazio[defcolor]![pagebreak]",
+        "So che non riesci a trattenerti e vuoi",
+        "andare a prendere quelle [color:green]Stelle",
+        "Verdi[defcolor][color:black][color:green] [color:black][icon:green_comet]! A te il timone,[defcolor] Comandante!"
+      ],
+      "EuDutch": [
+        "AY-O! Did ya see that? Those",
+        "[color:green]Prankster Comets [color:black]were [color:green][defcolor][color:green][color:green]g[color:green]reen[defcolor]![pagebreak]",
+        "That means there are [color:green]Green Stars",
+        "[color:black]around now[color:green][color:black]! [color:green][defcolor][delay:30]Those must be the",
+        "[color:green]cosmic jewels[defcolor] I keep hearing about![pagebreak]",
+        "Those [color:green]Green Stars [color:black]are pretty hard to",
+        "find, so keep your eyes and ears",
+        "peeled![color:green] [defcolor]Take it away, Captain!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "こりゃ [ruby:驚;おどろ]いたね!",
+        "[color:green][icon:green_comet][ruby:緑色;みどりいろ]のいたずら[ruby:彗星;すいせい][defcolor]かい[pagebreak]",
+        "こいつぁ [color:green][ruby:宇宙;うちゅう]のまぼろし[color:black]と[color:green][defcolor][ruby:呼;よ]ばれる",
+        "[color:green]グリーンスター[color:black]が[color:green] [defcolor]おでましのようだね[pagebreak]",
+        "まあ でも、 ここまできたんだ",
+        "[color:green]グリーンスター[defcolor]も[ruby:探;さが]してみるかい?[pagebreak]",
+        "まかせたよ! [ruby:船長;せんちょう]"
+      ],
+      "KrKorean": [
+        "정말 놀라워!",
+        "[color:green][icon:green_comet]초록색 장난꾸러기 혜성[defcolor]이야![pagebreak]",
+        "[color:green]우주의 환영[defcolor]이라고 불리는",
+        "[color:green]그린스타[defcolor]가 여기까지 오신 모양이야[pagebreak]",
+        "어차피 여기까지 오게 된 거,",
+        "[color:green]그린스타[defcolor]도 찾지 않을래?[pagebreak]",
+        "그럼 부탁해, 캡틴!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "嚇我一跳！",
+        "是[color:green][icon:green_comet]綠色搗蛋彗星[defcolor]嗎?[pagebreak]",
+        "這下子連[color:green]宇宙幻象[defcolor]的",
+        "[color:green]綠星星[color:black]都上場了哦！[color:green][defcolor][pagebreak]",
+        "不過，都到了這裡了，",
+        "找找看[color:green]綠星星[defcolor]吧?[pagebreak]",
+        "一切交給你啦！艦長！"
+      ]
+    }
+  }
+]

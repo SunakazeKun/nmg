@@ -1,0 +1,194 @@
+[
+  {
+    "label": "SupportPlayGuidance_2P",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "P2"
+      ],
+      "EuEnglish": [
+        "P2"
+      ],
+      "UsSpanish": [
+        "J2"
+      ],
+      "EuSpanish": [
+        "J2"
+      ],
+      "UsFrench": [
+        "J2"
+      ],
+      "EuFrench": [
+        "J2"
+      ],
+      "EuGerman": [
+        "SP2"
+      ],
+      "EuItalian": [
+        "G2"
+      ],
+      "EuDutch": [
+        "P2"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "2P"
+      ],
+      "KrKorean": [
+        "2P"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "2P"
+      ]
+    }
+  },
+  {
+    "label": "SupportPlayGuidance_Text",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Aim [color:orange]P2[color:black]'s[color:orange] [defcolor][icon:co_pointer], then press [color:red][icon:a_button][defcolor]! Freeze",
+        "enemies in place with [icon:a_button] [color:black]and [color:red]shake [icon:wiimote]",
+        "to spin[color:black]. Do your best to help out [color:blue]P1[color:black]![defcolor]"
+      ],
+      "EuEnglish": [
+        "Aim [color:orange]P2[color:black]'s[color:orange] [defcolor][icon:co_pointer], then press [color:red][icon:a_button][defcolor]! Freeze",
+        "enemies in place with [icon:a_button] [color:black]and [color:red]shake [icon:wiimote]",
+        "to spin[color:black]. Do your best to help out [color:blue]P1[color:black]![defcolor]"
+      ],
+      "UsSpanish": [
+        "¡[color:orange]J2[color:black], a[color:orange][defcolor]punta con [icon:co_pointer] y oprime [color:red][icon:a_button][defcolor]!",
+        "Detén a los enemigos con [icon:a_button] y [color:red]agita[defcolor]",
+        "el [color:black][color:blue][icon:wiimote] [color:red]para girar[color:blue][color:black]. ¡Así ayudarás al [color:blue]J1[color:black]![defcolor]"
+      ],
+      "EuSpanish": [
+        "¡[color:orange]J2[color:black], a[color:orange][defcolor]punta con [icon:co_pointer] y pulsa [color:red][icon:a_button][defcolor]!",
+        "Detén a los enemigos con [icon:a_button] y [color:red]agita[defcolor]",
+        "el [color:black][color:blue][icon:wiimote] [color:red]para girar[color:blue][color:black]. ¡Así ayudarás al [color:blue]J1[color:black]![defcolor]"
+      ],
+      "UsFrench": [
+        "[color:orange]J2[defcolor], placez votre curseur [icon:co_pointer] sur un",
+        "ennemi et appuyez sur [color:red][icon:a_button][defcolor] pour",
+        "l'empêcher d'avancer. [color:red]Secouez [icon:wiimote]",
+        "pour tourbillonner[defcolor]! Aidez le [color:blue]J1[defcolor]!"
+      ],
+      "EuFrench": [
+        "[color:orange]J2[color:black], pointez à l'aide de[color:orange] [defcolor][icon:co_pointer] et appuyez",
+        "sur [color:red][icon:a_button][defcolor]! Immobilisez les ennemis avec",
+        "[icon:a_button] et [color:black][color:blue][color:red]agitez la [color:blue][icon:wiimote] [color:red][color:black]pour [color:red]tournoyer[color:blue][color:black]!",
+        "Faites de votre mieux pour aider [color:blue]J1[color:black]![color:blue][color:black][defcolor]"
+      ],
+      "EuGerman": [
+        "[color:orange]SP2[color:black]! [color:orange][defcolor][color:black]Ziele mit dem [icon:co_pointer] und drücke [icon:a_button]!",
+        "Stoppe Gegner mit [icon:a_button] [defcolor][color:black][color:black]und [color:black][color:blue][color:red]schüttele[color:black] [color:red][color:blue][color:black]die",
+        "[icon:wiimote] Wii-Fernbedienung, [color:blue][color:red]um dich zu",
+        "drehen[color:blue][color:black][color:black]! Hilf [color:black][color:blue]S[color:black][color:blue][color:blue]P[color:blue]1[color:black], so gut du kannst[color:blue][color:black][color:black]![color:black][defcolor]"
+      ],
+      "EuItalian": [
+        "[color:orange]G2[defcolor], punta[color:orange] [defcolor][icon:co_pointer] [color:black]e premi [icon:a_button]! Ferma i",
+        "[defcolor]nemici con [icon:a_button] [color:black]e [color:blue][color:red]scuoti[color:blue][color:black][color:red] il telecomando",
+        "Wii [color:black][icon:wiimote] per una [color:blue][color:red]piroetta[color:blue][color:black]! Aiuta [color:blue]G1[color:black]![defcolor]"
+      ],
+      "EuDutch": [
+        "Aim [color:orange]P2[color:black]'s[color:orange] [defcolor][icon:co_pointer], then press [color:red][icon:a_button][defcolor]! Freeze",
+        "enemies in place with [icon:a_button] [color:black]and [color:red]shake [icon:wiimote]",
+        "to spin[color:black]. Do your best to help out [color:blue]P1[color:black]![defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:red][color:orange]2P[color:red][color:black]の[color:red][defcolor][icon:co_pointer]で [ruby:色々;いろいろ]ポイントして[color:red][icon:a_button]ボタン[defcolor]!",
+        "[ruby:敵;てき]を[icon:a_button]で[ruby:止;と]めたら [color:red][icon:wiimote]を[ruby:振;ふ]ってスピン[defcolor]!",
+        "[ruby:上手;じょうず]に[color:blue]1P[defcolor]を[ruby:手助;てだす]けしましょう!"
+      ],
+      "KrKorean": [
+        "[color:red][color:orange]2P[color:red][color:black]의 [color:red][defcolor][icon:co_pointer]로 여기저기 포인트하고 [color:red][icon:a_button][defcolor]!",
+        "적을 [icon:a_button]로 정지시키고 [color:red][icon:wiimote]을 휘둘러 스핀[defcolor]!",
+        "열심히 도와 [color:blue]1P[defcolor]의 힘이 되어 주세요!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[color:orange]2P[defcolor]可以如何協助[color:blue]1P[color:black]?[color:blue][defcolor][color:black]",
+        "將[defcolor][color:orange]2P[defcolor][icon:co_pointer]對準目標，",
+        "按[icon:a_button]壓制目標後揮動[color:red][icon:wiimote][color:black]來[color:red]旋轉[defcolor]!"
+      ]
+    }
+  },
+  {
+    "label": "SupportPlayGuidance_Title",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Things you can do in Co-Star Mode"
+      ],
+      "EuEnglish": [
+        "Things you can do in Co-Star Mode"
+      ],
+      "UsSpanish": [
+        "Cómo jugar en modo cooperativo"
+      ],
+      "EuSpanish": [
+        "Cómo jugar con [icon:orange_luma] (J2):"
+      ],
+      "UsFrench": [
+        "Instructions du mode Luma allié [icon:orange_luma]"
+      ],
+      "EuFrench": [
+        "Jeu en coopération"
+      ],
+      "EuGerman": [
+        "Wie das unterstützende Spiel funktioniert"
+      ],
+      "EuItalian": [
+        "Il gioco cooperativo"
+      ],
+      "EuDutch": [
+        "Things you can do in Co-Star Mode"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:orange_luma][ruby:2人協力;ふたりきょうりょく]プレイについて"
+      ],
+      "KrKorean": [
+        "[icon:orange_luma]2인 협력 플레이에 대하여"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "關於雙人協力"
+      ]
+    }
+  }
+]

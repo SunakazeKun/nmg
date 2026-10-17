@@ -1,0 +1,57 @@
+[
+  {
+    "label": "TooBad_TooBad",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "TOO BAD!"
+      ],
+      "EuEnglish": [
+        "TOO BAD!"
+      ],
+      "UsSpanish": [
+        "¡Qué mal!"
+      ],
+      "EuSpanish": [
+        "¡Qué mal!"
+      ],
+      "UsFrench": [
+        "Dommage!"
+      ],
+      "EuFrench": [
+        "Perdu!"
+      ],
+      "EuGerman": [
+        "WIE SCHADE!"
+      ],
+      "EuItalian": [
+        "PECCATO!"
+      ],
+      "EuDutch": [
+        "TOO BAD!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "MISS!"
+      ],
+      "KrKorean": [
+        "MISS!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "MISS!"
+      ]
+    }
+  }
+]

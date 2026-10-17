@@ -1,0 +1,583 @@
+[
+  {
+    "label": "TamakoroTutorial_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_SIGNBOARD_HEY",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Hey, it's me, [color:black]Bill Board[defcolor]! If you want",
+        "to ride on this [color:blue]S[defcolor][color:blue][color:blue]tar Ball[color:blue][color:black], listen up![color:blue][defcolor]"
+      ],
+      "EuEnglish": [
+        "Hey, it's me, [color:black]Bill Board[defcolor]! If you want",
+        "to ride on this [color:blue]S[defcolor][color:blue][color:blue]tar Ball[color:blue][color:black], listen up![color:blue][defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Hola, soy yo, Óscar Tel!",
+        "¡Y si quieres subirte a esa [color:blue]bola[color:black],",
+        "entonces pon atención![color:blue][defcolor]"
+      ],
+      "EuSpanish": [
+        "¡Hola, soy yo, Óscar Tel!",
+        "¡Si quieres subirte a esa [color:blue]bola[color:black],",
+        "presta atención![color:blue][defcolor]"
+      ],
+      "UsFrench": [
+        "Hé! Bien le bonjour! Si vous voulez",
+        "monter sur cette [color:blue]boule étoilée[defcolor],",
+        "écoutez mes conseils!"
+      ],
+      "EuFrench": [
+        "Hé, c'est moi, Panoda Fichage! Si tu",
+        "veux monter sur cette [color:blue]boule étoilée[color:black],",
+        "écoute-moi bien![color:blue][defcolor]"
+      ],
+      "EuGerman": [
+        "Hallo, ich bin es, Schildhilf![delay:30] Wenn du",
+        "auf dieser [color:blue]Sternenkugel[defcolor] balancieren",
+        "möchtest, hör gut zu!"
+      ],
+      "EuItalian": [
+        "Ehi! Sono io, Lello Cartello! Se vuoi",
+        "salire sull'[color:blue]Astrosfera[defcolor], ascolta i miei",
+        "consigli!"
+      ],
+      "EuDutch": [
+        "Hey, it's me, [color:black]Bill Board[defcolor]! If you want",
+        "to ride on this [color:blue]S[defcolor][color:blue][color:blue]tar Ball[color:blue][color:black], listen up![color:blue][defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ヘイヘイ! この[color:blue]タマコロ[defcolor]に[ruby:乗;の]るなら、",
+        "このカン・バーン[ruby:様;さま]の [ruby:話;はなし]を[ruby:聞;き]きな!"
+      ],
+      "KrKorean": [
+        "헤이 헤이! 이 [color:blue]스타볼 [defcolor]위에 오르려면",
+        "나 간・판님의 말씀을 잘 듣도록 해!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "喂！想滾動這[color:blue]星星球[defcolor]，",
+        "就先聽互動告示板大哥我的話啊！"
+      ]
+    }
+  },
+  {
+    "label": "TamakoroTutorial_Flow001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK--first thing you do is jump",
+        "onto the [color:blue]Star Ball[defcolor]."
+      ],
+      "EuEnglish": [
+        "OK - first thing you do is jump",
+        "onto the [color:blue]Star Ball[defcolor]."
+      ],
+      "UsSpanish": [
+        "Bien, lo primero que debes hacer es",
+        "saltar sobre la [color:blue]bola[defcolor]."
+      ],
+      "EuSpanish": [
+        "Bien, lo primero que debes hacer",
+        "es saltar sobre la [color:blue]bola[defcolor]."
+      ],
+      "UsFrench": [
+        "Tout d'abord, vous devez sauter sur",
+        "la [color:blue]boule étoilée[defcolor]."
+      ],
+      "EuFrench": [
+        "Bon, tout d'abord, saute sur cette",
+        "[color:blue]boule étoilée[defcolor]."
+      ],
+      "EuGerman": [
+        "Zuallererst musst du auf",
+        "die [color:blue]Sternenkugel[defcolor] springen."
+      ],
+      "EuItalian": [
+        "Allora, per prima cosa devi saltare",
+        "sull'[color:blue]Astrosfera[defcolor]."
+      ],
+      "EuDutch": [
+        "OK - first thing you do is jump",
+        "onto the [color:blue]Star Ball[defcolor]."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "じゃあ、 まず",
+        "ジャンプして [color:blue]タマコロ[defcolor]に[ruby:乗;の]ってみろ"
+      ],
+      "KrKorean": [
+        "그럼 우선",
+        "점프해서 [color:blue]스타볼 [defcolor]위에 올라타 봐!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "先跳上[color:blue]星星球[defcolor]滾滾看。"
+      ]
+    }
+  },
+  {
+    "label": "TamakoroTutorial_Flow002",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Jump on the [color:blue]Star Ball[defcolor]!"
+      ],
+      "EuEnglish": [
+        "Jump on the [color:blue]Star Ball[defcolor]!"
+      ],
+      "UsSpanish": [
+        "¡Anda! ¡Súbete a esa [color:blue]bola[defcolor]!"
+      ],
+      "EuSpanish": [
+        "¡Súbete a la [color:blue]bola[defcolor]!"
+      ],
+      "UsFrench": [
+        "Montez sur la [color:blue]boule étoilée[defcolor]!"
+      ],
+      "EuFrench": [
+        "Allez! Monte sur la [color:blue]boule étoilée[defcolor]!"
+      ],
+      "EuGerman": [
+        "Rauf auf die",
+        "[color:blue]Sternenkugel[defcolor]!"
+      ],
+      "EuItalian": [
+        "Salta sull'[color:blue]Astrosfera[defcolor]!"
+      ],
+      "EuDutch": [
+        "Jump on the [color:blue]Star Ball[defcolor]!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:blue]タマコロ[defcolor]に[ruby:乗;の]りな!"
+      ],
+      "KrKorean": [
+        "[color:blue]스타볼 [defcolor]위에 올라타 봐!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "給我跳上[color:blue]星星球[defcolor]！"
+      ]
+    }
+  },
+  {
+    "label": "TamakoroTutorial_Flow003",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE_NO_A",
+      "sound_id": "SE_SV_SIGNBOARD_HEY",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "All right--so you made it aboard.",
+        "Now take [icon:wiimote] and [color:red]hold it straight",
+        "up[defcolor][color:black] like this.[defcolor]"
+      ],
+      "EuEnglish": [
+        "All right - so you made it aboard.",
+        "Now take [icon:wiimote] and [color:red]hold it straight",
+        "up[defcolor][color:black] like this.[defcolor]"
+      ],
+      "UsSpanish": [
+        "Muy bien. Ahora, sujeta el [icon:wiimote]",
+        "[color:red]en posición vertical[defcolor][color:black], así.[defcolor]"
+      ],
+      "EuSpanish": [
+        "Muy bien. Ahora, sujeta el [icon:wiimote]",
+        "[color:red]en posición vertical[defcolor][color:black], así.[defcolor]"
+      ],
+      "UsFrench": [
+        "Bon, maintenant que vous êtes bien",
+        "installé, tenez [icon:wiimote] [color:red]à la verticale[defcolor],",
+        "comme ça."
+      ],
+      "EuFrench": [
+        "Très bien, tu es en position. A",
+        "présent, [color:red]tiens la [defcolor][icon:wiimote] [color:blue][color:red]verticalement",
+        "[color:blue][color:black]comme ceci[color:blue][defcolor][color:black].[defcolor]"
+      ],
+      "EuGerman": [
+        "Sehr gut machst du das.",
+        "Halte nun die [icon:wiimote] [color:blue]Wii-Fernbedienung",
+        "[color:red]senkrecht nach oben[color:blue][color:black].[color:blue][defcolor]"
+      ],
+      "EuItalian": [
+        "Bene, ce l'hai fatta! Ora tieni",
+        "il [color:blue]telecomando Wii[defcolor] [icon:wiimote] [color:red]verticale",
+        "[defcolor]come mostrato sullo schermo."
+      ],
+      "EuDutch": [
+        "All right - so you made it aboard.",
+        "Now take [icon:wiimote] and [color:red]hold it straight",
+        "up[defcolor][color:black] like this.[defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "よ～し、 [ruby:乗;の]ったな?",
+        "じゃ [icon:wiimote][color:blue]Wiiリモコン[defcolor]を [color:red]まっすぐ[ruby:上;うえ][defcolor][color:red]に[ruby:立;た]てて[color:black]みろ[color:red][defcolor]"
+      ],
+      "KrKorean": [
+        "잘했어～ 잘 올라탔어! 그럼 [icon:wiimote][color:blue]Wii 리모컨[defcolor]이",
+        "[color:red]위를 향하도록 똑바로 세워 [defcolor][color:black]봐[defcolor]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "好，跳上去了沒有?",
+        "[color:red]直立[defcolor][icon:wiimote][color:blue]Wii遙控器[defcolor][color:black]。[defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "TamakoroTutorial_Flow004",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "That's it! Think of that as [color:red][color:black]your[color:red]",
+        "starting position[defcolor]."
+      ],
+      "EuEnglish": [
+        "That's it! Think of that as [color:red][color:black]your[color:red]",
+        "starting position[defcolor]."
+      ],
+      "UsSpanish": [
+        "¡Así se hace! A esta posición",
+        "la llamaremos [color:red]posición inicial[defcolor]."
+      ],
+      "EuSpanish": [
+        "¡Así se hace! A esta posición",
+        "la llamaremos [color:red]posición inicial[defcolor]."
+      ],
+      "UsFrench": [
+        "Oui, voilà! Cette position est un",
+        "peu comme la [color:red]position neutre[defcolor]."
+      ],
+      "EuFrench": [
+        "Voilà! Considère cette position comme",
+        "[color:red][color:black]la[color:red] position de départ[defcolor]."
+      ],
+      "EuGerman": [
+        "Genau so! Das ist gewissermaßen",
+        "deine [color:red]Ausgangshaltung[defcolor]."
+      ],
+      "EuItalian": [
+        "Bene! Questa è la [color:red]posizione di base[defcolor]."
+      ],
+      "EuDutch": [
+        "That's it! Think of that as [color:red][color:black]your[color:red]",
+        "starting position[defcolor]."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "そう、 それが[color:red][ruby:基本姿勢;きほんしせい][defcolor]だ"
+      ],
+      "KrKorean": [
+        "그래, 그게 바로[color:red] 기본 자세[defcolor]야"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "對，這就是[color:red]基本姿勢[color:black]。[color:red][defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "TamakoroTutorial_Flow005",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "From that starting position, [color:blue]tilt [icon:wiimote]",
+        "[defcolor]to start rolling forward.[pagebreak]",
+        "Use [icon:a_button] to [color:blue]jump[color:black].[color:blue][color:black] You can [color:blue][defcolor]also smoosh",
+        "things that get in your way![pagebreak]",
+        "Enough chatter, though! Go ahead and",
+        "give it a try! You'll get the hang of it!"
+      ],
+      "EuEnglish": [
+        "From that [color:red]starting position[defcolor], [color:blue]tilt [icon:wiimote]",
+        "[defcolor]to start rolling forwards.[pagebreak]",
+        "Use [icon:a_button] to [color:blue]jump[color:black]. You can [color:blue][defcolor]also smoosh",
+        "things that get in your way![pagebreak]",
+        "Enough chatter, though! Go ahead and",
+        "give it a try! You'll get the hang of it!"
+      ],
+      "UsSpanish": [
+        "Desde esta posición [color:red]inicial[defcolor], [color:blue]inclina",
+        "el [color:blue]Wii Remote [color:blue][icon:wiimote] [defcolor]para rodar hacia",
+        "adelante.[pagebreak]",
+        "Oprime [icon:a_button] para [color:blue]saltar[defcolor][color:black]. S[defcolor]i quieres,",
+        "también puedes aplastar a los",
+        "enemigos que se crucen en tu camino.[pagebreak]",
+        "¡Pero basta de charlas! ¡La práctica",
+        "hace al maestro! ¡Verás qué pronto",
+        "aprendes a rodar!"
+      ],
+      "EuSpanish": [
+        "Desde esta posición [color:red]inicial[defcolor], [color:blue]inclina",
+        "[color:black]el[color:blue] [icon:wiimote] [defcolor]para rodar hacia adelante.[pagebreak]",
+        "Pulsa [icon:a_button] para [color:blue]saltar[defcolor][color:black]. S[defcolor]i quieres,",
+        "tambien puedes aplastar a los",
+        "enemigos que se crucen en tu camino.[pagebreak]",
+        "¡Pero basta de cháchara! ¡La práctica",
+        "hace al maestro! ¡Verás qué pronto",
+        "aprendes a rodar!"
+      ],
+      "UsFrench": [
+        "En partant de cette [color:black]position neutre,[defcolor]",
+        "[color:blue]inclinez [defcolor][color:blue][icon:wiimote][defcolor] pour rouler vers l'avant.[pagebreak]",
+        "Vous pouvez appuyer sur [icon:a_button] pour",
+        "[color:blue]sauter[defcolor], et vous pouvez écraser les",
+        "ennemis sur votre chemin![pagebreak]",
+        "Bon, assez discuté! Allez-y, essayez",
+        "de rouler! Vous apprendrez à",
+        "contrôler vos mouvements!"
+      ],
+      "EuFrench": [
+        "[color:red]A partir de cette position[defcolor], [color:blue]incline",
+        "la [icon:wiimote] [defcolor]pour te mettre en mouvement.[pagebreak]",
+        "En appuyant sur [icon:a_button], tu peux [color:blue]sauter[defcolor]",
+        "et écrabouiller les ennemis en chemin![pagebreak]",
+        "Mais assez de blabla! Il est temps de",
+        "passer à la pratique. A toi de jouer!"
+      ],
+      "EuGerman": [
+        "Aus dieser [color:red]neutralen[defcolor] Position [color:blue]neigst",
+        "du [defcolor][color:blue]die[defcolor][color:blue] [icon:wiimote] [color:blue]Wii-Fernbedienung[color:blue][defcolor], um in",
+        "die entsprechende Richtung zu rollen.[pagebreak]",
+        "Drücke [icon:a_button], um zu [color:blue]springen[color:black] und wenn",
+        "dir was [color:blue][color:black]im Wege steht, rolle es platt[color:blue][defcolor]![pagebreak]",
+        "Genug der Worte, Probieren geht",
+        "über Studieren! Glaub mir, du wirst",
+        "dich schon zurechtfinden!"
+      ],
+      "EuItalian": [
+        "Dalla[color:black] [color:red]posizione di base[color:black][defcolor], [color:blue]inclina il",
+        "telecomando Wii [defcolor][color:black][icon:wiimote] [defcolor]per cominciare",
+        "a spostarti rotolando.[pagebreak]",
+        "Puoi usare [icon:a_button] per [color:blue]saltare[color:black].",
+        "Puoi[color:blue][defcolor][color:black] [defcolor]anche schiacciare i nemici",
+        "sul percorso![pagebreak]",
+        "Ma basta con le chiacchiere! Fai una",
+        "prova! Cerca di andare avanti!"
+      ],
+      "EuDutch": [
+        "From that [color:red]starting position[defcolor], [color:blue]tilt [icon:wiimote]",
+        "[defcolor]to start rolling forwards.[pagebreak]",
+        "Use [icon:a_button] to [color:blue]jump[color:black]. You can [color:blue][defcolor]also smoosh",
+        "things that get in your way![pagebreak]",
+        "Enough chatter, though! Go ahead and",
+        "give it a try! You'll get the hang of it!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "その[color:red][color:red][ruby:基本姿勢;きほんしせい][color:red][defcolor]から [icon:wiimote][color:blue]Wiiリモコンを[ruby:傾;かたむ]ける[color:black]と[color:blue][defcolor]",
+        "タマコロを[ruby:転;ころ]がして [ruby:移動;いどう]できるぞ[pagebreak]",
+        "あとは、 [icon:a_button]で [color:blue]ジャンプ[defcolor]!",
+        "ジャマするヤツは ふみつぶせ![pagebreak]",
+        "まぁ、 [ruby:習;なら]うより[ruby:慣;な]れろだ",
+        "それで [ruby:先;さき]まで[ruby:進;すす]んでみな!"
+      ],
+      "KrKorean": [
+        "그 [color:red]기본 자세[defcolor]에서 [icon:wiimote][color:blue]Wii 리모컨을 기울이면[defcolor]",
+        "스타볼을 굴려서 이동할 수 있어[pagebreak]",
+        "그리고 [icon:a_button]를 누르면 [color:blue]점프[defcolor]야!",
+        "방해하는 녀석은 밟아 버려![pagebreak]",
+        "백 번 듣는 것보다 일단 한 번 해 보자",
+        "앞으로 나가 보는 거야!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "以[color:red]基本姿勢[defcolor][color:blue]傾斜[defcolor][icon:wiimote][color:blue]Wii遙控器[defcolor]，",
+        "就能轉動星星球。[pagebreak]",
+        "還有，按[icon:a_button][color:blue]跳躍[defcolor]！",
+        "誰敢擋路就踏平他！[pagebreak]",
+        "總之，先習慣最重要，",
+        "照這方法前進看看！"
+      ]
+    }
+  },
+  {
+    "label": "TamakoroTutorial2nd_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_SIGNBOARD_HEY",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You want me to run through [color:blue]how to",
+        "use the Star Ball [defcolor]again?"
+      ],
+      "EuEnglish": [
+        "You want me to run through [color:blue]how to",
+        "use the Star Ball [defcolor]again?"
+      ],
+      "UsSpanish": [
+        "¿Necesitas que te vuelva a explicar",
+        "[color:blue]cómo usar la bola[defcolor]?"
+      ],
+      "EuSpanish": [
+        "¿Necesitas que te vuelva a explicar",
+        "[color:blue]cómo usar la bola[defcolor]?"
+      ],
+      "UsFrench": [
+        "Voulez-vous que je répète les",
+        "directives sur la façon d'utiliser",
+        "la [color:blue]boule étoilée[defcolor]?"
+      ],
+      "EuFrench": [
+        "Tu veux que je t'explique à nouveau",
+        "comment on utilise la [color:blue]boule étoilée[defcolor]?"
+      ],
+      "EuGerman": [
+        "Soll ich dir erneut erklären, wie [color:blue][color:black]du",
+        "[color:blue]auf der Sternenkugel balancierst[defcolor]?"
+      ],
+      "EuItalian": [
+        "Vuoi che ti spieghi di nuovo [color:blue]come",
+        "usare l'Astrosfera[defcolor]?"
+      ],
+      "EuDutch": [
+        "You want me to run through [color:blue]how to",
+        "use the Star Ball [defcolor]again?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ん? ",
+        "もう[ruby:一度;いちど] [color:blue]タマコロの[ruby:説明;せつめい][defcolor]を [ruby:聞;き]きたいのか?"
+      ],
+      "KrKorean": [
+        "뭐?",
+        "[color:blue]스타볼에 대한 설명[defcolor]을 다시 듣겠다고?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "啊?",
+        "想再聽一次[color:blue]星星球的說明[defcolor]?"
+      ]
+    }
+  },
+  {
+    "label": "TamakoroTutorial2nd_Flow001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NONE",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "All right--get going!"
+      ],
+      "EuEnglish": [
+        "All right - get going!"
+      ],
+      "UsSpanish": [
+        "¡Muy bien, ahora sigue adelante!"
+      ],
+      "EuSpanish": [
+        "Muy bien, ¡entonces sigue adelante!"
+      ],
+      "UsFrench": [
+        "Très bien! Allez-y, amusez-vous!"
+      ],
+      "EuFrench": [
+        "Parfait, à toi de jouer!"
+      ],
+      "EuGerman": [
+        "Gut gerollt ist halb gewonnen!"
+      ],
+      "EuItalian": [
+        "Bene! Allora vai!"
+      ],
+      "EuDutch": [
+        "All right - get going!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "じゃあ、 [ruby:行;い]きな"
+      ],
+      "KrKorean": [
+        "그럼 출발해 봐!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "好了！去吧。"
+      ]
+    }
+  }
+]

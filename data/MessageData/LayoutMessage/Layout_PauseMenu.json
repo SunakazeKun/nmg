@@ -1,0 +1,944 @@
+[
+  {
+    "label": "PauseMenu_BackGame",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Back"
+      ],
+      "EuEnglish": [
+        "Back"
+      ],
+      "UsSpanish": [
+        "Volver"
+      ],
+      "EuSpanish": [
+        "Continuar"
+      ],
+      "UsFrench": [
+        "Reprendre la partie"
+      ],
+      "EuFrench": [
+        "Retour"
+      ],
+      "EuGerman": [
+        "Zurück zum Spiel"
+      ],
+      "EuItalian": [
+        "Indietro"
+      ],
+      "EuDutch": [
+        "Back"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "もどる"
+      ],
+      "KrKorean": [
+        "뒤로"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "返回"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_ButtonBackWorldMap",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Return to Map"
+      ],
+      "EuEnglish": [
+        "Return to Map"
+      ],
+      "UsSpanish": [
+        "Volver al mapa"
+      ],
+      "EuSpanish": [
+        "Volver al mapa"
+      ],
+      "UsFrench": [
+        "Retourner à la carte",
+        "du monde"
+      ],
+      "EuFrench": [
+        "Retourner à la carte"
+      ],
+      "EuGerman": [
+        "Zurück zur",
+        "Galaxienkarte"
+      ],
+      "EuItalian": [
+        "Torna alla Mappa"
+      ],
+      "EuDutch": [
+        "Return to Map"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ワールドマップに[ruby:帰;かえ]る"
+      ],
+      "KrKorean": [
+        "월드 맵으로 돌아가기"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "返回大銀河地圖"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_ButtonEndGame",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Save and Quit"
+      ],
+      "EuEnglish": [
+        "Save and Quit"
+      ],
+      "UsSpanish": [
+        "Terminar la partida"
+      ],
+      "EuSpanish": [
+        "Guardar y salir"
+      ],
+      "UsFrench": [
+        "Sauvegarder",
+        "et quitter"
+      ],
+      "EuFrench": [
+        "Sauvegarder",
+        "et quitter"
+      ],
+      "EuGerman": [
+        "Speichern und Beenden"
+      ],
+      "EuItalian": [
+        "Salva ed esci"
+      ],
+      "EuDutch": [
+        "Save and Quit"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "セーブして やめる"
+      ],
+      "KrKorean": [
+        "저장하고 그만두기"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "儲存後中止遊戲"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_Coin",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:coin][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuEnglish": [
+        "[icon:coin][icon:x_mark][intvar:2;0;0]"
+      ],
+      "UsSpanish": [
+        "[icon:coin][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuSpanish": [
+        "[icon:coin][icon:x_mark][intvar:2;0;0]"
+      ],
+      "UsFrench": [
+        "[icon:coin][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuFrench": [
+        "[icon:coin][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuGerman": [
+        "[icon:coin][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuItalian": [
+        "[icon:coin][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuDutch": [
+        "[icon:coin][icon:x_mark][intvar:2;0;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:coin][icon:x_mark][intvar:2;0;0]"
+      ],
+      "KrKorean": [
+        "[icon:coin][icon:x_mark][intvar:2;0;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:coin][icon:x_mark][intvar:2;0;0]"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_ConfirmBackWorldMap",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Return to the World Map?"
+      ],
+      "EuEnglish": [
+        "Return to the World Map?"
+      ],
+      "UsSpanish": [
+        "¿Quieres volver al mapa galáctico?"
+      ],
+      "EuSpanish": [
+        "¿Quieres volver al mapa?"
+      ],
+      "UsFrench": [
+        "Voulez-vous retourner à la carte du monde?"
+      ],
+      "EuFrench": [
+        "Voulez-vous retourner à la carte?"
+      ],
+      "EuGerman": [
+        "[xcenter]Du kehrst zur Galaxienkarte zurück.",
+        "[xcenter]Ist das in Ordnung?"
+      ],
+      "EuItalian": [
+        "Tornerai alla Mappa. Va bene?"
+      ],
+      "EuDutch": [
+        "Return to the World Map?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ワールドマップに [ruby:帰;かえ]ります",
+        "よろしいですか?"
+      ],
+      "KrKorean": [
+        "월드 맵으로",
+        "돌아가시겠습니까?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "確定要返回大銀河地圖?"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_ConfirmBackWorldMap_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No"
+      ],
+      "EuEnglish": [
+        "No"
+      ],
+      "UsSpanish": [
+        "No"
+      ],
+      "EuSpanish": [
+        "No"
+      ],
+      "UsFrench": [
+        "Non"
+      ],
+      "EuFrench": [
+        "Non"
+      ],
+      "EuGerman": [
+        "Nein"
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "いいえ"
+      ],
+      "KrKorean": [
+        "아니요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_ConfirmBackWorldMap_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK"
+      ],
+      "EuEnglish": [
+        "OK"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui"
+      ],
+      "EuFrench": [
+        "Oui"
+      ],
+      "EuGerman": [
+        "Ja"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "OK"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "OK"
+      ],
+      "KrKorean": [
+        "OK"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "要"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_ConfirmEndGame",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Do you really want to quit?"
+      ],
+      "EuEnglish": [
+        "Do you really want to quit?"
+      ],
+      "UsSpanish": [
+        "¿Seguro que quieres terminar?"
+      ],
+      "EuSpanish": [
+        "¿Seguro que quieres salir?"
+      ],
+      "UsFrench": [
+        "Voulez-vous vraiment quitter?"
+      ],
+      "EuFrench": [
+        "Voulez-vous vraiment quitter la partie?"
+      ],
+      "EuGerman": [
+        "Wirklich beenden?"
+      ],
+      "EuItalian": [
+        "Vuoi davvero uscire?"
+      ],
+      "EuDutch": [
+        "Do you really want to quit?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:本当;ほんとう]にやめますか?"
+      ],
+      "KrKorean": [
+        "정말로 그만두시겠습니까?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "真的要中止?"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_ConfirmEndGame_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No"
+      ],
+      "EuEnglish": [
+        "No"
+      ],
+      "UsSpanish": [
+        "No"
+      ],
+      "EuSpanish": [
+        "No"
+      ],
+      "UsFrench": [
+        "Non"
+      ],
+      "EuFrench": [
+        "Non"
+      ],
+      "EuGerman": [
+        "Nein"
+      ],
+      "EuItalian": [
+        "No"
+      ],
+      "EuDutch": [
+        "No"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "いいえ"
+      ],
+      "KrKorean": [
+        "아니요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_ConfirmEndGame_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK"
+      ],
+      "EuEnglish": [
+        "OK"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui"
+      ],
+      "EuFrench": [
+        "Oui"
+      ],
+      "EuGerman": [
+        "Ja"
+      ],
+      "EuItalian": [
+        "Sì"
+      ],
+      "EuDutch": [
+        "OK"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "OK"
+      ],
+      "KrKorean": [
+        "OK"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "要"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_Mario",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:current_player][icon:x_mark][intvar:1;0;0]"
+      ],
+      "EuEnglish": [
+        "[icon:current_player][icon:x_mark][intvar:1;0;0]"
+      ],
+      "UsSpanish": [
+        "[icon:current_player][icon:x_mark][intvar:1;0;0]"
+      ],
+      "EuSpanish": [
+        "[icon:current_player][icon:x_mark][intvar:1;0;0]"
+      ],
+      "UsFrench": [
+        "[icon:current_player][icon:x_mark][intvar:1;0;0]"
+      ],
+      "EuFrench": [
+        "[icon:current_player][icon:x_mark][intvar:1;0;0]"
+      ],
+      "EuGerman": [
+        "[icon:current_player][icon:x_mark][intvar:1;0;0]"
+      ],
+      "EuItalian": [
+        "[icon:current_player][icon:x_mark][intvar:1;0;0]"
+      ],
+      "EuDutch": [
+        "[icon:current_player][icon:x_mark][intvar:1;0;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:current_player][icon:x_mark][intvar:1;0;0]"
+      ],
+      "KrKorean": [
+        "[icon:current_player][icon:x_mark][intvar:1;0;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:current_player][icon:x_mark][intvar:1;0;0]"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_Medal",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:comet_medal][icon:x_mark][intvar:1;0;0]"
+      ],
+      "EuEnglish": [
+        "[icon:comet_medal][icon:x_mark][intvar:1;0;0]"
+      ],
+      "UsSpanish": [
+        "[icon:comet_medal][icon:x_mark][intvar:1;0;0]"
+      ],
+      "EuSpanish": [
+        "[icon:comet_medal][icon:x_mark][intvar:1;0;0]"
+      ],
+      "UsFrench": [
+        "[icon:comet_medal][icon:x_mark][intvar:1;0;0]"
+      ],
+      "EuFrench": [
+        "[icon:comet_medal][icon:x_mark][intvar:1;0;0]"
+      ],
+      "EuGerman": [
+        "[icon:comet_medal][icon:x_mark][intvar:1;0;0]"
+      ],
+      "EuItalian": [
+        "[icon:comet_medal][icon:x_mark][intvar:1;0;0]"
+      ],
+      "EuDutch": [
+        "[icon:comet_medal][icon:x_mark][intvar:1;0;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:comet_medal][icon:x_mark][intvar:1;0;0]"
+      ],
+      "KrKorean": [
+        "[icon:comet_medal][icon:x_mark][intvar:1;0;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:comet_medal][icon:x_mark][intvar:1;0;0]"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_Piece",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:purple_starbit][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuEnglish": [
+        "[icon:purple_starbit][icon:x_mark][intvar:2;0;0]"
+      ],
+      "UsSpanish": [
+        "[icon:purple_starbit][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuSpanish": [
+        "[icon:purple_starbit][icon:x_mark][intvar:2;0;0]"
+      ],
+      "UsFrench": [
+        "[icon:purple_starbit][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuFrench": [
+        "[icon:purple_starbit][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuGerman": [
+        "[icon:purple_starbit][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuItalian": [
+        "[icon:purple_starbit][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuDutch": [
+        "[icon:purple_starbit][icon:x_mark][intvar:2;0;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:purple_starbit][icon:x_mark][intvar:2;0;0]"
+      ],
+      "KrKorean": [
+        "[icon:purple_starbit][icon:x_mark][intvar:2;0;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:purple_starbit][icon:x_mark][intvar:2;0;0]"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_Star",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuEnglish": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "UsSpanish": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuSpanish": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "UsFrench": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuFrench": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuGerman": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuItalian": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuDutch": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "KrKorean": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:star][icon:x_mark][intvar:2;0;0]"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_StarList",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Star List"
+      ],
+      "EuEnglish": [
+        "Star List"
+      ],
+      "UsSpanish": [
+        "Lista de estrellas"
+      ],
+      "EuSpanish": [
+        "Lista de estrellas"
+      ],
+      "UsFrench": [
+        "Liste des étoiles"
+      ],
+      "EuFrench": [
+        "Liste des étoiles"
+      ],
+      "EuGerman": [
+        "Sternenliste"
+      ],
+      "EuItalian": [
+        "Lista Stellare"
+      ],
+      "EuDutch": [
+        "Star List"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "スターリスト"
+      ],
+      "KrKorean": [
+        "스타리스트"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "星星一覽表"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_TotalCoin",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:coins][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuEnglish": [
+        "[icon:coins][icon:x_mark][intvar:3;0;0]"
+      ],
+      "UsSpanish": [
+        "[icon:coins][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuSpanish": [
+        "[icon:coins][icon:x_mark][intvar:3;0;0]"
+      ],
+      "UsFrench": [
+        "[icon:coins][icon:x_mark][intvar:2;0;0]"
+      ],
+      "EuFrench": [
+        "[icon:coins][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuGerman": [
+        "[icon:coins][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuItalian": [
+        "[icon:coins][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuDutch": [
+        "[icon:coins][icon:x_mark][intvar:3;0;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:coins][icon:x_mark][intvar:3;0;0]"
+      ],
+      "KrKorean": [
+        "[icon:coins][icon:x_mark][intvar:3;0;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:coins][icon:x_mark][intvar:3;0;0]"
+      ]
+    }
+  },
+  {
+    "label": "PauseMenu_TotalPiece",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuEnglish": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "UsSpanish": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuSpanish": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "UsFrench": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuFrench": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuGerman": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuItalian": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "EuDutch": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "KrKorean": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
+      ]
+    }
+  }
+]

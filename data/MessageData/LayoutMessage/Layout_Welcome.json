@@ -1,0 +1,59 @@
+[
+  {
+    "label": "Welcome_Welcome",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Welcome to the Galaxy!"
+      ],
+      "EuEnglish": [
+        "Welcome to the Galaxy!"
+      ],
+      "UsSpanish": [
+        "¡Bienvenido!"
+      ],
+      "EuSpanish": [
+        "¡Bienvenido!"
+      ],
+      "UsFrench": [
+        "Bienvenue dans",
+        "la galaxie!"
+      ],
+      "EuFrench": [
+        "Bienvenue",
+        "dans la galaxie!"
+      ],
+      "EuGerman": [
+        "Willkommen in der Galaxie!"
+      ],
+      "EuItalian": [
+        "Benvenuti in questa Galassia!"
+      ],
+      "EuDutch": [
+        "Welcome to the Galaxy!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "Welcome to the Galaxy !"
+      ],
+      "KrKorean": [
+        "Welcome to the Galaxy!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "Welcome to the Galaxy !"
+      ]
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "label": "BackButton_Back",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:b_button] Back"
+      ],
+      "EuEnglish": [
+        "[icon:b_button] Back"
+      ],
+      "UsSpanish": [
+        "[icon:b_button] Volver"
+      ],
+      "EuSpanish": [
+        "[icon:b_button] Volver"
+      ],
+      "UsFrench": [
+        "[icon:b_button] Retour"
+      ],
+      "EuFrench": [
+        "[icon:b_button] Retour"
+      ],
+      "EuGerman": [
+        "[icon:b_button] Zurück"
+      ],
+      "EuItalian": [
+        "[icon:b_button] Indietro"
+      ],
+      "EuDutch": [
+        "[icon:b_button] Back"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:b_button]もどる"
+      ],
+      "KrKorean": [
+        "[icon:b_button]뒤로"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:b_button]返回"
+      ]
+    }
+  }
+]

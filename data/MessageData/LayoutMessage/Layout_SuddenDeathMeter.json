@@ -1,0 +1,57 @@
+[
+  {
+    "label": "SuddenDeathMeter_Life",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "LIFE"
+      ],
+      "EuEnglish": [
+        "LIFE"
+      ],
+      "UsSpanish": [
+        "ENERGÍA"
+      ],
+      "EuSpanish": [
+        "ENERGÍA"
+      ],
+      "UsFrench": [
+        "ÉNERGIE"
+      ],
+      "EuFrench": [
+        "Energie"
+      ],
+      "EuGerman": [
+        "KRAFT"
+      ],
+      "EuItalian": [
+        "ENERGIA"
+      ],
+      "EuDutch": [
+        "LIFE"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "LIFE"
+      ],
+      "KrKorean": [
+        "LIFE"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "LIFE"
+      ]
+    }
+  }
+]

@@ -1,0 +1,3313 @@
+[
+  {
+    "label": "Meister_NormalTalkWorld1_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_STRONG",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "OK! First things first! If ya wanna",
+        "fly, ya gotta learn how to steer! Grab",
+        "the helm and give her a spin!"
+      ],
+      "EuEnglish": [
+        "OK! First things first! If ya wanna",
+        "fly, ya gotta learn how to steer! Grab",
+        "the helm and give her a spin!"
+      ],
+      "UsSpanish": [
+        "¡Bien! Primero tienes que aprender",
+        "a navegar. ¡Agarra el timón a ver",
+        "qué tal te defiendes!"
+      ],
+      "EuSpanish": [
+        "¡Bien! Primero tienes que aprender",
+        "a navegar. ¡Agarra el timón a ver",
+        "qué tal te defiendes!"
+      ],
+      "UsFrench": [
+        "Installe-toi derrière la barre",
+        "et explore un peu, matelot!"
+      ],
+      "EuFrench": [
+        "Bon, les bases avant tout!",
+        "Sers-toi de la roue du gouvernail",
+        "pour diriger ce vaisseau!"
+      ],
+      "EuGerman": [
+        "Beginnen wir mit dem Wichtigsten!",
+        "Du musst lernen, wie du",
+        "das Schiff steuerst![pagebreak]",
+        "Lege beide Hände ans Steuerrad und",
+        "schon schippert der Kahn sanft",
+        "durchs All! Probier's mal aus!"
+      ],
+      "EuItalian": [
+        "Dunque, la prima cosa da imparare è",
+        "come comandare quest'astronave!",
+        "Afferra il timone e prova!"
+      ],
+      "EuDutch": [
+        "OK! First things first! If ya wanna",
+        "fly, ya gotta learn how to steer! Grab",
+        "the helm and give her a spin!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "まずは[ruby:体;からだ]で、 この[ruby:船;ふね]の[ruby:操縦;そうじゅう]を[ruby:覚;おぼ]えな!"
+      ],
+      "KrKorean": [
+        "우선 몸으로 이 우주선의 조종법을",
+        "익히도록 해!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "首先要學會如何操作這艘船！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_NormalTalkWorld1_Flow001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_STRONG",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Gettin' used to handling the ship?",
+        "Pretty smooth, am I right?"
+      ],
+      "EuEnglish": [
+        "Gettin' used to handling the ship?",
+        "Pretty smooth, am I right?"
+      ],
+      "UsSpanish": [
+        "¿Te vas adaptando a los controles",
+        "de la nave? No es difícil, ¿verdad?"
+      ],
+      "EuSpanish": [
+        "Vas pillándole el tranquillo a controlar",
+        "la astronave, ¿eh? ¿A que mola?"
+      ],
+      "UsFrench": [
+        "Commences-tu à avoir le pied marin,",
+        "matelot? Te sens-tu plus à l'aise avec",
+        "les commandes du vaisseau?"
+      ],
+      "EuFrench": [
+        "Alors, petit gars! Le vaisseau obéit",
+        "au doigt et à l'œil, pas vrai, matelot?"
+      ],
+      "EuGerman": [
+        "Hast du dich an die Steuerung des",
+        "Raumschiffs gewöhnt? Klappt prima",
+        "nach etwas Einarbeitungszeit, nicht?"
+      ],
+      "EuItalian": [
+        "Ci stai prendendo la mano col timone,",
+        "eh? Non è poi così difficile, vero?"
+      ],
+      "EuDutch": [
+        "Gettin' used to handling the ship?",
+        "Pretty smooth, am I right?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "この[ruby:船;ふね]のあつかいには[ruby:慣;な]れたかい?",
+        "[ruby:筋;すじ]は[ruby:悪;わる]くないようだね"
+      ],
+      "KrKorean": [
+        "이 우주선을 이젠 좀 다룰 만해?",
+        "소질은 있어 보이는군"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "習慣如何操縱了嗎?",
+        "看你蠻有潛力的嘛！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_NormalTalkWorld2_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_BAD",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "There's a lotta [icon:hungry_luma] [color:red]Hungry Lumas [defcolor]out",
+        "there in space.[pagebreak]",
+        "Those guys have [color:red]huge appetites[defcolor], so",
+        "try to collect as many [color:blue][icon:purple_starbit] Star Bits [color:black]as",
+        "you can[color:blue][defcolor]! You're gonna need 'em!"
+      ],
+      "EuEnglish": [
+        "There's a lotta [icon:hungry_luma] [color:red]Hungry Lumas [defcolor]out",
+        "there in space.[pagebreak]",
+        "Those guys have [color:red]huge appetites[defcolor], so",
+        "try to collect as many [color:blue][icon:purple_starbit] Star Bits [color:black]as",
+        "you can[color:blue][defcolor]! You're gonna need 'em!"
+      ],
+      "UsSpanish": [
+        "Hay muchos [color:red]destellos glotones [defcolor][icon:hungry_luma]",
+        "repartidos por el universo.[pagebreak]",
+        "Todos tienen un [color:red]hambre voraz[defcolor].",
+        "¡Así que intenta conseguir todos los",
+        "[color:blue]trozos de estrella [defcolor][icon:purple_starbit][color:blue] [color:black]que puedas![color:blue][defcolor]"
+      ],
+      "EuSpanish": [
+        "Hay un montón de [icon:hungry_luma] por el espacio.",
+        "Si algo tienen en común, es que todos",
+        "ellos tienen un [color:red]hambre voraz[defcolor].[pagebreak]",
+        "¡Intenta conseguir todos los [icon:purple_starbit]",
+        "[color:black]que puedas de antemano![defcolor]"
+      ],
+      "UsFrench": [
+        "L'espace est rempli de [color:red]Luma",
+        "Gourmandes [defcolor][icon:hungry_luma]. Elles ont un [color:red]appétit",
+        "féroce[defcolor], et c'est peu dire...[pagebreak]",
+        "Assure-toi de ramasser le plus",
+        "[color:blue]d'éclats d'étoile [defcolor][icon:purple_starbit] que tu peux, au",
+        "cas où tu en rencontrerais une!"
+      ],
+      "EuFrench": [
+        "Le cosmos est rempli de",
+        "[color:red]goinfres Luma[defcolor] [icon:hungry_luma].[pagebreak]",
+        "Ils ont l'[color:red]estomac[defcolor] [color:red]gros comme ce",
+        "vaisseau[defcolor], alors tâche d'avoir un",
+        "paquet de [color:blue][icon:purple_starbit][defcolor] sur toi!"
+      ],
+      "EuGerman": [
+        "Im Weltall gibt es eine Menge",
+        "[icon:hungry_luma] [color:red]Gourmet-Luma[defcolor].[pagebreak]",
+        "Sie zeichnen sich durch ihren [color:red]enormen[defcolor]",
+        "[color:red]Kohldampf[defcolor] aus, sammele also so viele",
+        "[icon:purple_starbit] [color:blue][color:purple]Sternenteile[color:blue][color:black],[color:blue] [color:black]wie du kannst[color:blue][defcolor]!"
+      ],
+      "EuItalian": [
+        "Ci sono molti [color:red]Sfavillotti Ghiotti [defcolor][icon:hungry_luma] là",
+        "fuori, nello spazio.[pagebreak]",
+        "Hanno un appetito incredibile, perciò",
+        "cerca di raccogliere tante",
+        "[color:blue]Astroschegge[defcolor] [icon:purple_starbit]! Ti serviranno!"
+      ],
+      "EuDutch": [
+        "There's a lotta [icon:hungry_luma] [color:red]Hungry Lumas [defcolor]out",
+        "there in space.[pagebreak]",
+        "Those guys have [color:red]huge appetites[defcolor], so",
+        "try to collect as many [color:blue][icon:purple_starbit] Star Bits [color:black]as",
+        "you can[color:blue][defcolor]! You're gonna need 'em!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:宇宙;うちゅう]にはたくさんの",
+        "[icon:hungry_luma][color:red]ハラペコチコ[defcolor]がいるのさ[pagebreak]",
+        "あいつらは [color:red][ruby:大食;おおぐ]いなヤツ[defcolor][color:red]ら[defcolor]ばっかりだから",
+        "[icon:purple_starbit][color:blue]スターピース[color:black]は[color:blue][defcolor][ruby:普段;ふだん]から[ruby:集;あつ]めときな"
+      ],
+      "KrKorean": [
+        "우주에는 수없이 많은",
+        "[icon:hungry_luma][color:red]꼬르륵치코[defcolor]가 있어[pagebreak]",
+        "그 녀석들은 하나같이 [color:red]대식가[defcolor]니까",
+        "평소에 [icon:purple_starbit][color:blue]스타구슬[defcolor]을 모아 두도록 해"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "宇宙裡有許多的[icon:hungry_luma][color:red]貪吃奇可[color:black]。[color:red][defcolor][pagebreak]",
+        "他們都是[color:red]大[defcolor][color:red]胃王[color:black]，[color:red][defcolor][color:black]",
+        "[defcolor]平時就要記得收集[icon:purple_starbit][color:blue]星塵[color:black]啊[color:blue][color:black]。[color:blue][defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "Meister_NormalTalkWorld2_Flow001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_QUESTION",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Say, you been collecting [icon:coin] [color:red]coins[defcolor]?[pagebreak]",
+        "I really like [color:yellow][icon:coin] coins[defcolor]. I just love that",
+        "noise they make... That [sound:SE_SY_COIN][color:yellow]BA-DINGG[defcolor]!",
+        "Har har! I can't get enough![pagebreak]",
+        "Tell ya what--I'll give you a [icon:one_up_mushroom] [color:green]1-Up",
+        "[defcolor]for every [color:red]100 [defcolor]coins you collect. So",
+        "bring me as many as you can find!"
+      ],
+      "EuEnglish": [
+        "Say, you been collecting [icon:coin] [color:red]coins[defcolor]?[pagebreak]",
+        "I really like [color:yellow][icon:coin] coins[defcolor]. I just love that",
+        "noise they make... That [sound:SE_SY_COIN][color:yellow]BA-DINGG[defcolor]!",
+        "Har har! I can't get enough![pagebreak]",
+        "Tell ya what - I'll give you a [icon:one_up_mushroom] [color:green]1-Up",
+        "[defcolor]for every [color:red]100 [defcolor]coins you collect. So",
+        "bring me as many as you can find!"
+      ],
+      "UsSpanish": [
+        "¿Conseguiste algunas [color:red]monedas[defcolor] [icon:coin]?[pagebreak]",
+        "Me encantan las [color:yellow]monedas[defcolor] [color:yellow][icon:coin] [defcolor]y adoro",
+        "el [color:yellow]tintineo[defcolor][sound:SE_SY_COIN] tan especial que hacen.[color:black]..[defcolor]",
+        "¡Aaaah! ¡Me encantaaaaaaan![pagebreak]",
+        "Hum... Te propongo un trato: por cada",
+        "[color:red]100 [defcolor][icon:coin] que consigas, te daré [color:green]1[defcolor] [icon:one_up_mushroom].",
+        "¡Consigue tantas como puedas!"
+      ],
+      "EuSpanish": [
+        "¿Has conseguido ya unas cuantas [icon:coin]?[pagebreak]",
+        "¡A mí me encantan! Adoro el [color:yellow]tintineo[defcolor][sound:SE_SY_COIN]",
+        "tan especial que hacen las [color:yellow][icon:coin][color:black]...[color:yellow][defcolor]",
+        "¡Aaaah! ¡Cómo me gusta![pagebreak]",
+        "Hum... Te propongo un trato: por cada",
+        "[color:red]100 [defcolor][icon:coin] que consigas, te daré [color:green]un[defcolor] [icon:one_up_mushroom].",
+        "¡Consigue tantas como puedas!"
+      ],
+      "UsFrench": [
+        "Hé, matelot, tu ramasses beaucoup",
+        "de [color:red]pièces [defcolor][icon:coin] durant tes aventures,",
+        "non?[pagebreak]",
+        "J'adore les pièces, surtout le son",
+        "qu'elles font... [sound:SE_SY_COIN][color:yellow]BA-DING[defcolor]! Har, har![pagebreak]",
+        "Je vais te donner un [color:green]champignon[defcolor]",
+        "[color:green]1UP[defcolor] [icon:one_up_mushroom] pour chaque [color:red]100 [defcolor]pièces que",
+        "tu ramasses. Trouves-en des tonnes!"
+      ],
+      "EuFrench": [
+        "Alors gamin, il paraît que tu as",
+        "ramassé des [icon:coin]...[pagebreak]",
+        "J'adore le bruit des [color:yellow][icon:coin] [defcolor]dans les",
+        "poches de mon caleçon... [sound:SE_SY_COIN][color:yellow]Cliinnng[defcolor]!",
+        "Arf! Je ne m'en lasserai jamais![pagebreak]",
+        "Et tu sais quoi? A chaque fois que",
+        "tu en apporteras [color:red]100 [defcolor]à ce bon vieux",
+        "Lubba, il te donnera un [icon:one_up_mushroom]."
+      ],
+      "EuGerman": [
+        "Du bist fleißig dabei, [icon:coin] [color:red][color:yellow]Münzen[color:red]",
+        "[defcolor]zu sammeln, seh ich das richtig?[pagebreak]",
+        "Ich liebe [color:yellow][icon:coin] Münzen[defcolor]. Dieses Geräusch,",
+        "das sie machen... [sound:SE_SY_COIN][color:yellow]BA-DING[defcolor]!",
+        "Hahaha! Davon krieg ich nicht genug![pagebreak]",
+        "Für je [color:red]100[defcolor] [icon:coin] [color:yellow]Münzen[defcolor], die du mir",
+        "bringst, gebe ich dir ein [icon:one_up_mushroom] [color:green]1-UP[color:black],",
+        "sammele also so viele wie möglich![color:green][defcolor]"
+      ],
+      "EuItalian": [
+        "Dimmi, raccogli le [color:red]Monete[defcolor] [icon:coin]?[pagebreak]",
+        "Io adoro le [color:yellow]Monete[defcolor] [color:black][icon:coin], [defcolor]soprattutto",
+        "per il tintinnio che fanno... [sound:SE_SY_COIN][color:black][color:yellow]DIIING[color:black]![defcolor]",
+        "Ah... Come mi piacciono![pagebreak]",
+        "Ho un'idea! Facciamo uno scambio! ",
+        "Ti darò [color:green]1 Fungo 1-Up [defcolor][color:black][icon:one_up_mushroom] per ogni [color:red]100[color:black]",
+        "[defcolor][color:yellow]Monete[defcolor] [color:black][icon:coin][defcolor] che mi porti! Ci stai?"
+      ],
+      "EuDutch": [
+        "Say, you been collecting [icon:coin] [color:red]coins[defcolor]?[pagebreak]",
+        "I really like [color:yellow][icon:coin] coins[defcolor]. I just love that",
+        "noise they make... That [sound:SE_SY_COIN][color:yellow]BA-DINGG[defcolor]!",
+        "Har har! I can't get enough![pagebreak]",
+        "Tell ya what - I'll give you a [icon:one_up_mushroom] [color:green]1-Up",
+        "[defcolor]for every [color:red]100 [defcolor]coins you collect. So",
+        "bring me as many as you can find!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ちなみに [icon:coin][color:red]コイン[defcolor]は[ruby:集;あつ]めているかい?[pagebreak]",
+        "わたしは[color:yellow][icon:coin]コイン[defcolor]が[ruby:好;す]きでねえ",
+        "あの[sound:SE_SY_COIN][color:yellow]コィ～ン[defcolor]って[ruby:音;おと]が たまらないのさ[pagebreak]",
+        "[color:red]100[ruby:枚;まい][defcolor]たまるたびに [icon:one_up_mushroom][color:green]1UPキノコ[defcolor]あげるから",
+        "せっせと [ruby:持;も]って[ruby:帰;かえ]ってきておくれ!"
+      ],
+      "KrKorean": [
+        "그리고 또 하나, [icon:coin][color:red]코인[defcolor]은 모으고 있어?[pagebreak]",
+        "난 [color:yellow][icon:coin]코인[defcolor]을 좋아하는데",
+        "그 [sound:SE_SY_COIN][color:yellow]코이～잉 [defcolor]하는 소리가 너무 좋아[pagebreak]",
+        "[color:red]100개 [defcolor]모을 때마다 [icon:one_up_mushroom][color:green]1UP버섯[defcolor]을 줄 테니까",
+        "부지런히 가져오도록 해!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "問一下[color:black]，[defcolor]你在收集[icon:coin][color:red]金幣[defcolor]嗎?[pagebreak]",
+        "我最愛[color:yellow][icon:coin]金幣[color:black]了！[color:yellow][defcolor][color:black]",
+        "真愛那聲[defcolor][sound:SE_SY_COIN][color:yellow]叮～[defcolor]！[pagebreak]",
+        "每集滿[color:red]100枚[defcolor]就給你[icon:one_up_mushroom][color:green]1UP蘑菇[color:black]，",
+        "[color:green][defcolor]趕快去幫我收集吧！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_NormalTalkWorld3_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_QUESTION",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Ya gettin' used to the helm?[pagebreak]",
+        "Don't get too comfortable! We're",
+        "[color:blue]responsible[defcolor][color:blue] for everybody's safety[defcolor]!",
+        "So stay sharp out there, Captain!"
+      ],
+      "EuEnglish": [
+        "Ya gettin' used to the helm?[pagebreak]",
+        "Don't get too comfortable! We're",
+        "[color:blue]responsible[defcolor][color:blue] for everybody's safety[defcolor]!",
+        "So stay sharp out there, Captain!"
+      ],
+      "UsSpanish": [
+        "¿Te vas adaptando a los controles",
+        "de la astronave?[pagebreak]",
+        "¡Pues no te relajes mucho! ¡[color:blue]Siempre",
+        "debes tener presente la seguridad",
+        "de tus pasajeros[defcolor]! ¡No te distraigas!"
+      ],
+      "EuSpanish": [
+        "Le estás cogiendo el gustillo a",
+        "navegar con la astronave, ¿eh?[pagebreak]",
+        "¡Pues no te relajes! Debes [color:blue]velar por",
+        "la seguridad de toda la tripulación[defcolor].",
+        "¡Así que estate muy atento, capitán!"
+      ],
+      "UsFrench": [
+        "Hé, matelot, tu es de plus en plus",
+        "confortable sur le vaisseau! C'est",
+        "très bien...[pagebreak]",
+        "Mais ne baisse pas la garde! Tu dois",
+        "[color:blue]toujours t'assurer que ton équipage",
+        "est en sécurité[defcolor], capitaine!"
+      ],
+      "EuFrench": [
+        "Alors, tu te fais aux commandes du",
+        "vaisseau, mon gars?[pagebreak]",
+        "Oui, bah... Inutile de t'endormir sur",
+        "tes lauriers, la [color:blue]sécurité de tout",
+        "l'équipage en dépend[defcolor]!"
+      ],
+      "EuGerman": [
+        "Hast du dich schon gut an das",
+        "Verhalten des Raumschiffs im",
+        "Sternenmeer gewöhnt?[pagebreak]",
+        "Werde ja nicht leichtsinnig!",
+        "Wir [color:blue]alle vertrauen auf die",
+        "Flugkünste des Steuermanns[color:black]![pagebreak]",
+        "Immerhin sind n[color:blue][defcolor]icht alle Passagiere",
+        "so schwindelfrei wie du und ich!"
+      ],
+      "EuItalian": [
+        "Ci stai prendendo la mano col timone,",
+        "eh?[pagebreak]",
+        "Ma non mostrare eccessiva",
+        "sicurezza e [color:blue]mantieni l'attenzione",
+        "[defcolor]costante!"
+      ],
+      "EuDutch": [
+        "Ya gettin' used to the helm?[pagebreak]",
+        "Don't get too comfortable! We're",
+        "[color:blue]responsible[defcolor][color:blue] for everybody's safety[defcolor]!",
+        "So stay sharp out there, Captain!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "この[ruby:船;ふね]の[ruby:操縦;そうじゅう]には もう[ruby:慣;な]れたかい?[pagebreak]",
+        "でもね、 [ruby:慣;な]れてきたときこそ [color:blue][ruby:注意;ちゅうい]が[ruby:必要;ひつよう][defcolor]だよ!",
+        "[ruby:気;き]を[ruby:引;ひ]き[ruby:締;し]めな!"
+      ],
+      "KrKorean": [
+        "이 우주선은 이제 잘 조종할 수 있지?[pagebreak]",
+        "하지만 익숙해질 만할 때 [color:blue]조심[defcolor]해야 돼!",
+        "방심하지 마!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "習慣如何操縱這艘船了吧?[pagebreak]",
+        "但是習慣之後就應該[color:blue]更加[defcolor][color:blue]謹慎[defcolor]！",
+        "集中精神！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_NormalTalkWorld3_Flow001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_BAD",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:black][color:red]Your special one[color:black] is the [color:blue]princess of",
+        "the Mushroom Kingdom[color:black], am I right?[pagebreak]",
+        "I hope she's OK...[delay:15]",
+        "We're counting on you, Captain.[defcolor]"
+      ],
+      "EuEnglish": [
+        "[color:black][color:red]Your special one[color:black] is the [color:blue]princess of",
+        "the Mushroom Kingdom[color:black], am I right?[pagebreak]",
+        "I hope she's OK...[delay:15]",
+        "We're counting on you, Captain.[defcolor]"
+      ],
+      "UsSpanish": [
+        "[color:black][color:red]Tu ser querido[color:black] es la [color:blue]princesa del",
+        "Reino Champiñón[color:black], ¿verdad?[pagebreak]",
+        "Espero que no le haya pasado nada...[delay:15]",
+        "Contamos contigo, capitán.[defcolor]"
+      ],
+      "EuSpanish": [
+        "[color:black][color:red]A quien quieres salvar[color:black] es a la",
+        "[color:blue]princesa del Reino Champiñón[color:black], ¿no?[pagebreak]",
+        "Espero que no le haya pasado nada...[delay:15]",
+        "Contamos contigo, capitán.[defcolor]"
+      ],
+      "UsFrench": [
+        "Ta [color:red]bien-aimée [defcolor]est la [color:blue]princesse du",
+        "Royaume Champignon[defcolor], non?[color:black][pagebreak]",
+        "J'espère qu'elle va bien...[defcolor][color:black][delay:15] Nous",
+        "comptons tous sur toi, capitaine![defcolor]"
+      ],
+      "EuFrench": [
+        "[color:black][color:red]Ton amie[color:black],[color:red][color:black][color:black] [color:black]c'est la [color:blue]princesse du",
+        "royaume Champignon[color:black], pas vrai?[pagebreak]",
+        "Bon, j'espère que tout ira bien pour",
+        "elle...[delay:15] On compte tous sur toi, matelot![defcolor]"
+      ],
+      "EuGerman": [
+        "[color:red]Die dir kostbare Person[defcolor] ist die",
+        "[color:blue]Prinzessin des [defcolor][color:blue]Pilz-Königreichs[defcolor], oder[color:black]?[pagebreak]",
+        "Ich hoffe, dass es ihr gut geht...[delay:15]",
+        "Wir zählen auf dich, Steuermann.[defcolor]"
+      ],
+      "EuItalian": [
+        "La [color:red]persona che ti sta a cuore [defcolor]è la",
+        "[color:blue]Principessa del Regno dei Funghi[defcolor],",
+        "vero?[color:black][pagebreak]",
+        "Spero che stia bene...[color:black][delay:15][color:black]",
+        "Contiamo su di te, Comandante![defcolor]"
+      ],
+      "EuDutch": [
+        "[color:black][color:red]Your special one[color:black] is the [color:blue]princess of",
+        "the Mushroom Kingdom[color:black], am I right?[pagebreak]",
+        "I hope she's OK...[delay:15]",
+        "We're counting on you, Captain.[defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:red]アンタの[ruby:大切;たいせつ]なヒト[defcolor]は",
+        "[color:blue]キノコ[ruby:王国;おうこく]のお[ruby:姫様;ひめさま][defcolor]なんだろ?[pagebreak]",
+        "[ruby:怖;こわ]がってないか、 [ruby:心配;しんぱい]だねえ・・・",
+        "[ruby:早;はや]く[ruby:助;たす]けてあげないとね! [ruby:船長;せんちょう]"
+      ],
+      "KrKorean": [
+        "[color:red]너의 소중한 사람[defcolor]은",
+        "[color:blue]버섯왕국의 공주님[defcolor]이지?[pagebreak]",
+        "두려움에 떨고 있진 않은지 걱정이야…",
+        "어서 구하자, 캡틴!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[color:red][color:black]你[color:red]最重要的人[defcolor]不是",
+        "[color:blue]蘑菇王國的公主[defcolor]嗎?[pagebreak]",
+        "真擔心她會不會害怕呢…",
+        "必須快去救她啊！艦長！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_NormalTalkWorld4_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_HAHAN",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "With the way you keep bringing stuff",
+        "back, the ship is turning into a pretty",
+        "[color:blue]lively [defcolor]spot!"
+      ],
+      "EuEnglish": [
+        "With the way you keep bringing stuff",
+        "back, the ship is turning into a pretty",
+        "[color:blue]lively [defcolor]spot!"
+      ],
+      "UsSpanish": [
+        "Con todas las cosas raras que traes",
+        "a la nave, ¡se está convirtiendo en un",
+        "sitio bastante [color:blue]animado[defcolor]!"
+      ],
+      "EuSpanish": [
+        "Con todas las cosas que traes a la",
+        "nave, ¡se está volviendo un sitio",
+        "bastante [color:blue]animado[defcolor]!"
+      ],
+      "UsFrench": [
+        "Avec tous ces objets bizarres et ces",
+        "amis que tu ramènes, le vaisseau",
+        "semble de plus en plus... [color:blue]vivant[defcolor]!"
+      ],
+      "EuFrench": [
+        "Dis donc, avec toute la camelote que",
+        "tu nous apportes, c'est vraiment la",
+        "[color:blue]foire[defcolor] sur le vaisseau!"
+      ],
+      "EuGerman": [
+        "Wenn du weiter so fleißig Sachen von",
+        "deinen Ausflügen mitbringst, wird das",
+        "hier an Bord recht [color:blue]lebendig [defcolor]werden!"
+      ],
+      "EuItalian": [
+        "Con tutte le cose che continui a",
+        "portare qua, l'astronave ora ha",
+        "un'atmosfera davvero [color:blue]allegra[defcolor]!"
+      ],
+      "EuDutch": [
+        "With the way you keep bringing stuff",
+        "back, the ship is turning into a pretty",
+        "[color:blue]lively [defcolor]spot!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "アンタがいろいろ[ruby:持;も]って[ruby:帰;かえ]ってくるから",
+        "ずいぶんと、 この[ruby:船;ふね]も[color:blue]にぎやか[defcolor]になってきたね"
+      ],
+      "KrKorean": [
+        "네가 이런저런 것을 가져와서 그런지",
+        "이 우주선도 꽤나 [color:blue]활기차[defcolor]졌어"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "因為你常常帶許多東西回來，",
+        "這艘船變得很[color:blue]熱鬧[defcolor]呢[color:black]！[defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "Meister_NormalTalkWorld4_Flow001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_QUESTION",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:black]Hey, what's [icon:luigi] [color:green]your brother [color:black]up to",
+        "lately? Guy seems awful proud of",
+        "[color:blue]how high he can jump[color:black].[pagebreak]",
+        "Eh, that's not so bad, I guess. He's",
+        "just tryin' to help out, am I right?[defcolor]"
+      ],
+      "EuEnglish": [
+        "[color:black]Hey, what's [icon:luigi] [color:green]your brother [color:black]up to",
+        "lately? Guy seems awful proud of",
+        "[color:blue]how high he can jump[color:black].[pagebreak]",
+        "Eh, that's not so bad, I guess. He's",
+        "just tryin' to help out, am I right?[defcolor]"
+      ],
+      "UsSpanish": [
+        "Oye, ¿qué sabes de tu [color:green]hermano[defcolor][color:black][color:green] [color:black][icon:luigi]?",
+        "Seguro que sigue estando orgulloso",
+        "de [color:blue]lo alto que puede saltar[color:black].[pagebreak]",
+        "¡Debes sentirte muy orgulloso de",
+        "tener a un hermano que siempre",
+        "está dispuesto a ayudarte![defcolor]"
+      ],
+      "EuSpanish": [
+        "Oye, ¿qué se cuenta tu [color:green]hermano[defcolor][color:black][color:green] [color:black][icon:luigi]?",
+        "Seguro que sigue estando orgulloso",
+        "de [color:blue]lo alto que puede saltar[color:black].[pagebreak]",
+        "Además, ¡parece que siempre está",
+        "dispuesto a echar una mano![defcolor]"
+      ],
+      "UsFrench": [
+        "Hé, comment va ton [color:green]frère [defcolor][color:black][icon:luigi] ces",
+        "jours-ci? Il semble vraiment fier",
+        "de pouvoir [color:blue]sauter si haut[color:black]![defcolor][color:black][pagebreak]",
+        "Il pourrait sûrement te donner un",
+        "coup de main de temps en temps![defcolor]"
+      ],
+      "EuFrench": [
+        "[color:black]Hé, des nouvelles du [color:green]frérot[color:black] [icon:luigi]? Il",
+        "a l'air fier comme un pou de savoir",
+        "[color:blue]sauter si haut[color:black]![pagebreak]",
+        "Il sait sûrement se rendre très utile",
+        "de temps en temps![defcolor]"
+      ],
+      "EuGerman": [
+        "[color:black]Sag mal, was macht eigentlich",
+        "[icon:luigi] [color:green]dein Bruder [color:black]so in letzter Zeit?[pagebreak]",
+        "Er schien mir [color:blue]mächtig [color:black][color:blue]stolz [color:black]darauf",
+        "zu sein, [color:blue]wie hoch er springen kann[color:black].[pagebreak]",
+        "Das könnte sich doch noch als",
+        "nützlich erweisen, nicht wahr?[defcolor]"
+      ],
+      "EuItalian": [
+        "Dimmi un po', cosa fa ultimamente [color:green]tuo",
+        "fratello [defcolor][color:black][icon:luigi]? Sembra orgoglioso di",
+        "[color:blue]quanto alto riesce a saltare[color:black]...[color:black][pagebreak]",
+        "[color:black]Beh, non è affatto male! Immagino che",
+        "stia solo cercando di rendersi utile...[defcolor]"
+      ],
+      "EuDutch": [
+        "[color:black]Hey, what's [icon:luigi] [color:green]your brother [color:black]up to",
+        "lately? Guy seems awful proud of",
+        "[color:blue]how high he can jump[color:black].[pagebreak]",
+        "Eh, that's not so bad, I guess. He's",
+        "just tryin' to help out, am I right?[defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:最近;さいきん] [color:green][color:green][icon:luigi]アンタ[color:green][color:green]の[ruby:弟;おとうと][color:green][defcolor]の[ruby:調子;ちょうし]はどうなんだい?",
+        "[color:blue]ジャンプの[ruby:高;たか]さ[color:black]に[color:blue][defcolor] [ruby:自信;じしん]があるらしいじゃないか"
+      ],
+      "KrKorean": [
+        "최근에 [color:green][icon:luigi]네 동생[defcolor]은 어때 보여?",
+        "[color:blue]점프 높이[color:black]에 꽤나 자신 있는 것 같[color:blue][defcolor]던데!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "最近[color:green][icon:luigi]你弟弟[defcolor]還好吧?",
+        "聽說他對自己的[color:blue]跳高[defcolor]很有自信?"
+      ]
+    }
+  },
+  {
+    "label": "Meister_NormalTalkWorld5_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_QUESTION",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Have you been collecting those",
+        "[icon:comet_medal][color:red] Comet Medals[defcolor]?[pagebreak]",
+        "In some galaxies, you might have only",
+        "found one [icon:star] [color:yellow]Power Star [defcolor]because",
+        "[color:blue][color:black]a[color:blue] comet [color:black]hasn't shown up there[color:blue][defcolor]![pagebreak]",
+        "That's why you need to collect",
+        "[color:red][icon:comet_medal] Comet Medals[color:black]. We're counting on",
+        "you, Captain![color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "Have you been collecting those",
+        "[icon:comet_medal][color:red] Comet Medals[defcolor]?[pagebreak]",
+        "In some galaxies, you might have only",
+        "found one [icon:star] [color:yellow]Power Star [defcolor]because",
+        "[color:blue][color:black]a[color:blue] comet[color:blue] hasn't shown up there[color:blue][defcolor]![pagebreak]",
+        "That's why you need to collect",
+        "[color:red][icon:comet_medal] Comet Medals[color:black]. We're counting on",
+        "you, Captain![color:red][defcolor]"
+      ],
+      "UsSpanish": [
+        "¿Has ido recogiendo esas [color:red]medallas de",
+        "cometa [defcolor][icon:comet_medal]?[pagebreak]",
+        "Si en algunas galaxias solo has ",
+        "podido hallar una [color:black][color:yellow]Superestrella[color:black] [defcolor][icon:star], ",
+        "es porque no han llegado cometas ahí.[pagebreak]",
+        "Es por ello que debes recoger cada",
+        "[color:red][icon:comet_medal][color:black] que se encuentre a tu paso.",
+        "¡Contamos contigo, capitán[color:red][defcolor][color:black]![defcolor]"
+      ],
+      "EuSpanish": [
+        "¿Has ido recogiendo esas [icon:comet_medal]?[pagebreak]",
+        "Puede que solo hayas encontrado",
+        "una [icon:star] [color:black]en algunas galaxias porque[color:blue] no",
+        "ha aparecido ningún cometa [color:black]todavía.[defcolor][pagebreak]",
+        "Por eso mismo tienes que coger las",
+        "[color:red][icon:comet_medal][color:black]. ¡Contamos contigo, capitán![color:red][defcolor]"
+      ],
+      "UsFrench": [
+        "Matelot, est-ce que tu t'assures de",
+        "ramasser les [color:red]médailles comète [defcolor][icon:comet_medal]",
+        "sur ton chemin?[pagebreak]",
+        "Si tu n'as trouvé qu'une seule [color:yellow]super",
+        "[color:yellow]étoile [color:yellow][defcolor][icon:star] dans certaines galaxie...[pagebreak]",
+        "...c'est peut-être tout simplement",
+        "parce qu'une [color:blue]comète [defcolor]n'est pas encore",
+        "apparue![pagebreak]",
+        "C'est pour ça que tu dois trouver",
+        "toutes les [color:red]médailles comète [defcolor][color:red][icon:comet_medal][defcolor]. On",
+        "compte sur toi, capitaine!"
+      ],
+      "EuFrench": [
+        "Dis, petit gars, tu ramasses bien",
+        "les [color:red]médailles comète[defcolor] [icon:comet_medal]?[pagebreak]",
+        "Peut-être que tu n'as trouvé qu'une",
+        "[icon:star] dans une galaxie parce qu'[color:blue]aucune",
+        "[defcolor][icon:comet] [color:blue]n'y est encore apparue[defcolor]![color:black][pagebreak]",
+        "C'est pour ça que c'est important de",
+        "trouver le plus de [icon:comet_medal] possible![defcolor]"
+      ],
+      "EuGerman": [
+        "Hast du bereits einige dieser",
+        "[icon:comet_medal][color:red] Kometenmünzen [defcolor]gesammelt?[pagebreak]",
+        "Jede [color:red][icon:comet_medal] Kometenmünze[color:black] aktiviert einen",
+        "Schabernack-Kometen, durch den ein",
+        "weiterer [color:red][defcolor][icon:star] [color:yellow]Power-Stern [color:black]erscheint[color:yellow][color:black]![color:yellow][defcolor]"
+      ],
+      "EuItalian": [
+        "Stai raccogliendo le [color:red]Medaglie",
+        "Cometa [defcolor][icon:comet_medal]?[pagebreak]",
+        "In alcune Galassie potresti aver",
+        "trovato soltanto una [color:yellow]Superstella [defcolor][icon:star]",
+        "perché [color:blue]là non è apparsa una Cometa[defcolor].[pagebreak]",
+        "È per questo che devi raccogliere",
+        "[color:red]Medaglie Cometa [defcolor][icon:comet_medal]!",
+        "Contiamo su di te, Comandante!"
+      ],
+      "EuDutch": [
+        "Have you been collecting those",
+        "[icon:comet_medal][color:red] Comet Medals[defcolor]?[pagebreak]",
+        "In some galaxies, you might have only",
+        "found one [icon:star] [color:yellow]Power Star [defcolor]because",
+        "[color:blue][color:black]a[color:blue] comet[color:blue] hasn't shown up there[color:blue][defcolor]![pagebreak]",
+        "That's why you need to collect",
+        "[color:red][icon:comet_medal] Comet Medals[color:black]. We're counting on",
+        "you, Captain![color:red][defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:comet_medal][color:red][ruby:彗星;すいせい]メダル[defcolor]は[ruby:集;あつ]めてるかい?[pagebreak]",
+        "1つしか[icon:star][color:yellow]パワー[defcolor][color:yellow]スター[color:black]を[ruby:集;あつ]めていない[ruby:銀河;ギャラクシー][color:yellow][defcolor]は",
+        "[color:blue]まだ[ruby:彗星;すいせい]がきてない[color:black]だけかもしれないよ?[color:blue][defcolor][pagebreak]",
+        "[color:red][icon:comet_medal][ruby:彗星;すいせい]メダル[defcolor]も[ruby:集;あつ]めておくれ",
+        "たのんだよ! [ruby:船長;せんちょう]"
+      ],
+      "KrKorean": [
+        "[icon:comet_medal][color:red]혜성메달[defcolor]은 모으고 있어?[pagebreak]",
+        "하나의 [icon:star][color:yellow]파워스타[defcolor][color:black]밖에 모으지 못한 갤럭시는[defcolor]",
+        "[color:blue]아직 혜성이 접근하지 않아서 [color:black]그런 걸지도 몰라![color:blue][defcolor][pagebreak]",
+        "[color:red][icon:comet_medal]혜성메달[defcolor]도 모으면서 모험해!",
+        "부탁해, 캡틴!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "有在收集[icon:comet_medal][color:red]彗星獎章[defcolor]嗎?[pagebreak]",
+        "在只收集到1顆[icon:star][color:yellow]力量星星[defcolor][color:black]的",
+        "銀河裡，[defcolor]或許有[color:blue]彗星[color:black]還沒有來哦[color:blue][color:black]?[color:blue][defcolor][pagebreak]",
+        "連[color:red][icon:comet_medal]彗星獎章[defcolor]也要收集！",
+        "拜託你啦！艦長！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_NormalTalkWorld5_Flow001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_NOT_SEEN",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I wonder what [color:red]your special one [defcolor]is",
+        "doing right now...[pagebreak]",
+        "[color:black]We need to get going and",
+        "save her! Come on, Captain![defcolor]"
+      ],
+      "EuEnglish": [
+        "I wonder what [color:red]your special one [defcolor]is",
+        "doing right now...[pagebreak]",
+        "[color:black]We need to get going and",
+        "save her! Come on, Captain![defcolor]"
+      ],
+      "UsSpanish": [
+        "Me pregunto qué estará haciendo",
+        "ahora mismo [color:red]tu ser querido[defcolor].[pagebreak]",
+        "¡Pongámonos en marcha y vamos a",
+        "rescatarla! ¡Adelante, capitán!"
+      ],
+      "EuSpanish": [
+        "Me pregunto qué estará haciendo",
+        "ahora mismo [color:red]tu princesa[defcolor].[pagebreak]",
+        "¡Tenemos que ponernos en marcha y",
+        "acudir a su rescate! ¡Venga, capitán!"
+      ],
+      "UsFrench": [
+        "Je me demande ce que fait ta",
+        "[color:red]bien-aimée[defcolor] en ce moment.[pagebreak]",
+        "Vite, nous devons mettre les voiles",
+        "et la sauver, capitaine! Allez!"
+      ],
+      "EuFrench": [
+        "Je me demande ce qu'elle fait en ce",
+        "moment, [color:red]ta chère princesse[defcolor].[pagebreak]",
+        "Faut hisser la grand-voile et voguer",
+        "à son secours, matelot!"
+      ],
+      "EuGerman": [
+        "Ich frage mich, wie es [color:red]der dir",
+        "kostbaren Person [defcolor]wohl gerade geht...[pagebreak]",
+        "[color:black]Wir müssen uns beeilen und sie",
+        "befreien! Auf geht's, Steuermann![defcolor]"
+      ],
+      "EuItalian": [
+        "Mi chiedo cosa stia facendo la",
+        "[color:red]persona che ti sta a cuore[defcolor]...[pagebreak]",
+        "Dobbiamo andare a salvarla!",
+        "Dai, Comandante!"
+      ],
+      "EuDutch": [
+        "I wonder what [color:red]your special one [defcolor]is",
+        "doing right now...[pagebreak]",
+        "[color:black]We need to get going and",
+        "save her! Come on, Captain![defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:red]アンタの[ruby:大切;たいせつ]なヒト[defcolor]は",
+        "いまごろ [ruby:何;なに]してるんだろうね[pagebreak]",
+        "[color:blue]オンナノコ[defcolor]ひとりじゃ [ruby:心細;こころぼそ]いだろうに・・・・・・",
+        "ほら! [ruby:早;はや]く[ruby:助;たす]けてあげないと! [ruby:船長;せんちょう]!"
+      ],
+      "KrKorean": [
+        "[color:red]너의 소중한 사람[defcolor]은",
+        "지금쯤 뭘 하고 있을까?[pagebreak]",
+        "[color:blue]여자 [defcolor]혼자로는 불안할 텐데…",
+        "자! 어서 구하러 가야지, 캡틴!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[color:red][color:black]你[color:red]最重要的人[color:black]現在[color:black]在[color:black]做什[color:red][defcolor]麼呢?[pagebreak]",
+        "[color:blue]女孩子[defcolor]獨自一人會很不安的…",
+        "好了！快去救她吧！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_NormalTalkWorld6_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_ALL_RIGHT",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:black]Well, buddy--looks like you know what",
+        "needs to be done. So get out there",
+        "and give it your best shot![defcolor]"
+      ],
+      "EuEnglish": [
+        "[color:black]Well, buddy - looks like you know",
+        "what needs to be done. So get out",
+        "there and give it your best shot![defcolor]"
+      ],
+      "UsSpanish": [
+        "[color:black]Bien... parece que ya sabes lo que",
+        "debes hacer. ¡Adelante, sin miedo![defcolor]"
+      ],
+      "EuSpanish": [
+        "Bueno, parece que sabes lo que hay",
+        "que hacer. ¡Adelante, sin miedo!"
+      ],
+      "UsFrench": [
+        "Eh bien, matelot, je crois que tu sais",
+        "quoi faire! Mets les voiles et jette-",
+        "toi à l'eau!"
+      ],
+      "EuFrench": [
+        "Allez, mon gars, tu sais ce que tu",
+        "dois faire, alors vas-y et donne-toi",
+        "à fond!"
+      ],
+      "EuGerman": [
+        "[color:black]Nun gut, Bürschchen. Weiter geht's!",
+        "Du hast mein volles Vertrauen, also",
+        "mach, was du für richtig hältst! [defcolor]"
+      ],
+      "EuItalian": [
+        "Beh, sembra che tu sappia cosa c'è",
+        "da fare, quindi vai là fuori e fai del",
+        "tuo meglio!"
+      ],
+      "EuDutch": [
+        "[color:black]Well, buddy - looks like you know",
+        "what needs to be done. So get out",
+        "there and give it your best shot![defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:black]もう ナンも[ruby:言;い]うことはない",
+        "[ruby:気張;きば]って[ruby:行;い]きな![defcolor]"
+      ],
+      "KrKorean": [
+        "더 이상 내가 해 줄 말은 없어![color:black]",
+        "힘내서 다녀와![defcolor]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "我沒有話說，[color:black]",
+        "一鼓作氣啊！[defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "Meister_NormalTalkWorld6_Flow001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_BOAST",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[color:black]What was that [icon:bowser][color:red] guy [color:black]thinking, eating",
+        "[color:black][icon:star] [color:black][color:yellow]Power Stars [color:black]and making himself",
+        "so big?! It's madness, I tell ya![pagebreak]",
+        "Let's get going and take care o' some",
+        "galactic business, Captain![defcolor]"
+      ],
+      "EuEnglish": [
+        "[color:black]What was that [icon:bowser][color:red] guy [color:black]thinking, eating",
+        "[color:black][icon:star] [color:black][color:yellow]Power Stars [color:black]and making himself",
+        "so big?! It's madness, I tell ya![pagebreak]",
+        "Let's get going and take care o' some",
+        "galactic business, Captain![defcolor]"
+      ],
+      "UsSpanish": [
+        "¡¿Por qué querría ese[color:red] monstruo [defcolor][color:black][icon:bowser]",
+        "comerse esas[color:yellow] Superestrellas [color:black][color:black][icon:star] [color:black]para",
+        "hacerse tan grande?! ¡Es una locura![pagebreak]",
+        "Adelante, [color:black]¡[color:black]continuemos con nuestra",
+        "aventura galáctica, capitán![defcolor]"
+      ],
+      "EuSpanish": [
+        "[color:black]¡¿Por qué querría [color:red]ese [color:black][icon:bowser] zamparse",
+        "todas esas [color:black][icon:star] para hacerse tan",
+        "grande[color:black]?! ¡Es de locos![pagebreak]",
+        "Venga, vamos a hacer algún trabajillo",
+        "intergaláctico, capitán.[defcolor]"
+      ],
+      "UsFrench": [
+        "Bateau de bateau, quelle espèce de",
+        "fou mangerait des [color:yellow]super étoiles [color:black][icon:star]",
+        "[color:yellow][defcolor]pour devenir gigantesque?[color:black][pagebreak]",
+        "Pas de temps à perdre, il faut",
+        "retrouver ce [color:red]gros balourd [color:black][defcolor][color:black][icon:bowser] et lui",
+        "donner une bonne leçon![defcolor]"
+      ],
+      "EuFrench": [
+        "Il a pas un problème [color:black][color:red]ce type[color:black],[color:red][color:black][color:black] [color:black][icon:bowser]?",
+        "Manger[color:red] [color:black]des [color:red][color:black][color:black][icon:star] pour enfler comme ça[color:black]!",
+        "Faut être un peu dérangé, non?[pagebreak]",
+        "Allez, moussaillon, il est temps de",
+        "remettre de l'ordre dans cet univers,",
+        "foi de vieux loup de mer![defcolor]"
+      ],
+      "EuGerman": [
+        "[color:black]Was hat sich [color:black]der [color:black][icon:bowser][color:red] Unhold [color:black]nur dabei",
+        "gedacht, einfach die [color:black][icon:star] [color:black][color:yellow]Power-Sterne",
+        "[color:black]zu fressen und so riesig zu werden?[pagebreak]",
+        "Das ist doch Wahnsinn! Aber lass uns",
+        "hier keine Wurzeln schlagen! Beeilen",
+        "wir uns, ihn noch aufzuhalten![defcolor]"
+      ],
+      "EuItalian": [
+        "Cos'ha in mente [color:red]quel tipo [defcolor][color:black][icon:bowser]?",
+        "[defcolor]Non fa altro che mangiare tutte",
+        "le [color:yellow]Superstelle[defcolor] [color:black][icon:star] [defcolor]che trova![pagebreak]",
+        "Andiamo a prenderci cura di questa",
+        "questione... galattica, Comandante!"
+      ],
+      "EuDutch": [
+        "[color:black]What was that [icon:bowser][color:red] guy [color:black]thinking, eating",
+        "[color:black][icon:star] [color:black][color:yellow]Power Stars [color:black]and making himself",
+        "so big?! It's madness, I tell ya![pagebreak]",
+        "Let's get going and take care o' some",
+        "galactic business, Captain![defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:yellow][icon:star]パワースター[defcolor]を[ruby:食;く]って [ruby:大;おお]きくなるなんざ",
+        "[color:red][icon:bowser]イカれたヤツ[defcolor]だよ、 ホントに![pagebreak]",
+        "わたしらも[ruby:腹;はら]が[ruby:立;た]ってんだ!",
+        "[ruby:怒;いか]りは[ruby:消;き]えちゃいないよ![pagebreak]",
+        "ゼッタイに[ruby:追;お]いついてやろう [ruby:船長;せんちょう]!"
+      ],
+      "KrKorean": [
+        "[color:yellow][icon:star]파워스타[defcolor]를 먹고 커지겠다니",
+        "[color:red][icon:bowser]정신 나간 녀석[defcolor] 아니야?[pagebreak]",
+        "우리들도 화가 잔뜩 났어!",
+        "분노가 사그러들지 않는다고![pagebreak]",
+        "꼭 찾아내자, 캡틴!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "竟然吃[color:yellow][icon:star]力量星星[defcolor]壯大自己?",
+        "真是個[color:red][icon:bowser]瘋狂的傢伙[defcolor]啊！[pagebreak]",
+        "我們也很生氣！",
+        "這股怒氣還沒消失呢！[pagebreak]",
+        "艦長！一定要追上他！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_NormalTalkWorld7_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_UN",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "I knew you had it in you! Now show",
+        "me what you can really do!"
+      ],
+      "EuEnglish": [
+        "I knew you had it in you! Now show",
+        "me what you can really do!"
+      ],
+      "UsSpanish": [
+        "¡Sabía que lo lograrías! ¡Vamos, ",
+        "muéstrame de lo que eres capaz! "
+      ],
+      "EuSpanish": [
+        "¡Tu aventura no ha terminado todavía!",
+        "Adelante, ¡demuéstrame de lo que",
+        "eres capaz!"
+      ],
+      "UsFrench": [
+        "Je savais que tu avais l'étoffe d'un",
+        "vrai capitaine! Maintenant, montre-moi",
+        "ce que tu sais faire!"
+      ],
+      "EuFrench": [
+        "Je savais bien que t'avais la gagne!",
+        "Maintenant, montre-moi tout ton",
+        "potentiel, petit mousse!"
+      ],
+      "EuGerman": [
+        "Es gibt noch viel zu entdecken!",
+        "Zeig mir, was in dir steckt!"
+      ],
+      "EuItalian": [
+        "La tua avventura non è certo finita!",
+        "Fammi vedere cosa sai fare!"
+      ],
+      "EuDutch": [
+        "I knew you had it in you! Now show",
+        "me what you can really do!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "わたしが [ruby:見込;みこ]んだだけはあるね!",
+        "[ruby:思;おも]う[ruby:存分;ぞんぶん] [ruby:暴;あば]れてきな!"
+      ],
+      "KrKorean": [
+        "내 눈은 역시 틀리지 않았어!",
+        "마음껏 실력 발휘하고 와!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "不愧是我看中的人！",
+        "去給我鬧個天翻地覆！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkAdvice2PSupport_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_STRONG",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "That place was rough, but you still",
+        "pulled through like a champ![pagebreak]",
+        "You know, if you had a [color:orange]P2 [defcolor]to [color:red]assist",
+        "[defcolor]you a bit, it might all be a little",
+        "easier...and more fun!"
+      ],
+      "EuEnglish": [
+        "That place was rough, but you still",
+        "pulled through like a champ![pagebreak]",
+        "You know, if you had a [color:orange]P2 [defcolor]to [color:red]assist",
+        "[defcolor]you a bit, it might all be a little",
+        "easier...and more fun!"
+      ],
+      "UsSpanish": [
+        "Esa galaxia era bastante difícil, pero",
+        "aun así no has desistido, ¡muy bien![pagebreak]",
+        "Si hubiera algún [color:orange]J2 [defcolor]que [color:red]te echara una",
+        "mano[defcolor], sería más fácil... ¡y divertido!"
+      ],
+      "EuSpanish": [
+        "Esa galaxia era bastante difícil, pero",
+        "aun así no has desistido, ¡muy bien![pagebreak]",
+        "Si hubiera algún [color:orange]J2 [defcolor]que [color:red]te echara una",
+        "mano[defcolor], sería más fácil... ¡y divertido!"
+      ],
+      "UsFrench": [
+        "Cette galaxie t'a donné du fil à",
+        "retordre, mais tu t'es débrouillé",
+        "comme un vrai loup de mer![pagebreak]",
+        "Tu sais, ce serait plus facile et plus",
+        "amusant si un [color:orange]J2 [defcolor]te [color:red]donnait un",
+        "coup de main[defcolor]!"
+      ],
+      "EuFrench": [
+        "Par la barbe de ma grand-mère, tu",
+        "t'en es encore sorti comme un chef!",
+        "Pourtant, c'était pas simple![pagebreak]",
+        "Si tu jouais avec un [color:orange]Joueur 2[color:black], il",
+        "pourrait t'aider. Ton aventure serait",
+        "plus facile et plus... comique, hé hé![color:orange][defcolor]"
+      ],
+      "EuGerman": [
+        "Das war eine harte Galaxie, aber du",
+        "hast dich meisterlich geschlagen![pagebreak]",
+        "Wenn du jemanden hättest, der dir",
+        "als [color:orange]SP2 [defcolor][color:red]zur Seite stünde[defcolor], wäre alles",
+        "etwas leichter...[delay:15] Und viel spaßiger!"
+      ],
+      "EuItalian": [
+        "Quel posto era insidioso, ma ce l'hai",
+        "fatta benissimo![pagebreak]",
+        "Sai che se avessi un [color:orange]G2[defcolor] ad [color:red]assisterti[defcolor]",
+        "potrebbe essere più facile e anche",
+        "più divertente?!"
+      ],
+      "EuDutch": [
+        "That place was rough, but you still",
+        "pulled through like a champ![pagebreak]",
+        "You know, if you had a [color:orange]P2 [defcolor]to [color:red]assist",
+        "[defcolor]you a bit, it might all be a little",
+        "easier...and more fun!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "タイヘンな[ruby:所;ところ]だったようだけど",
+        "よく[ruby:踏;ふ]ん[ruby:張;ば]ったじゃないか![pagebreak]",
+        "[ruby:誰;だれ]か[color:orange]2P[defcolor]で [color:red][ruby:助太刀;アシスト][defcolor]してくれれば",
+        "[ruby:少;すこ]しは[ruby:楽;らく]になるんだろうけどねえ・・・"
+      ],
+      "KrKorean": [
+        "힘든 곳 같아 보였는데",
+        "그래도 멋지게 해냈구나![pagebreak]",
+        "누군가 [color:orange]2P[defcolor]로 [color:red]도와[defcolor]준다면",
+        "조금은 편해질 텐데…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "這次也是困難重重，",
+        "但你還是咬牙撐過去了！[pagebreak]",
+        "要是誰當[color:orange]2P[defcolor][color:red]協助[color:black]你[color:red][defcolor]就好了，",
+        "多少會輕鬆一點…"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkAdvice2PSupport_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 7,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:orange_luma]"
+      ],
+      "EuEnglish": [
+        "[icon:orange_luma]"
+      ],
+      "UsSpanish": [
+        "[icon:orange_luma]"
+      ],
+      "EuSpanish": [
+        "[icon:orange_luma]"
+      ],
+      "UsFrench": [
+        "[icon:orange_luma]"
+      ],
+      "EuFrench": [
+        "[icon:orange_luma]"
+      ],
+      "EuGerman": [
+        "[icon:orange_luma]"
+      ],
+      "EuItalian": [
+        "[icon:orange_luma]"
+      ],
+      "EuDutch": [
+        "[icon:orange_luma]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:orange_luma]"
+      ],
+      "KrKorean": [
+        "[icon:orange_luma]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:orange_luma]"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkBatteryEmpty_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_STRONG",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Oh no! It looks like your [color:red][icon:wiimote] batteries",
+        "[color:black]are running low![color:red][defcolor][color:black][pagebreak]",
+        "What if they run out in a dangerous",
+        "place?! Be careful![defcolor]"
+      ],
+      "EuEnglish": [
+        "Oh no! It looks like your [color:red][icon:wiimote] batteries",
+        "[color:black]are running low![color:red][defcolor][color:black][pagebreak]",
+        "What if they run out in a dangerous",
+        "place?! Be careful![defcolor]"
+      ],
+      "UsSpanish": [
+        "¡Oh, no! ¡Parece que las [color:red]pilas",
+        "[defcolor]de tu [color:red][icon:wiimote] [color:black]están a punto de agotarse[color:red][color:black]![color:red][defcolor][color:black][pagebreak]",
+        "¡¿No querrás quedarte sin pilas justo",
+        "en medio de un salto arriesgado?![defcolor]"
+      ],
+      "EuSpanish": [
+        "¡Oh, no! ¡Parece que las [color:red]pilas",
+        "[defcolor]de tu [color:red][icon:wiimote] [color:black]están a punto de agotarse[color:red][color:black]![color:red][defcolor][color:black][pagebreak]",
+        "¡¿No querrás quedarte sin pilas justo",
+        "en medio de un salto arriesgado?![defcolor]"
+      ],
+      "UsFrench": [
+        "Mouette de mouette! Les [color:red]piles de",
+        "[defcolor][color:red][icon:wiimote] [defcolor]sont presque vides![pagebreak]",
+        "Ta manette risque de cesser de",
+        "fonctionner dans le pire moment!",
+        "Attention, matelot!"
+      ],
+      "EuFrench": [
+        "Oh non, matelot! On dirait bien que",
+        "les [color:red]piles [defcolor]de ta [color:red][icon:wiimote] [color:black]sont presque vides![color:red][defcolor][color:black][pagebreak]",
+        "Fais attention! Si elles te lâchent",
+        "dans un endroit dangereux, t'auras",
+        "vraiment l'air malin![defcolor]"
+      ],
+      "EuGerman": [
+        "Oh nein! Die [color:red]Batterien [defcolor]deiner",
+        "[color:red][icon:wiimote] Wii-Fernbedienung [color:black]sind fast leer![color:red][defcolor][color:black][pagebreak]",
+        "Sei vorsichtig! Nicht, dass dir",
+        "an einem gefährlichen",
+        "Ort der Saft ausgeht![defcolor]"
+      ],
+      "EuItalian": [
+        "Oh, no! Sembra che le [color:red]batterie[defcolor] del",
+        "telecomando Wii[color:black] [icon:wiimote] si stiano",
+        "[defcolor][color:black]scaricando![color:black][pagebreak]",
+        "Attenzione![color:black] Potrebbero esaurirsi",
+        "proprio mentre ti trovi in pericolo![defcolor]"
+      ],
+      "EuDutch": [
+        "Oh no! It looks like your [color:red][icon:wiimote] batteries",
+        "[color:black]are running low![color:red][defcolor][color:black][pagebreak]",
+        "What if they run out in a dangerous",
+        "place?! Be careful![defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:red][icon:wiimote]Wii[defcolor][color:red][color:red]リモコン[color:red]の[ruby:電池;でんち][color:black]が[color:red][color:black]きれそうじゃないか[color:red][color:black]![color:red][defcolor][pagebreak]",
+        "[ruby:冒険;ぼうけん]の[ruby:途中;とちゅう]でなくなったら[ruby:一大事;いちだいじ]だよ!",
+        "[ruby:気;き]をつけな!"
+      ],
+      "KrKorean": [
+        "[color:red][icon:wiimote]Wii 리모컨의 전지[defcolor][color:black]가 얼마 남지 않았어![defcolor][pagebreak]",
+        "모험 도중에 다 닳으면 큰일이니까",
+        "조심해!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[color:red][icon:wiimote]Wii[defcolor][color:red][color:red]遙控器電池[color:red][color:black]快沒有電了吧[color:red][color:black]！[color:red][defcolor][pagebreak]",
+        "冒險途中突然沒有電可是大事啊！",
+        "小心啊！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkBatteryEmpty_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 7,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:wiimote]"
+      ],
+      "EuEnglish": [
+        "[icon:wiimote]"
+      ],
+      "UsSpanish": [
+        "[icon:wiimote]"
+      ],
+      "EuSpanish": [
+        "[icon:wiimote]"
+      ],
+      "UsFrench": [
+        "[icon:wiimote]"
+      ],
+      "EuFrench": [
+        "[icon:wiimote]"
+      ],
+      "EuGerman": [
+        "[icon:wiimote]"
+      ],
+      "EuItalian": [
+        "[icon:wiimote]"
+      ],
+      "EuDutch": [
+        "[icon:wiimote]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:wiimote]"
+      ],
+      "KrKorean": [
+        "[icon:wiimote]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:wiimote]"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkLuigiPetition_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_QUESTION",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Your [icon:luigi] [color:green]brother [defcolor]has been saying",
+        "that he wants to help out too...[pagebreak]",
+        "Why don't you [color:red]switch places with him[defcolor]",
+        "sometime?"
+      ],
+      "EuEnglish": [
+        "Your [icon:luigi] [color:green]brother [defcolor]has been saying",
+        "that he wants to help out too...[pagebreak]",
+        "Why don't you [color:red]switch places with him[defcolor]",
+        "sometime?"
+      ],
+      "UsSpanish": [
+        "Tu [color:green]hermano[defcolor] [icon:luigi] va diciendo que él",
+        "también quiere ayudarte.[pagebreak]",
+        "¿Le dejas [color:red]tomar el relevo [defcolor]alguna vez?"
+      ],
+      "EuSpanish": [
+        "Tu [color:green]hermano[defcolor] [icon:luigi] me ha dicho que él",
+        "también quiere echarte una mano.[pagebreak]",
+        "¿Qué tal si le dejas [color:red]tomar el relevo[defcolor]",
+        "de vez en cuando, para variar?"
+      ],
+      "UsFrench": [
+        "Ton [color:green]frère [defcolor][icon:luigi] semble enthousiaste à",
+        "l'idée de t'aider! C'est la marque d'un",
+        "vrai de vrai matelot de l'espace![pagebreak]",
+        "Pourquoi ne pas le laisser [color:red]prendre",
+        "la relève [defcolor]de temps en temps?"
+      ],
+      "EuFrench": [
+        "Ton [color:green]frérot [defcolor][icon:luigi] n'arrête pas de dire",
+        "qu'il veut te filer un coup de main.[pagebreak]",
+        "Tu pourrais [color:red]le laisser aux commandes[defcolor]",
+        "de temps en temps, tu crois pas?"
+      ],
+      "EuGerman": [
+        "Dein [icon:luigi] [color:green]Bruder [color:black]hat gesagt, dass er[color:green][defcolor]",
+        "auch gerne helfen würde...[pagebreak]",
+        "Warum [color:red]wechselst [defcolor]du dich nicht",
+        "hin und wieder [color:red]mit ihm [defcolor][color:red]ab[defcolor]?"
+      ],
+      "EuItalian": [
+        "Tuo [color:green]fratello[defcolor] [icon:luigi] continua a dire di",
+        "voler essere d'aiuto...[pagebreak]",
+        "Perché non ti fai [color:red]sostituire[defcolor] da lui,",
+        "ogni tanto?"
+      ],
+      "EuDutch": [
+        "Your [icon:luigi] [color:green]brother [defcolor]has been saying",
+        "that he wants to help out too...[pagebreak]",
+        "Why don't you [color:red]switch places with him[defcolor]",
+        "sometime?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "アンタの[icon:luigi][color:green][ruby:弟;おとうと][defcolor]が、 ボクも[ruby:活躍;かつやく]したいのに…",
+        "って ぼやいてたよ[pagebreak]",
+        "たまには[color:red][ruby:交代;こうたい][defcolor]してやっても いいんじゃないかい "
+      ],
+      "KrKorean": [
+        "너의 [icon:luigi][color:green]동생[defcolor]이 자기도 활약하고 싶다며",
+        "투덜거리고 있었어[pagebreak]",
+        "가끔은 [color:red]교대[defcolor]해 보는 것도 좋지 않을까?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "你[icon:luigi][color:green]弟弟[defcolor]說他也想盡一份力…[pagebreak]",
+        "偶爾和他[color:red]交[defcolor][color:red]換[defcolor]一下嘛！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkLuigiPetition_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 7,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:luigi]"
+      ],
+      "EuEnglish": [
+        "[icon:luigi]"
+      ],
+      "UsSpanish": [
+        "[icon:luigi]"
+      ],
+      "EuSpanish": [
+        "[icon:luigi]"
+      ],
+      "UsFrench": [
+        "[icon:luigi]"
+      ],
+      "EuFrench": [
+        "[icon:luigi]"
+      ],
+      "EuGerman": [
+        "[icon:luigi]"
+      ],
+      "EuItalian": [
+        "[icon:luigi]"
+      ],
+      "EuDutch": [
+        "[icon:luigi]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:luigi]"
+      ],
+      "KrKorean": [
+        "[icon:luigi]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:luigi]"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkMidnight_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_QUESTION",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Geez. It's kinda early, isn't it?",
+        "I feel so sleepy..."
+      ],
+      "EuEnglish": [
+        "Geez. It's kinda early, isn't it?",
+        "I feel so sleepy..."
+      ],
+      "UsSpanish": [
+        "Uuuaaah... Es muy temprano, ¿no?",
+        "Me muero de sueño..."
+      ],
+      "EuSpanish": [
+        "Uuuaaah... Es muy temprano, ¿no?",
+        "Me muero de sueño..."
+      ],
+      "UsFrench": [
+        "Bâbord de bâbord, tu es un lève-tôt,",
+        "matelot! Je suis encore tout endormi..."
+      ],
+      "EuFrench": [
+        "Dis, il est encore tôt, pas vrai?",
+        "J'ai vraiment sommeil..."
+      ],
+      "EuGerman": [
+        "Gähn... Huaaaah, es ist noch ziemlich",
+        "früh, oder? Ich bin sooo müde..."
+      ],
+      "EuItalian": [
+        "È un po' presto, no?",
+        "Ho un sonno..."
+      ],
+      "EuDutch": [
+        "Geez. It's kinda early, isn't it?",
+        "I feel so sleepy..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:今;いま]もしかして [ruby:夜明;よあ]け[ruby:前;まえ]じゃないかい?",
+        "わたしゃ [ruby:少;すこ]しネムくなってきたよ…"
+      ],
+      "KrKorean": [
+        "지금 혹시 새벽 아니야?",
+        "난 좀 졸린 것 같아…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "現在是天亮前吧?",
+        "我有點睏了…"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkMidnight_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 7,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "So...sleepy..."
+      ],
+      "EuEnglish": [
+        "So...sleepy..."
+      ],
+      "UsSpanish": [
+        "Zzz... Sueño... Zzz..."
+      ],
+      "EuSpanish": [
+        "Zzz... Sueño... Zzz..."
+      ],
+      "UsFrench": [
+        "Je... m'endors... Zzz..."
+      ],
+      "EuFrench": [
+        "Dodo... Zzzz..."
+      ],
+      "EuGerman": [
+        "Zzz..."
+      ],
+      "EuItalian": [
+        "Zzz... Che sonno..."
+      ],
+      "EuDutch": [
+        "So...sleepy..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ネムい・・・"
+      ],
+      "KrKorean": [
+        "졸려…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "我睏了…"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkMissMultiple13_Flow000",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 7,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Give 'em your best!"
+      ],
+      "EuEnglish": [
+        "Give 'em your best!"
+      ],
+      "UsSpanish": [
+        "¡Muéstrales de lo",
+        "que eres capaz!"
+      ],
+      "EuSpanish": [
+        "¡Venga, ve a por todas!"
+      ],
+      "UsFrench": [
+        "Fais de ton",
+        "mieux, matelot!"
+      ],
+      "EuFrench": [
+        "Fais de ton mieux!"
+      ],
+      "EuGerman": [
+        "Gib dein Bestes",
+        "dort draußen!"
+      ],
+      "EuItalian": [
+        "Fai del tuo meglio!"
+      ],
+      "EuDutch": [
+        "Give 'em your best!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:気張;きば]っていきな!"
+      ],
+      "KrKorean": [
+        "힘내서 다녀와!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "加油啊！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkMissMultiple19_Flow000",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 7,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Go get 'em, Captain!"
+      ],
+      "EuEnglish": [
+        "Go get 'em, Captain!"
+      ],
+      "UsSpanish": [
+        "¡Contamos contigo,",
+        "capitán!"
+      ],
+      "EuSpanish": [
+        "¡Contamos contigo,",
+        "capitán!"
+      ],
+      "UsFrench": [
+        "Tout l'équipage est",
+        "derrière toi, capitaine!"
+      ],
+      "EuFrench": [
+        "Allez, mon gars, on",
+        "compte tous sur toi!"
+      ],
+      "EuGerman": [
+        "Unser Steuermann",
+        "ist der Beste!"
+      ],
+      "EuItalian": [
+        "Contiamo su di te, Comandante!"
+      ],
+      "EuDutch": [
+        "Go get 'em, Captain!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "たのんだよ! [ruby:船長;せんちょう]"
+      ],
+      "KrKorean": [
+        "부탁해, 캡틴!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "一切靠你了！艦長！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkPreviousScenarioMiss10_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_QUESTION",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You've been through a lot lately, huh?[pagebreak]",
+        "Maybe you should just take a break",
+        "for a little while, Captain."
+      ],
+      "EuEnglish": [
+        "You've been through a lot lately, huh?[pagebreak]",
+        "Maybe you should just take a break",
+        "for a little while, Captain."
+      ],
+      "UsSpanish": [
+        "Últimamente has pasado por galaxias",
+        "muy difíciles, ¿verdad?[pagebreak]",
+        "Quizás podrías parar un rato",
+        "para relajarte y volver con",
+        "energías renovadas, capitán."
+      ],
+      "EuSpanish": [
+        "Quizá podrías parar un rato",
+        "para relajarte y volver con",
+        "energías renovadas, capitán."
+      ],
+      "UsFrench": [
+        "Les temps sont durs, hein?[pagebreak]",
+        "Tu devrais peut-être te reposer.",
+        "Pourquoi ne pas prendre une petite",
+        "pause, capitaine?"
+      ],
+      "EuFrench": [
+        "T'en as pas mal bavé ces derniers",
+        "temps, hein? Fais donc une petite",
+        "pause, va. Privilège de capitaine!"
+      ],
+      "EuGerman": [
+        "Du hast da ganz schön was",
+        "mitgemacht, oder irre ich mich?[pagebreak]",
+        "Gönn dir ruhig mal",
+        "eine Auszeit, Steuermann."
+      ],
+      "EuItalian": [
+        "Ne hai passate tante ultimamente,",
+        "vero?[pagebreak]",
+        "Forse dovresti riposarti un pochino?"
+      ],
+      "EuDutch": [
+        "You've been through a lot lately, huh?[pagebreak]",
+        "Maybe you should just take a break",
+        "for a little while, Captain."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "だいぶ [ruby:苦労;くろう]しているようじゃないか?[pagebreak]",
+        "ここらでちょっと [ruby:休;やす]んでみたらどうだい",
+        "[ruby:船長;せんちょう]"
+      ],
+      "KrKorean": [
+        "꽤나 힘들었던 모양이지?[pagebreak]",
+        "여기에서 잠시 쉬는 건 어때, 캡틴?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "看你蠻辛苦的哦?[pagebreak]",
+        "要不要在這裡休息一下?"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkPreviousScenarioMiss10_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 7,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "!"
+      ],
+      "EuEnglish": [
+        "!"
+      ],
+      "UsSpanish": [
+        "¡...!"
+      ],
+      "EuSpanish": [
+        "(!)"
+      ],
+      "UsFrench": [
+        "!"
+      ],
+      "EuFrench": [
+        "!"
+      ],
+      "EuGerman": [
+        "!"
+      ],
+      "EuItalian": [
+        "!"
+      ],
+      "EuDutch": [
+        "!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "!"
+      ],
+      "KrKorean": [
+        "!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkPreviousScenarioMiss20_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_NOT_SEEN",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Looks like that last galaxy was pretty",
+        "rough. But, good work toughing it out![pagebreak]",
+        "Ya know...I just want you to",
+        "remember that we all really",
+        "appreciate everything you're doing...[pagebreak]",
+        "We owe you a big thanks for",
+        "collecting all of these [icon:star] [color:yellow]Power Stars[defcolor]!"
+      ],
+      "EuEnglish": [
+        "Looks like that last galaxy was pretty",
+        "rough. But, good work toughing it out![pagebreak]",
+        "Ya know...I just want you to",
+        "remember that we all really",
+        "appreciate everything you're doing...[pagebreak]",
+        "We owe you a big thanks for",
+        "collecting all of these [icon:star] [color:yellow]Power Stars[defcolor]!"
+      ],
+      "UsSpanish": [
+        "Parece que esa última galaxia fue un",
+        "poco difícil, ¡pero lo hiciste muy bien![pagebreak]",
+        "Este... Solo quería recordarte que",
+        "todos valoramos mucho lo que estás",
+        "haciendo por el universo...[pagebreak]",
+        "¡Muchas gracias por recuperar todas",
+        "esas [color:yellow]Superestrellas[defcolor] [icon:star]!"
+      ],
+      "EuSpanish": [
+        "Esa galaxia parece complicadilla,",
+        "¡pero eso no te echa para atrás![pagebreak]",
+        "Esto... Solo quería recordarte que",
+        "todos valoramos mucho lo que estás",
+        "haciendo por el universo...[pagebreak]",
+        "¡Muchas gracias por recuperar",
+        "todas esas [icon:star]!"
+      ],
+      "UsFrench": [
+        "Mouette de mouette, cette dernière",
+        "galaxie était vraiment difficile. Tu as",
+        "travaillé très fort et tu y es arrivé![pagebreak]",
+        "Matelot... Je veux que tu saches",
+        "qu'on apprécie vraiment tout ce",
+        "que tu fais pour nous...[pagebreak]",
+        "On ne pourra jamais assez te",
+        "remercier d'avoir retrouvé toutes",
+        "ces [color:yellow]super étoiles [defcolor][icon:star]!"
+      ],
+      "EuFrench": [
+        "Alors, matelot, la dernière galaxie",
+        "n'était pas facile, hein? Mais tu t'en",
+        "es sorti comme un chef![pagebreak]",
+        "Je voulais juste te dire qu'on t'est",
+        "tous très reconnaissants.[pagebreak]",
+        "Merci beaucoup de te décarcasser",
+        "pour trouver toutes ces [icon:star]!"
+      ],
+      "EuGerman": [
+        "Die letzte Galaxie war ganz schön",
+        "anspruchsvoll, nicht wahr? Aber du",
+        "hast dich wirklich gut geschlagen![pagebreak]",
+        "Weißt du... Ich wollte dir sagen, dass",
+        "wir alle wirklich bewundern, was du die",
+        "ganze Zeit für eine Leistung zeigst...[pagebreak]",
+        "Immerhin bist du es, der hier",
+        "all die [icon:star] [color:yellow]Power-Sterne [color:black]sammelt[color:yellow][defcolor]!"
+      ],
+      "EuItalian": [
+        "Questa Galassia era dura! Nonostante",
+        "ciò, te la sei cavata benissimo,",
+        "complimenti![pagebreak]",
+        "Ricorda che noi tutti apprezziamo ciò",
+        "che fai...[pagebreak]",
+        "Ti ringraziamo per aver raccolto",
+        "le [color:yellow]Superstelle[defcolor] [icon:star], Comandante!"
+      ],
+      "EuDutch": [
+        "Looks like that last galaxy was pretty",
+        "rough. But, good work toughing it out![pagebreak]",
+        "Ya know...I just want you to",
+        "remember that we all really",
+        "appreciate everything you're doing...[pagebreak]",
+        "We owe you a big thanks for",
+        "collecting all of these [icon:star] [color:yellow]Power Stars[defcolor]!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "さっきの[ruby:銀河;ギャラクシー]は [ruby:大変;たいへん]だったね",
+        "よくやってくれたよ[pagebreak]",
+        "いいかい? アンタが [icon:star][color:yellow]パワースター[defcolor]を",
+        "[ruby:集;あつ]めてくれているのを、[pagebreak]",
+        "わたしは ほんとに [ruby:感謝;かんしゃ]してるんだ",
+        "これだけは おぼえておきな"
+      ],
+      "KrKorean": [
+        "방금 다녀온 갤럭시는 많이 힘들었지?",
+        "정말 잘해 주었어![pagebreak]",
+        "잊지 마! 난 네가",
+        "[icon:star][color:yellow]파워스타[defcolor]를 모아 주는 것에 대해서[pagebreak]",
+        "정말로 감사하게 생각해",
+        "이것만큼은 기억해 줘"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "剛才在那銀河真是辛苦你了！[pagebreak]",
+        "告訴你，",
+        "對於你替我收集的[icon:star][color:yellow]力量星星[color:black]，[color:yellow][defcolor][color:black][pagebreak]",
+        "[defcolor]我是衷心地感激你，",
+        "別忘了我的心意啊。"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkPreviousScenarioMiss20_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 7,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Hold up a sec!"
+      ],
+      "EuEnglish": [
+        "Hold up a sec!"
+      ],
+      "UsSpanish": [
+        "¡Espera un momento!"
+      ],
+      "EuSpanish": [
+        "¿Estás muy ocupado?"
+      ],
+      "UsFrench": [
+        "Attends!"
+      ],
+      "EuFrench": [
+        "Minute, matelot!"
+      ],
+      "EuGerman": [
+        "Einen Augenblick!"
+      ],
+      "EuItalian": [
+        "Aspetta un attimo!"
+      ],
+      "EuDutch": [
+        "Hold up a sec!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ちょっと!"
+      ],
+      "KrKorean": [
+        "잠깐만!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "喂！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkStar77_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_BOAST",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Hey, you have [color:red]77 [defcolor][icon:star] [color:yellow]Power Stars[defcolor]!",
+        "How lucky! ♪"
+      ],
+      "EuEnglish": [
+        "Hey, you have [color:red]77 [defcolor][icon:star] [color:yellow]Power Stars[defcolor]!",
+        "How lucky! ♪"
+      ],
+      "UsSpanish": [
+        "¡Ya has conseguido [color:red]77 [defcolor][icon:star]!",
+        "¡Qué suerte! ♪"
+      ],
+      "EuSpanish": [
+        "¡Ya has conseguido [color:red]77 [defcolor][icon:star]!",
+        "¡Qué suerte! ♪"
+      ],
+      "UsFrench": [
+        "Par la houle du cosmos! Tu as [color:red]77",
+        "[color:yellow]super étoiles [color:red][defcolor][icon:star]! C'est ton chiffre",
+        "chanceux, ça, matelot! ♪"
+      ],
+      "EuFrench": [
+        "Oh, mazette, tu as [color:red]77[defcolor] [icon:star]! T'en as",
+        "de la veine, mon gars! ♪"
+      ],
+      "EuGerman": [
+        "Schau mal einer an! Du hast",
+        "jetzt genau [color:red]77 [defcolor][icon:star] [color:yellow]Power-Sterne[defcolor]!",
+        "Du Glückspilz! ♪"
+      ],
+      "EuItalian": [
+        "Hai [color:red]77 [color:yellow]Superstelle [color:red][defcolor][icon:star]!",
+        "Che fortuna! ♪"
+      ],
+      "EuDutch": [
+        "Hey, you have [color:red]77 [defcolor][icon:star] [color:yellow]Power Stars[defcolor]!",
+        "How lucky! ♪"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:star][color:yellow]パワースター[defcolor]が[color:red]77コ[color:black]じゃないか[color:red][defcolor]",
+        "[ruby:縁起;えんぎ]がいいねえ♪"
+      ],
+      "KrKorean": [
+        "[icon:star][color:yellow]파워스타[defcolor]가 [color:red]77개[color:black]잖아?[color:red][defcolor]",
+        "행운의 숫자야♪"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:star][color:yellow]力量星星[defcolor]有[color:red]77顆[color:black]了呢![color:red][defcolor]",
+        "大吉大利啊♪"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkStar77_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 7,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:star]"
+      ],
+      "EuEnglish": [
+        "[icon:star]"
+      ],
+      "UsSpanish": [
+        "[icon:star]"
+      ],
+      "EuSpanish": [
+        "[icon:star]"
+      ],
+      "UsFrench": [
+        "[icon:star]"
+      ],
+      "EuFrench": [
+        "[icon:star]"
+      ],
+      "EuGerman": [
+        "[icon:star]"
+      ],
+      "EuItalian": [
+        "[icon:star]"
+      ],
+      "EuDutch": [
+        "[icon:star]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:star]"
+      ],
+      "KrKorean": [
+        "[icon:star]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:star]"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkStarPiece777_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_STRONG",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Hey, you have [color:red]777 [defcolor][color:blue][icon:rainbow_starbit][defcolor] [color:blue]Star Bits[defcolor]!",
+        "How lucky! ♪"
+      ],
+      "EuEnglish": [
+        "Hey, you have [color:red]777 [defcolor][color:blue][icon:rainbow_starbit][defcolor] [color:blue]Star Bits[defcolor]!",
+        "How lucky! ♪"
+      ],
+      "UsSpanish": [
+        "Vaya, ¡tienes justo [color:red]777 [defcolor][icon:rainbow_starbit]!",
+        "¡Qué suerte! ♪"
+      ],
+      "EuSpanish": [
+        "Vaya, ¡tienes justo [color:red]777 [defcolor][color:blue][color:blue][icon:rainbow_starbit][color:blue][defcolor]!",
+        "¡Menuda suerte! ♪"
+      ],
+      "UsFrench": [
+        "Par la voile des étoiles! Tu as [color:red]777",
+        "[color:blue]éclats d'étoile[color:red][color:yellow] [color:red][defcolor][color:blue][icon:rainbow_starbit][defcolor]! C'est ton chiffre",
+        "chanceux, ça, matelot! ♪"
+      ],
+      "EuFrench": [
+        "Mais dis donc, tu as [color:red]777 [defcolor][color:blue][color:blue][icon:rainbow_starbit][color:blue][color:black]! Si ça,",
+        "c'est pas de la veine, je veux bien",
+        "m'arracher les fils du caleçon! [color:blue][defcolor]♪"
+      ],
+      "EuGerman": [
+        "Schau mal einer an! Du hast",
+        "jetzt genau [color:red]777 [defcolor][color:purple][icon:rainbow_starbit] Sternenteile[defcolor]!",
+        "Du Glückspilz! ♪"
+      ],
+      "EuItalian": [
+        "Hai [color:red]777 [color:blue]Astroschegge[color:red][color:black] [color:red][defcolor][color:black][color:black][icon:rainbow_starbit][color:black]!",
+        "[defcolor]Che fortuna! ♪"
+      ],
+      "EuDutch": [
+        "Hey, you have [color:red]777 [defcolor][color:blue][icon:rainbow_starbit][defcolor] [color:blue]Star Bits[defcolor]!",
+        "How lucky! ♪"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:blue][icon:rainbow_starbit]スターピース[defcolor]が[color:red]777コ[color:black]じゃないか[color:red][defcolor]",
+        "[ruby:縁起;えんぎ]がいいねえ♪"
+      ],
+      "KrKorean": [
+        "[color:blue][icon:rainbow_starbit]스타구슬[defcolor]이 [color:red]777개[color:black]잖아?[color:red][defcolor]",
+        "행운의 숫자야♪"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[color:blue][color:black]有[color:blue][color:red]777顆[color:blue][icon:rainbow_starbit]星塵[defcolor][color:black]了呢![defcolor]",
+        "大吉大利啊♪"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkStarPiece777_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 7,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuEnglish": [
+        "[icon:rainbow_starbit]"
+      ],
+      "UsSpanish": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuSpanish": [
+        "[icon:rainbow_starbit]"
+      ],
+      "UsFrench": [
+        "[color:black][icon:rainbow_starbit][defcolor]"
+      ],
+      "EuFrench": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuGerman": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuItalian": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuDutch": [
+        "[icon:rainbow_starbit]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:rainbow_starbit]"
+      ],
+      "KrKorean": [
+        "[icon:rainbow_starbit]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:rainbow_starbit]"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkStarPiece7777_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_STRONG",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Hey, you have [color:red]7,777 [defcolor][color:blue][icon:rainbow_starbit][defcolor] [color:blue]Star Bits[defcolor]!",
+        "How lucky! ♪"
+      ],
+      "EuEnglish": [
+        "Hey, you have [color:red]7777 [defcolor][color:blue][icon:rainbow_starbit][defcolor] [color:blue]Star Bits[defcolor]!",
+        "How lucky! ♪"
+      ],
+      "UsSpanish": [
+        "¡Tienes justo [color:red]7777 [defcolor][icon:rainbow_starbit]!",
+        "¡Eso sí que es suerte! ♪"
+      ],
+      "EuSpanish": [
+        "Vaya, ¡tienes justo [color:red]7777 [defcolor][color:blue][color:blue][icon:rainbow_starbit][color:blue][defcolor]!",
+        "¡Eso sí que es suerte! ♪"
+      ],
+      "UsFrench": [
+        "Par l'albatros du cosmos! Tu as [color:red]7777",
+        "[color:blue]éclats d'étoile[color:red][color:yellow] [color:red][defcolor][color:blue][color:blue][icon:rainbow_starbit][color:blue][defcolor]! C'est ton chiffre",
+        "chanceux, ça, matelot! ♪"
+      ],
+      "EuFrench": [
+        "Mais, ma parole, tu as [color:red]7[defcolor][color:red]777 [defcolor][color:blue][color:blue][icon:rainbow_starbit][color:blue][color:black]! J'ai",
+        "jamais vu un matelot avec autant de",
+        "veine, foi de marin! [color:blue][defcolor]♪"
+      ],
+      "EuGerman": [
+        "Schau mal einer an! Du hast",
+        "jetzt genau [color:red]7777 [defcolor][icon:rainbow_starbit] [color:purple]Sternenteile[defcolor]!",
+        "Du Glückspilz! ♪"
+      ],
+      "EuItalian": [
+        "Hai [color:red]7777 [color:blue]Astroschegge[color:red] [defcolor][color:black][color:black][icon:rainbow_starbit][color:black]!",
+        "[defcolor]Che fortuna! ♪"
+      ],
+      "EuDutch": [
+        "Hey, you have [color:red]7777 [defcolor][color:blue][icon:rainbow_starbit][defcolor] [color:blue]Star Bits[defcolor]!",
+        "How lucky! ♪"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:blue][icon:rainbow_starbit]スターピース[defcolor]が[color:red]7777コ[defcolor]じゃないか!",
+        "いや～ [ruby:縁起;えんぎ]がいいねえ♪"
+      ],
+      "KrKorean": [
+        "[color:blue][icon:rainbow_starbit]스타구슬[defcolor]이 [color:red]7777개[defcolor]잖아?",
+        "우와～ 행운의 숫자야♪"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[color:blue][color:black]有[color:blue][color:red]7777顆[color:blue][icon:rainbow_starbit]星塵[defcolor][color:black]了呢![defcolor]",
+        "唉啊！大吉大利啊♪"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkStarPiece7777_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 7,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuEnglish": [
+        "[icon:rainbow_starbit]"
+      ],
+      "UsSpanish": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuSpanish": [
+        "[icon:rainbow_starbit]"
+      ],
+      "UsFrench": [
+        "[color:black][icon:rainbow_starbit][defcolor]"
+      ],
+      "EuFrench": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuGerman": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuItalian": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuDutch": [
+        "[icon:rainbow_starbit]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:rainbow_starbit]"
+      ],
+      "KrKorean": [
+        "[icon:rainbow_starbit]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:rainbow_starbit]"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkStarPiece9999_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_STRONG",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "What happens when you get [color:red]9,999",
+        "[defcolor][color:blue][icon:rainbow_starbit][defcolor] [color:blue]Star Bits[defcolor]? Something nice, I bet!"
+      ],
+      "EuEnglish": [
+        "What happens when you get [color:red]9999",
+        "[defcolor][icon:rainbow_starbit] [color:blue]Star Bits[defcolor]? Something nice, I bet!"
+      ],
+      "UsSpanish": [
+        "¿Qué ocurrirá cuando consigas",
+        "[color:red]9999 [defcolor][icon:purple_starbit] [color:blue]trozos de estrella[defcolor]?",
+        "¡Seguro que algo especial!"
+      ],
+      "EuSpanish": [
+        "¿Qué pasará cuando consigas",
+        "[color:red]9999 [defcolor][icon:rainbow_starbit]? ¡Seguro que algo chulo!"
+      ],
+      "UsFrench": [
+        "Je me demande ce qui se passe si",
+        "tu ramasses [color:red]9999[defcolor] [color:blue]éclats d'étoile [defcolor][color:blue][icon:rainbow_starbit][defcolor].",
+        "Quelque chose de grandiose, j'espère!"
+      ],
+      "EuFrench": [
+        "Qu'est-ce qui se passe quand tu as",
+        "[color:red]9999 [defcolor][icon:rainbow_starbit]? Je parie qu'un truc bien",
+        "se produit, moussaillon!"
+      ],
+      "EuGerman": [
+        "Was wohl passiert, wenn du erst",
+        "[color:red]9999 [defcolor][icon:rainbow_starbit] [color:blue][color:purple]Sternenteile [color:blue][color:black]besitzt[color:blue][defcolor]?",
+        "Sicherlich etwas Tolles!"
+      ],
+      "EuItalian": [
+        "Che succede quando hai [color:red]9999",
+        "[color:blue]Astroschegge[color:red] [defcolor][icon:rainbow_starbit]? Immagino qualcosa",
+        "di bello..."
+      ],
+      "EuDutch": [
+        "What happens when you get [color:red]9999",
+        "[defcolor][icon:rainbow_starbit] [color:blue]Star Bits[defcolor]? Something nice, I bet!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "なんだって? [color:blue][icon:rainbow_starbit]スターピース[defcolor]が[color:red]9999コ[defcolor]も?!",
+        "こりゃ[ruby:不思議;ふしぎ]なことが おこるかもしれないよ"
+      ],
+      "KrKorean": [
+        "뭐라고? [color:blue][icon:rainbow_starbit]스타구슬[defcolor]을 [color:red]9999개[defcolor]나!?",
+        "이거 신기한 일이 일어날지도 모르겠는걸?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "什麼?已經有[color:red]9999顆[defcolor][color:blue][icon:rainbow_starbit]星塵[defcolor][color:black]了[defcolor]?!",
+        "這下說不定會發生奇蹟啊！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkStarPiece9999_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 7,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:rainbow_starbit]♪"
+      ],
+      "EuEnglish": [
+        "[icon:rainbow_starbit]♪"
+      ],
+      "UsSpanish": [
+        "[icon:rainbow_starbit] ♪"
+      ],
+      "EuSpanish": [
+        "[icon:rainbow_starbit] ♪"
+      ],
+      "UsFrench": [
+        "[icon:rainbow_starbit]♪"
+      ],
+      "EuFrench": [
+        "[icon:rainbow_starbit] ♪"
+      ],
+      "EuGerman": [
+        "[icon:rainbow_starbit] ♪"
+      ],
+      "EuItalian": [
+        "[icon:rainbow_starbit] ♪"
+      ],
+      "EuDutch": [
+        "[icon:rainbow_starbit]♪"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:rainbow_starbit]♪"
+      ],
+      "KrKorean": [
+        "[icon:rainbow_starbit]♪"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:rainbow_starbit]♪"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkStarPieceMultiple1000_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_NOT_SEEN",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "You have [color:red][intvar:3;0;0] [defcolor][color:blue][icon:rainbow_starbit] [defcolor][color:blue]Star Bits[defcolor]!",
+        "That must feel pretty good!"
+      ],
+      "EuEnglish": [
+        "You have [color:red][intvar:3;0;0] [defcolor][icon:rainbow_starbit] [color:blue]Star Bits[defcolor]!",
+        "That must feel pretty good!"
+      ],
+      "UsSpanish": [
+        "¡Tienes [color:red][intvar:3;0;0] [color:blue][icon:rainbow_starbit][color:red][defcolor]!",
+        "¡Es una cifra para estar orgulloso!"
+      ],
+      "EuSpanish": [
+        "¡Tienes [color:red][intvar:3;0;0] [defcolor][icon:rainbow_starbit]!",
+        "¡Es una cifra para estar orgulloso!"
+      ],
+      "UsFrench": [
+        "Matelot, tu as [color:red][intvar:3;0;0] [color:blue]éclats",
+        "d'étoile [color:red][defcolor][icon:rainbow_starbit] en ce moment! Wow!",
+        "Ça me donne l'eau à la bouche..."
+      ],
+      "EuFrench": [
+        "Tu as [color:red][intvar:3;0;0] [defcolor][icon:rainbow_starbit]!",
+        "Alors, heureux, mon gars?"
+      ],
+      "EuGerman": [
+        "Du besitzt [color:red][intvar:3;0;0] [defcolor][icon:rainbow_starbit] [color:purple]Sternenteile[defcolor]!",
+        "Es muss ein gutes Gefühl sein, solch",
+        "einen Reichtum angehäuft zu haben!"
+      ],
+      "EuItalian": [
+        "Hai [color:red][intvar:3;0;0] [color:blue]Astroschegge[color:red] [defcolor][color:black][icon:rainbow_starbit][defcolor]!",
+        "Che bella sensazione, eh?!"
+      ],
+      "EuDutch": [
+        "You have [color:red][intvar:3;0;0] [defcolor][icon:rainbow_starbit] [color:blue]Star Bits[defcolor]!",
+        "That must feel pretty good!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:blue][icon:rainbow_starbit]スターピース[defcolor]が[color:red][intvar:3;0;0]コ[defcolor]だよ!",
+        "すっきりして [ruby:気持;きも]ちがいいねえ!"
+      ],
+      "KrKorean": [
+        "[color:blue][icon:rainbow_starbit]스타구슬[defcolor]이 [color:red][intvar:3;0;0]개[defcolor]야!",
+        "깔끔하게 떨어지는 숫자라 기분 좋은데!?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "有[color:blue][color:red][intvar:3;0;0]顆[color:blue][icon:rainbow_starbit]星塵[defcolor]呢！",
+        "這個數字真讓人心情愉快！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkStarPieceMultiple1000_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 7,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuEnglish": [
+        "[icon:rainbow_starbit]"
+      ],
+      "UsSpanish": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuSpanish": [
+        "[icon:rainbow_starbit]"
+      ],
+      "UsFrench": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuFrench": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuGerman": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuItalian": [
+        "[icon:rainbow_starbit]"
+      ],
+      "EuDutch": [
+        "[icon:rainbow_starbit]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[icon:rainbow_starbit]"
+      ],
+      "KrKorean": [
+        "[icon:rainbow_starbit]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[icon:rainbow_starbit]"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkTicoFatDisappear_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_QUESTION",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "He transformed after his little meal...",
+        "Maybe you should go visit his [color:red]galaxy[defcolor]!"
+      ],
+      "EuEnglish": [
+        "He transformed after his little meal...",
+        "Maybe you should go visit his [color:red]galaxy[defcolor]!"
+      ],
+      "UsSpanish": [
+        "Se transformó después de comer...",
+        "¡Quizás deberías visitar esa [color:red]galaxia[defcolor]!"
+      ],
+      "EuSpanish": [
+        "Se ha transformado completamente",
+        "después de darle de comer. ¡Quizá",
+        "tendríamos que visitar su [color:red]galaxia[defcolor]!"
+      ],
+      "UsFrench": [
+        "Elle s'est transformée après avoir",
+        "tout mangé! Tu devrais peut-être",
+        "visiter sa [color:red]galaxie[defcolor], matelot!"
+      ],
+      "EuFrench": [
+        "Eh ben... Sa digestion l'a littéralement",
+        "transformé. Profites-en pour aller",
+        "faire un tour dans sa [color:red]galaxie[defcolor]!"
+      ],
+      "EuGerman": [
+        "Nach dieser Mahlzeit hat er sich",
+        "verwandelt... Wir sollten Kurs auf",
+        "[color:red]seine [defcolor][color:red]Galaxie [color:black]nehmen, Steuermann[color:red][defcolor]!"
+      ],
+      "EuItalian": [
+        "Si è trasformato dopo essersi",
+        "saziato... Forse dovresti andare a",
+        "trovarlo nella sua [color:red]Galassia[defcolor]..."
+      ],
+      "EuDutch": [
+        "He transformed after his little meal...",
+        "Maybe you should go visit his [color:red]galaxy[defcolor]!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:食;く]うだけ[ruby:食;く]って ヘンシンしちまったねえ…",
+        "あいつの[color:red][ruby:銀河;ギャラクシー][defcolor]にでも [ruby:行;い]ってみるかい?"
+      ],
+      "KrKorean": [
+        "실컷 먹더니 변신해 버렸네…",
+        "저 녀석의 [color:red]갤럭시[defcolor]에 가 볼까?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "盡情吃完就擅自變身了啊…",
+        "要不要去瞧瞧他的[color:red]銀河[defcolor]?"
+      ]
+    }
+  },
+  {
+    "label": "Meister_PriorityTalkTicoFatExplain_Flow000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_BOAST",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Ya know, [color:red][icon:hungry_luma] somebody looks kinda",
+        "hungry[color:black].[color:red][defcolor]"
+      ],
+      "EuEnglish": [
+        "Ya know, [color:red][icon:hungry_luma] somebody looks kinda",
+        "hungry[color:black].[color:red][defcolor]"
+      ],
+      "UsSpanish": [
+        "¿Sabes? Parece que [color:black]aquí[defcolor] [color:red]hay",
+        "alguien [color:red][icon:hungry_luma] [color:red]con mucha hambre[defcolor][color:black].[defcolor]"
+      ],
+      "EuSpanish": [
+        "No sé si te habrás dado cuenta, pero",
+        "hay un [color:red][icon:hungry_luma] con cara de hambre [color:black]aquí.[color:red][defcolor]"
+      ],
+      "UsFrench": [
+        "Hé, matelot, le moussaillon [color:red][icon:hungry_luma] [defcolor]juste là",
+        "[color:red]semble avoir vraiment faim[defcolor]."
+      ],
+      "EuFrench": [
+        "Regarde un peu ce [color:red][icon:hungry_luma][color:black],[color:red] [color:black]j'ai comme",
+        "l'impression qu'il a[color:red] faim[color:black], le bougre.[color:red][color:black][color:red][defcolor]"
+      ],
+      "EuGerman": [
+        "Schon gesehen?",
+        "Da sieht [color:red][icon:hungry_luma] jemand ganz",
+        "schön hungrig [color:black]aus[color:red][color:black]![color:red][defcolor]"
+      ],
+      "EuItalian": [
+        "Sembra che qui ci sia uno",
+        "[color:red]Sfavillotto [defcolor][color:red][color:black][icon:hungry_luma] [color:red]affamato[defcolor]..."
+      ],
+      "EuDutch": [
+        "Ya know, [color:red][icon:hungry_luma] somebody looks kinda",
+        "hungry[color:black].[color:red][defcolor]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "しかし、 [color:red][icon:hungry_luma]モノ[ruby:欲;ほ]しそうなツラ[defcolor]をしてるねえ"
+      ],
+      "KrKorean": [
+        "보다시피 [color:red][icon:hungry_luma] 배가 고프다는 얼굴[defcolor]을 하고 있어"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "話說這傢伙[color:red][icon:hungry_luma]長得一副貪心相[color:black]。[color:red][defcolor]"
+      ]
+    }
+  },
+  {
+    "label": "Meister_StarPieceReaction_Flow000",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_ALL_RIGHT",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Mmmm. Thanks!"
+      ],
+      "EuEnglish": [
+        "Mmmm. Thanks!"
+      ],
+      "UsSpanish": [
+        "¡Ñam, rico, rico! ¡Gracias!"
+      ],
+      "EuSpanish": [
+        "¡Ñam, rico!",
+        "¡Gracias!"
+      ],
+      "UsFrench": [
+        "Mmm, merci!"
+      ],
+      "EuFrench": [
+        "Mmmh, merci bien!"
+      ],
+      "EuGerman": [
+        "Oh, vielen Dank!"
+      ],
+      "EuItalian": [
+        "Hmmm... Grazie!"
+      ],
+      "EuDutch": [
+        "Mmmm. Thanks!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ん、 もらっとくよ!"
+      ],
+      "KrKorean": [
+        "음, 받아 두지!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "嗯，給我吧！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_StarPieceReaction_Flow001",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_UN",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Yum! Not bad at all!"
+      ],
+      "EuEnglish": [
+        "Yum! Not bad at all!"
+      ],
+      "UsSpanish": [
+        "¡Qué rico! ¡Ñam!"
+      ],
+      "EuSpanish": [
+        "¡Qué rico!",
+        "¡Ñam!"
+      ],
+      "UsFrench": [
+        "Miam! Pas mal!"
+      ],
+      "EuFrench": [
+        "Miam, c'est pas mauvais!"
+      ],
+      "EuGerman": [
+        "Lecker!",
+        "[size:small]Schmatz..."
+      ],
+      "EuItalian": [
+        "Hmmm... Niente male!"
+      ],
+      "EuDutch": [
+        "Yum! Not bad at all!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "うむ、 [ruby:悪;わる]くないねぇ"
+      ],
+      "KrKorean": [
+        "응! 나쁘지 않아!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "嗯…不錯哦！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_StarPieceReaction_Flow002",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_EAT1",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Yeah, that's the stuff!"
+      ],
+      "EuEnglish": [
+        "Yeah, that's the stuff!"
+      ],
+      "UsSpanish": [
+        "¡Ñem, ñam!"
+      ],
+      "EuSpanish": [
+        "¡Ñem, ñam!"
+      ],
+      "UsFrench": [
+        "Ooh, si délicieux!"
+      ],
+      "EuFrench": [
+        "Oh oui, un vrai régal!"
+      ],
+      "EuGerman": [
+        "Genau das",
+        "brauchte ich!"
+      ],
+      "EuItalian": [
+        "Sì! Queste sì che fanno effetto!"
+      ],
+      "EuDutch": [
+        "Yeah, that's the stuff!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:気;き]が[ruby:利;き]くじゃないか"
+      ],
+      "KrKorean": [
+        "눈치가 제법인데!?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "還蠻周到了嘛！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_StarPieceReaction_Flow003",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_EAT2",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "SMACK, SMACK! Hm... Needs salt."
+      ],
+      "EuEnglish": [
+        "SMACK, SMACK!",
+        "Hm... Needs salt."
+      ],
+      "UsSpanish": [
+        "¡Ñam, ñam! Hum... Les falta algo de sal..."
+      ],
+      "EuSpanish": [
+        "¡Ñim, ñam! Hum...",
+        "Les falta algo de sal..."
+      ],
+      "UsFrench": [
+        "Crunch, crunch! Hm?! Salé..."
+      ],
+      "EuFrench": [
+        "Cronch, scrounch...",
+        "Bof, ça manque de sel!"
+      ],
+      "EuGerman": [
+        "KAU, SCHMATZ,",
+        "SCHLING!"
+      ],
+      "EuItalian": [
+        "Hmmm... Sono un po' insipide!"
+      ],
+      "EuDutch": [
+        "SMACK, SMACK!",
+        "Hm... Needs salt."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ムム、 しょっぱいねぇ"
+      ],
+      "KrKorean": [
+        "흠흠, 조금 짠데?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "嗯…太鹹了啦！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_StarPieceReaction_Flow004",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_HAHAN",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Ahh, just a touch of sweetness!"
+      ],
+      "EuEnglish": [
+        "Ahh, just a touch",
+        "of sweetness!"
+      ],
+      "UsSpanish": [
+        "¡Aah, están sabrosos!"
+      ],
+      "EuSpanish": [
+        "¡Aah, estos",
+        "están dulces!"
+      ],
+      "UsFrench": [
+        "Ahh, juste assez sucré!"
+      ],
+      "EuFrench": [
+        "C'est doux au palais!"
+      ],
+      "EuGerman": [
+        "Welch süße Note",
+        "im Abgang!"
+      ],
+      "EuItalian": [
+        "Ahhh... Finalmente qualcosa di dolce!"
+      ],
+      "EuDutch": [
+        "Ahh, just a touch",
+        "of sweetness!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:甘;あま]さひかえめにしとくれ"
+      ],
+      "KrKorean": [
+        "많이 달지 않게 해 줘!"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "給我低糖的啊！"
+      ]
+    }
+  },
+  {
+    "label": "Meister_StarPieceReaction_Flow005",
+    "attributes": {
+      "talk_type": "SHOUT",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "SE_SV_MEISTER_TALK_HAHAN",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Tastes like [color:blue]Star Bit bread[defcolor]..."
+      ],
+      "EuEnglish": [
+        "Tastes like",
+        "[color:blue]star cake[defcolor]..."
+      ],
+      "UsSpanish": [
+        "Saben a [color:blue]pan de trozos de estrella[defcolor]..."
+      ],
+      "EuSpanish": [
+        "Sabroso [color:blue]pan",
+        "estrellado[defcolor]..."
+      ],
+      "UsFrench": [
+        "Ça goûte le[color:blue] pain",
+        "aux éclats d'étoile[defcolor]..."
+      ],
+      "EuFrench": [
+        "Ah, le [color:blue]pain aux [defcolor][icon:purple_starbit]",
+        "de ma grand-mère..."
+      ],
+      "EuGerman": [
+        "Oh! Knackig wie",
+        "Sternenstaubbrot!"
+      ],
+      "EuItalian": [
+        "Buono!",
+        "È [color:blue]pan astrale[defcolor]?"
+      ],
+      "EuDutch": [
+        "Tastes like",
+        "[color:blue]star cake[defcolor]..."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[color:blue][ruby:星;ほし]くずパン[defcolor]を[ruby:思;おも]い[ruby:出;だ]すよ・・・"
+      ],
+      "KrKorean": [
+        "[color:blue]별빵[defcolor]이 생각나는군…"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "讓我想起[color:blue]星塵麵包[defcolor]…"
+      ]
+    }
+  }
+]

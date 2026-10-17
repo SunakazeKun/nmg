@@ -1,0 +1,1186 @@
+[
+  {
+    "label": "CONT_01",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Connect a Nunchuk to",
+        "Player 1's Wii Remote."
+      ],
+      "EuEnglish": [
+        "Connect a Nunchuk to",
+        "Player 1's Wii Remote."
+      ],
+      "UsSpanish": [
+        "Conecta el Nunchuk al",
+        "Wii Remote del jugador 1."
+      ],
+      "EuSpanish": [
+        "Conecta un Nunchuk",
+        "al mando de Wii del J1."
+      ],
+      "UsFrench": [
+        "Veuillez connecter un Nunchuk à la",
+        "manette Wii Remote du joueur 1."
+      ],
+      "EuFrench": [
+        "Veuillez connecter un Nunchuk à",
+        "la télécommande Wii du Joueur 1."
+      ],
+      "EuGerman": [
+        "Bitte das [icon:nunchuck] Nunchuk an",
+        "die [icon:wiimote] Wii-Fernbedienung",
+        "von Spieler 1 anschließen."
+      ],
+      "EuItalian": [
+        "Collega il Nunchuk al telecomando",
+        "Wii del giocatore 1."
+      ],
+      "EuDutch": [
+        "Connect a Nunchuk to",
+        "Player 1's Wii Remote."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "1PのWiiリモコンにヌンチャクを",
+        "[ruby:接続;せつぞく]してください。"
+      ],
+      "KrKorean": [
+        "1P의 Wii 리모컨에 눈차크를",
+        "연결해 주십시오."
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "請將雙節棍控制器連接到",
+        "1P的Wii遙控器。"
+      ]
+    }
+  },
+  {
+    "label": "CONT_10",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Communications with the Wii Remote",
+        "have been interrupted. To reconnect,",
+        "press [icon:a_button] without touching the",
+        "Control Stick on the Nunchuk."
+      ],
+      "EuEnglish": [
+        "Communications with the Wii Remote",
+        "have been interrupted. Press [icon:a_button] without",
+        "touching the Control Stick on",
+        "the Nunchuk to reconnect."
+      ],
+      "UsSpanish": [
+        "La comunicación con el Wii Remote",
+        "se ha interrumpido.",
+        "Oprime [icon:a_button] y no muevas",
+        "la palanca de control del Nunchuk",
+        "para volver a conectarlo."
+      ],
+      "EuSpanish": [
+        "Se ha interrumpido la conexión con",
+        "el mando de Wii. Pulsa [icon:a_button] sin mover",
+        "la palanca de control del Nunchuk",
+        "para volver a conectarlo."
+      ],
+      "UsFrench": [
+        "La communication avec la manette",
+        "Wii Remote a été interrompue. Appuyez",
+        "sur [icon:a_button] sans toucher au levier de",
+        "contrôle du Nunchuk pour la reconnecter."
+      ],
+      "EuFrench": [
+        "La connexion avec la télécommande Wii",
+        "a été interrompue. Veuillez appuyer sur",
+        "[icon:a_button] sans toucher au Stick directionnel",
+        "du Nunchuk."
+      ],
+      "EuGerman": [
+        "Die Verbindung zur [icon:wiimote] Wii-Fernbedienung",
+        "wurde unterbrochen.",
+        "Drücke [icon:a_button], ohne den [icon:analog_stick] Control Stick",
+        "des [icon:nunchuck] Nunchuks zu berühren."
+      ],
+      "EuItalian": [
+        "Il collegamento con il telecomando",
+        "Wii si è interrotto. Per ristabilirlo,",
+        "premi il pulsante A senza toccare",
+        "il Control Stick del Nunchuk."
+      ],
+      "EuDutch": [
+        "Communications with the Wii Remote",
+        "have been interrupted. Press [icon:a_button] without",
+        "touching the Control Stick on",
+        "the Nunchuk to reconnect."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "Wiiリモコンの[ruby:通信;つうしん]が[ruby:切;き]れました。",
+        "つなぎなおすには、ヌンチャクの",
+        "コントロールスティックにさわらずに",
+        "[icon:a_button]を[ruby:押;お]してください。"
+      ],
+      "KrKorean": [
+        "Wii 리모컨의 통신이 끊겼습니다.",
+        "다시 연결하려면 눈차크의",
+        "컨트롤 스틱은 그대로 두고",
+        "[icon:a_button]를 눌러 주십시오."
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "Wii遙控器的連線已中斷。",
+        "重新連線時，",
+        "請勿觸碰雙節棍控制器的操控搖桿，",
+        "按[icon:a_button]。"
+      ]
+    }
+  },
+  {
+    "label": "CONT_10_2",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Communications with the Wii Remote",
+        "have been interrupted. If the batteries",
+        "are low, replace them and press [icon:a_button]",
+        "without touching the Control Stick on",
+        "the Nunchuk."
+      ],
+      "EuEnglish": [
+        "Communications with the Wii Remote",
+        "have been interrupted. If the batteries",
+        "are low, replace them and press [icon:a_button]",
+        "without touching the Control Stick on",
+        "the Nunchuk."
+      ],
+      "UsSpanish": [
+        "La comunicación con el Wii Remote",
+        "se ha interrumpido.",
+        "Si las pilas se están agotando,",
+        "cámbialas y oprime [icon:a_button] sin tocar",
+        "la palanca de control del Nunchuk."
+      ],
+      "EuSpanish": [
+        "Se ha interrumpido la conexión con",
+        "el mando de Wii. Si las pilas se están",
+        "agotando, cámbialas y luego pulsa [icon:a_button]",
+        "sin mover la palanca de control del Nunchuk."
+      ],
+      "UsFrench": [
+        "La communication avec la manette",
+        "Wii Remote a été interrompue. Si les",
+        "piles sont presque vides, remplacez-",
+        "les et appuyez sur [icon:a_button] sans toucher",
+        "au levier de contrôle du Nunchuk."
+      ],
+      "EuFrench": [
+        "La connexion avec la télécommande Wii",
+        "a été interrompue. Si les piles sont vides,",
+        "veuillez les remplacer et appuyer sur [icon:a_button]",
+        "sans toucher au Stick directionnel du",
+        "Nunchuk."
+      ],
+      "EuGerman": [
+        "Die Verbindung zur [icon:wiimote] Wii-Fernbedienung",
+        "wurde unterbrochen.",
+        "Falls die Batterien leer sind, wechsele",
+        "sie bitte aus und drücke [icon:a_button], ohne den",
+        "[icon:analog_stick] Control Stick des [icon:nunchuck] Nunchuks",
+        "zu berühren."
+      ],
+      "EuItalian": [
+        "Il collegamento con il telecomando Wii si",
+        "è interrotto. Se le batterie sono scariche,",
+        "sostituiscile e premi il pulsante A senza",
+        "toccare il Control Stick del Nunchuk."
+      ],
+      "EuDutch": [
+        "Communications with the Wii Remote",
+        "have been interrupted. If the batteries",
+        "are low, replace them and press [icon:a_button]",
+        "without touching the Control Stick on",
+        "the Nunchuk."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "Wiiリモコンの[ruby:通信;つうしん]が[ruby:切;き]れました。",
+        "[ruby:電池;でんち]が[ruby:残;のこ]り[ruby:少;すく]ない[ruby:場合;ばあい]には[ruby:電池;でんち]を[ruby:交換;こうかん]し、",
+        "ヌンチャクのコントロールスティックに",
+        "さわらずに[icon:a_button]を[ruby:押;お]してください。"
+      ],
+      "KrKorean": [
+        "Wii 리모컨의 통신이 끊겼습니다.",
+        "전지가 얼마 남지 않았다면 교환 후",
+        "눈차크의 컨트롤 스틱은 그대로 두고",
+        "[icon:a_button]를 눌러 주십시오."
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "Wii遙控器的連線已中斷。",
+        "電池剩餘量不多時請更換電池，",
+        "此時請勿觸碰雙節棍控制器的",
+        "操控搖桿，按[icon:a_button]。"
+      ]
+    }
+  },
+  {
+    "label": "NAND_02",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "There is not enough available space in",
+        "Wii system memory. Create 1 block of free",
+        "space either by moving data to an SD Card",
+        "or deleting data in the Wii console's Data",
+        "Management screen. Do you want to continue",
+        "anyway, or quit the game and go to the",
+        "Wii Menu Data Management screen?"
+      ],
+      "EuEnglish": [
+        "There is not enough available space in the",
+        "Wii System Memory. Create 1 block of free",
+        "space either by moving data to an SD Card",
+        "or deleting data in the Wii console's Data",
+        "Management screen.",
+        "Do you want to continue anyway, or quit",
+        "the game and go to the Wii Menu Data",
+        "Management screen?"
+      ],
+      "UsSpanish": [
+        "No hay suficiente espacio libre en la",
+        "memoria de la consola Wii. Bloques libres",
+        "necesarios: 1. Transfiere datos a una",
+        "tarjeta SD o borra los que no necesites",
+        "en la pantalla de gestión de datos",
+        "de la consola Wii. ¿Quieres continuar o",
+        "salir del juego e ir a la pantalla de gestión",
+        "de datos?"
+      ],
+      "EuSpanish": [
+        "No hay suficiente espacio libre en la",
+        "memoria de la consola Wii. Bloques libres",
+        "necesarios: 1. Transfiere datos a una",
+        "tarjeta SD o borra los que no necesites",
+        "en la pantalla de gestión de datos",
+        "de la consola Wii.",
+        "¿Quieres continuar sin guardar",
+        "o prefieres salir del juego e ir a",
+        "la pantalla de gestión de datos?"
+      ],
+      "UsFrench": [
+        "Il n'y a pas assez d'espace libre dans la",
+        "mémoire de la console Wii. Libérez 1 bloc",
+        "en transférant des données sur une carte",
+        "SD ou en effaçant des données à partir de",
+        "l'écran de gestion des données de la console",
+        "Wii. Voulez-vous continuer quand même, ou",
+        "quitter le jeu et retourner à l'écran de gestion",
+        "des données du menu Wii?"
+      ],
+      "EuFrench": [
+        "Il n'y a pas assez d'espace libre dans la",
+        "mémoire de la console Wii. Libérez 1 bloc en",
+        "transférant des données vers une carte SD",
+        "ou en les effaçant depuis l'écran de gestion",
+        "des données de la console Wii. Voulez-vous",
+        "continuer de jouer ou retourner à l'écran de",
+        "gestion des données de la console Wii?"
+      ],
+      "EuGerman": [
+        "Nicht genügend freier Platz im Speicher der",
+        "Wii-Konsole vorhanden. Bitte rufe den",
+        "Datenverwaltungsbildschirm der Wii-Konsole",
+        "auf, um Daten auf eine SD Card zu",
+        "verschieben oder zu löschen (erforderliche",
+        "Blöcke: 1). Möchtest du trotzdem fortfahren",
+        "oder das Spiel unterbrechen und zum",
+        "Datenverwaltungsbildschirm wechseln?"
+      ],
+      "EuItalian": [
+        "Non c'è abbastanza spazio libero nella",
+        "memoria della console Wii. Blocchi liberi",
+        "necessari: 1. Per creare spazio, vai allo",
+        "schermo Gestione dati della console Wii",
+        "e cancella alcuni dati o trasferiscili in una",
+        "scheda SD. Vuoi proseguire senza salvare,",
+        "oppure uscire dal gioco ed andare allo",
+        "schermo Gestione dati?"
+      ],
+      "EuDutch": [
+        "There is not enough available space in the",
+        "Wii System Memory. Create 1 block of free",
+        "space either by moving data to an SD Card",
+        "or deleting data in the Wii console's Data",
+        "Management screen.",
+        "Do you want to continue anyway, or quit",
+        "the game and go to the Wii Menu Data",
+        "Management screen?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "Wii[ruby:本体保存;ほんたいほぞん]メモリの[ruby:空;あ]き[ruby:容量;ようりょう]が[ruby:不足;ふそく]しています。",
+        "Wiiメニューのデータ[ruby:管理画面;かんりがめん]でデータを",
+        "SDカードに[ruby:移動;いどう]するか、データを[ruby:消去;しょうきょ]して",
+        "1ブロックの[ruby:空;あ]きブロックを[ruby:用意;ようい]してください。",
+        "ゲームを[ruby:中止;ちゅうし]し、Wiiメニューのデータ[ruby:管理画面;かんりがめん]に",
+        "[ruby:移動;いどう]しますか?"
+      ],
+      "KrKorean": [
+        "Wii 본체 저장 메모리의 빈 용량이 부족합니다.",
+        "Wii 메뉴의 데이터 관리 화면에서 데이터를",
+        "SD 카드로 이동하거나 데이터를 삭제하여",
+        "1블록의 여유 공간을 확보해 주십시오.",
+        "게임을 중지하고 Wii 메뉴의 데이터 관리 화면",
+        "으로 이동하시겠습니까?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "Wii主機記憶體的剩餘空間不足。",
+        "請在Wii選單的資料管理畫面裡",
+        "將資料轉移到SD卡或刪除資料，",
+        "確保1個區域的剩餘空間。",
+        "要中止遊戲切換到Wii選單的",
+        "資料管理畫面嗎?"
+      ]
+    }
+  },
+  {
+    "label": "NAND_02_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Continue"
+      ],
+      "EuEnglish": [
+        "Continue"
+      ],
+      "UsSpanish": [
+        "Continuar"
+      ],
+      "EuSpanish": [
+        "Continuar"
+      ],
+      "UsFrench": [
+        "Continuer"
+      ],
+      "EuFrench": [
+        "Continuer"
+      ],
+      "EuGerman": [
+        "Fortfahren"
+      ],
+      "EuItalian": [
+        "Prosegui"
+      ],
+      "EuDutch": [
+        "Continue"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:無視;むし]"
+      ],
+      "KrKorean": [
+        "아니요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "NAND_02_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Quit"
+      ],
+      "EuEnglish": [
+        "Quit"
+      ],
+      "UsSpanish": [
+        "Salir"
+      ],
+      "EuSpanish": [
+        "Salir"
+      ],
+      "UsFrench": [
+        "Quitter"
+      ],
+      "EuFrench": [
+        "Quitter"
+      ],
+      "EuGerman": [
+        "Abbrechen"
+      ],
+      "EuItalian": [
+        "Esci"
+      ],
+      "EuDutch": [
+        "Quit"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "Wiiメニューへ"
+      ],
+      "KrKorean": [
+        "예"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "前往Wii選單"
+      ]
+    }
+  },
+  {
+    "label": "NAND_03",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "There is not enough available space in Wii",
+        "system memory. Either move data to an SD",
+        "Card or delete data in the Wii console's",
+        "Data Management screen. Do you want to",
+        "continue anyway, or quit the game and go to",
+        "the Wii Menu Data Management screen?"
+      ],
+      "EuEnglish": [
+        "There is not enough available space in the",
+        "Wii System Memory. Either move data to an",
+        "SD Card or delete data in the Wii console's",
+        "Data Management screen.",
+        "Do you want to continue anyway, or quit",
+        "the game and go to the Wii Menu Data",
+        "Management screen?"
+      ],
+      "UsSpanish": [
+        "No hay suficiente espacio libre en la",
+        "memoria de la consola Wii. Transfiere",
+        "datos a una tarjeta SD o borra los que no",
+        "necesites en la pantalla de gestión de datos",
+        "de la consola Wii.",
+        "¿Quieres continuar o prefieres salir del",
+        "juego e ir a la pantalla de gestión de datos?"
+      ],
+      "EuSpanish": [
+        "No hay suficiente espacio libre en la",
+        "memoria de la consola Wii. Transfiere",
+        "datos a una tarjeta SD o borra los que",
+        "no necesites en la pantalla de gestión",
+        "de datos de la consola Wii.",
+        "¿Quieres continuar sin guardar",
+        "o prefieres salir del juego e ir a",
+        "la pantalla de gestión de datos?"
+      ],
+      "UsFrench": [
+        "Il n'y a pas assez d'espace libre dans la",
+        "mémoire de la console Wii. Transférez des",
+        "données sur une carte SD ou effacez des",
+        "données inutiles à partir de l'écran de",
+        "gestion des données de la console Wii.",
+        "Voulez-vous continuer quand même, ou",
+        "quitter le jeu et retourner à l'écran de",
+        "gestion des données du menu Wii?"
+      ],
+      "EuFrench": [
+        "Il n'y a pas assez d'espace libre dans la",
+        "mémoire de la console Wii. Transférez des",
+        "données sur une carte SD ou effacez des",
+        "données inutiles depuis l'écran de gestion",
+        "des données de la console Wii. Voulez-vous",
+        "continuer de jouer ou retourner à l'écran de",
+        "gestion des données de la console Wii?"
+      ],
+      "EuGerman": [
+        "Nicht genügend freier Platz im Speicher der",
+        "Wii-Konsole vorhanden. Bitte rufe den",
+        "Datenverwaltungsbildschirm der Wii-Konsole",
+        "auf, um Daten auf eine SD Card zu",
+        "verschieben oder zu löschen. Möchtest du",
+        "trotzdem fortfahren oder das Spiel unter-",
+        "brechen und zum Datenverwaltungsbildschirm",
+        "wechseln?"
+      ],
+      "EuItalian": [
+        "Non c'è abbastanza spazio libero nella",
+        "memoria della console Wii. Per creare spazio,",
+        "vai allo schermo Gestione dati della console",
+        "Wii e cancella alcuni dati o trasferiscili in una",
+        "scheda SD. Vuoi proseguire senza salvare,",
+        "oppure uscire dal gioco ed andare allo",
+        "schermo Gestione dati?"
+      ],
+      "EuDutch": [
+        "There is not enough available space in the",
+        "Wii System Memory. Either move data to an",
+        "SD Card or delete data in the Wii console's",
+        "Data Management screen.",
+        "Do you want to continue anyway, or quit",
+        "the game and go to the Wii Menu Data",
+        "Management screen?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "Wii[ruby:本体保存;ほんたいほぞん]メモリの[ruby:空;あ]きファイル[ruby:数;すう]が",
+        "[ruby:不足;ふそく]しています。",
+        "Wiiメニューのデータ[ruby:管理画面;かんりがめん]でデータを",
+        "SDカードに[ruby:移動;いどう]するか、データを[ruby:消去;しょうきょ]してください。",
+        "ゲームを[ruby:中止;ちゅうし]し、Wiiメニューのデータ[ruby:管理画面;かんりがめん]に",
+        "[ruby:移動;いどう]しますか?"
+      ],
+      "KrKorean": [
+        "Wii 본체 저장 메모리의",
+        "빈 파일 수가 부족합니다.",
+        "Wii 메뉴의 데이터 관리 화면에서",
+        "데이터를 SD 카드로 이동하거나",
+        "데이터를 삭제해 주십시오.",
+        "게임을 중지하고 Wii 메뉴의 데이터 관리 화면",
+        "으로 이동하시겠습니까?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "Wii主機記憶體的剩餘檔案數不足。",
+        "請在Wii選單的資料管理畫面裡",
+        "將資料轉移到SD卡，或刪除資料。",
+        "要中止遊戲切換到Wii選單的",
+        "資料管理畫面嗎?"
+      ]
+    }
+  },
+  {
+    "label": "NAND_03_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Continue"
+      ],
+      "EuEnglish": [
+        "Continue"
+      ],
+      "UsSpanish": [
+        "Continuar"
+      ],
+      "EuSpanish": [
+        "Continuar"
+      ],
+      "UsFrench": [
+        "Continuer"
+      ],
+      "EuFrench": [
+        "Continuer"
+      ],
+      "EuGerman": [
+        "Fortfahren"
+      ],
+      "EuItalian": [
+        "Prosegui"
+      ],
+      "EuDutch": [
+        "Continue"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:無視;むし]"
+      ],
+      "KrKorean": [
+        "아니요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "NAND_03_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Quit"
+      ],
+      "EuEnglish": [
+        "Quit"
+      ],
+      "UsSpanish": [
+        "Salir"
+      ],
+      "EuSpanish": [
+        "Salir"
+      ],
+      "UsFrench": [
+        "Quitter"
+      ],
+      "EuFrench": [
+        "Quitter"
+      ],
+      "EuGerman": [
+        "Abbrechen"
+      ],
+      "EuItalian": [
+        "Esci"
+      ],
+      "EuDutch": [
+        "Quit"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "Wiiメニューへ"
+      ],
+      "KrKorean": [
+        "예"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "前往Wii選單"
+      ]
+    }
+  },
+  {
+    "label": "NAND_07",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The file cannot be used because the data is",
+        "corrupted. Would you like to delete the file?"
+      ],
+      "EuEnglish": [
+        "The file cannot be used because the data is",
+        "corrupted. Would you like to delete the file?"
+      ],
+      "UsSpanish": [
+        "Los datos están dañados y no se pueden usar.",
+        "¿Quieres borrar los datos?"
+      ],
+      "EuSpanish": [
+        "Los datos están dañados",
+        "y no se pueden usar.",
+        "¿Quieres borrar los datos?"
+      ],
+      "UsFrench": [
+        "Le fichier est corrompu et ne peut pas être",
+        "utilisé. Voulez-vous supprimer le fichier?"
+      ],
+      "EuFrench": [
+        "Le fichier est corrompu et ne peut pas être",
+        "utilisé. Voulez-vous effacer ce fichier?"
+      ],
+      "EuGerman": [
+        "Die Datei ist fehlerhaft und kann",
+        "daher nicht verwendet werden.",
+        "Möchtest du die Datei jetzt löschen?"
+      ],
+      "EuItalian": [
+        "Il file non può essere usato perché i dati",
+        "sono danneggiati. Vuoi proseguire senza",
+        "salvare, oppure cancellare il file?"
+      ],
+      "EuDutch": [
+        "The file cannot be used because the data is",
+        "corrupted. Would you like to delete the file?"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "データが[ruby:壊;こわ]れているため、セーブファイルが",
+        "[ruby:使用;しよう]できません。",
+        "ファイルを[ruby:消去;しょうきょ]しますか?"
+      ],
+      "KrKorean": [
+        "데이터가 손상되어 있어",
+        "본 파일은 사용할 수 없습니다.",
+        "파일을 삭제하시겠습니까?"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "儲存資料已損壞，無法使用儲存檔案。",
+        "要刪除檔案嗎?"
+      ]
+    }
+  },
+  {
+    "label": "NAND_07_No",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "No"
+      ],
+      "EuEnglish": [
+        "No"
+      ],
+      "UsSpanish": [
+        "No"
+      ],
+      "EuSpanish": [
+        "No"
+      ],
+      "UsFrench": [
+        "Non"
+      ],
+      "EuFrench": [
+        "Non"
+      ],
+      "EuGerman": [
+        "Nein"
+      ],
+      "EuItalian": [
+        "Prosegui"
+      ],
+      "EuDutch": [
+        "No"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:無視;むし]"
+      ],
+      "KrKorean": [
+        "아니요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "不要"
+      ]
+    }
+  },
+  {
+    "label": "NAND_07_Yes",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Yes"
+      ],
+      "EuEnglish": [
+        "Yes"
+      ],
+      "UsSpanish": [
+        "Sí"
+      ],
+      "EuSpanish": [
+        "Sí"
+      ],
+      "UsFrench": [
+        "Oui"
+      ],
+      "EuFrench": [
+        "Oui"
+      ],
+      "EuGerman": [
+        "[0:2;0064]Ja[0:2;0064]"
+      ],
+      "EuItalian": [
+        "Cancella il file"
+      ],
+      "EuDutch": [
+        "Yes"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[ruby:消;け]す"
+      ],
+      "KrKorean": [
+        "삭제"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "刪除"
+      ]
+    }
+  },
+  {
+    "label": "NAND_08",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "The Wii system memory has been",
+        "damaged. Refer to the Wii Operations",
+        "Manual for details."
+      ],
+      "EuEnglish": [
+        "The Wii System Memory has been",
+        "damaged. Refer to the Wii Operations",
+        "Manual for details."
+      ],
+      "UsSpanish": [
+        "La memoria de la consola Wii",
+        "está dañada.",
+        "",
+        "Consulta el manual de operaciones",
+        "de la consola Wii para obtener más",
+        "información."
+      ],
+      "EuSpanish": [
+        "La memoria de la consola Wii está",
+        "dañada. Consulta el manual de",
+        "instrucciones de la consola Wii",
+        "para obtener más información."
+      ],
+      "UsFrench": [
+        "La mémoire de la console Wii a été",
+        "endommagée. Veuillez vous référer au",
+        "mode d'emploi de la Wii pour plus de",
+        "détails."
+      ],
+      "EuFrench": [
+        "La mémoire de la console Wii est",
+        "endommagée. Veuillez vous référer",
+        "au mode d'emploi Wii pour plus",
+        "de détails."
+      ],
+      "EuGerman": [
+        "Der Speicher der Wii-Konsole ist",
+        "beschädigt.",
+        "Bitte lies die Wii-Bedienungsanleitung,",
+        "um weitere Informationen zu erhalten."
+      ],
+      "EuItalian": [
+        "La memoria della console Wii è danneggiata.",
+        "Per maggiori informazioni, consulta il",
+        "manuale di istruzioni della console Wii."
+      ],
+      "EuDutch": [
+        "The Wii System Memory has been",
+        "damaged. Refer to the Wii Operations",
+        "Manual for details."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "Wii[ruby:本体保存;ほんたいほぞん]メモリが[ruby:壊;こわ]れました。",
+        "くわしくはWii[ruby:本体;ほんたい]の[ruby:取扱説明書;とりあつかいせつめいしょ]を",
+        "お[ruby:読;よ]みください。"
+      ],
+      "KrKorean": [
+        "Wii 본체 저장 메모리가 손상되어",
+        "있습니다.",
+        "자세한 내용은 Wii 본체 사용설명서를",
+        "읽어 주십시오."
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "Wii主機記憶體已損壞。",
+        "詳情請查看Wii主機使用說明書。"
+      ]
+    }
+  },
+  {
+    "label": "NAND_11",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Could not access Wii system memory.",
+        "Refer to the Wii Operations Manual",
+        "for details."
+      ],
+      "EuEnglish": [
+        "Could not access the Wii System",
+        "Memory. Refer to the Wii Operations",
+        "Manual for details."
+      ],
+      "UsSpanish": [
+        "No se ha podido acceder a la memoria",
+        "de la consola Wii. Consulta el manual",
+        "de operaciones de la consola Wii",
+        "para obtener más información."
+      ],
+      "EuSpanish": [
+        "No se ha podido acceder a la memoria",
+        "de la consola Wii. Consulta el manual",
+        "de instrucciones de la consola Wii",
+        "para obtener más información."
+      ],
+      "UsFrench": [
+        "Impossible d'accéder à la mémoire de la",
+        "console Wii. Veuillez vous référer au",
+        "mode d'emploi de la Wii pour plus de",
+        "détails."
+      ],
+      "EuFrench": [
+        "Impossible d'accéder à la mémoire",
+        "de la console Wii. Veuillez vous référer",
+        "au mode d'emploi Wii pour plus de détails."
+      ],
+      "EuGerman": [
+        "Auf den Speicher der Wii-Konsole",
+        "konnte nicht zugegriffen werden.",
+        "Bitte lies die Wii-Bedienungsanleitung,",
+        "um weitere Informationen zu erhalten."
+      ],
+      "EuItalian": [
+        "Impossibile accedere alla memoria della",
+        "console Wii. Per maggiori informazioni,",
+        "consulta il manuale di istruzioni della",
+        "console Wii."
+      ],
+      "EuDutch": [
+        "Could not access the Wii System",
+        "Memory. Refer to the Wii Operations",
+        "Manual for details."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "Wii[ruby:本体保存;ほんたいほぞん]メモリの[ruby:書;か]き[ruby:込;こ]み/[ruby:読;よ]み[ruby:出;だ]しが",
+        "できませんでした。",
+        "くわしくはWii[ruby:本体;ほんたい]の[ruby:取扱説明書;とりあつかいせつめいしょ]を",
+        "お[ruby:読;よ]みください。"
+      ],
+      "KrKorean": [
+        "Wii 본체 저장 메모리의 읽기/쓰기를",
+        "할 수 없습니다.",
+        "자세한 내용은 Wii 본체 사용설명서를",
+        "읽어 주십시오."
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "Wii主機記憶體無法寫入/讀取。",
+        "詳情請查看Wii主機使用說明書。"
+      ]
+    }
+  },
+  {
+    "label": "NAND_12",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "WHITE_BUBBLE",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "An error occurred while accessing",
+        "Wii system memory. Refer to the",
+        "Wii Operations Manual for details."
+      ],
+      "EuEnglish": [
+        "An error occurred while accessing",
+        "the Wii System Memory. Refer to the",
+        "Wii Operations Manual for details."
+      ],
+      "UsSpanish": [
+        "Se ha producido un error al intentar",
+        "acceder a la memoria de la consola Wii.",
+        "",
+        "Consulta el manual de operaciones",
+        "de la consola Wii para obtener más",
+        "información."
+      ],
+      "EuSpanish": [
+        "Se ha producido un error al acceder",
+        "a la memoria de la consola Wii.",
+        "Consulta el manual de instrucciones",
+        "de la consola Wii para obtener",
+        "más información."
+      ],
+      "UsFrench": [
+        "Une erreur est survenue pendant le",
+        "processus de lecture ou d'écriture dans",
+        "la mémoire de la console Wii. Veuillez",
+        "vous référer au mode d'emploi de la Wii",
+        "pour plus de détails."
+      ],
+      "EuFrench": [
+        "Une erreur est survenue lors",
+        "de l'accès à la mémoire de la",
+        "console Wii. Veuillez vous référer",
+        "au mode d'emploi Wii pour plus",
+        "de détails."
+      ],
+      "EuGerman": [
+        "Beim Zugriff auf den Speicher der",
+        "Wii-Konsole ist ein Fehler aufgetreten.",
+        "Bitte lies die Wii-Bedienungsanleitung,",
+        "um weitere Informationen zu erhalten."
+      ],
+      "EuItalian": [
+        "Si è verificato un errore durante",
+        "l'accesso ai dati contenuti nella",
+        "memoria della console Wii. Per",
+        "maggiori informazioni, consulta",
+        "il manuale di istruzioni della",
+        "console Wii."
+      ],
+      "EuDutch": [
+        "An error occurred while accessing",
+        "the Wii System Memory. Refer to the",
+        "Wii Operations Manual for details."
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "Wii[ruby:本体保存;ほんたいほぞん]メモリの",
+        "[ruby:書;か]き[ruby:込;こ]み/[ruby:読;よ]み[ruby:出;だ]し[ruby:中;ちゅう]にエラーが",
+        "[ruby:発生;はっせい]しました。",
+        "くわしくはWii[ruby:本体;ほんたい]の[ruby:取扱説明書;とりあつかいせつめいしょ]を",
+        "お[ruby:読;よ]みください。"
+      ],
+      "KrKorean": [
+        "Wii 본체 저장 메모리의 읽기/쓰기 중에",
+        "에러가 발생했습니다.",
+        "자세한 내용은 Wii 본체 사용설명서를",
+        "읽어 주십시오."
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "寫入/讀取Wii主機記憶體時發生錯誤。",
+        "詳情請查看Wii主機使用說明書。"
+      ]
+    }
+  }
+]

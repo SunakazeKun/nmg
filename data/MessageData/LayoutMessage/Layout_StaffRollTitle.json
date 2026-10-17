@@ -1,0 +1,57 @@
+[
+  {
+    "label": "StaffRollTitle_End",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "THE END"
+      ],
+      "EuEnglish": [
+        "THE END"
+      ],
+      "UsSpanish": [
+        "FIN"
+      ],
+      "EuSpanish": [
+        "FIN"
+      ],
+      "UsFrench": [
+        "FIN"
+      ],
+      "EuFrench": [
+        "Fin"
+      ],
+      "EuGerman": [
+        "ENDE"
+      ],
+      "EuItalian": [
+        "FINE"
+      ],
+      "EuDutch": [
+        "THE END"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "THE END"
+      ],
+      "KrKorean": [
+        "THE END"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "THE END"
+      ]
+    }
+  }
+]

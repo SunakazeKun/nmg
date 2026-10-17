@@ -1,0 +1,277 @@
+[
+  {
+    "label": "System_Date000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[intvar:5;1;0]/[intvar:5;2;0]/[intvar:3;0;0]"
+      ],
+      "EuEnglish": [
+        "[intvar:5;2;0]/[intvar:5;1;0]/[intvar:3;0;0]"
+      ],
+      "UsSpanish": [
+        "[intvar:5;2;0]/[intvar:5;1;0]/[intvar:3;0;0]"
+      ],
+      "EuSpanish": [
+        "[intvar:5;2;0]-[intvar:5;1;0]-[intvar:3;0;0]"
+      ],
+      "UsFrench": [
+        "[intvar:5;2;0]-[intvar:5;1;0]-[intvar:3;0;0]"
+      ],
+      "EuFrench": [
+        "[intvar:5;2;0]/[intvar:5;1;0]/[intvar:3;0;0]"
+      ],
+      "EuGerman": [
+        "[intvar:5;2;0].[intvar:5;1;0].[intvar:3;0;0]"
+      ],
+      "EuItalian": [
+        "[intvar:5;2;0]/[intvar:5;1;0]/[intvar:3;0;0]"
+      ],
+      "EuDutch": [
+        "[intvar:5;2;0]/[intvar:5;1;0]/[intvar:3;0;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[intvar:3;0;0]/[intvar:5;1;0]/[intvar:5;2;0]"
+      ],
+      "KrKorean": [
+        "[intvar:3;0;0]/[intvar:5;1;0]/[intvar:5;2;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[intvar:3;0;0]/[intvar:5;1;0]/[intvar:5;2;0]"
+      ]
+    }
+  },
+  {
+    "label": "System_Time000",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[intvar:5;1;0]:[intvar:5;2;0].[intvar:5;3;0]"
+      ],
+      "EuEnglish": [
+        "[intvar:5;1;0]:[intvar:5;2;0].[intvar:5;3;0]"
+      ],
+      "UsSpanish": [
+        "[intvar:5;1;0]:[intvar:5;2;0].[intvar:5;3;0]"
+      ],
+      "EuSpanish": [
+        "[intvar:5;1;0]:[intvar:5;2;0],[intvar:5;3;0]"
+      ],
+      "UsFrench": [
+        "[intvar:5;1;0]:[intvar:5;2;0].[intvar:5;3;0]"
+      ],
+      "EuFrench": [
+        "[intvar:5;1;0]:[intvar:5;2;0],[intvar:5;3;0]"
+      ],
+      "EuGerman": [
+        "[intvar:5;1;0]:[intvar:5;2;0]:[intvar:5;3;0]"
+      ],
+      "EuItalian": [
+        "[intvar:5;1;0]:[intvar:5;2;0].[intvar:5;3;0]"
+      ],
+      "EuDutch": [
+        "[intvar:5;1;0]:[intvar:5;2;0].[intvar:5;3;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[intvar:5;1;0]:[intvar:5;2;0].[intvar:5;3;0]"
+      ],
+      "KrKorean": [
+        "[intvar:5;1;0]:[intvar:5;2;0].[intvar:5;3;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[intvar:5;1;0]:[intvar:5;2;0]:[intvar:5;3;0]"
+      ]
+    }
+  },
+  {
+    "label": "System_Time001",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "EuEnglish": [
+        "[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "UsSpanish": [
+        "[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "EuSpanish": [
+        "[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "UsFrench": [
+        "[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "EuFrench": [
+        "[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "EuGerman": [
+        "[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "EuItalian": [
+        "[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "EuDutch": [
+        "[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "KrKorean": [
+        "[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[intvar:5;1;0]:[intvar:5;2;0]"
+      ]
+    }
+  },
+  {
+    "label": "System_Time002",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[intvar:5;0;0]:[intvar:5;1;0]"
+      ],
+      "EuEnglish": [
+        "[intvar:5;0;0]:[intvar:5;1;0]"
+      ],
+      "UsSpanish": [
+        "[intvar:5;0;0]:[intvar:5;1;0]"
+      ],
+      "EuSpanish": [
+        "[intvar:5;0;0]:[intvar:5;1;0]"
+      ],
+      "UsFrench": [
+        "[intvar:5;0;0]:[intvar:5;1;0]"
+      ],
+      "EuFrench": [
+        "[intvar:5;0;0]:[intvar:5;1;0]"
+      ],
+      "EuGerman": [
+        "[intvar:5;0;0]:[intvar:5;1;0]"
+      ],
+      "EuItalian": [
+        "[intvar:5;0;0]:[intvar:5;1;0]"
+      ],
+      "EuDutch": [
+        "[intvar:5;0;0]:[intvar:5;1;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[intvar:5;0;0]:[intvar:5;1;0]"
+      ],
+      "KrKorean": [
+        "[intvar:5;0;0]:[intvar:5;1;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[intvar:5;0;0]:[intvar:5;1;0]"
+      ]
+    }
+  },
+  {
+    "label": "System_Time003",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "[intvar:2;0;0]:[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "EuEnglish": [
+        "[intvar:2;0;0]:[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "UsSpanish": [
+        "[intvar:2;0;0]:[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "EuSpanish": [
+        "[intvar:2;0;0]:[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "UsFrench": [
+        "[intvar:2;0;0]:[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "EuFrench": [
+        "[intvar:2;0;0]:[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "EuGerman": [
+        "[intvar:2;0;0]:[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "EuItalian": [
+        "[intvar:2;0;0]:[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "EuDutch": [
+        "[intvar:2;0;0]:[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "[intvar:2;0;0]:[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "KrKorean": [
+        "[intvar:2;0;0]:[intvar:5;1;0]:[intvar:5;2;0]"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "[intvar:2;0;0]:[intvar:5;1;0]:[intvar:5;2;0]"
+      ]
+    }
+  }
+]

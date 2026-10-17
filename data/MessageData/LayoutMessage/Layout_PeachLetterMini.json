@@ -1,0 +1,197 @@
+[
+  {
+    "label": "PeachLetterMini_Body",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Would you like to share some",
+        "cake while we watch the shooting",
+        "stars? Meet me at the castle!"
+      ],
+      "EuEnglish": [
+        "Would you like to share some",
+        "cake while we watch the shooting",
+        "stars? Meet me at the castle!"
+      ],
+      "UsSpanish": [
+        "¿Te gustaría comer un",
+        "delicioso pastel conmigo mientras",
+        "miramos la lluvia de estrellas?",
+        "¡Nos vemos en el castillo!"
+      ],
+      "EuSpanish": [
+        "¿Te apetece comer un delicioso",
+        "pastel conmigo mientras miramos",
+        "las estrellas fugaces?",
+        "¡Te espero en mi castillo!"
+      ],
+      "UsFrench": [
+        "Que dirais-tu de venir avec",
+        "moi regarder les étoiles filantes?",
+        "J'ai aussi un gros morceau de",
+        "gâteau à partager! Viens vite",
+        "me rejoindre au château!"
+      ],
+      "EuFrench": [
+        "Que dirais-tu de déguster des",
+        "petits gâteaux avec moi tout en",
+        "contemplant les étoiles filantes?",
+        "Retrouve-moi au château!"
+      ],
+      "EuGerman": [
+        "Wie wäre es mit einem Stück",
+        "Kuchen, während wir den",
+        "Sternenhimmel beobachten?",
+        "Ich warte im Schloss auf dich!"
+      ],
+      "EuItalian": [
+        "ti piacerebbe mangiare un po'",
+        "di torta con me sotto le stelle",
+        "cadenti? Ti aspetto al castello..."
+      ],
+      "EuDutch": [
+        "Would you like to share some",
+        "cake while we watch the shooting",
+        "stars? Meet me at the castle!"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        " [ruby:流;なが]れ[ruby:星;ぼし]を[ruby:見;み]ながら",
+        " ケーキでもいかがですか?",
+        " お[ruby:城;しろ]で [ruby:待;ま]っています。"
+      ],
+      "KrKorean": [
+        "별똥별을 보면서",
+        "함께 케이크를 먹어요!",
+        "성에서 기다리고 있을게요"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "要不要一起看流星，",
+        "品嚐蛋糕?",
+        "我在城堡裡等你。"
+      ]
+    }
+  },
+  {
+    "label": "PeachLetterMini_From",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Peach"
+      ],
+      "EuEnglish": [
+        "Peach"
+      ],
+      "UsSpanish": [
+        "Peach"
+      ],
+      "EuSpanish": [
+        "                             Peach"
+      ],
+      "UsFrench": [
+        "Peach"
+      ],
+      "EuFrench": [
+        "Signé: Peach"
+      ],
+      "EuGerman": [
+        "Deine Peach"
+      ],
+      "EuItalian": [
+        "                             Peach"
+      ],
+      "EuDutch": [
+        "Peach"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "ピーチより"
+      ],
+      "KrKorean": [
+        "피치공주 드림"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "                碧姬"
+      ]
+    }
+  },
+  {
+    "label": "PeachLetterMini_To",
+    "attributes": {
+      "talk_type": "NORMAL",
+      "balloon_type": "UNKNOWN_8",
+      "sound_id": "NONE",
+      "camera_type": "NORMAL",
+      "camera_id": 0,
+      "msg_link_id": 255,
+      "unk7": 255,
+      "comment": ""
+    },
+    "languages": {
+      "UsEnglish": [
+        "Dear Mario,"
+      ],
+      "EuEnglish": [
+        "Dear Mario,"
+      ],
+      "UsSpanish": [
+        "Querido Mario:"
+      ],
+      "EuSpanish": [
+        "Querido Mario:"
+      ],
+      "UsFrench": [
+        "Cher Mario,"
+      ],
+      "EuFrench": [
+        "Cher Mario,"
+      ],
+      "EuGerman": [
+        "Lieber Mario!"
+      ],
+      "EuItalian": [
+        "Caro Mario,"
+      ],
+      "EuDutch": [
+        "Dear Mario,"
+      ],
+      "UsPortuguese": null,
+      "EuPortuguese": null,
+      "EuRussian": null,
+      "JpJapanese": [
+        "マリオへ"
+      ],
+      "KrKorean": [
+        "마리오에게"
+      ],
+      "CnSimpChinese": null,
+      "AsTradChinese": [
+        "給  瑪利歐"
+      ]
+    }
+  }
+]
