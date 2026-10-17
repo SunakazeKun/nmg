@@ -93,14 +93,14 @@ def __pack_msb_into_archive(archive: JKRArchive, language: str, archive_name: st
 
         message = document.new_message(label)
 
-        message.attributes["talk_type"]    = TalkType[json_msg["attributes"]["talk_type"]]
-        message.attributes["balloon_type"] = BalloonType[json_msg["attributes"]["balloon_type"]]
-        message.attributes["sound_id"]     = SoundID[json_msg["attributes"]["sound_id"]]
-        message.attributes["camera_type"]  = CameraType[json_msg["attributes"]["camera_type"]]
-        message.attributes["camera_id"]    = json_msg["attributes"]["camera_id"]
-        message.attributes["msg_link_id"]  = json_msg["attributes"]["msg_link_id"]
-        message.attributes["unk7"]         = json_msg["attributes"]["unk7"]
-        message.attributes["comment"]      = json_msg["attributes"]["comment"]
+        message.attributes["talk_type"]     = TalkType[json_msg["attributes"]["talk_type"]]
+        message.attributes["balloon_type"]  = BalloonType[json_msg["attributes"]["balloon_type"]]
+        message.attributes["sound_id"]      = SoundID[json_msg["attributes"]["sound_id"]]
+        message.attributes["camera_type"]   = CameraType[json_msg["attributes"]["camera_type"]]
+        message.attributes["camera_id"]     = json_msg["attributes"]["camera_id"]
+        message.attributes["msg_link_id"]   = json_msg["attributes"]["msg_link_id"]
+        message.attributes["msg_read_flag"] = json_msg["attributes"]["msg_read_flag"]
+        message.attributes["comment"]       = json_msg["attributes"]["comment"]
 
         message.text = __get_localized_msg_text(json_msg["languages"], language, archive_name, msb_name, label)
 

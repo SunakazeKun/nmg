@@ -92,14 +92,14 @@ def __create_and_pack_embedded_message_archive(language: str, json_data: list[di
     for json_msg in json_data:
         message = document.new_message(json_msg["label"])
 
-        message.attributes["talk_type"]    = TalkType[json_msg["attributes"]["talk_type"]]
-        message.attributes["balloon_type"] = BalloonType[json_msg["attributes"]["balloon_type"]]
-        message.attributes["sound_id"]     = SoundID[json_msg["attributes"]["sound_id"]]
-        message.attributes["camera_type"]  = CameraType[json_msg["attributes"]["camera_type"]]
-        message.attributes["camera_id"]    = json_msg["attributes"]["camera_id"]
-        message.attributes["msg_link_id"]  = json_msg["attributes"]["msg_link_id"]
-        message.attributes["unk7"]         = json_msg["attributes"]["unk7"]
-        message.attributes["comment"]      = json_msg["attributes"]["comment"]
+        message.attributes["talk_type"]     = TalkType[json_msg["attributes"]["talk_type"]]
+        message.attributes["balloon_type"]  = BalloonType[json_msg["attributes"]["balloon_type"]]
+        message.attributes["sound_id"]      = SoundID[json_msg["attributes"]["sound_id"]]
+        message.attributes["camera_type"]   = CameraType[json_msg["attributes"]["camera_type"]]
+        message.attributes["camera_id"]     = json_msg["attributes"]["camera_id"]
+        message.attributes["msg_link_id"]   = json_msg["attributes"]["msg_link_id"]
+        message.attributes["msg_read_flag"] = json_msg["attributes"]["msg_read_flag"]
+        message.attributes["comment"]       = json_msg["attributes"]["comment"]
 
         message.text = "\n".join(json_msg["languages"][language])
 
