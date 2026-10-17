@@ -52,7 +52,7 @@ SB4K_LANGUAGES = ["Korean"]
 
 COMPATIBILITY_ITEMS = [
     ("SB4P", SB4P_LANGUAGES, "Super Mario Galaxy 2", "Europe / Australia"),
-    ("SB4E", SB4E_LANGUAGES, "Super Mario Galaxy 2", "Americas"),
+    ("SB4E", SB4E_LANGUAGES, "Super Mario Galaxy 2", "North America"),
     ("SB4J", SB4J_LANGUAGES, "スーパーマリオギャラクシー 2", "Japan"),
     ("SB4W", SB4W_LANGUAGES, "超級瑪利歐銀河２", "Taiwan / Hong Kong"),
     ("SB4K", SB4K_LANGUAGES, "슈퍼 마리오 Wii 2", "Korea"),
@@ -87,6 +87,7 @@ CREDITS_ITEMS = [
     ("froggo",           "https://www.youtube.com/@froggo4321"),
     ("Gabbo",            "https://www.youtube.com/@gabbo6559"),
     ("Hadau",            None),
+    ("Jau_CR",           None),
     ("MarioGaming64",    "https://www.youtube.com/@MarioGaming64"),
     ("MikaMusic",        None),
     ("Mixlas",           None),
