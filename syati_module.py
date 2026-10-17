@@ -31,6 +31,7 @@ assert KAMEK_PATH.is_file(), "Missing Kamek linker!"
 
 # ======================================================================================================================
 
+LOADER_ADDRESS = 0x80001A00
 MODULE_REGIONS = [
     "SB4P",
     "SB4E",
@@ -328,7 +329,7 @@ def __link_loader(kamek_path: Path, xml_path: Path, dol_path: Path, region: str,
     input_dol = ORG_MAIN_DOLS_PATH / f'{region}.dol'
 
     link_cmd = (f'"{kamek_path}" {" ".join(map(str, link_files))} '
-                f'-static=0x80002000 '
+                f'-static=0x{LOADER_ADDRESS:08X} '
                 f'-externals=Syati/symbols/{region}.txt '
                 f'-output-riiv="{xml_path}" '
                 f'-input-dol="{input_dol}" '

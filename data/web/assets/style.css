@@ -55,7 +55,7 @@ footer {
 }
 
 .container {
-	background-color: #222;
+	background-color: #282828;
 	border-radius: 25px;
 	box-shadow: 5px 5px 16px black;
 	margin: 24px auto;
@@ -147,31 +147,32 @@ th, td {
 }
 
 .bullets li {
+    background-size: 36px 36px;
 	background-repeat: no-repeat;
-	min-height: 32px;
-	padding: 6px 16px 3px 42px;
+	min-height: 36px;
+	padding: 6px 16px 3px 48px;
 }
 
-.coinBlock {
-	background-image: url("li_coinBlock.webp");
+.hungryLuma {
+	background-image: url("li_hungryLuma.webp");
 }
 
-.noteBlock {
-	background-image: url("li_noteBlock.webp");
+.powerStar {
+	background-image: url("li_powerStar.webp");
 }
 
 .iceFlower {
 	background-image: url("li_iceFlower.webp");
 }
 
-.illustItem {
-	background-image: url("li_illustItem.webp");
+.starMushroom {
+	background-image: url("li_starMushroom.webp");
 }
 
-.kinokoLifeUp {
-	background-image: url("li_kinokoLifeUp.webp");
+.completeCrown {
+	background-image: url("li_completeCrown.webp");
 }
 
-.lumaPurple {
-	background-image: url("li_lumaPurple.webp");
+.stamp {
+	background-image: url("li_stamp.webp");
 }

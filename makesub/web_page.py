@@ -29,6 +29,7 @@ URL_DISCORD_SERVER = "https://discord.gg/C3px4rejUX"
 URL_NMG_TRAILER = "https://www.youtube.com/embed/NE4SSfk1iLs"
 URL_NMG_FILES = "https://mega.nz/folder/xhcDWTzQ#sf7Iya2oNGqQ15LWnWYjWQ"
 URL_SMG2_TEXTURES = "https://forums.dolphin-emu.org/Thread-super-mario-galaxy-2-hd-texture-mod"
+URL_CLASSIC_CTRL = "https://www.youtube.com/watch?v=KNAMVv-4W4g"
 URL_DOLPHIN_WIKI = "https://wiki.dolphin-emu.org/index.php?title=Riivolution_Mods"
 URL_RIIVOLUTION_WIKI = "https://wiki.hacks.guide/wiki/Wii:Riivolution"
 
@@ -36,12 +37,12 @@ TRAILER_EMBED_WIDTH = 448
 TRAILER_EMBED_HEIGHT = 252
 
 FEATURES_ITEMS = [
-    ("lumaPurple",   f'Supports all major game versions.'),
-    ("coinBlock",    f'<b>Eight new Galaxies</b> featuring <b>42 Power Stars</b>!'),
-    ("iceFlower",    f'The return of the <b>Ice Flower</b> and <b>Flying Star</b>!'),
-    ("kinokoLifeUp", f'Choose between <b>Normal</b> and <b>Daredevil</b> mode.'),
-    ("noteBlock",    f'Custom and remixed <b>music</b>.'),
-    ("illustItem",   f'New collectable <b>items</b>!'),
+    ("hungryLuma",    f'Supports all major game versions.'),
+    ("powerStar",     f'<b>Eight new Galaxies</b> featuring <b>42 Power Stars</b>!'),
+    ("iceFlower",     f'The return of the <b>Ice Flower</b> and <b>Red Star</b>!'),
+    ("starMushroom",  f'Choose between <b>Normal</b> and <b>Daredevil</b> mode.'),
+    ("completeCrown", f'Custom and remixed <b>music</b>.'),
+    ("stamp",         f'New collectable <b>items</b>!'),
 ]
 
 SB4P_LANGUAGES = ["English", "German", "Italian", "Spanish", "French"]  # Dutch, Portuguese, Russian
@@ -119,12 +120,17 @@ COMPATIBILITY_DESCRIPTION = (f'<em>Neo Mario Galaxy</em> works with all versions
                              f'is available in the languages listed below.')
 
 INSTALLATION_DESCRIPTION = (f'This guide provides step-by-step instructions for running <em>Neo Mario Galaxy</em> '
-                            f'on a physical Wii or Wii U console. If you want to play the game on Dolphin Emulator, '
-                            f'please check out the <a href="{URL_DOLPHIN_WIKI}" target="_blank">wiki page about '
-                            f'launching Riivolution mods</a>. On Dolphin, you can also use the HD texture pack '
-                            f'which is linked above. Huge thanks to SY24 for creating these textures! You can combine '
-                            f'these textures with the <a href="{URL_SMG2_TEXTURES}" target="_blank">Super Mario '
-                            f'Galaxy 2 HD texture pack</a> for the complete experience.')
+                            f'on a physical Wii or Wii U console.')
+DOLPHIN_SETUP_DESCRIPTION = (f'If you want to play the game on Dolphin Emulator, '
+                             f'please check out the <a href="{URL_DOLPHIN_WIKI}" target="_blank">wiki page about '
+                             f'launching Riivolution mods</a>. On Dolphin, you can also use the HD texture pack '
+                             f'which is linked above. Huge thanks to SY24 for creating these textures! You can combine '
+                             f'these textures with the <a href="{URL_SMG2_TEXTURES}" target="_blank">Super Mario '
+                             f'Galaxy 2 HD texture pack</a> for the complete experience.')
+CLASSIC_CTRL_DESCRIPTION = (f'You can also play with a Classic Controller instead of a Nunchuck. For this, you will '
+                            f'have to install a separate Riivolution patch created by Super Hackio. Be sure to check '
+                            f'out the <a href="{URL_CLASSIC_CTRL}">official video</a> for additional information and '
+                            f'download links.')
 
 REQUIREMENTS_ITEMS = [
     f'Wii or Wii U console',
@@ -297,6 +303,8 @@ def __insert_installation(html: Airium):
                     html(title)
 
         html.p(_t=INSTALLATION_DESCRIPTION)
+        html.p(_t=DOLPHIN_SETUP_DESCRIPTION)
+        html.p(_t=CLASSIC_CTRL_DESCRIPTION)
 
         with html.section():
             html.h3(id="requirements", _t="Requirements")
