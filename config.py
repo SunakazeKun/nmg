@@ -29,7 +29,13 @@ KAMEK_PATH = Path(os.getenv("KAMEK_PATH")).absolute()
 NEW_AUDIO_RES_PATH = Path(os.getenv("NEW_AUDIO_RES_PATH")).absolute()
 ORG_MAIN_DOLS_PATH = Path(os.getenv("ORG_MAIN_DOLS_PATH")).absolute()
 
-assert GAME_ID in {"SB4P", "SB4E", "SB4J", "SB4W", "SB4K"}
+assert GAME_ID in {"SB4P", "SB4E", "SB4J", "SB4W", "SB4K"}, f'{GAME_ID} is not a valid game ID!'
+assert GAME_PATH.is_dir(), "Active game dump is missing!"
+assert MWCCEPPC_PATH.is_file(), "CodeWarrior PPC EABI C/C++ Compiler is missing!"
+assert MWASMEPPC_PATH.is_file(), "CodeWarrior PPC EABI Assembler is missing!"
+assert KAMEK_PATH.is_file(), "Kamek linker is missing!"
+assert NEW_AUDIO_RES_PATH.is_dir(), "Modified AudioRes folder is missing!"
+assert ORG_MAIN_DOLS_PATH.is_dir(), "Original main.dol folder is missing!"
 
 
 # ======================================================================================================================
