@@ -19,6 +19,7 @@ logging.basicConfig(
 PROJECT_TITLE = "NMG_2026"
 PROJECT_VERSION = "1.6.0"
 
+GAME_ID = os.getenv("GAME_ID")
 GAME_PATH = Path(os.getenv("GAME_PATH")).absolute()
 
 MWCCEPPC_PATH = Path(os.getenv("MWCCEPPC_PATH")).absolute()
@@ -27,6 +28,8 @@ KAMEK_PATH = Path(os.getenv("KAMEK_PATH")).absolute()
 
 NEW_AUDIO_RES_PATH = Path(os.getenv("NEW_AUDIO_RES_PATH")).absolute()
 ORG_MAIN_DOLS_PATH = Path(os.getenv("ORG_MAIN_DOLS_PATH")).absolute()
+
+assert GAME_ID in {"SB4P", "SB4E", "SB4J", "SB4W", "SB4K"}
 
 
 # ======================================================================================================================

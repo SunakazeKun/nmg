@@ -6,10 +6,11 @@ The CodeWarrior compiler and assembler are used to generate object binaries and 
 module binary that can be loaded with Syati. Modules are built for all five versions of SMG2.
 """
 
-from config import GAME_PATH, MWCCEPPC_PATH, MWASMEPPC_PATH, KAMEK_PATH, ORG_MAIN_DOLS_PATH
+from config import GAME_ID, GAME_PATH, MWCCEPPC_PATH, MWASMEPPC_PATH, KAMEK_PATH, ORG_MAIN_DOLS_PATH
 from itertools import chain
 from pathlib import Path
 
+import shutil
 import logging
 import subprocess
 
@@ -129,6 +130,11 @@ def build_syati_binaries():
     for region in MODULE_REGIONS:
         build_syati_module(region, "RELEASE")
         build_syati_loader(region)
+
+    shutil.copyfile(
+        MODULE_CWD / BIN_SUBPATH / f'main_{GAME_ID}.dol',
+        GAME_PATH / "sys/main.dol"
+    )
 
 
 def build_syati_module(region: str, target: str):
