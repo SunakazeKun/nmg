@@ -60,18 +60,18 @@ COMPATIBILITY_ITEMS = [
 ]
 
 SCREENSHOTS_ITEMS = [
-    ("file_select",       "jpg",  "File Select"),
-    ("galactic_garden",   "webp", "Galactic Garden Galaxy"),
-    ("sweet_treat",       "webp", "Sweet Treat Galaxy"),
+    ("title_screen",      "webp", "Title Screen"),
     ("cosmic_spirit",     "webp", "Cosmic Spirit Intro"),
-    ("turnlog",           "webp", "Turnlog Galaxy"),
-    ("world_map",         "jpg",  "World Map Screen"),
+    ("galactic_garden",   "webp", "Galactic Garden Galaxy"),
+    ("world_map",         "webp", "World Map Screen"),
     ("gloomy_galleon",    "webp", "Gloomy Galleon Galaxy"),
-    ("power_up_room",     "webp", "Item Collection"),
-    ("battle_blast",      "webp", "Battle Blast Galaxy"),
-    ("comet_observatory", "jpg",  "Comet Observatory"),
-    ("eep_beep",          "webp", "Eep Beep Galaxy"),
     ("kraken_king",       "webp", "Kraken King Galaxy"),
+    ("eep_beep",          "webp", "Eep Beep Galaxy"),
+    ("comet_observatory", "webp", "Comet Observatory"),
+    ("sweet_treat",       "webp", "Sweet Treat Galaxy"),
+    ("battle_blast",      "webp", "Battle Blast Galaxy"),
+    ("turnlog",           "webp", "Turnlog Galaxy"),
+    ("power_up_room",     "webp", "Item Collection"),
 ]
 
 INSTALLATION_LINKS = [
