@@ -88,7 +88,7 @@ CREDITS_ITEMS = [
     ("froggo",           "https://www.youtube.com/@froggo4321"),
     ("Gabbo",            "https://www.youtube.com/@gabbo6559"),
     ("Hadau",            None),
-    ("Jau_CR",           None),
+    ("Jau_CR",           "https://x.com/Jau__CR"),
     ("MikaMusic",        None),
     ("Mixlas",           None),
     ("Mr. BMY",          "https://www.youtube.com/@MrBMY-dc5md"),
