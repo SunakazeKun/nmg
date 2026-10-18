@@ -87,7 +87,7 @@ CREDITS_ITEMS = [
     ("Floaty",           "https://www.youtube.com/@FloatyTico"),
     ("froggo",           "https://www.youtube.com/@froggo4321"),
     ("Gabbo",            "https://www.youtube.com/@gabbo6559"),
-    ("Hadau",            None),
+    ("Hadau",            "https://github.com/Hadau91"),
     ("Jau_CR",           "https://x.com/Jau__CR"),
     ("MikaMusic",        None),
     ("Mixlas",           None),
