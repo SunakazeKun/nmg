@@ -70,6 +70,7 @@
 # SPECIAL THANKS
 - SMGCommunity
 - Evanbowl
+- MarioGaming64
 - Splitwirez
 - Treeki
 
