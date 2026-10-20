@@ -22,6 +22,7 @@ def copy_simple_tree_to_game(iso_folder_subpath: Path, src_folder_path: Path):
     logging.info("Copying into game %s from %s", iso_folder_subpath, src_folder_path)
 
     dst_folder_path = GAME_PATH / "files" / iso_folder_subpath
+    dst_folder_path.parent.mkdir(parents=True, exist_ok=True)
     shutil.copytree(src_folder_path, dst_folder_path, dirs_exist_ok=True)
 
 
@@ -30,6 +31,7 @@ def copy_localized_tree_to_game(iso_folder_subpath: Path, src_folder_path: Path)
 
     for src_file_path in filter(lambda p: p.is_file(), src_folder_path.iterdir()):
         dst_file_path = GAME_PATH / "files" / iso_folder_subpath / src_file_path.name
+        dst_file_path.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy(src_file_path, dst_file_path)
 
     for language in SUPPORTED_LANGUAGES:
@@ -40,6 +42,7 @@ def copy_localized_tree_to_game(iso_folder_subpath: Path, src_folder_path: Path)
 
         for src_file_path in filter(lambda p: p.is_file(), src_lang_folder_path.iterdir()):
             dst_file_path = GAME_PATH / "files" / "LocalizeData" / language / iso_folder_subpath / src_file_path.name
+            dst_file_path.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy(src_file_path, dst_file_path)
 
 
