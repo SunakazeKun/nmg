@@ -24,7 +24,8 @@
       ],
       "UsSpanish": [
         "[color:red]Agita[color:black] el [icon:wiimote] mientras estés subido a",
-        "la [color:purple]Flotaflor[color:black].[delay:30] Podrás revolotear hasta [color:red]tres veces[color:black], ¡boooing!"
+        "la [color:purple]Flotaflor[color:black].[delay:30] Podrás revolotear hasta ",
+        "[color:red]tres veces[color:black], ¡boooing!"
       ],
       "EuSpanish": [
         "[color:red]Agita[color:black] el [icon:wiimote] cuando estés cogido a",

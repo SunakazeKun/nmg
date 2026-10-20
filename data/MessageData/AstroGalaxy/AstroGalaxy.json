@@ -285,7 +285,8 @@
       ],
       "UsSpanish": [
         "¿Has leido [color:red]Don Quijote de la Mancha[defcolor]?",
-        "Me reí mucho cuando lo leímos en la escuela."
+        "Me reí mucho cuando lo leímos en ",
+        "la escuela."
       ],
       "EuSpanish": [
         "¿Has visto [color:red]Amanece, que no es poco[defcolor]?",
@@ -420,7 +421,7 @@
       ],
       "UsSpanish": [
         "Quiero agradecerte desde",
-        "El fondo de mi corazón",
+        "el fondo de mi corazón",
         "por jugar a [color:red]Neo Mario Galaxy[defcolor].[pagebreak]",
         "Esta [icon:star] [color:yellow]Superestrella[defcolor], es para ti."
       ],
@@ -576,9 +577,13 @@
         "direction you want to fly[defcolor] with [icon:analog_stick]."
       ],
       "UsSpanish": [
-        "Esta es una [color:red]Estrella Roja[color:black], y contiene el poder de los Destellos Rojos.[pagebreak] Te permite [color:red]volar",
-        "[color:black]por el cielo después de [color:blue]girar en el aire[color:black].[pagebreak]",
-        "Mientras oprimes [icon:a_button], podrás [color:red]elegir la dirección en la que quieres volar[color:black] con [icon:analog_stick]."
+        "Esta es una [color:red]Estrella Roja[color:black], y contiene ",
+        "el poder de los Destellos Rojos.[pagebreak]",
+        "Te permite [color:red]volar [color:black]por el cielo después ",
+        "de [color:blue]girar en el aire[color:black].[pagebreak]",
+        "Mientras oprimes [icon:a_button], podrás [color:red]elegir",
+        "la dirección en la que quieres volar[color:black] ",
+        "con [icon:analog_stick]."
       ],
       "EuSpanish": [
         "Las [color:red]estrellas rojas[color:black] encierran nuestras",
@@ -686,8 +691,8 @@
       "UsSpanish": [
         "Un [color:purple]Cometa Púrpura[defcolor] ha aparecido",
         "en el [color:blue]Planetarium del Cometa[defcolor].[pagebreak]",
-        "Por favor, ayúdanos a recolectar todas",
-        "las [color:purple]100[defcolor] [icon:purple_coin] para que",
+        "Por favor, ayúdanos a recolectar ",
+        "todas las [color:purple]100[defcolor] [icon:purple_coin] para que",
         "la [color:yellow]Superestrella[defcolor] [icon:star] aparezca."
       ],
       "EuSpanish": [
@@ -1463,7 +1468,8 @@
         "Up there is the [color:green]Planet of Trials[defcolor]!"
       ],
       "UsSpanish": [
-        "¡Allá arriba se encuentra el [color:green]Planeta de los Retos[defcolor]!"
+        "¡Allá arriba se encuentra el ",
+        "[color:green]Planeta de los Retos[defcolor]!"
       ],
       "EuSpanish": [
         "El planeta con las [color:green]Estrellas Reto[defcolor]",
@@ -1587,8 +1593,8 @@
       ],
       "UsSpanish": [
         "La entrada a la [color:blue]Galaxia de Fábrica",
-        "de Dulces[defcolor] no está disponible en",
-        "este momento."
+        "de Dulces[defcolor] no está disponible ",
+        "en este momento."
       ],
       "EuSpanish": [
         "La entrada a la [color:blue]Galaxia Fábrica",
@@ -1654,8 +1660,9 @@
         "is not available right now."
       ],
       "UsSpanish": [
-        "La entrada a la [color:blue]Galaxia de la Larva Elástica[defcolor]",
-        "no está disponible en este momento."
+        "La entrada a la [color:blue]Galaxia de la ",
+        "Larva Elástica [defcolor]no está disponible ",
+        "en este momento."
       ],
       "EuSpanish": [
         "La entrada a la [color:blue]Galaxia Larva Elástica[defcolor]",
@@ -1786,8 +1793,9 @@
         "is not available right now."
       ],
       "UsSpanish": [
-        "La entrada a la [color:blue]Galaxia del Túnel de los Peces[defcolor]",
-        "no está disponible en este momento."
+        "La entrada a la [color:blue]Galaxia del Túnel ",
+        "de los Peces[defcolor] no está disponible",
+        "en este momento."
       ],
       "EuSpanish": [
         "La entrada a la [color:blue]Galaxia Ictiotúnel[defcolor]",
@@ -1985,8 +1993,9 @@
         "is not available right now."
       ],
       "UsSpanish": [
-        "La entrada a la [color:blue]Galaxia de la Cápsula Nevada[defcolor]",
-        "no está disponible en este momento."
+        "La entrada a la [color:blue]Galaxia de la Cápsula ",
+        "Nevada[defcolor] no está disponible",
+        "en este momento."
       ],
       "EuSpanish": [
         "La entrada a la [color:blue]Galaxia Cápsula Nevada[defcolor]",
@@ -2823,7 +2832,7 @@
         "I'm your Luma!"
       ],
       "UsSpanish": [
-        "¡Hola! ¡Oye![delay:30] ¡Si quieres saber algo",
+        "¡Hola! ¡Oye![delay:30] ¡Si quieres saber ",
         "sobre los [color:red]Cometas Pícaros[defcolor],",
         "pregúntame a mí!"
       ],
@@ -2905,7 +2914,7 @@
         "sweet relief of death![sound:SE_SV_TICOFAT_META]"
       ],
       "UsSpanish": [
-        "El tiempo y la esperanza son una ilusión[delay:60]",
+        "El tiempo y la esperanza son una ilusión.[delay:60]",
         "Nadie puede escapar...[pagebreak]",
         "¡El único consuelo es el",
         "dulce alivio de la muerte![sound:SE_SV_TICOFAT_META]"
