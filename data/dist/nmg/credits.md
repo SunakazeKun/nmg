@@ -41,6 +41,7 @@
 
 # NMG SPANISH TRANSLATION
 - Jau_CR
+- Kira Kira Hartz
 
 # NMG FRENCH TRANSLATION
 - MarioGaming64

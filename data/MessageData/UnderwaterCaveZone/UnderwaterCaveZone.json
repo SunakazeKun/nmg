@@ -33,7 +33,7 @@
         "[size:normal]¡Pero si eres [player:0]![pagebreak]",
         "¡Soy el [color:red]jefe del Escuadrón Toad[defcolor]![pagebreak]",
         "En nuestra exploración [color:red]neo-galáctica[defcolor],",
-        "¡encontramos esta cueva sombría!",
+        "¡encontramos esta cueva tenebrosa!",
         "¡Pero qué aventura!"
       ],
       "EuSpanish": [
@@ -245,7 +245,7 @@
         "Eeeep! This place is scary!"
       ],
       "UsSpanish": [
-        "¡Este lugar me da miedo!"
+        "¡Este lugar da miedo!"
       ],
       "EuSpanish": [
         "¡Este lugar me da miedo!"
@@ -699,10 +699,10 @@
         "the [icon:silver_star] [color:gray]Silver Stars[defcolor]!"
       ],
       "UsSpanish": [
-        "¿Quieres dar el [color:red]examen",
+        "¿Vienes a dar el [color:red]examen",
         "final[color:black] de la [color:blue]escuela de natación[color:black]?[pagebreak]",
         "El examen consiste en encontrar",
-        "todas las [color:gray]estrellas de plata[defcolor] [icon:silver_star]."
+        "todas las [color:gray]Estrellas de Plata[defcolor] [icon:silver_star]."
       ],
       "EuSpanish": [
         "¿Quieres presentarte al [color:red]examen",
@@ -840,7 +840,7 @@
       ],
       "UsSpanish": [
         "¡Felicidades!",
-        "¡Has aprobado!"
+        "¡Aprobasté!"
       ],
       "EuSpanish": [
         "¡Felicidades!",

@@ -96,6 +96,7 @@ can be found in [credits.md](data/dist/nmg/credits.md).
 - Gabbo
 - Hadau
 - Jau_CR
+- Kira Kira Hartz
 - MikaMusic
 - Mixlas
 - Mr. BMY

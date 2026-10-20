@@ -283,7 +283,10 @@
         "Have you seen [color:red]My Beautiful Laundrette[defcolor]?",
         "It's a classic, don't you think?"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¿Has leido [color:red]Don Quijote de la Mancha[defcolor]?",
+        "Me reí mucho cuando lo leímos en la escuela."
+      ],
       "EuSpanish": [
         "¿Has visto [color:red]Amanece, que no es poco[defcolor]?",
         "¡Es atemporal!"
@@ -415,7 +418,12 @@
         "playing [color:red]Neo Mario Galaxy[defcolor].[pagebreak]",
         "Please take this [icon:star] [color:yellow]Power Star[defcolor]!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "Quiero agradecerte desde",
+        "El fondo de mi corazón",
+        "por jugar a [color:red]Neo Mario Galaxy[defcolor].[pagebreak]",
+        "Esta [icon:star] [color:yellow]Superestrella[defcolor], es para ti."
+      ],
       "EuSpanish": [
         "Quiero darte las gracias de corazón",
         "por jugar a [color:red]Neo Mario Galaxy[defcolor].[pagebreak]",
@@ -493,7 +501,10 @@
         "May the stars shine",
         "down on you..."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "Que la luz de las estrellas",
+        "ilumine tu camino..."
+      ],
       "EuSpanish": [
         "Que la luz de las estrellas",
         "ilumine vuestro camino..."
@@ -564,7 +575,11 @@
         "While pressing [icon:a_button], you can [color:red]pick the",
         "direction you want to fly[defcolor] with [icon:analog_stick]."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "Esta es una [color:red]Estrella Roja[color:black], y contiene el poder de los Destellos Rojos.[pagebreak] Te permite [color:red]volar",
+        "[color:black]por el cielo después de [color:blue]girar en el aire[color:black].[pagebreak]",
+        "Mientras oprimes [icon:a_button], podrás [color:red]elegir la dirección en la que quieres volar[color:black] con [icon:analog_stick]."
+      ],
       "EuSpanish": [
         "Las [color:red]estrellas rojas[color:black] encierran nuestras",
         "energías. Te permiten [color:red]salir volando",
@@ -668,7 +683,13 @@
         "Please help us collect all [color:purple]100[defcolor] [icon:purple_coin] to",
         "make the [icon:red_star] [color:red]Red Power Star[defcolor] appear."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "Un [color:purple]Cometa Púrpura[defcolor] ha aparecido",
+        "en el [color:blue]Planetarium del Cometa[defcolor].[pagebreak]",
+        "Por favor, ayúdanos a recolectar todas",
+        "las [color:purple]100[defcolor] [icon:purple_coin] para que",
+        "la [color:yellow]Superestrella[defcolor] [icon:star] aparezca."
+      ],
       "EuSpanish": [
         "Un [color:purple]Cometa Púrpura[defcolor] ha aparecido",
         "en el [color:blue]Planetarium del Cometa[defcolor].[pagebreak]",
@@ -752,7 +773,9 @@
       "EuEnglish": [
         "Collect all [color:purple]100[defcolor] [icon:purple_coin]!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¡Consigue las [color:purple]100[defcolor] [icon:purple_coin]!"
+      ],
       "EuSpanish": [
         "¡Consigue las [color:purple]100[defcolor] [icon:purple_coin]!"
       ],
@@ -805,7 +828,9 @@
       "EuEnglish": [
         "Very good, thank you!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¡Muy bien, gracias!"
+      ],
       "EuSpanish": [
         "¡Genial, gracias!"
       ],
@@ -1375,7 +1400,10 @@
         "We are the guardians of the [color:red]Trial",
         "Galaxies[defcolor]."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "Somos los guardianes de las",
+        "[color:red]Galaxias Reto[defcolor]."
+      ],
       "EuSpanish": [
         "Somos los guardianes de las",
         "[color:red]Galaxias Reto[defcolor]."
@@ -1434,7 +1462,9 @@
       "EuEnglish": [
         "Up there is the [color:green]Planet of Trials[defcolor]!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¡Allá arriba se encuentra el [color:green]Planeta de los Retos[defcolor]!"
+      ],
       "EuSpanish": [
         "El planeta con las [color:green]Estrellas Reto[defcolor]",
         "está allá arriba."
@@ -1493,7 +1523,10 @@
         "The [color:red]Trial Galaxies[defcolor]",
         "are very difficult!"
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "¡Las [color:red]Galaxias Reto[defcolor]",
+        "Son intensas!"
+      ],
       "EuSpanish": [
         "¡Las [color:red]Galaxias Reto[defcolor] son muy difíciles!"
       ],
@@ -1552,7 +1585,11 @@
         "The entrance to [color:blue]Sweet Sweet Galaxy[defcolor]",
         "is not available right now."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "La entrada a la [color:blue]Galaxia de Fábrica",
+        "de Dulces[defcolor] no está disponible en",
+        "este momento."
+      ],
       "EuSpanish": [
         "La entrada a la [color:blue]Galaxia Fábrica",
         "de Dulces[defcolor] no está disponible en",
@@ -1616,7 +1653,10 @@
         "The entrance to [color:blue]Sling Pod Galaxy[defcolor]",
         "is not available right now."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "La entrada a la [color:blue]Galaxia de la Larva Elástica[defcolor]",
+        "no está disponible en este momento."
+      ],
       "EuSpanish": [
         "La entrada a la [color:blue]Galaxia Larva Elástica[defcolor]",
         "no está disponible en este momento."
@@ -1679,7 +1719,10 @@
         "The entrance to [color:blue]Drip Drop Galaxy[defcolor]",
         "is not available right now."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "La entrada a la [color:blue]Galaxia de la Lágrima[defcolor]",
+        "no está disponible en este momento."
+      ],
       "EuSpanish": [
         "La entrada a la [color:blue]Galaxia Lágrima[defcolor]",
         "no está disponible en este momento."
@@ -1742,7 +1785,10 @@
         "The entrance to [color:blue]Bigmouth Galaxy[defcolor]",
         "is not available right now."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "La entrada a la [color:blue]Galaxia del Túnel de los Peces[defcolor]",
+        "no está disponible en este momento."
+      ],
       "EuSpanish": [
         "La entrada a la [color:blue]Galaxia Ictiotúnel[defcolor]",
         "no está disponible en este momento."
@@ -1805,7 +1851,10 @@
         "The entrance to [color:blue]Sand Spiral Galaxy[defcolor]",
         "is not available right now."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "La entrada a la [color:blue]Galaxia Río Arenoso[defcolor]",
+        "no está disponible en este momento."
+      ],
       "EuSpanish": [
         "La entrada a la [color:blue]Galaxia Río Arenoso[defcolor]",
         "no está disponible en este momento."
@@ -1869,7 +1918,10 @@
         "The entrance to [color:blue]Boo's Boneyard Galaxy[defcolor]",
         "is not available right now."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "La entrada a la [color:blue]Galaxia del Paseo Letal[defcolor]",
+        "no está disponible en este momento."
+      ],
       "EuSpanish": [
         "La entrada a la [color:blue]Galaxia Paseo Letal[defcolor]",
         "no está disponible en este momento."
@@ -1932,7 +1984,10 @@
         "The entrance to [color:blue]Snow Cap Galaxy[defcolor]",
         "is not available right now."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "La entrada a la [color:blue]Galaxia de la Cápsula Nevada[defcolor]",
+        "no está disponible en este momento."
+      ],
       "EuSpanish": [
         "La entrada a la [color:blue]Galaxia Cápsula Nevada[defcolor]",
         "no está disponible en este momento."
@@ -1995,7 +2050,10 @@
         "The entrance to [color:green]Bubble Blast Galaxy[defcolor]",
         "is not available right now."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "La entrada a la [color:green]Galaxia Burbujas (reto)[defcolor]",
+        "no está disponible en este momento."
+      ],
       "EuSpanish": [
         "La entrada a la [color:green]Galaxia Burbujas (reto)[defcolor]",
         "no está disponible en este momento."
@@ -2058,7 +2116,10 @@
         "The entrance to [color:green]Rolling Gizmo Galaxy[defcolor]",
         "is not available right now."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "La entrada a la [color:green]Galaxia de la Bola (reto)[defcolor]",
+        "no está disponible en este momento."
+      ],
       "EuSpanish": [
         "La entrada a la [color:green]Galaxia Bola (reto)[defcolor]",
         "no está disponible en este momento."
@@ -2121,7 +2182,10 @@
         "The entrance to [color:green]Loopdeeswoop Galaxy[defcolor]",
         "is not available right now."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "La entrada a la [color:green]Galaxia del Surf[defcolor]",
+        "no está disponible en este momento."
+      ],
       "EuSpanish": [
         "La entrada a la [color:green]Galaxia Surfing (reto)[defcolor]",
         "no está disponible en este momento."
@@ -2184,7 +2248,10 @@
         "The entrance to [color:green]Grand Finale Galaxy[defcolor]",
         "is not available right now."
       ],
-      "UsSpanish": null,
+      "UsSpanish": [
+        "La entrada a la [color:green]Galaxia Gran Final[defcolor]",
+        "no está disponible en este momento."
+      ],
       "EuSpanish": [
         "La entrada a la [color:green]Galaxia Gran Final[defcolor]",
         "no está disponible en este momento."

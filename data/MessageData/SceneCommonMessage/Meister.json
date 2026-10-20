@@ -2748,7 +2748,7 @@
       ],
       "UsSpanish": [
         "¡Vaya! ¡¿Una flor azul con ojos?!",
-        "Nunca vi algo tan extraño antes..."
+        "Nunca había visto algo tan extraño..."
       ],
       "EuSpanish": [
         "¡Vaya! ¡¿Una flor azul con ojos?!",
@@ -2816,7 +2816,7 @@
         "It looks pretty cool, huh? Har har!"
       ],
       "UsSpanish": [
-        "¿Es una [color:blue]flor de hielo[defcolor]? [delay:15] ",
+        "¿Es una [color:blue]Flor de Hielo[defcolor]? [delay:15] ",
         "Yo diría que se ve bastante fresca, ¿eh? ¡Ja, ja, ja!"
       ],
       "EuSpanish": [
@@ -3078,8 +3078,8 @@
         "holds the power of the Red Lumas!"
       ],
       "UsSpanish": [
-        "¡La recuerdo! ¡Es una [color:red]estrella roja[defcolor] que",
-        "contiene el poder de los destellos rojos!"
+        "¡La recuerdo! ¡Es una [color:red]Estrella Roja[defcolor] que",
+        "contiene el poder de los Destellos Rojos!"
       ],
       "EuSpanish": [
         "¡Eso es! ¡Es una [color:red]estrella roja[defcolor] que",

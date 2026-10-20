@@ -89,6 +89,7 @@ CREDITS_ITEMS = [
     ("Gabbo",            "https://www.youtube.com/@gabbo6559"),
     ("Hadau",            "https://github.com/Hadau91"),
     ("Jau_CR",           "https://x.com/Jau__CR"),
+    ("Kira Kira Hartz",  "https://www.youtube.com/@KiraKiraHartz"),
     ("MikaMusic",        None),
     ("Mixlas",           None),
     ("Mr. BMY",          "https://www.youtube.com/@MrBMY-dc5md"),

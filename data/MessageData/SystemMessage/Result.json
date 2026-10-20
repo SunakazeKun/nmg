@@ -638,7 +638,7 @@
         "[stringvar:0;0;0x00000000]"
       ],
       "UsSpanish": [
-        "¡Has conseguido una [color:red]estrella roja[defcolor]!",
+        "¡Has conseguido una [color:red]Estrella Roja[defcolor]!",
         "[color:blue][stringvar:1;1;0x00000000][defcolor]",
         "[stringvar:0;0;0x00000000]"
       ],
@@ -713,7 +713,7 @@
         "You got a [color:blue]Stamp[defcolor]!"
       ],
       "UsSpanish": [
-        "¡Has conseguido un [color:blue]sello[defcolor]!"
+        "¡Has conseguido un [color:blue]Sello[defcolor]!"
       ],
       "EuSpanish": [
         "¡Has conseguido un [color:blue]sello[defcolor]!"
