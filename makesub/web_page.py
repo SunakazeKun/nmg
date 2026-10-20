@@ -85,7 +85,7 @@ CREDITS_ITEMS = [
     ("AJ DiSpirito",     "https://www.youtube.com/@AJDiSpirito"),
     ("Alex SMG",         "https://www.youtube.com/@Alex-SMG"),
     ("DDinghoya",        "https://blog.naver.com/zzamstop"),
-    ("Floaty",           "https://www.youtube.com/@FloatyTico"),
+    ("Floaty",           "https://www.youtube.com/@FloatySMG"),
     ("froggo",           "https://www.youtube.com/@froggo4321"),
     ("Gabbo",            "https://www.youtube.com/@gabbo6559"),
     ("Hadau",            "https://github.com/Hadau91"),
