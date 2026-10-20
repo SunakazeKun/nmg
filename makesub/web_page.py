@@ -239,7 +239,12 @@ def generate_web_page():
                 __insert_screenshots(html)
                 __insert_compatibility(html)
                 __insert_installation(html)
-                __insert_credits(html)
+
+                with html.div(klass="split_flex"):
+                    with html.div(klass="split_item"):
+                        __insert_credits(html)
+                    with html.div(klass="split_item"):
+                        __insert_in_memoriam(html)
 
             with html.div(klass="container"), html.footer(), html.p():
                 html(f'<b>Copyright &copy; {COPYRIGHT_START_YEAR}-{time.year} {SITE_AUTHOR}</b><br>')
@@ -346,10 +351,16 @@ def __insert_credits(html: Airium):
                         with html.a(href=url):
                             html(name)
 
-        with html.section():
-            html.h3(id="in_memoriam", _t="In Memoriam")
-            html.p(_t=IN_MEMORIAM_MIXLAS_DESCRIPTION_1)
-            html.p(_t=IN_MEMORIAM_MIXLAS_DESCRIPTION_2)
+
+def __insert_in_memoriam(html: Airium):
+    with html.section():
+        html.h2(id="in_memoriam", _t="In Memoriam")
+
+        with html.div(klass="memoriam_pics"):
+            html.img(src="assets/mixlas.webp", alt="Mixlas", title="Mixlas", width="200", height="200")
+
+        html.p(_t=IN_MEMORIAM_MIXLAS_DESCRIPTION_1)
+        html.p(_t=IN_MEMORIAM_MIXLAS_DESCRIPTION_2)
 
 
 ########################################################################################################################
