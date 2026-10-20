@@ -32,6 +32,7 @@ URL_SMG2_TEXTURES = "https://forums.dolphin-emu.org/Thread-super-mario-galaxy-2-
 URL_CLASSIC_CTRL = "https://www.youtube.com/watch?v=KNAMVv-4W4g"
 URL_DOLPHIN_WIKI = "https://wiki.dolphin-emu.org/index.php?title=Riivolution_Mods"
 URL_RIIVOLUTION_WIKI = "https://wiki.hacks.guide/wiki/Wii:Riivolution"
+URL_MIXLAS_DEATH = "https://gamejolt.com/p/on-september-11th-2026-niklas-found-his-final-resting-place-many-cpriwixr"
 
 TRAILER_EMBED_WIDTH = 448
 TRAILER_EMBED_HEIGHT = 252
@@ -91,7 +92,7 @@ CREDITS_ITEMS = [
     ("Jau_CR",           "https://x.com/Jau__CR"),
     ("Kira Kira Hartz",  "https://www.youtube.com/@KiraKiraHartz"),
     ("MikaMusic",        None),
-    ("Mixlas",           None),
+    ("Mixlas",           "https://gamejolt.com/@Mixlas"),
     ("Mr. BMY",          "https://www.youtube.com/@MrBMY-dc5md"),
     ("MTLenz",           "https://www.youtube.com/@MTLenz"),
     ("Myron Dragon",     "https://www.youtube.com/@myrondragon"),
@@ -113,6 +114,16 @@ COPYRIGHT_START_YEAR = 2015
 COPYRIGHT_DESCRIPTION = (f'<em>Super Mario</em> characters and images belong to Nintendo. This website is not '
                          f'affiliated with or endorsed by Nintendo. <em>Neo Mario Galaxy</em> requires an original '
                          f'and legally obtained copy of <em>Super Mario Galaxy 2</em> to be played.')
+
+# ----------------------------------------------------------------------------------------------------------------------
+
+IN_MEMORIAM_MIXLAS_DESCRIPTION_1 = (f'Mixlas suddenly <a href="{URL_MIXLAS_DEATH}">passed away</a> at the age of 25 on '
+                                    f'July 18, 2026. He was a very talented person who provided me with a lot of '
+                                    f'support during the development of Neo Mario Galaxy. His work contributed '
+                                    f'significantly to the level design of the galaxies. Without his creativity and '
+                                    f'skill, this mod would never have come to fruition. For that, I am eternally '
+                                    f'grateful to him.')
+IN_MEMORIAM_MIXLAS_DESCRIPTION_2 = f'<b><em>Rest in peace Mixlas. We will not forget you.</em><b>'
 
 # ----------------------------------------------------------------------------------------------------------------------
 
@@ -334,6 +345,11 @@ def __insert_credits(html: Airium):
                     else:
                         with html.a(href=url):
                             html(name)
+
+        with html.section():
+            html.h3(id="in_memoriam", _t="In Memoriam")
+            html.p(_t=IN_MEMORIAM_MIXLAS_DESCRIPTION_1)
+            html.p(_t=IN_MEMORIAM_MIXLAS_DESCRIPTION_2)
 
 
 ########################################################################################################################
