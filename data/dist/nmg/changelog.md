@@ -51,6 +51,7 @@
 ### Bugfixes
 - Fixed object pop-in across multiple galaxies.
 - Message boxes no longer cover the Cosmic Spirit during dialogues.
+- The Eep Beep Galaxy screenshot in the 2P manual no longer shows and older version of the galaxy.
 - **Sweet Treat Galaxy**: Players no longer bump against the floor when landing on the birthday cake planet.
 - **Gloomy Galleon Galaxy**: Sandy platforms now display the player's footprints when walked on.
 - **Battle Blast Galaxy**: The Stamp no longer appears during the Comet mission.
