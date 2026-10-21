@@ -28,6 +28,7 @@
 - Co-Star Luma's Spin Attack can now defeat Ice Bats.
 - Ice Mario's attack can now defeat Fuzzies.
 - Improved lighting across various levels.
+- Updated all galaxy preview banners on the World Map.
 - Updated and cleaned up dialogue and text across several areas.
 - **Starship Mario**: Toads now reference Golden Mushrooms instead of 1-Ups.
 - **World Map**: The Green Star cutscene no longer displays the Grand World Map.
