@@ -1,68 +1,68 @@
 # NEO MARIO GALAXY
 - Aurum
 
-# NMG LEVEL CREATION
+# LEVEL CREATION
 - Aurum
 
-# NMG CAMERA EDITING
+# CAMERA EDITING
 - Super Hackio
 
-# NMG PROGRAMMING
+# PROGRAMMING
 - Aurum
 
-# NMG 3D DESIGN
+# 3D DESIGN
 - Alex SMG
 - Floaty
 - froggo
 - Mixlas
 - Super Hackio
 
-# NMG UI DESIGN
+# UI DESIGN
 - SY24
 
-# NMG CUSTOM MUSIC
+# CUSTOM MUSIC
 - Galactic Garden Galaxy ~ Super 0'Brothers
 - Space Junk Stars ~ Super 0'Brothers
 - Sweet Treat Galaxy ~ MikaMusic
 - Gloomy Galleon Galaxy ~ Super 0'Brothers
 
-# NMG AUDIO EDITING
+# AUDIO EDITING
 - Louis Miles
 - SY24
 
-# NMG ENGLISH TRANSLATION
+# ENGLISH TRANSLATION
 - Aurum
 
-# NMG GERMAN TRANSLATION
+# GERMAN TRANSLATION
 - Aurum
 
-# NMG ITALIAN TRANSLATION
+# ITALIAN TRANSLATION
 - Gabbo
 
-# NMG SPANISH TRANSLATION
+# SPANISH TRANSLATION
 - Jau_CR
 - Kira Kira Hartz
 
-# NMG FRENCH TRANSLATION
+# FRENCH TRANSLATION
 - MarioGaming64
 - Myron Dragon
 
-# NMG JAPANESE TRANSLATION
+# JAPANESE TRANSLATION
 - Mr. BMY
 
-# NMG CHINESE TRANSLATION
+# CHINESE TRANSLATION
 - Hadau
 - Samurai47
 
-# NMG KOREAN TRANSLATION
+# KOREAN TRANSLATION
 - DDinghoya
 - StationAlpha
 
-# NMG TRAILER
+# TRAILER
 - AJ DiSpirito
 - SY24
 
-# NMG DEBUGGING
+# DEBUGGING
 - Aurum
 - froggo
 - MTLenz
