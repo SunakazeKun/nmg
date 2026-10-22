@@ -6,8 +6,8 @@ necessary for loading and playing Neo Mario Galaxy. Edited and new files are eff
 active game files against known file names and hashes from the unmodified SMG2 games.
 """
 
-from config import (PROJECT_TITLE, PROJECT_VERSION, GAME_PATH, RiivolutionTarget, RIIVO_TARGETS, RIIVO_CONFIG_LOCALE_ADDR,
-                    RIIVO_CONFIG_LOCALE_INFO, IGNORE_FILES, IGNORE_FOLDERS)
+from config import (PROJECT_TITLE, PROJECT_SHORT, PROJECT_VERSION, GAME_PATH, RiivolutionTarget, RIIVO_TARGETS,
+                    RIIVO_CONFIG_LOCALE_ADDR, RIIVO_CONFIG_LOCALE_INFO, IGNORE_FILES, IGNORE_FOLDERS)
 from xml.etree import ElementTree as ET
 from tools.dataio import read_json
 from pathlib import Path
@@ -85,7 +85,7 @@ def pack_zip_archive():
             file_path = os.path.join(root, child)
             os.utime(file_path, (utime, utime))
 
-    shutil.make_archive(f'{PROJECT_TITLE}_v{PROJECT_VERSION}', "zip", BUILD_DIST_PATH)
+    shutil.make_archive(f'{PROJECT_SHORT}_v{PROJECT_VERSION}', "zip", BUILD_DIST_PATH)
 
 
 # ----------------------------------------------------------------------------------------------------------------------

@@ -17,6 +17,7 @@ logging.basicConfig(
 ########################################################################################################################
 
 PROJECT_TITLE = "NMG_2026"
+PROJECT_SHORT = "nmg"
 PROJECT_VERSION = "1.6.0"
 
 GAME_ID = os.getenv("GAME_ID")
