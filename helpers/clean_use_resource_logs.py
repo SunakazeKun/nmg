@@ -38,10 +38,14 @@ PLAYER_ARC_NORMALIZATION = {
 
 def clean_use_resource_logs():
     for log_file in USE_RESOURCE_LOGS_PATH.iterdir():
+        comment_lines = []
         archive_lines = []
         sound_lines = []
 
-        for raw_line in read_lines(log_file):
+        for raw_line in map(str.strip, read_lines(log_file)):
+            if raw_line.startswith("#"):
+                comment_lines.append(raw_line)
+
             if ARCHIVE_PATTERN.match(raw_line):
                 resource = ARCHIVE_PATTERN.sub("", raw_line).strip()
 
@@ -64,7 +68,7 @@ def clean_use_resource_logs():
                 if sound_line not in sound_lines:
                     sound_lines.append(sound_line)
 
-        write_lines(log_file, archive_lines + sound_lines)
+        write_lines(log_file, comment_lines + archive_lines + sound_lines)
 
 
 ########################################################################################################################

@@ -25,6 +25,15 @@ namespace {
         *pHeapPtr = nullptr;
     }
 
+    void printFileCacheHeapSizeAndDestroy(JKRHeap **pHeapPtr) {
+        JKRHeap* pHeap = *pHeapPtr;
+
+        printHeapSizeInfo(pHeap, "FileCacheHeap");
+
+        JKRHeap::destroy(pHeap);
+        *pHeapPtr = nullptr;
+    }
+
     void printStationedHeapNapaSizeAndAdjust(JKRExpHeap *pHeap) {
         printHeapSizeInfo(pHeap, "StationedHeapNapa");
         MR::adjustHeapSize(pHeap);
@@ -39,10 +48,12 @@ namespace {
     kmBranch(0x804BCBF4, printStationedHeapNapaSizeAndAdjust);
     kmBranch(0x804BCC04, printStationedHeapGDDR3SizeAndAdjust);
     kmBranch(0x804BCD34, printWorldMapHeapSizeAndDestroy);
+    kmBranch(0x804BCD44, printFileCacheHeapSizeAndDestroy);
 #elif defined(SB4_WK)
     kmBranch(0x804BCC64, printStationedHeapNapaSizeAndAdjust);
     kmBranch(0x804BCC74, printStationedHeapGDDR3SizeAndAdjust);
     kmBranch(0x804BCDA4, printWorldMapHeapSizeAndDestroy);
+    kmBranch(0x804BCDB4, printFileCacheHeapSizeAndDestroy);
 #endif
 
 #endif
@@ -52,7 +63,7 @@ namespace {
     // New heap sizes
     // =====================================================================================================================
 
-#define WORLD_MAP_HEAP_SIZE (0xF00000u)
+#define WORLD_MAP_HEAP_SIZE (0x9A0000u)
 
     // WorldMapHeap
     kmWrite16(0x80040F12, -(WORLD_MAP_HEAP_SIZE >> 16));

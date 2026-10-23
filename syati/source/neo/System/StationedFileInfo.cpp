@@ -246,6 +246,20 @@ namespace {
         { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_LAYOUT_2, STATIONED_FILE_PATH_LAYOUTDATA_TIMEUP_ARC },
 #endif
 
+        // Starship optimization
+        { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, STATIONED_FILE_PATH_OBJECTDATA_GALAXYINFOTEXTURE_ARC },
+        { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, STATIONED_FILE_PATH_OBJECTDATA_MINICLOUDGARDENGALAXY_ARC },
+        { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, "/ObjectData/MiniSnowCandyGalaxy.arc" },
+        { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, "/ObjectData/MiniUnderwaterCaveGalaxy.arc" },
+        { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, STATIONED_FILE_PATH_OBJECTDATA_MINITIMERSWITCHINGPLATFORMGALAXY_ARC },
+        { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, "/ObjectData/MiniSurvivalGalaxy.arc" },
+        { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, STATIONED_FILE_PATH_OBJECTDATA_MINISECRETATHLETICGALAXY_ARC },
+        { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, STATIONED_FILE_PATH_OBJECTDATA_MINIKOOPAJRCASTLEGALAXY_ARC },
+        { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, "/ObjectData/MiniAstroGalaxy.arc" },
+        { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, STATIONED_FILE_PATH_OBJECTDATA_MINIFLOWERHIGHLANDGALAXY_ARC },
+        { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, STATIONED_FILE_PATH_OBJECTDATA_MINIKOOPACASTLEGALAXY_ARC },
+        { MR::StationedFileInfo::HEAP_TYPE_GDDR, MR::StationedFileInfo::LOAD_TYPE_RESOURCE_2, STATIONED_FILE_PATH_OBJECTDATA_MINIVSKOOPALV3GALAXY_ARC },
+
         // EOF
         { MR::StationedFileInfo::HEAP_TYPE_NAPA, MR::StationedFileInfo::LOAD_TYPE_HOME_MENU, nullptr }
     };
