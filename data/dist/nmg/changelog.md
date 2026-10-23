@@ -43,6 +43,7 @@
 - **Gloomy Galleon Galaxy**: Lowered the amount of seaweed to reduce lag.
 - **Turnlog Galaxy**: Adjusted the gravity on the arrow slope.
 - **Turnlog Galaxy**: Re-recorded Cosmic Spirit input playback.
+- **Turnlog Galaxy**: The hidden Power Star now uses proper appearance cameras for all possible spawn locations.
 - **Eep Beep Galaxy**: Adjusted the Beat Block arrangements in the large stairway section to minimize waiting time.
 - **Eep Beep Galaxy**: The level music now continues playing after a Power Star spawns.
 - **Comet Observatory**: The player now walks in instead of falling on the level at the start.
