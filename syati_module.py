@@ -316,6 +316,8 @@ def __link_module(kamek_path: Path, bin_path: Path, map_path: Path, region: str,
                 f'-output-map="{map_path}"')
 
     logging.info(link_cmd)
+    bin_path.parent.mkdir(parents=True, exist_ok=True)
+    map_path.parent.mkdir(parents=True, exist_ok=True)
 
     try:
         subprocess.run(link_cmd, cwd=MODULE_CWD, check=True, text=True)
