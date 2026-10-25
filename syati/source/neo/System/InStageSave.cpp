@@ -77,7 +77,7 @@ namespace neo {
 
     void performInStageSave(s32 powerStarId) {
         PlayResultInStageHolder* resultInStage = GameSequenceFunction::getGameSequenceInGame()->getPlayResultInStageHolder();
-        const char* currentStage = resultInStage->mName;
+        const char* currentStage = resultInStage->getStageName();
 
         GameDataFunction::setPowerStar(currentStage, powerStarId);
         GameDataFunction::onGalaxyScenarioFlagAlreadyVisited(currentStage, powerStarId);
