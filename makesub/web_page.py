@@ -269,8 +269,8 @@ def __insert_trailer(html: Airium):
         html.h2(id="trailer", _t="2023 Trailer")
 
         with html.div(klass="youtube_wrapper"):
-            html.iframe(klass="youtube_video", src=URL_NMG_TRAILER, width=str(TRAILER_EMBED_WIDTH),
-                        height=str(TRAILER_EMBED_HEIGHT), frameborder="0", allowfullscreen="true")
+            html.iframe(klass="youtube_video", title="YouTube video", src=URL_NMG_TRAILER, allowfullscreen="true",
+                        width=str(TRAILER_EMBED_WIDTH), height=str(TRAILER_EMBED_HEIGHT), frameborder="0")
 
 
 def __insert_screenshots(html: Airium):

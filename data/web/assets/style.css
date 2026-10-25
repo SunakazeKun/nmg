@@ -12,9 +12,6 @@ body {
 
 a {
 	color: #4FBCFF;
-	text-decoration: none;
-}
-a:hover {
 	text-decoration: underline;
 }
 
@@ -37,9 +34,6 @@ h1, h2, h3, h4, h5, h6 {
 
 header {
 	text-align: center;
-}
-header a {
-	text-decoration: underline;
 }
 header p {
 	font-size: 14px;
@@ -93,6 +87,7 @@ footer {
 .screenshot {
 	width: 320px;
 	max-width: 100%;
+	box-sizing: border-box;
 	height: auto;
 	padding: 2px;
 	overflow: hidden;
