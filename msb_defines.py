@@ -1,0 +1,48 @@
+from enum import IntEnum
+
+
+class YesNoOptions(IntEnum):
+    PICHAN_RACE = 0
+    TICO_SHOP_EXCHANGE = 1
+    TICO_SHOP_WHICH = 2
+    DREAMER = 3
+    SUPER_DREAMER = 4
+    MUIMUI_PLAY = 5
+    SCORE_ATTACK_PLAY = 6
+    SCORE_ATTACK_CONTINUE = 7
+    GLI_BIRD_RIDE = 8
+    TICO_FAT_COIN_GIVE = 9
+    FIRE_WOOD_BOX_PLAY = 10
+    GLI_BIRD_TUTORIAL = 11
+    LUIGI_TALK_NPC = 12
+    KINOPIO_BANK = 13
+    LUCKEY_ROOM = 14
+    MEISTER_TRADE = 15
+    TAMAKORO_TUTORIAL = 16
+    MEISTER_CONFIRM = 17
+    HELPER_WITCH_DAREDEVIL = 18
+    HELPER_WITCH_PLAYER = 19
+
+
+class MocEventFunc(IntEnum):
+    APPEAR_POWER_STAR = 0
+
+
+class HelperWitchEventFunc(IntEnum):
+    DAREDEVIL_MODE_ON = 0
+    DAREDEVIL_MODE_OFF = 1
+    SET_PLAYER_MARIO = 2
+    SET_PLAYER_LUIGI = 3
+    MSG_ARG_DAREDEVIL = 4
+    MSG_ARG_PLAYER = 5
+    RESET_SCENE = 6
+
+
+class HelperWitchBranchFunc(IntEnum):
+    RESET_BEFORE = 0
+    SHOULD_RESET = 1
+    DAREDEVIL_MODE = 2
+
+
+class TicoManiacKillFunc(IntEnum):
+    METAMORPHOSIS = 0
