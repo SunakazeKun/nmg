@@ -12,6 +12,7 @@
       "files.encoding": "shiftjis"
     },
     "editor.tabSize": 4,
+    "editor.formatOnSave": false,
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.associations": {
