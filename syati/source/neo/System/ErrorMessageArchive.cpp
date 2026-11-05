@@ -1,23 +1,31 @@
 #include "neo/System/ErrorMessageArchive.h"
+#include "neo/System/Region.h"
 #include "Game/System/FileRipper.h"
 #include "Game/Util/FileUtil.h"
 #include "kamek/hooks.h"
+#include "revolution/os.h"
 
 namespace neo {
     const char* getErrorMessageArchivePath() {
-#if defined(SB4P)
-        return "/SystemData/ErrorMessageArchiveEu.arc";
-#elif defined(SB4E)
-        return "/SystemData/ErrorMessageArchiveUs.arc";
-#elif defined(SB4J)
-        return "/SystemData/ErrorMessageArchiveJp.arc";
-#elif defined(SB4C)
-        return "/SystemData/ErrorMessageArchiveCn.arc";
-#elif defined(SB4W)
-        return "/SystemData/ErrorMessageArchiveAs.arc";
-#elif defined(SB4K)
-        return "/SystemData/ErrorMessageArchiveKr.arc";
-#endif
+        switch (getGameRegionFromDVDDiskID()) {
+        case GAME_REGION_JAPAN:
+            return "/SystemData/ErrorMessageArchiveJp.arc";
+        case GAME_REGION_EUROPE:
+            return "/SystemData/ErrorMessageArchiveEu.arc";
+        case GAME_REGION_AMERICA:
+            return "/SystemData/ErrorMessageArchiveUs.arc";
+        case GAME_REGION_CHINA:
+            return "/SystemData/ErrorMessageArchiveCn.arc";
+        case GAME_REGION_KOREA:
+            return "/SystemData/ErrorMessageArchiveKr.arc";
+        case GAME_REGION_ASIA:
+            return "/SystemData/ErrorMessageArchiveAs.arc";
+        default:
+            GXColor bg = { 0, 0, 0, 255 };
+            GXColor fg = { 255, 255, 255, 255 };
+            OSFatal(fg, bg, "Unknown game region code detected!");
+            return nullptr;
+        }
     }
 
     // -----------------------------------------------------------------------------------------------------------------

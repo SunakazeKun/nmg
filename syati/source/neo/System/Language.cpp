@@ -1,80 +1,12 @@
 #include "neo/System/Language.h"
 #include "neo/System/Language.inc"
+#include "neo/System/Region.h"
 #include "neo/System/RiivolutionConfig.h"
 #include "kamek/hooks.h"
 
 #define SC_LANG_COUNT (10)
 
 namespace {
-    const u8 cSCLanguage2GameLanguageTable[SC_LANG_COUNT] = {
-#if defined(SB4P)
-        LANGUAGE_JP_JAPANESE,
-        LANGUAGE_EU_ENGLISH,
-        LANGUAGE_EU_GERMAN,
-        LANGUAGE_EU_FRENCH,
-        LANGUAGE_EU_SPANISH,
-        LANGUAGE_EU_ITALIAN,
-        LANGUAGE_EU_DUTCH,
-        LANGUAGE_CN_SIMP_CHINESE,
-		LANGUAGE_CN_SIMP_CHINESE,
-        LANGUAGE_KR_KOREAN,
-#elif defined(SB4E)
-        LANGUAGE_JP_JAPANESE,
-        LANGUAGE_US_ENGLISH,
-        LANGUAGE_EU_GERMAN,
-        LANGUAGE_US_FRENCH,
-        LANGUAGE_US_SPANISH,
-        LANGUAGE_EU_ITALIAN,
-        LANGUAGE_EU_DUTCH,
-        LANGUAGE_CN_SIMP_CHINESE,
-		LANGUAGE_CN_SIMP_CHINESE,
-        LANGUAGE_KR_KOREAN,
-#elif defined(SB4J) || defined(SB4C) || defined(SB4K)
-        LANGUAGE_JP_JAPANESE,
-        LANGUAGE_US_ENGLISH,
-        LANGUAGE_EU_GERMAN,
-        LANGUAGE_EU_FRENCH,
-        LANGUAGE_EU_SPANISH,
-        LANGUAGE_EU_ITALIAN,
-        LANGUAGE_EU_DUTCH,
-        LANGUAGE_CN_SIMP_CHINESE,
-		LANGUAGE_CN_SIMP_CHINESE,
-        LANGUAGE_KR_KOREAN,
-#elif defined(SB4W)
-        LANGUAGE_AS_TRAD_CHINESE,
-        LANGUAGE_US_ENGLISH,
-        LANGUAGE_EU_GERMAN,
-        LANGUAGE_EU_FRENCH,
-        LANGUAGE_EU_SPANISH,
-        LANGUAGE_EU_ITALIAN,
-        LANGUAGE_EU_DUTCH,
-        LANGUAGE_CN_SIMP_CHINESE,
-		LANGUAGE_CN_SIMP_CHINESE,
-        LANGUAGE_KR_KOREAN,
-#endif
-    };
-
-    const u8 cHBMLanguages[16] = {
-        LANGUAGE_JAPANESE,
-        LANGUAGE_ENGLISH,
-        LANGUAGE_GERMAN,
-        LANGUAGE_FRENCH,
-        LANGUAGE_SPANISH,
-        LANGUAGE_ITALIAN,
-        LANGUAGE_DUTCH,
-        LANGUAGE_SIMP_CHINESE,
-		LANGUAGE_TRAD_CHINESE,
-        LANGUAGE_KOREAN,
-        LANGUAGE_ENGLISH,      // Portuguese
-        LANGUAGE_ENGLISH,      // Russian
-        LANGUAGE_ENGLISH,      // ~reserved~
-        LANGUAGE_ENGLISH,      // ~reserved~
-        LANGUAGE_ENGLISH,      // ~reserved~
-        LANGUAGE_ENGLISH,      // ~reserved~
-    };
-
-    // -----------------------------------------------------------------------------------------------------------------
-
     struct Language {
         u32 mLocale;
         const char* mName;
@@ -100,20 +32,60 @@ namespace {
         { LANGUAGE_AS_TRAD_CHINESE, LOCALE_PREFIX_AS_TRAD_CHINESE },
     };
 
+    // -----------------------------------------------------------------------------------------------------------------
+
+    const u8 cSCLangToGameLangUs[SC_LANG_COUNT] = {
+        LANGUAGE_JP_JAPANESE,
+        LANGUAGE_US_ENGLISH,
+        LANGUAGE_EU_GERMAN,
+        LANGUAGE_US_FRENCH,
+        LANGUAGE_US_SPANISH,
+        LANGUAGE_EU_ITALIAN,
+        LANGUAGE_EU_DUTCH,
+        LANGUAGE_CN_SIMP_CHINESE,
+        LANGUAGE_AS_TRAD_CHINESE,
+        LANGUAGE_KR_KOREAN,
+    };
+    const u8 cSCLangToGameLangEu[SC_LANG_COUNT] = {
+        LANGUAGE_JP_JAPANESE,
+        LANGUAGE_EU_ENGLISH,
+        LANGUAGE_EU_GERMAN,
+        LANGUAGE_EU_FRENCH,
+        LANGUAGE_EU_SPANISH,
+        LANGUAGE_EU_ITALIAN,
+        LANGUAGE_EU_DUTCH,
+        LANGUAGE_CN_SIMP_CHINESE,
+        LANGUAGE_AS_TRAD_CHINESE,
+        LANGUAGE_KR_KOREAN,
+    };
 
     // =================================================================================================================
     // Extension of MR::getDecidedLanguageFromIPL
     // =================================================================================================================
 
     u32 extGetDecidedLanguageFromIPL() {
-        u8 languageSC = SCGetLanguage();
         u32 locale;
 
-        if (!neo::getRiivolutionConfigLocale(&locale)) {
-            locale = cSCLanguage2GameLanguageTable[languageSC];
+        if (neo::getRiivolutionConfigLocale(&locale)) {
+            return locale;
         }
 
-        return locale;
+        switch (neo::getGameRegionFromDVDDiskID()) {
+        case neo::GAME_REGION_JAPAN:
+            return LANGUAGE_JP_JAPANESE;
+        case neo::GAME_REGION_AMERICA:
+            return cSCLangToGameLangUs[SCGetLanguage()];
+        case neo::GAME_REGION_EUROPE:
+            return cSCLangToGameLangEu[SCGetLanguage()];
+        case neo::GAME_REGION_CHINA:
+            return LANGUAGE_CN_SIMP_CHINESE;
+        case neo::GAME_REGION_KOREA:
+            return LANGUAGE_KOREAN;
+        case neo::GAME_REGION_ASIA:
+            return LANGUAGE_AS_TRAD_CHINESE;
+        default:
+            return LANGUAGE_US_ENGLISH;
+        }
     }
 
 #if defined(SB4_JEP)
@@ -128,10 +100,8 @@ namespace {
     // =================================================================================================================
 
     u32 extGetLanguageFromIPL() {
-        u32 locale = MR::getLanguage();
-        u32 language = GET_LANGUAGE_FROM_LOCALE(locale);
-
-        return cHBMLanguages[language];
+        u32 language = GET_LANGUAGE_FROM_LOCALE(MR::getLanguage());
+        return language < SC_LANG_COUNT ? language : SC_LANG_ENGLISH;
     }
 
 #if defined(SB4_JEP)

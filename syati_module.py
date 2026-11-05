@@ -94,6 +94,7 @@ MODULE_SOURCE_FILES = [
     "neo/System/IllustItemExtensions.cpp",
     "neo/System/InStageSave.cpp",
     "neo/System/Language.cpp",
+    "neo/System/Region.cpp",
     "neo/System/RiivolutionConfig.cpp",
     "neo/System/StationedFileInfo.cpp",
 
