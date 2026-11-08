@@ -33,6 +33,14 @@ PLAYER_ARC_NORMALIZATION = {
     "/ObjectData/RockLuigi.arc":                         "/ObjectData/RockMario.arc",
     "/ObjectData/RockLuigiRollingRock.arc":              "/ObjectData/RockMarioRollingRock.arc",
     "/ObjectData/TeresaLuigi.arc":                       "/ObjectData/TeresaMario.arc",
+
+    "/ObjectData/Watermelon.arc":                        "/ObjectData/CocoNut.arc",
+    "/ObjectData/WorldMap02Sky.arc":                     "/ObjectData/WorldMap01Sky.arc",
+    "/ObjectData/WorldMap03Sky.arc":                     "/ObjectData/WorldMap01Sky.arc",
+    "/ObjectData/WorldMap04Sky.arc":                     "/ObjectData/WorldMap01Sky.arc",
+    "/ObjectData/WorldMap05Sky.arc":                     "/ObjectData/WorldMap01Sky.arc",
+    "/ObjectData/WorldMap06Sky.arc":                     "/ObjectData/WorldMap01Sky.arc",
+    "/ObjectData/WorldMap07Sky.arc":                     "/ObjectData/WorldMap01Sky.arc",
 }
 
 
