@@ -5,6 +5,9 @@
 ### Additions
 - All supported languages can now be used regardless of the underlying regional version of Super Mario Galaxy 2.
 
+### Changes
+- **Galactic Garden Galaxy**: Tweaked the player's Wall Jump angle in the Space Junk block section.
+
 ## v1.6.0
 
 ### Additions
