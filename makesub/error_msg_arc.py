@@ -6,7 +6,7 @@ Generates ErrorMessageArchive archives for all supported regions based on the fi
 
 from pyjkernel import create_new_archive, write_archive_buffer, JKRCompression, write_archive_file
 from msb_adapter import NeoMarioGalaxyAdapter, TalkType, BalloonType, SoundID, CameraType
-from config import GAME_PATH, SUPPORTED_REGIONS, iter_languages_by_region
+from config import GAME_PATH, SUPPORTED_LANGUAGES, get_language_region
 from pymsb import LMSDocument
 from pathlib import Path
 from tools.dataio import read_json
@@ -23,55 +23,51 @@ SRC_ERROR_MSG_ARCHIVE = Path("data/ErrorMessageArchive")
 
 
 def pack_error_msg_archives():
-    for region in SUPPORTED_REGIONS:
-        pack_error_msg_archive(region)
+    for language in SUPPORTED_LANGUAGES:
+        pack_error_msg_archive(language)
 
 
-def pack_error_msg_archive(region: str):
-    root_name = f'ErrorMessageArchive{region}'
+def pack_error_msg_archive(language: str):
+    logging.info("Packing ErrorMessageArchive.arc for %s", language)
 
-    logging.info("Packing %s.arc", root_name)
-
-    error_msg_arc = create_new_archive(f'ErrorMessageArchive{region}')
-    error_msg_arc_path = GAME_PATH / f'files/SystemData/{root_name}.arc'
+    error_msg_arc = create_new_archive("ErrorMessageArchive")
+    region = get_language_region(language)
 
     # Prepare folders
-    error_msg_arc.create_folder(f'{root_name}/LayoutData')
-    error_msg_arc.create_folder(f'{root_name}/LocalizeData')
-
-    for language in iter_languages_by_region(region):
-        error_msg_arc.create_folder(f'{root_name}/LocalizeData/{language}')
-        error_msg_arc.create_folder(f'{root_name}/LocalizeData/{language}/LayoutData')
-        error_msg_arc.create_folder(f'{root_name}/LocalizeData/{language}/MessageData')
+    error_msg_arc.create_folder("ErrorMessageArchive/LayoutData")
+    error_msg_arc.create_folder("ErrorMessageArchive/LocalizeData")
+    error_msg_arc.create_folder(f'ErrorMessageArchive/LocalizeData/{language}')
+    error_msg_arc.create_folder(f'ErrorMessageArchive/LocalizeData/{language}/LayoutData')
+    error_msg_arc.create_folder(f'ErrorMessageArchive/LocalizeData/{language}/MessageData')
 
     # ErrorMessageWindow
     arc_path = SRC_ERROR_MSG_ARCHIVE / f'ErrorMessageWindow_{region}.arc'
 
     error_msg_arc.create_file(
-        f'{root_name}/LayoutData/ErrorMessageWindow.arc',
+        "ErrorMessageArchive/LayoutData/ErrorMessageWindow.arc",
         data=arc_path.read_bytes()
     )
 
     # EmbeddedFont
-    for language in iter_languages_by_region(region):
-        brfnt_path = SRC_ERROR_MSG_ARCHIVE / f'MessageFont26_{language}.brfnt'
+    brfnt_path = SRC_ERROR_MSG_ARCHIVE / f'MessageFont26_{language}.brfnt'
 
-        error_msg_arc.create_file(
-            f'{root_name}/LocalizeData/{language}/LayoutData/EmbeddedFont.arc',
-            data=__create_and_pack_embedded_font_archive(brfnt_path)
-        )
+    error_msg_arc.create_file(
+        f'ErrorMessageArchive/LocalizeData/{language}/LayoutData/EmbeddedFont.arc',
+        data=__create_and_pack_embedded_font_archive(brfnt_path)
+    )
 
     # EmbeddedMessage
     json_path = SRC_ERROR_MSG_ARCHIVE / "EmbeddedMessage.json"
     json_data = read_json(json_path)
 
-    for language in iter_languages_by_region(region):
-        error_msg_arc.create_file(
-            f'{root_name}/LocalizeData/{language}/MessageData/EmbeddedMessage.arc',
-            data=__create_and_pack_embedded_message_archive(language, json_data)
-        )
+    error_msg_arc.create_file(
+        f'ErrorMessageArchive/LocalizeData/{language}/MessageData/EmbeddedMessage.arc',
+        data=__create_and_pack_embedded_message_archive(language, json_data)
+    )
 
     # Write ErrorMessageArchive
+    error_msg_arc_path = GAME_PATH / f'files/LocalizeData/{language}/SystemData/ErrorMessageArchive.arc'
+    error_msg_arc_path.parent.mkdir(parents=True, exist_ok=True)
     write_archive_file(error_msg_arc, str(error_msg_arc_path))
 
 

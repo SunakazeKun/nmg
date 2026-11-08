@@ -114,6 +114,9 @@ def __is_file_to_include(src_file_path: Path, iso_file_path: str, vanilla_file_h
     if iso_file_path not in vanilla_file_hashes:
         return True
 
+    if iso_file_path.endswith("/LayoutData/HomeButton.arc"):
+        return True
+
     md5_hash = md5()
 
     with open(src_file_path, "rb") as f:
@@ -132,7 +135,6 @@ def __is_file_to_include(src_file_path: Path, iso_file_path: str, vanilla_file_h
 def __make_riivolution_xml(target_info: RiivolutionTarget, syati_loader_xml_path: Path, riivolution_xml_path: Path):
     game_id = target_info.id
     game_region = target_info.region
-    language_options = target_info.languages
 
     logging.info("Generating Riivolution XML for %s%s", game_id, game_region)
 
@@ -161,13 +163,11 @@ def __make_riivolution_xml(target_info: RiivolutionTarget, syati_loader_xml_path
     choice_node = ET.SubElement(option_node, "choice", {"name": "Enabled"})
     ET.SubElement(choice_node, "patch", {"id": "nmg_core"})
 
-    if language_options:
-        option_node = ET.SubElement(section_node, "option", {"name": "Override Language"})
+    option_node = ET.SubElement(section_node, "option", {"name": "Language"})
 
-        for language_prefix in language_options:
-            _, language_name = RIIVO_CONFIG_LOCALE_INFO[language_prefix]
-            choice_node = ET.SubElement(option_node, "choice", {"name": language_name})
-            ET.SubElement(choice_node, "patch", {"id": f'nmg_locale_{language_prefix}'})
+    for _, language_prefix, language_name in RIIVO_CONFIG_LOCALE_INFO:
+        choice_node = ET.SubElement(option_node, "choice", {"name": language_name})
+        ET.SubElement(choice_node, "patch", {"id": f'nmg_locale_{language_prefix}'})
 
     # ------------------------------------------------------
 
@@ -191,13 +191,11 @@ def __make_riivolution_xml(target_info: RiivolutionTarget, syati_loader_xml_path
 
         ET.SubElement(patch_node, "memory", {"offset": offset, "value": value})
 
-    if language_options:
-        for language_prefix in language_options:
-            language_locale, _ = RIIVO_CONFIG_LOCALE_INFO[language_prefix]
-            patch_node = ET.SubElement(wiidisc_node, "patch", {"id": f'nmg_locale_{language_prefix}'})
+    for language_code, language_prefix, _ in RIIVO_CONFIG_LOCALE_INFO:
+        patch_node = ET.SubElement(wiidisc_node, "patch", {"id": f'nmg_locale_{language_prefix}'})
 
-            ET.SubElement(patch_node, "memory", {"offset": f'0x{RIIVO_CONFIG_LOCALE_ADDR:08X}',
-                                                 "value": f'0x{language_locale:08X}'})
+        ET.SubElement(patch_node, "memory", {"offset": f'0x{RIIVO_CONFIG_LOCALE_ADDR:08X}',
+                                             "value": f'0x{language_code:02X}'})
 
     # ------------------------------------------------------
 

@@ -46,18 +46,15 @@ FEATURES_ITEMS = [
     ("stamp",         f'New collectable <b>items</b>!'),
 ]
 
-SB4P_LANGUAGES = ["English", "German", "Italian", "Spanish", "French"]  # Dutch, Portuguese, Russian
-SB4E_LANGUAGES = ["English", "Spanish", "French"]  # Portuguese
-SB4J_LANGUAGES = ["Japanese"]
-SB4W_LANGUAGES = ["Chinese (Traditional)"]  # Chinese (Simplified)
-SB4K_LANGUAGES = ["Korean"]
-
-COMPATIBILITY_ITEMS = [
-    ("SB4P", SB4P_LANGUAGES, "Super Mario Galaxy 2", "Europe / Australia"),
-    ("SB4E", SB4E_LANGUAGES, "Super Mario Galaxy 2", "North America"),
-    ("SB4J", SB4J_LANGUAGES, "スーパーマリオギャラクシー 2", "Japan"),
-    ("SB4W", SB4W_LANGUAGES, "超級瑪利歐銀河２", "Taiwan / Hong Kong"),
-    ("SB4K", SB4K_LANGUAGES, "슈퍼 마리오 Wii 2", "Korea"),
+LANGUAGE_ITEMS = [
+    "English (US/UK)",
+    "French (FR/QC)",
+    "Spanish (ES/MX)",
+    "German",
+    "Italian",
+    "Japanese",
+    "Chinese (Traditional)",
+    "Korean",
 ]
 
 SCREENSHOTS_ITEMS = [
@@ -127,8 +124,8 @@ IN_MEMORIAM_MIXLAS_DESCRIPTION_2 = f'<b><em>Rest in peace Mixlas. We will not fo
 
 # ----------------------------------------------------------------------------------------------------------------------
 
-COMPATIBILITY_DESCRIPTION = (f'<em>Neo Mario Galaxy</em> works with all versions of <em>Super Mario Galaxy 2</em> and '
-                             f'is available in the languages listed below.')
+COMPATIBILITY_DESCRIPTION = (f'<em>Neo Mario Galaxy</em> works with all five versions of <em>Super Mario Galaxy 2</em> '
+                             f'and is available in the following language options:')
 
 INSTALLATION_DESCRIPTION = (f'This guide provides step-by-step instructions for running <em>Neo Mario Galaxy</em> '
                             f'on a physical Wii or Wii U console.')
@@ -291,21 +288,9 @@ def __insert_compatibility(html: Airium):
         html.h2(id="compatibility", _t="Compatibility")
         html.p(_t=COMPATIBILITY_DESCRIPTION)
 
-        with html.div(klass="table_wrapper"), html.table():
-            with html.tr():
-                html.th(_t="ID")
-                html.th(_t="Region")
-                html.th(_t="Game")
-                html.th(_t="Languages")
-
-            for id_, languages, game, region in COMPATIBILITY_ITEMS:
-                with html.tr():
-                    with html.td():
-                        html.span(klass="code", _t=id_)
-
-                    html.td(_t=region)
-                    html.td(_t=game)
-                    html.td(_t=", ".join(languages))
+        with html.ul():
+            for language in LANGUAGE_ITEMS:
+                html.li(_t=language)
 
 
 def __insert_installation(html: Airium):

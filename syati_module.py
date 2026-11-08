@@ -81,6 +81,7 @@ MODULE_SOURCE_FILES = [
     "neo/NPC/TicoManiac.cpp",
     "neo/Screen/ExtAllStarList.cpp",
     "neo/Screen/ExtGalaxyCometScreenFilter.cpp",
+    "neo/Screen/ExtGalaxyNamePlate.cpp",
     "neo/Screen/ExtInformationObserver.cpp",
     "neo/Screen/ExtStageResultInformer.cpp",
     "neo/Screen/IllustItemCounter.cpp",
@@ -94,7 +95,6 @@ MODULE_SOURCE_FILES = [
     "neo/System/IllustItemExtensions.cpp",
     "neo/System/InStageSave.cpp",
     "neo/System/Language.cpp",
-    "neo/System/Region.cpp",
     "neo/System/RiivolutionConfig.cpp",
     "neo/System/StationedFileInfo.cpp",
 

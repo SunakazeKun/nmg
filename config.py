@@ -18,7 +18,7 @@ logging.basicConfig(
 
 PROJECT_TITLE = "NMG_2026"
 PROJECT_SHORT = "nmg"
-PROJECT_VERSION = "1.6.0"
+PROJECT_VERSION = "1.6.1"
 
 GAME_ID = os.getenv("GAME_ID")
 GAME_PATH = Path(os.getenv("GAME_PATH")).absolute()
@@ -77,15 +77,6 @@ USE_RESOURCE_STAGE_INFOS = [
 # Localization
 # ======================================================================================================================
 
-SUPPORTED_REGIONS = [
-    "Eu",
-    "Us",
-    "Jp",
-#   "Cn",  # Unreleased
-    "Kr",
-    "As"
-]
-
 SUPPORTED_LANGUAGES = [
     "EuEnglish",
     "EuGerman",
@@ -111,10 +102,6 @@ def get_language_region(language: str) -> str:
     return language[:2]
 
 
-def iter_languages_by_region(region: str) -> Iterable[str]:
-    return filter(lambda l: l.startswith(region), SUPPORTED_LANGUAGES)
-
-
 # ======================================================================================================================
 # Deployment
 # ======================================================================================================================
@@ -125,55 +112,36 @@ class RiivolutionTarget:
     region: str
     error_msg_arc_addr: int
     error_msg_arc_size: int
-    languages: list[str]
 
 
 RIIVO_TARGETS = [
-    RiivolutionTarget(id="SB4", region="P", error_msg_arc_addr=0x8064E220, error_msg_arc_size=0xB780, languages=[
-        "EuEnglish",
-        "EuGerman",
-        "EuItalian",
-        "EuSpanish",
-        "EuFrench",
-        # "EuDutch",
-        # "EuPortuguese",
-        # "EuRussian",
-    ]),
-    RiivolutionTarget(id="SB4", region="E", error_msg_arc_addr=0x8064E220, error_msg_arc_size=0x6080, languages=[
-        "UsEnglish",
-        "UsSpanish",
-        "UsFrench",
-        # "UsPortuguese",
-    ]),
-    RiivolutionTarget(id="SB4", region="J", error_msg_arc_addr=0x8064E220, error_msg_arc_size=0x5860, languages=[]),
-    RiivolutionTarget(id="SB4", region="W", error_msg_arc_addr=0x8064E7C0, error_msg_arc_size=0x5D80, languages=[
-        # "AsTradChinese",
-        # "CnSimpChinese",
-    ]),
-    RiivolutionTarget(id="SB4", region="K", error_msg_arc_addr=0x8064E7C0, error_msg_arc_size=0x4920, languages=[]),
+    RiivolutionTarget(id="SB4", region="P", error_msg_arc_addr=0x8064E220, error_msg_arc_size=0xB780),
+    RiivolutionTarget(id="SB4", region="E", error_msg_arc_addr=0x8064E220, error_msg_arc_size=0x6080),
+    RiivolutionTarget(id="SB4", region="J", error_msg_arc_addr=0x8064E220, error_msg_arc_size=0x5860),
+    RiivolutionTarget(id="SB4", region="W", error_msg_arc_addr=0x8064E7C0, error_msg_arc_size=0x5D80),
+    RiivolutionTarget(id="SB4", region="K", error_msg_arc_addr=0x8064E7C0, error_msg_arc_size=0x4920),
 ]
 
 RIIVO_CONFIG_LOCALE_ADDR = 0x80003FC0
-RIIVO_CONFIG_LOCALE_VALID = 1 << 31
-RIIVO_CONFIG_LOCALE_INFO = {
-    "JpJapanese":    (0x10 | RIIVO_CONFIG_LOCALE_VALID, "Japanese"),
-    "UsEnglish":     (0x21 | RIIVO_CONFIG_LOCALE_VALID, "English"),
-    "UsSpanish":     (0x24 | RIIVO_CONFIG_LOCALE_VALID, "Spanish"),
-    "UsFrench":      (0x23 | RIIVO_CONFIG_LOCALE_VALID, "French"),
-    "UsPortuguese":  (0x2A | RIIVO_CONFIG_LOCALE_VALID, "Portuguese"),
-    "EuEnglish":     (0x01 | RIIVO_CONFIG_LOCALE_VALID, "English"),
-    "EuSpanish":     (0x04 | RIIVO_CONFIG_LOCALE_VALID, "Spanish"),
-    "EuFrench":      (0x03 | RIIVO_CONFIG_LOCALE_VALID, "French"),
-    "EuGerman":      (0x02 | RIIVO_CONFIG_LOCALE_VALID, "German"),
-    "EuItalian":     (0x05 | RIIVO_CONFIG_LOCALE_VALID, "Italian"),
-    "EuDutch":       (0x06 | RIIVO_CONFIG_LOCALE_VALID, "Dutch"),
-    "EuPortuguese":  (0x0A | RIIVO_CONFIG_LOCALE_VALID, "Portuguese"),
-    "EuRussian":     (0x0B | RIIVO_CONFIG_LOCALE_VALID, "Russian"),
-    "CnSimpChinese": (0x37 | RIIVO_CONFIG_LOCALE_VALID, "Simp. Chinese"),
-    "CnTradChinese": (0x38 | RIIVO_CONFIG_LOCALE_VALID, "Trad. Chinese"),
-    "KrKorean":      (0x49 | RIIVO_CONFIG_LOCALE_VALID, "Korean"),
-    "AsTradChinese": (0x58 | RIIVO_CONFIG_LOCALE_VALID, "Trad. Chinese"),
-}
+RIIVO_CONFIG_LOCALE_VALID = 1 << 7
+RIIVO_CONFIG_LOCALE_INFO = [
+    (0x10 | RIIVO_CONFIG_LOCALE_VALID, "JpJapanese",    "Japanese"),
+    (0x21 | RIIVO_CONFIG_LOCALE_VALID, "UsEnglish",     "English (US)"),
+    (0x01 | RIIVO_CONFIG_LOCALE_VALID, "EuEnglish",     "English (UK)"),
+    (0x02 | RIIVO_CONFIG_LOCALE_VALID, "EuGerman",      "German"),
+    (0x03 | RIIVO_CONFIG_LOCALE_VALID, "EuFrench",      "French (FR)"),
+    (0x23 | RIIVO_CONFIG_LOCALE_VALID, "UsFrench",      "French (QC)"),
+    (0x04 | RIIVO_CONFIG_LOCALE_VALID, "EuSpanish",     "Spanish (ES)"),
+    (0x24 | RIIVO_CONFIG_LOCALE_VALID, "UsSpanish",     "Spanish (MX)"),
+    (0x05 | RIIVO_CONFIG_LOCALE_VALID, "EuItalian",     "Italian"),
+    (0x06 | RIIVO_CONFIG_LOCALE_VALID, "EuDutch",       "Dutch"),
+#   (0x0A | RIIVO_CONFIG_LOCALE_VALID, "EuPortuguese",  "Portuguese (PT)"),
+#   (0x2A | RIIVO_CONFIG_LOCALE_VALID, "UsPortuguese",  "Portuguese (BR)"),
+#   (0x0B | RIIVO_CONFIG_LOCALE_VALID, "EuRussian",     "Russian"),
+#   (0x37 | RIIVO_CONFIG_LOCALE_VALID, "CnSimpChinese", "Simp. Chinese"),
+    (0x58 | RIIVO_CONFIG_LOCALE_VALID, "AsTradChinese", "Trad. Chinese"),
+    (0x49 | RIIVO_CONFIG_LOCALE_VALID, "KrKorean",      "Korean"),
+]
 
 IGNORE_FILES = [
     "/galaxies.json",

@@ -1,5 +1,10 @@
 # Version history
 
+## v1.6.1
+
+### Additions
+- All supported languages can now be used regardless of the underlying regional version of Super Mario Galaxy 2.
+
 ## v1.6.0
 
 ### Additions

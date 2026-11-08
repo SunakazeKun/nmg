@@ -1,7 +1,9 @@
 #include "neo/System/Language.h"
 #include "neo/System/Language.inc"
-#include "neo/System/Region.h"
 #include "neo/System/RiivolutionConfig.h"
+#include "Game/System/GameSystem.h"
+#include "Game/System/GameSystemObjHolder.h"
+#include "Game/Singleton.h"
 #include "kamek/hooks.h"
 
 #define SC_LANG_COUNT (10)
@@ -34,7 +36,19 @@ namespace {
 
     // -----------------------------------------------------------------------------------------------------------------
 
-    const u8 cSCLangToGameLangUs[SC_LANG_COUNT] = {
+    const u8 cSCLangToGameLang[SC_LANG_COUNT] = {
+#if defined(SB4J) || defined(SB4K)
+        LANGUAGE_JP_JAPANESE,
+        LANGUAGE_US_ENGLISH,
+        LANGUAGE_EU_GERMAN,
+        LANGUAGE_EU_FRENCH,
+        LANGUAGE_EU_SPANISH,
+        LANGUAGE_EU_ITALIAN,
+        LANGUAGE_EU_DUTCH,
+        LANGUAGE_CN_SIMP_CHINESE,
+        LANGUAGE_AS_TRAD_CHINESE,
+        LANGUAGE_KR_KOREAN,
+#elif defined(SB4E)
         LANGUAGE_JP_JAPANESE,
         LANGUAGE_US_ENGLISH,
         LANGUAGE_EU_GERMAN,
@@ -45,8 +59,7 @@ namespace {
         LANGUAGE_CN_SIMP_CHINESE,
         LANGUAGE_AS_TRAD_CHINESE,
         LANGUAGE_KR_KOREAN,
-    };
-    const u8 cSCLangToGameLangEu[SC_LANG_COUNT] = {
+#elif defined(SB4P)
         LANGUAGE_JP_JAPANESE,
         LANGUAGE_EU_ENGLISH,
         LANGUAGE_EU_GERMAN,
@@ -57,10 +70,25 @@ namespace {
         LANGUAGE_CN_SIMP_CHINESE,
         LANGUAGE_AS_TRAD_CHINESE,
         LANGUAGE_KR_KOREAN,
+#elif defined(SB4W)
+        LANGUAGE_AS_TRAD_CHINESE,
+        LANGUAGE_US_ENGLISH,
+        LANGUAGE_EU_GERMAN,
+        LANGUAGE_EU_FRENCH,
+        LANGUAGE_EU_SPANISH,
+        LANGUAGE_EU_ITALIAN,
+        LANGUAGE_EU_DUTCH,
+        LANGUAGE_CN_SIMP_CHINESE,
+        LANGUAGE_AS_TRAD_CHINESE,
+        LANGUAGE_KR_KOREAN,
+#endif
     };
 
     // =================================================================================================================
     // Extension of MR::getDecidedLanguageFromIPL
+    //
+    // Derives the game language from the system's configured language. The language chosen in the Riivolution
+    // configuration will be used instead of the system's configured language if it is specified.
     // =================================================================================================================
 
     u32 extGetDecidedLanguageFromIPL() {
@@ -69,23 +97,8 @@ namespace {
         if (neo::getRiivolutionConfigLocale(&locale)) {
             return locale;
         }
-
-        switch (neo::getGameRegionFromDVDDiskID()) {
-        case neo::GAME_REGION_JAPAN:
-            return LANGUAGE_JP_JAPANESE;
-        case neo::GAME_REGION_AMERICA:
-            return cSCLangToGameLangUs[SCGetLanguage()];
-        case neo::GAME_REGION_EUROPE:
-            return cSCLangToGameLangEu[SCGetLanguage()];
-        case neo::GAME_REGION_CHINA:
-            return LANGUAGE_CN_SIMP_CHINESE;
-        case neo::GAME_REGION_KOREA:
-            return LANGUAGE_KOREAN;
-        case neo::GAME_REGION_ASIA:
-            return LANGUAGE_AS_TRAD_CHINESE;
-        default:
-            return LANGUAGE_US_ENGLISH;
-        }
+        
+        return cSCLangToGameLang[SCGetLanguage()];
     }
 
 #if defined(SB4_JEP)
@@ -96,11 +109,39 @@ namespace {
 
 
     // =================================================================================================================
+    // Extension of MR::getLanguage
+    //
+    // ErrorMessageArchive is loaded before GameSystemObjHolder is initialized and set, so it needs to be ensured that
+    // the current language can be determined at any given time during the game's runtime.
+    // =================================================================================================================
+
+    u32 extGetLanguage() {
+        GameSystem* gameSystem = SingletonHolder<GameSystem>::sInstance;
+        GameSystemObjHolder* objHolder = gameSystem->mObjHolder;
+
+        if (objHolder != nullptr) {
+            return objHolder->mLanguage;
+        }
+        
+        return extGetDecidedLanguageFromIPL();
+    }
+
+#if defined(SB4_JEP)
+    kmBranch(0x804BD230, extGetLanguage);
+#elif defined(SB4_WK)
+    kmBranch(0x804BD2A0, extGetLanguage);
+#endif
+
+
+    // =================================================================================================================
     // Extension of MR::getLanguageFromIPL
+    //
+    // Used to set the Home Menu language. Because the Home Menu exclusively supports the standard SC/IPL languages,
+    // custom language types will default to English.
     // =================================================================================================================
 
     u32 extGetLanguageFromIPL() {
-        u32 language = GET_LANGUAGE_FROM_LOCALE(MR::getLanguage());
+        u32 language = GET_LANGUAGE_FROM_LOCALE(extGetLanguage());
         return language < SC_LANG_COUNT ? language : SC_LANG_ENGLISH;
     }
 
@@ -116,7 +157,7 @@ namespace {
     // =================================================================================================================
 
     const char* extGetCurrentLanguagePrefix() {
-        u32 locale = MR::getLanguage();
+        u32 locale = extGetLanguage();
 
         for (int i = 0; i < ARRAY_SIZE(cLanguages); i++) {
             if (cLanguages[i].mLocale == locale) {
@@ -136,13 +177,14 @@ namespace {
 
     // =================================================================================================================
     // Extension of MR::getCurrentRegionPrefix
+    //
+    // Adds support for recognizing the "As" region prefix. This was first introduced in the Asian/Korean releases.
     // =================================================================================================================
 
 #if defined(SB4_JEP)
     const char* extGetCurrentRegionPrefix(const char* regionPrefix) {
         if (regionPrefix == nullptr) {
-            u32 locale = MR::getLanguage();
-            u32 region = GET_REGION_FROM_LOCALE(locale);
+            u32 region = GET_REGION_FROM_LOCALE(extGetLanguage());
 
             if (region == REGION_AS) {
                 return "As";
