@@ -83,6 +83,7 @@ MODULE_SOURCE_FILES = [
     "neo/Screen/ExtGalaxyCometScreenFilter.cpp",
     "neo/Screen/ExtGalaxyNamePlate.cpp",
     "neo/Screen/ExtInformationObserver.cpp",
+    "neo/Screen/ExtLayoutCoreUtil.cpp",
     "neo/Screen/ExtStageResultInformer.cpp",
     "neo/Screen/IllustItemCounter.cpp",
     "neo/System/DaredevilModeAccess.cpp",
