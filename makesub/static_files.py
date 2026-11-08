@@ -12,10 +12,19 @@ __all__ = ["copy_static_files_to_game", "copy_simple_tree_to_game", "copy_locali
 def copy_static_files_to_game():
     copy_simple_tree_to_game(Path("AudioRes"), NEW_AUDIO_RES_PATH)
     copy_simple_tree_to_game(Path("HomeButton2"), Path("data/arcs/HomeButton2"))
+    copy_simple_file_to_game(Path("opening.bnr"), Path("data/arcs/opening.bnr"))
     copy_localized_tree_to_game(Path("LayoutData"), Path("data/arcs/LayoutData"))
     copy_localized_tree_to_game(Path("ObjectData"), Path("data/arcs/ObjectData/SMG1"))
     copy_localized_tree_to_game(Path("ObjectData"), Path("data/arcs/ObjectData/Edited"))
     copy_localized_tree_to_game(Path("ObjectData"), Path("data/arcs/ObjectData/Custom"))
+
+
+def copy_simple_file_to_game(iso_file_subpath: Path, src_file_path: Path):
+    logging.info("Copying game %s from %s", iso_file_subpath, src_file_path)
+
+    dst_filer_path = GAME_PATH / "files" / iso_file_subpath
+    dst_filer_path.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copyfile(src_file_path, dst_filer_path)
 
 
 def copy_simple_tree_to_game(iso_folder_subpath: Path, src_folder_path: Path):
