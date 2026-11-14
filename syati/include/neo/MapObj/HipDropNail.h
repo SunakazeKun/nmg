@@ -15,21 +15,19 @@ namespace neo {
         void setHost(HipDropNailWatcher *pHost);
         bool isMoved() const;
 
+        void exeWait();
         void exeMove();
-        void exeMoved();
+        void exeDone();
+
+        void displacePosition(f32 yOffset);
 
         HipDropNailWatcher* mHost;
+        int mAlreadyDoneFlagIdx;
         f32 mYOffset;
         s32 mMoveTime;
         TVec3f mUpVec;
         TVec3f mOrgPos;
     };
-
-    namespace NrvHipDropNail {
-        NERVE(NrvWait);
-        NERVE(NrvMove);
-        NERVE(NrvMoved);
-    }
 
     class HipDropNailWatcher : public LiveActor {
     public:
@@ -41,23 +39,13 @@ namespace neo {
 
         void exeWatch();
         void exeComplete();
+        void exeDone();
 
         HipDropNail** mNails;
         s32 mNailsCount;
         s32 mScenarioId;
         TVec3f mSpawnPos;
+        int mAlreadyDoneFlagIdx;
         bool mPlayFanfare;
     };
-
-    namespace NrvHipDropNailWatcher {
-        NERVE(NrvWatch);
-        NERVE(NrvComplete);
-    }
 }
-
-#define NrvHipDropNailWait &neo::NrvHipDropNail::NrvWait::sInstance
-#define NrvHipDropNailMove &neo::NrvHipDropNail::NrvMove::sInstance
-#define NrvHipDropNailMoved &neo::NrvHipDropNail::NrvMoved::sInstance
-
-#define NrvHipDropNailWatcherWatch &neo::NrvHipDropNailWatcher::NrvWatch::sInstance
-#define NrvHipDropNailWatcherComplete &neo::NrvHipDropNailWatcher::NrvComplete::sInstance
