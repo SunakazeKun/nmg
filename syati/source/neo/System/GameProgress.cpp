@@ -48,12 +48,13 @@ namespace neo {
     }
 
     void calcUserFileCollectibles(const UserFile *pUserFile, s32 *pMedals, s32 *pStamps) {
-        GameDataAllGalaxyStorage* allGalaxyStorage = pUserFile->mGameDataHolder->mAllGalaxyStorage;
+        GameDataAllGalaxyStorage* storage = pUserFile->mGameDataHolder->mAllGalaxyStorage;
+
         s32 medals = 0;
         s32 stamps = 0;
 
-        for (int i = 0; i < allGalaxyStorage->mNumGalaxies; i++) {
-            u8 flags = allGalaxyStorage->mGalaxyStorages[i]->mFlag;
+        for (int i = 0; i < storage->mNumGalaxies; i++) {
+            u8 flags = storage->mGalaxyStorages[i]->mFlag;
 
             if (flags & SOME_GALAXY_STORAGE_FLAG_TICO_COIN) {
                 medals++;
@@ -69,8 +70,12 @@ namespace neo {
     }
 
     bool checkUserFileAllowRosettaMiiIcon(const UserFile *pUserFile) {
-        GameDataAllGalaxyStorage* allGalaxyStorage = pUserFile->mGameDataHolder->mAllGalaxyStorage;
-        return allGalaxyStorage->makeAccessor(STAGE_COMET_OBSERVATORY)->getScenarioAccessor(2)->mFlag & 1;
+        GameDataAllGalaxyStorage* storage = pUserFile->mGameDataHolder->mAllGalaxyStorage;
+
+        GameDataSomeGalaxyStorage* galaxy = storage->makeAccessor(STAGE_COMET_OBSERVATORY);
+        GameDataSomeScenarioAccessor* scenario = galaxy->getScenarioAccessor(2);
+
+        return scenario->testFlag(SOME_SCENARIO_ACCESSOR_FLAG_POWER_STAR);
     }
 
     
