@@ -4,6 +4,7 @@
 
 ### Additions
 - All supported languages can now be used regardless of the underlying regional version of Super Mario Galaxy 2.
+- A Ghost Luigi now appears on Starship Mario as a reward for unlocking all 21 Ghosts.
 
 ### Changes
 - **Galactic Garden Galaxy**: Tweaked the player's Wall Jump angle in the Space Junk block section.

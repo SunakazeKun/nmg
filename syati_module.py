@@ -91,6 +91,7 @@ MODULE_SOURCE_FILES = [
     "neo/System/ErrorMessageArchive.cpp",
     "neo/System/GameEventData.cpp",
     "neo/System/GameProgress.cpp",
+    "neo/System/GhostAttackAccess.cpp",
     "neo/System/HeapMemory.cpp",
     "neo/System/IllustItemAccess.cpp",
     "neo/System/IllustItemExtensions.cpp",
