@@ -11,9 +11,7 @@ regional versions of SMG2.
 - Review Japanese localization (``JpJapanese``)
 - Dutch localization (``EuDutch``)
 - Simplified Chinese localization (``CnSimpChinese``)
-- Portuguese localization (``EuPortuguese``)
 - Brazilian Portuguese localization (``UsPortuguese``)
-- Russian localization (``EuRussian``)
 
 ## Setup
 This section describes how to build NMG from source. Specifically, this describes the process using the PyCharm IDE.

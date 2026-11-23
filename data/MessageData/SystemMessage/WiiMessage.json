@@ -158,8 +158,6 @@
         "Play Time: [stringvar:5;1;0x00000000]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "表彰状",
         "",
@@ -384,8 +382,6 @@
         "Play Time: [stringvar:5;1;0x00000000]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "表彰状",
         "",
@@ -501,8 +497,6 @@
         "Board!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "Wii[ruby:伝言板;でんごんばん]にメッセージを[ruby:送;おく]りました!"
       ],
@@ -556,8 +550,6 @@
         "Super Mario Galaxy 2"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "スーパーマリオギャラクシー２"
       ],
@@ -612,8 +604,6 @@
         "Player"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "遊んでくれたプレイヤー"
       ],

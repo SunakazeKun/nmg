@@ -40,8 +40,6 @@
         "Hey, pal!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ちょっと! ちょっと!"
       ],
@@ -95,8 +93,6 @@
         "FINALLY!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:待;ま]ってたぞ!"
       ],
@@ -231,8 +227,6 @@
         "Maybe. [delay:15]So, [color:blue]you game [defcolor]or what?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "おれさまは、 [color:red]さすらいの[ruby:遊;あそ]び[ruby:人;にん][defcolor][pagebreak]",
         "[ruby:宇宙;うちゅう]の[ruby:遊;あそ][color:blue][color:black]びは[color:blue]すべて[ruby:遊;あそ]びつくして[defcolor]",
@@ -323,8 +317,6 @@
         "Good luck! [delay:15]You're gonna need it, pal...[defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:目標;もくひょう]は[color:red][intvar:4;0;0][defcolor][color:red][ruby:点;てん][defcolor]!",
         "[color:blue]おれさまのゲーム[defcolor]を とくと[ruby:味;あじ]わうがいい!"
@@ -395,8 +387,6 @@
         "I know. [delay:15]C'mon - [color:red]give it a try[defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ん? [ruby:聞;き]こえん… [ruby:聞;き]こえんぞ?",
         "もう[ruby:一度;いちど] [ruby:聞;き]くぞ! [delay:15][color:red]やる[defcolor]よな?"
@@ -466,8 +456,6 @@
         "tell me you wanna start over?[color:red][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ん?  [ruby:現在;げんざい][color:red][intvar:4;0;0][ruby:点;てん][color:black]だぞ[color:red][color:black]",
         "やりなおすのか?[color:red][defcolor]"
@@ -526,8 +514,6 @@
         "Show me what you got!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "がんばれよ!"
       ],
@@ -601,8 +587,6 @@
         "my own skill! Here is your[color:black] [defcolor][color:yellow][icon:star][color:black]![color:yellow][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "お[ruby:見事;みごと]! [color:red][intvar:4;0;0][ruby:点;てん][color:black]だぞ[color:red][defcolor][color:black]![pagebreak]",
         "おれさまの[color:red]すご[ruby:腕;うで]ライバル [color:black]と[ruby:認;みと]めてやるのだ!",
@@ -680,8 +664,6 @@
         "wanna crack the [color:red]high score[color:black].[defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red][intvar:4;0;0][ruby:点;てん][color:black]なのだ![color:red][defcolor][color:black]",
         "また [defcolor][color:red]ハイスコア[defcolor]を[ruby:狙;ねら]いに、 [ruby:遊;あそ]びに[ruby:来;く]るんだぞ!"
@@ -757,8 +739,6 @@
         "do better than that!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:残念;ざんねん]だったな!",
         "[color:red][intvar:4;0;0][ruby:点;てん][defcolor]!![pagebreak]",
@@ -831,8 +811,6 @@
         "you can get [color:red][intvar:4;0;0] points[color:black]?[color:red][defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "よーし、 もう[ruby:一度;いちど]だな!",
         "[ruby:目標;もくひょう] [color:red][intvar:4;0;0][ruby:点;てん][defcolor]!"
@@ -929,8 +907,6 @@
         "You're good, pal... [delay:15]Real good.[color:yellow][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "・・・ややや?![delay:15]",
         "[color:red][size:large]ハイスコア[color:black]だぞ[color:red][defcolor]!![pagebreak]",
@@ -1073,8 +1049,6 @@
         "[delay:15]Maybe. [delay:15]So, you game or what?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "おれさまは、 [color:red]さすらいの[ruby:遊;あそ]び[ruby:人;にん][defcolor][pagebreak]",
         "すべての[ruby:遊;あそ]びを[ruby:遊;あそ]びつくした",
@@ -1148,8 +1122,6 @@
         "Need to give it another try, eh?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:再挑戦;さいちょうせん]か!"
       ],
@@ -1267,8 +1239,6 @@
         "[color:black]So...you game or what?[defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "おれさまは、 [color:red]さすらいの[ruby:遊;あそ]び[ruby:人;にん][defcolor][pagebreak]",
         "むむっ… [color:blue]そんなことは[ruby:知;し]ってる[color:black]って[color:blue][defcolor][ruby:顔;かお]だな?",
@@ -1386,8 +1356,6 @@
         "Here - take your [icon:star]. You earned it."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "お[ruby:見事;みごと]! [color:red][intvar:4;0;0][ruby:点;てん][color:black]だぞ[color:red][defcolor][color:black]![pagebreak]",
         "おれさまの[color:red][ruby:人生;じんせい]のライバル [color:black]と[ruby:認;みと]めてやるのだ[color:black]![color:black][pagebreak]",
@@ -1499,8 +1467,6 @@
         "me some of your moves sometime?[color:yellow][color:black][color:red][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "お[ruby:見事;みごと]! [color:red][intvar:4;0;0][ruby:点;てん][color:black]だぞ[color:red][defcolor][color:black]![pagebreak]",
         "[color:red][color:black]おれさまの[color:red][ruby:最高;さいこう]の[color:black][color:red]ライバル [color:black]と[ruby:認;みと]めてやるのだ[color:red][color:black]![color:red][color:black][pagebreak]",
@@ -1578,8 +1544,6 @@
         "player to beat. C'mon - [color:red]try it out[defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "んー? おれさまの[ruby:耳;みみ]がおかしいのか…",
         "やらない、 と[ruby:聞;き]こえたが… [delay:15][color:red]やる[defcolor]よな?"
@@ -1647,8 +1611,6 @@
         "Too loudly, anyway."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "きっと、 そういうと[ruby:思;おも]っていたぞ!",
         "…おれさまが、 [color:red][ruby:無視;むし]する[color:black]と[color:red][defcolor][ruby:思;おも]ってるだろ?[pagebreak]",
@@ -1742,8 +1704,6 @@
         "Come on - give it another shot![defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:残念;ざんねん]だったな!",
         "[color:red][intvar:4;0;0][ruby:点;てん][defcolor]!![pagebreak]",

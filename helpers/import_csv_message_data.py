@@ -19,8 +19,6 @@ SHEET_LANGUAGES = [
     "EuItalian",
     "EuDutch",
     "UsPortuguese",
-    "EuPortuguese",
-    "EuRussian",
     "JpJapanese",
     "KrKorean",
     "CnSimpChinese",

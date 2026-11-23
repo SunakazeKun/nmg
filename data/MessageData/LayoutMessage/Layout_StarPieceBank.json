@@ -40,8 +40,6 @@
         "Withdraw"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ひきだす"
       ],
@@ -108,8 +106,6 @@
         "or [color:blue]withdraw[defcolor], then choose [color:red]OK[defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:blue]【あずける】 【ひきだす】[defcolor] で[icon:rainbow_starbit]の[ruby:出;だ]し[ruby:入;い]れです",
         "これでよければ [color:red]【OK】[defcolor] を[ruby:押;お]してください"
@@ -166,8 +162,6 @@
         "Quit"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "やめる"
       ],
@@ -221,8 +215,6 @@
         "W@"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "W@"
       ],
@@ -276,8 +268,6 @@
         "W@"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "W@"
       ],
@@ -331,8 +321,6 @@
         "OK!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "OK"
       ],
@@ -386,8 +374,6 @@
         "Deposit"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "あずける"
       ],

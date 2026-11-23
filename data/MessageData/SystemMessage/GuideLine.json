@@ -50,8 +50,6 @@
         "Player 1's Wii Remote."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "1PのWiiリモコンにヌンチャクを",
         "[ruby:接続;せつぞく]してください。"
@@ -136,8 +134,6 @@
         "the Nunchuk to reconnect."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "Wiiリモコンの[ruby:通信;つうしん]が[ruby:切;き]れました。",
         "つなぎなおすには、ヌンチャクの",
@@ -235,8 +231,6 @@
         "the Nunchuk."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "Wiiリモコンの[ruby:通信;つうしん]が[ruby:切;き]れました。",
         "[ruby:電池;でんち]が[ruby:残;のこ]り[ruby:少;すく]ない[ruby:場合;ばあい]には[ruby:電池;でんち]を[ruby:交換;こうかん]し、",
@@ -361,8 +355,6 @@
         "Management screen?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "Wii[ruby:本体保存;ほんたいほぞん]メモリの[ruby:空;あ]き[ruby:容量;ようりょう]が[ruby:不足;ふそく]しています。",
         "Wiiメニューのデータ[ruby:管理画面;かんりがめん]でデータを",
@@ -431,8 +423,6 @@
         "Continue"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:無視;むし]"
       ],
@@ -486,8 +476,6 @@
         "Quit"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "Wiiメニューへ"
       ],
@@ -597,8 +585,6 @@
         "Management screen?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "Wii[ruby:本体保存;ほんたいほぞん]メモリの[ruby:空;あ]きファイル[ruby:数;すう]が",
         "[ruby:不足;ふそく]しています。",
@@ -667,8 +653,6 @@
         "Continue"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:無視;むし]"
       ],
@@ -722,8 +706,6 @@
         "Quit"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "Wiiメニューへ"
       ],
@@ -789,8 +771,6 @@
         "corrupted. Would you like to delete the file?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "データが[ruby:壊;こわ]れているため、セーブファイルが",
         "[ruby:使用;しよう]できません。",
@@ -849,8 +829,6 @@
         "No"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:無視;むし]"
       ],
@@ -904,8 +882,6 @@
         "Yes"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:消;け]す"
       ],
@@ -984,8 +960,6 @@
         "Manual for details."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "Wii[ruby:本体保存;ほんたいほぞん]メモリが[ruby:壊;こわ]れました。",
         "くわしくはWii[ruby:本体;ほんたい]の[ruby:取扱説明書;とりあつかいせつめいしょ]を",
@@ -1068,8 +1042,6 @@
         "Manual for details."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "Wii[ruby:本体保存;ほんたいほぞん]メモリの[ruby:書;か]き[ruby:込;こ]み/[ruby:読;よ]み[ruby:出;だ]しが",
         "できませんでした。",
@@ -1161,8 +1133,6 @@
         "Wii Operations Manual for details."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "Wii[ruby:本体保存;ほんたいほぞん]メモリの",
         "[ruby:書;か]き[ruby:込;こ]み/[ruby:読;よ]み[ruby:出;だ]し[ruby:中;ちゅう]にエラーが",

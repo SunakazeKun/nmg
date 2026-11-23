@@ -123,8 +123,6 @@
         "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "お[ruby:帰;かえ]りなさい [player:0] [delay:45]",
         "[color:red]新[ruby:たなる銀;ネオギャラクシー]河[defcolor]へ[ruby:旅立;たびだ]つ[ruby:準備;じゅんび]は[ruby:整;ととの]いましたか[pagebreak]",
@@ -280,8 +278,6 @@
         "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "つぎに、より[ruby:難;むずか]しい[color:red]サドンデス[defcolor]モードでプレイする",
         "こともできます[pagebreak]",
@@ -415,8 +411,6 @@
         "down on you. Farewell."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:分;わ]かりました・・・この[ruby:場所;ばしょ]を[ruby:離;はな]れてしまうと、プレイするモードを[ruby:変更;へんこう]することは[ruby:出来;でき]ません[pagebreak]",
         "ですが、プレイするキャラクターは[ruby:後;あと]でいつでも[ruby:変更;へんこう]することができます[pagebreak]",
@@ -491,8 +485,6 @@
         "your settings?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:設定;せってい]を[ruby:変更;へんこう]しますか？"
       ],
@@ -562,8 +554,6 @@
         "[color:gray](Currently: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:mario] [color:red]マリオ[defcolor] 、 [icon:luigi] [color:green]ルイージ[defcolor] のどちらでプレイしますか",
         "[color:gray](いま: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"

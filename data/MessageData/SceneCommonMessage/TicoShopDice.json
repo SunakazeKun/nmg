@@ -68,8 +68,6 @@
         "[defcolor]for only [color:red][intvar:2;0;0] [defcolor][color:red][color:red][icon:coins] [color:red]coins[defcolor]?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ピカリン♪ ピカリン♪",
         "まいど! [color:blue]チコショップ[defcolor]に ようこそ～[pagebreak]",
@@ -151,8 +149,6 @@
         "[size:large][color:red]TRANS[defcolor][color:red][color:red][sound:SE_SV_TICOFAT_META][color:red][delay:15][color:red][color:red]FOOOOORM![defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "キタキタキター! まんまんぷくぷく～!!",
         "ほな いきまっせ～～![pagebreak]",
@@ -214,8 +210,6 @@
         "Well, just stop by again later!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ほな また、 たのんます～"
       ],
@@ -276,8 +270,6 @@
         "[color:red][icon:coins] coins[defcolor]."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "あ～ でも、 [color:red][icon:coins]コイン[defcolor]が",
         "[ruby:足;た]りんようですわ"
@@ -343,8 +335,6 @@
         "[defcolor]for only[color:red] [defcolor][color:red][intvar:2;0;0] [color:red][icon:coins][color:red] coins[defcolor]?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red][color:red][icon:coins]コイン[color:red][color:red][intvar:2;0;0][ruby:枚;まい][color:red][defcolor]で",
         "[color:blue]サイコロ 5コ[defcolor]と[ruby:交換;こうかん]しまっせ～"
@@ -405,8 +395,6 @@
         "[color:red][color:red][icon:coins][icon:x_mark][color:red][color:red][intvar:2;0;0] [color:red][defcolor]for [color:blue]5 [color:black]s[color:blue][defcolor]pins!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red][icon:coins][icon:x_mark][color:red][intvar:2;0;0][color:red][defcolor]で サイコロ[color:blue]5コ[defcolor]"
       ],
@@ -489,8 +477,6 @@
         "[color:blue][defcolor]only[color:red] [defcolor][color:red][intvar:2;0;0] [color:red][icon:rainbow_starbit] [color:red]Star Bits[defcolor]?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ピカリン♪ ピカリン♪",
         "まいど! [color:blue]チコショップ[defcolor]に ようこそ～[pagebreak]",
@@ -572,8 +558,6 @@
         "[size:large][color:red]TRANS[defcolor][color:red][color:red][sound:SE_SV_TICOFAT_META][color:red][delay:15][color:red][color:red]FOOOOORM![defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "キタキタキター! まんまんぷくぷく～!!",
         "ほな いきまっせ～～![pagebreak]",
@@ -635,8 +619,6 @@
         "Well, just stop by again later!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ほな また、 たのんます～"
       ],
@@ -698,8 +680,6 @@
         "[color:red][icon:rainbow_starbit] Star Bits[defcolor]."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "あ～ でも、 [color:red][icon:rainbow_starbit]スターピース[defcolor]が",
         "[ruby:足;た]りんようですわ"
@@ -765,8 +745,6 @@
         "only [color:red][color:red][intvar:2;0;0] [color:red][color:red][color:red][icon:rainbow_starbit][color:red] [color:red]Star Bits[defcolor]?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red][icon:rainbow_starbit]スターピース[intvar:2;0;0]コ[defcolor]で",
         "[color:blue]サイコロ 1コ[defcolor]と[ruby:交換;こうかん]しまっせ～"
@@ -827,8 +805,6 @@
         "[color:red][icon:rainbow_starbit][icon:x_mark][defcolor][color:red][intvar:2;0;0][defcolor] for [color:blue]1 [color:black]spin![color:blue][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red][icon:rainbow_starbit][icon:x_mark][color:red][intvar:2;0;0][color:red][defcolor]で サイコロ[color:blue]1コ[defcolor]"
       ],

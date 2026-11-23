@@ -40,8 +40,6 @@
         "[icon:gold_crown] Galaxy Complete!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:gold_crown]ギャラクシーコンプリート!"
       ],
@@ -95,8 +93,6 @@
         "[icon:silver_crown] Galaxy Complete!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:silver_crown]ギャラクシーコンプリート!"
       ],
@@ -168,8 +164,6 @@
         "[stringvar:0;0;0x00000000]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[stringvar:0;0;0x00000000]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
@@ -229,8 +223,6 @@
         "You got some [color:yellow]coins[defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:yellow]コイン[defcolor]を[ruby:持;も]ち[ruby:帰;かえ]った!"
       ],
@@ -284,8 +276,6 @@
         "You got a [color:red]C[defcolor][color:red]omet Medal[defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:彗星;すいせい][defcolor][color:red]メダル[defcolor]を [ruby:手;て]に[ruby:入;い]れた!"
       ],
@@ -357,8 +347,6 @@
         "[color:black][stringvar:0;0;0x00000000][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[stringvar:0;0;0x00000000]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
@@ -436,8 +424,6 @@
         "[stringvar:0;0;0x00000000]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[stringvar:0;0;0x00000000]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
@@ -515,8 +501,6 @@
         "[stringvar:0;0;0x00000000]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[stringvar:0;0;0x00000000]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
@@ -594,8 +578,6 @@
         "[color:black][stringvar:0;0;0x00000000][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:black][stringvar:0;0;0x00000000][defcolor]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
@@ -673,8 +655,6 @@
         "[stringvar:0;0;0x00000000]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:black][stringvar:0;0;0x00000000][defcolor]",
         "[color:blue]「[stringvar:1;1;0x00000000]」[defcolor]の",
@@ -734,8 +714,6 @@
         "You got a [color:blue]Stamp[defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:blue]スタンプ[defcolor]を [ruby:手;て]に[ruby:入;い]れた!"
       ],
@@ -790,8 +768,6 @@
         "You got some [color:purple]Star Bits[defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:purple]スターピース[defcolor]を[ruby:持;も]ち[ruby:帰;かえ]った!"
       ],
@@ -854,8 +830,6 @@
         "[color:black][stringvar:0;0;0x00000000]![defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:black][stringvar:0;0;0x00000000][defcolor]に",
         "[color:green]ゴースト[defcolor]が[ruby:現;あらわ]れた!"
@@ -916,8 +890,6 @@
         "A portal to the next world opened up!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:時空;じくう]の[ruby:扉;とびら][defcolor]が[ruby:開;ひら]いた!"
       ],
@@ -972,8 +944,6 @@
         "New Clear Time!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "クリアタイム[ruby:更新;こうしん]!"
       ],
@@ -1028,8 +998,6 @@
         "A [color:red]Prankster Comet [defcolor]has appeared!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red]いたずら[ruby:彗星;すいせい][defcolor]が [ruby:現;あらわ]れた!"
       ],
@@ -1088,8 +1056,6 @@
         "[color:blue]Starship Mario [defcolor]can now [color:red]advance[defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:blue][ruby:星船;ほしぶね][defcolor]の[color:red][ruby:航行範囲;こうこうはんい][defcolor]が[ruby:広;ひろ]がった[color:black]![defcolor]"
       ],

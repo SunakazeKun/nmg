@@ -40,8 +40,6 @@
         "[icon:current_player][icon:x_mark]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:current_player][icon:x_mark]"
       ],
@@ -95,8 +93,6 @@
         "Clear Time"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "クリアタイム"
       ],
@@ -150,8 +146,6 @@
         "Prankster Comet detected!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "いたずら[ruby:彗星出現中;すいせいしゅつげんちゅう]!"
       ],
@@ -205,8 +199,6 @@
         "High Score"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ハイスコア"
       ],
@@ -260,8 +252,6 @@
         "NEW!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "NEW!"
       ],
@@ -315,8 +305,6 @@
         "Race Time"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "レースタイム"
       ],

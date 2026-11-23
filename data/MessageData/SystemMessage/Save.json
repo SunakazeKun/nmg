@@ -42,8 +42,6 @@
         "Quit without saving?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "データは[ruby:保存;ほぞん]されませんが",
         "よろしいですか?"
@@ -99,8 +97,6 @@
         "Back"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "もどる"
       ],
@@ -154,8 +150,6 @@
         "OK"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "OK"
       ],
@@ -209,8 +203,6 @@
         "Save your game?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "セーブしますか?"
       ],
@@ -264,8 +256,6 @@
         "No"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "いいえ"
       ],
@@ -319,8 +309,6 @@
         "OK"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "OK"
       ],
@@ -374,8 +362,6 @@
         "The game has been saved."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "セーブしました。"
       ],
@@ -438,8 +424,6 @@
         "Is this OK?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "このままではセーブできませんが、",
         "セーブしないで[ruby:続;つづ]けますか?"
@@ -495,8 +479,6 @@
         "No"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "いいえ"
       ],
@@ -550,8 +532,6 @@
         "OK"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "OK"
       ],
@@ -605,8 +585,6 @@
         "The corrupted file has been deleted."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:壊;こわ]れたファイルを[ruby:消;け]しました。"
       ],
@@ -662,8 +640,6 @@
         "Save your progress and quit?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "セーブをしてゲームを[ruby:終;お]わりますが、",
         "よろしいですか?"
@@ -719,8 +695,6 @@
         "No"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "いいえ"
       ],
@@ -774,8 +748,6 @@
         "OK"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "OK"
       ],

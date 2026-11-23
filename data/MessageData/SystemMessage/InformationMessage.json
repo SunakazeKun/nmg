@@ -43,8 +43,6 @@
         "[color:green]Prankster Comets [defcolor]have appeared!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:green]いたずら[ruby:彗星;すいせい][defcolor]が [ruby:現;あらわ]れた!"
       ],
@@ -99,8 +97,6 @@
         "You can play as Luigi!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "プレイヤーキャラクターを",
         "ルイージに[ruby:変更;へんこう]できます"
@@ -165,8 +161,6 @@
         "[color:blue]Hold [defcolor][icon:a_button] to buzz around."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red]ハチ[player:0][defcolor]になった!",
         "[color:blue][icon:a_button]ボタンを[ruby:長;なが]～く[ruby:押;お]して [defcolor][ruby:宙;ちゅう]に[ruby:浮;う]かぶ!"
@@ -241,8 +235,6 @@
         "cloud platforms [defcolor]out of thin air!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red][ruby:雲;くも][player:0][defcolor]になった! [color:blue][icon:wiimote]をふれば",
         "[defcolor][color:red]3つまで [ruby:雲;くも]の[ruby:床;ゆか]がつくれる[color:black]ぞ[color:red][defcolor]!"
@@ -313,8 +305,6 @@
         "Collect them to make [color:red][color:red]comets [color:black]appear.[color:red][color:red][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:comet_medal][color:red][ruby:彗星;すいせい]メダル[defcolor]を [ruby:手;て]に[ruby:入;い]れた!",
         "[ruby:集;あつ]めると、 いつか[color:red][ruby:彗星;すいせい][defcolor]がやってくる!"
@@ -382,8 +372,6 @@
         "start drilling!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red]ドリル[defcolor]を [ruby:手;て]に[ruby:入;い]れた!",
         "[icon:wiimote][color:blue]Wiiリモコンをふって [defcolor][ruby:掘;ほ]りまくれ!"
@@ -455,8 +443,6 @@
         "Shake [icon:wiimote] to shoot [color:red]fireballs[color:black].[color:red][color:red][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red]ファイア[player:0][defcolor]になった! [ruby:一定時間;いっていじかん]",
         "[icon:wiimote][color:black]をふれば [defcolor][color:red]ファイアボール[defcolor]を[ruby:放;はな]てる!"
@@ -523,8 +509,6 @@
         "[color:red]Spin[color:black] when [color:red]jumping [color:black]to fly!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red]フライング[player:0][color:black]になった!",
         "[color:red]ジャンプ[ruby:中;ちゅう]に [color:red]スピン[color:black]すれば [ruby:空;そら]を[ruby:飛;と]ぶ!"
@@ -598,8 +582,6 @@
         "moment to bounce high. BOOOOING![color:red][color:red][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red]バネ[player:0][defcolor]になった!",
         "タイミングよく [color:blue][icon:a_button]ボタン[defcolor][color:blue]を[ruby:押;お]して [defcolor]ボヨヨ～ン!"
@@ -666,8 +648,6 @@
         "Shake [icon:wiimote] to [color:red]skate[color:black]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red]アイス[player:0][defcolor]になった! ",
         "[ruby:一定時間;いっていじかん] [ruby:水;みず]の[ruby:上;うえ]を[ruby:歩;ある]ける!",
@@ -735,8 +715,6 @@
         "You're invincible![color:red][color:red][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red]レインボー[player:0][defcolor]になった!",
         "[ruby:七色;なないろ]の[ruby:光;ひかり]は どんな[ruby:敵;てき]もよせつけない!"
@@ -806,8 +784,6 @@
         "below 4, it will go back to normal."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:体力;たいりょく]が6[defcolor]に [ruby:増;ふ]えた!",
         "[ruby:体力;たいりょく]が3になると [ruby:元;もと]にもどる"
@@ -877,8 +853,6 @@
         "below 4, it will go back to normal."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:体力;たいりょく]が6[defcolor]に [ruby:増;ふ]えた!",
         "[ruby:体力;たいりょく]が3になると [ruby:元;もと]にもどる"
@@ -947,8 +921,6 @@
         "look just like Mario![defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:black]マリオそっくりの[ruby:星船;ほしぶね]ができた![defcolor]"
       ],
@@ -1005,8 +977,6 @@
         "You got an[color:red] extra[defcolor] [color:red]life[defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[player:0]の[ruby:残;のこ]り[ruby:数;すう]が [color:red]1[defcolor][color:red] [ruby:増;ふ]えた[defcolor]!"
       ],
@@ -1078,8 +1048,6 @@
         "your enemies![color:blue][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red]ゴロ[ruby:岩;いわ][player:0][defcolor]になった!",
         "[icon:wiimote][color:blue]Wiiリモコンをふって [defcolor][color:black]ゴロゴロアタック![defcolor]"
@@ -1151,8 +1119,6 @@
         "when you collect all of them."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:stamp][color:blue] スタンプ[color:black]を[ruby:手;て]に[ruby:入;い]れた!",
         "ぜんぶ[ruby:集;あつ]めたらなにかが[ruby:起;お]こる...?!"
@@ -1219,8 +1185,6 @@
         "[color:blue]Shake [color:black][icon:wiimote] to vanish.[color:red][color:red][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "なんと [color:red]オバケ[player:0][defcolor]になった!",
         "[icon:wiimote][color:blue]Wiiリモコンをふったら [defcolor]スッケスケ!"
@@ -1277,8 +1241,6 @@
         "[color:green]Yoshi [defcolor]hatched from the egg!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "タマゴから [color:green]ヨッシー[defcolor]が[ruby:出;で]てきた!"
       ],
@@ -1332,8 +1294,6 @@
         "A [color:red]new planet [defcolor]was born!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:新;あたら]しい[ruby:惑星;ほし][defcolor]が [ruby:生;う]まれた!"
       ],
@@ -1387,8 +1347,6 @@
         "A [color:red]new galaxy[defcolor] was born!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:新;あたら]しい[ruby:銀河;ギャラクシー][defcolor]が [ruby:生;う]まれた!"
       ],
@@ -1445,8 +1403,6 @@
         "You opened [color:red]Special W[defcolor][color:red]orld[defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red]スペシャルワールド[defcolor]が オープンした!"
       ],

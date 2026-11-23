@@ -85,8 +85,6 @@
         "What an adventure!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[size:large]あ～～～！[pagebreak]",
         "[size:normal][player:0]さんじゃないですか！[pagebreak]",
@@ -156,8 +154,6 @@
         "[size:large]Woah![size:normal] There's a ghost ship!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[size:large]うわ～～っ！ [size:normal][ruby:幽霊船;ゆうれいせん]です！"
       ],
@@ -211,8 +207,6 @@
         "I'm searching for the [icon:purple_coin]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:purple_coin]はどこだー！"
       ],
@@ -266,8 +260,6 @@
         "Eeeep! This place is scary!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ひぃ～～！　どうしてこんな[ruby:怖;こわ]いところに…"
       ],
@@ -321,8 +313,6 @@
         "Purple Coins... collect... [size:small]Zzzzzz..."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "パープルコインを... [ruby:集;あつ]め... [size:small]Zzzzzz..."
       ],
@@ -376,8 +366,6 @@
         "Don't forget to [color:red]breathe[defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red][ruby:息;いき][defcolor]つぎを[ruby:忘;わす]れずに!"
       ],
@@ -431,8 +419,6 @@
         "Press [icon:a_button] to [color:red]swim[color:black].[color:red][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:a_button]でスイスイ [color:blue][ruby:泳;およ]ごう！[color:black][color:red][defcolor]"
       ],
@@ -492,8 +478,6 @@
         "[icon:analog_stick] [color:blue]forward[defcolor] to [color:red]swim down[color:black].[color:red][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:analog_stick]スティックを [color:blue][ruby:前;まえ]に[defcolor][ruby:倒;たお]すと [color:red][ruby:下向;したむ]きにおよげるぜ[color:black]！[color:red][defcolor]"
       ],
@@ -547,8 +531,6 @@
         "Press [icon:z_button] to [color:red]dive[color:black].[color:red][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:z_button]で[color:blue]もぐる[color:black]！[color:red][defcolor]"
       ],
@@ -602,8 +584,6 @@
         "Where are the [icon:silver_star]?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:silver_star]どこにあるんだろう・・・"
       ],
@@ -658,8 +638,6 @@
         "[color:red]Bubbles[defcolor] give you air!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:blue][ruby:空気;くうき][ruby:減;へ]ったら [defcolor][color:red]アワ[defcolor] で[ruby:回復;かいふく]！"
       ],
@@ -741,8 +719,6 @@
         "the [icon:silver_star] [color:gray]Silver Stars[defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "キミは[color:blue][ruby:水泳教室;すいえいきょうしつ][defcolor]の[color:red][ruby:卒業試験;そつぎょうしけん][defcolor]を[ruby:受;う]けにきたのかい?[pagebreak]",
         "[ruby:試験;しけん]は[icon:silver_star][color:red]シルバースター[ruby:集;あつ]め[defcolor]！ [pagebreak]",
@@ -803,8 +779,6 @@
         "Collect all the [icon:silver_star] [color:gray]Silver Stars[defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:silver_star][color:gray]シルバースター[defcolor]をぜんぶ[ruby:集;あつ]めよう!"
       ],
@@ -867,8 +841,6 @@
         "You passed the exam!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "おめでとう！",
         "キミは[ruby:合格;ごうかく]だ！"
@@ -934,8 +906,6 @@
         "has been lost for ages..."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:yellow][ruby:黄金;おうごん]の[ruby:宝;たから][defcolor]のてがかりは[ruby:遠;とお]～い[ruby:昔;むかし]に",
         "[ruby:失;うし]われてしまったのじゃ..."

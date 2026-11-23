@@ -40,8 +40,6 @@
         "Back"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "もどる"
       ],
@@ -97,8 +95,6 @@
         "Return to Map"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ワールドマップに[ruby:帰;かえ]る"
       ],
@@ -154,8 +150,6 @@
         "Save and Quit"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "セーブして やめる"
       ],
@@ -209,8 +203,6 @@
         "[icon:coin][icon:x_mark][intvar:2;0;0]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:coin][icon:x_mark][intvar:2;0;0]"
       ],
@@ -265,8 +257,6 @@
         "Return to the World Map?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ワールドマップに [ruby:帰;かえ]ります",
         "よろしいですか?"
@@ -322,8 +312,6 @@
         "No"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "いいえ"
       ],
@@ -377,8 +365,6 @@
         "OK"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "OK"
       ],
@@ -432,8 +418,6 @@
         "Do you really want to quit?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:本当;ほんとう]にやめますか?"
       ],
@@ -487,8 +471,6 @@
         "No"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "いいえ"
       ],
@@ -542,8 +524,6 @@
         "OK"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "OK"
       ],
@@ -597,8 +577,6 @@
         "[icon:current_player][icon:x_mark][intvar:1;0;0]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:current_player][icon:x_mark][intvar:1;0;0]"
       ],
@@ -652,8 +630,6 @@
         "[icon:comet_medal][icon:x_mark][intvar:1;0;0]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:comet_medal][icon:x_mark][intvar:1;0;0]"
       ],
@@ -707,8 +683,6 @@
         "[icon:purple_starbit][icon:x_mark][intvar:2;0;0]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:purple_starbit][icon:x_mark][intvar:2;0;0]"
       ],
@@ -762,8 +736,6 @@
         "[icon:star][icon:x_mark][intvar:2;0;0]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:star][icon:x_mark][intvar:2;0;0]"
       ],
@@ -817,8 +789,6 @@
         "Star List"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "スターリスト"
       ],
@@ -872,8 +842,6 @@
         "[icon:coins][icon:x_mark][intvar:3;0;0]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:coins][icon:x_mark][intvar:3;0;0]"
       ],
@@ -927,8 +895,6 @@
         "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
       ],

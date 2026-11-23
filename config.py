@@ -84,8 +84,6 @@ SUPPORTED_LANGUAGES = [
     "EuSpanish",
     "EuFrench",
     "EuDutch",
-#   "EuPortuguese",   # Custom
-#   "EuRussian",      # Custom
     "UsEnglish",
     "UsSpanish",
     "UsFrench",
@@ -135,9 +133,7 @@ RIIVO_CONFIG_LOCALE_INFO = [
     (0x24 | RIIVO_CONFIG_LOCALE_VALID, "UsSpanish",     "Spanish (MX)"),
     (0x05 | RIIVO_CONFIG_LOCALE_VALID, "EuItalian",     "Italian"),
     (0x06 | RIIVO_CONFIG_LOCALE_VALID, "EuDutch",       "Dutch"),
-#   (0x0A | RIIVO_CONFIG_LOCALE_VALID, "EuPortuguese",  "Portuguese (PT)"),
 #   (0x2A | RIIVO_CONFIG_LOCALE_VALID, "UsPortuguese",  "Portuguese (BR)"),
-#   (0x0B | RIIVO_CONFIG_LOCALE_VALID, "EuRussian",     "Russian"),
 #   (0x37 | RIIVO_CONFIG_LOCALE_VALID, "CnSimpChinese", "Simp. Chinese"),
     (0x58 | RIIVO_CONFIG_LOCALE_VALID, "AsTradChinese", "Trad. Chinese"),
     (0x49 | RIIVO_CONFIG_LOCALE_VALID, "KrKorean",      "Korean"),

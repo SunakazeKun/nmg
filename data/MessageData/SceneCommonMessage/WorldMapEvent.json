@@ -91,8 +91,6 @@
         "[defcolor]whenever you like, Captain!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "こいつは [color:red]グランドワールドマップ[defcolor]だよ[pagebreak]",
         "[icon:grand_star][color:yellow]グランドスターの[ruby:力;ちから][defcolor]で",
@@ -194,8 +192,6 @@
         "It's all on you, Captain!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "まいったね…",
         "まだ [ruby:次;つぎ]の[color:blue]【[ruby:銀河;ギャラクシー]】[defcolor]へは[ruby:行;い]けないようだ[pagebreak]",
@@ -311,8 +307,6 @@
         "[color:red]previous galaxies[defcolor], if ya need to!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "まいったね…",
         "この[ruby:先;さき]の[color:red]【[ruby:銀河;ギャラクシー]】[defcolor]は、 まだ[ruby:行;い]けないねえ…[pagebreak]",
@@ -380,8 +374,6 @@
         "[icon:star][icon:x_mark][intvar:3;0;0]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:star][icon:x_mark][intvar:3;0;0]"
       ],
@@ -435,8 +427,6 @@
         "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]"
       ],
@@ -538,8 +528,6 @@
         "The wheel is all yours, Captain!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "こうしてみると[ruby:宇宙;うちゅう]には",
         "[color:blue]いろいろな[defcolor][color:blue][ruby:大銀河;ワールド][defcolor]があるだろう?[pagebreak]",
@@ -659,8 +647,6 @@
         "[color:black]will [color:blue]make comets appear[color:black], too![color:red][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "この[ruby:大銀河;ワールド]の[icon:star][color:yellow]パワースター[color:black]は[color:yellow][defcolor]",
         "あらかた[ruby:集;あつ]めたようだねえ[pagebreak]",
@@ -756,8 +742,6 @@
         "[color:black]press [icon:a_button] to [color:black][color:red]jump [color:black]into that [color:blue]galaxy[color:black]![color:black][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "さあて・・・ こいつが[color:red]ワールドマップ[defcolor]だ[pagebreak]",
         "マップ[ruby:上;じょう]の[color:blue][ruby:行;い]きたい[ruby:銀河;ギャラクシー][defcolor]を[icon:hand_point]で[ruby:指;さ]すんだよ",
@@ -882,8 +866,6 @@
         "my crew! [color:black][delay:15]Take it away, Captain![color:black][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:black][ruby:星船;ほしぶね]は、 [color:yellow][icon:star]パワースター[color:black][color:black][color:yellow]の[ruby:力;ちから][color:black]で[ruby:動;うご]くんだ[color:black][color:black]",
         "[ruby:今;いま]のパワーで[ruby:行;い]けるところは[icon:orange_arrow][color:red]ココ[color:black]だよ[color:black][pagebreak]",
@@ -988,8 +970,6 @@
         "we're all counting on you, Captain!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "こいつをみてごらん?",
         "[color:red][ruby:新;あたら]しい[ruby:大銀河;ワールド][defcolor]にやってきたよ[pagebreak]",
@@ -1089,8 +1069,6 @@
         "makes the choices, am I right?[defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "また[color:red][ruby:新;あたら]しい[ruby:大銀河;ワールド][defcolor]に[color:black]やってきたね",
         "この[ruby:先;さき]は [color:yellow][ruby:航路;こうろ]が[ruby:分;わ]かれてる[color:black]みたいだ[color:yellow][color:black][pagebreak]",
@@ -1181,8 +1159,6 @@
         "The helm is yours, Captain!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "けっこう[ruby:遠;とお]くまで[ruby:来;き]たねえ・・・・・・",
         "ここまで[ruby:来;こ]れたのも[color:red]アンタの[ruby:力;ちから][defcolor]だよ[pagebreak]",
@@ -1296,8 +1272,6 @@
         "All right,[color:red] it's all you[defcolor], [color:black]Captain[defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "…なにやら、 ものものしい[ruby:雰囲気;ふんいき]だねえ[pagebreak]",
         "ということは、 それだけ",
@@ -1389,8 +1363,6 @@
         "[delay:15]And let's get [color:red]him [color:black]this time![defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ついに[ruby:来;き]たよ!",
         "もうすぐ [color:red][icon:bowser]アイツ[color:black]との[ruby:対決;たいけつ]だね・・・[color:red][defcolor]![pagebreak]",
@@ -1499,8 +1471,6 @@
         "So! [color:blue]Let's go get 'em[defcolor], Captain!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "こりゃ [ruby:驚;おどろ]いたね!",
         "ここは うわさに[ruby:聞;き]く[color:red][ruby:伝説;でんせつ][defcolor][color:red]の[ruby:大銀河;ワールド][color:black]じゃないか[color:red][defcolor]?![pagebreak]",
@@ -1633,8 +1603,6 @@
         "peeled![color:green] [defcolor]Take it away, Captain!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "こりゃ [ruby:驚;おどろ]いたね!",
         "[color:green][icon:green_comet][ruby:緑色;みどりいろ]のいたずら[ruby:彗星;すいせい][defcolor]かい[pagebreak]",

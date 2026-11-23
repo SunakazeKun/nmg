@@ -81,5 +81,3 @@
 #define LOCALE_PREFIX_AS_TRAD_CHINESE ((const char*)0x806FA54C)
 #endif
 #define LOCALE_PREFIX_US_PORTUGUESE   ("UsPortuguese")
-#define LOCALE_PREFIX_EU_PORTUGUESE   ("EuPortuguese")
-#define LOCALE_PREFIX_EU_RUSSIAN      ("EuRussian")

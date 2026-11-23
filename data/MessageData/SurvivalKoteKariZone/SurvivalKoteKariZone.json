@@ -62,8 +62,6 @@
         "[color:red]defeat every enemy[defcolor], right?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "よぉ!![delay:15] ココに[ruby:来;き]ちまったんだな?!",
         "[color:red]アイツらを[ruby:倒;たお]していく[defcolor][ruby:以外;いがい]に [ruby:道;みち]はないゼ?"
@@ -140,8 +138,6 @@
         "through is to [color:red]defeat every enemy[color:black].[color:red][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "また[ruby:来;き]たのか?![delay:30] あんた、 おもしれェな!",
         "[delay:15][ruby:今度;こんど]も さっさと[color:red]アイツらを[ruby:倒;たお]して[color:black]くれよ[color:red][defcolor]"

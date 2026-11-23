@@ -52,8 +52,6 @@
         "[icon:purple_starbit] [color:red]Star Bits[defcolor] I can snack on?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "キラリン♪ キラリン♪ ねぇねぇ そこの[ruby:人;ひと]!",
         "[icon:purple_starbit][color:red]スターピース[defcolor]もってなぁい?"
@@ -129,8 +127,6 @@
         "[color:red][defcolor][color:black][intvar:3;0;0]. Then I'll TRANSFORM![defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "キラリン♪ キラリン♪ [icon:purple_starbit][color:red]スターピース[defcolor] [ruby:欲;ほ]しい♪",
         "[color:red][intvar:3;0;0]コ[defcolor][ruby:食;た]べたら、 だーい へーん しーん♪"
@@ -187,8 +183,6 @@
         "MOOOOORE!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "あ～ん"
       ],
@@ -242,8 +236,6 @@
         "Yaaay!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "わくわく!"
       ],
@@ -297,8 +289,6 @@
         "More! More!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "もっともっと…"
       ],
@@ -352,8 +342,6 @@
         "I'm still not full..."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "まだまだ…"
       ],
@@ -407,8 +395,6 @@
         "Mmmmm... I'm almost full!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "クルヨ クルヨー!"
       ],
@@ -462,8 +448,6 @@
         "A little more..."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "あと[ruby:少;すこ]し…"
       ],
@@ -535,8 +519,6 @@
         "[size:large][color:red]TRANS[defcolor][color:red][color:red][delay:15][sound:SE_SV_TICOFAT_META][color:red]FOOOOORM![defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "キタキタキター! おなかイッパ～イ!",
         "じゃ、 [ruby:張;は]り[ruby:切;き]って いってみよー![pagebreak]",

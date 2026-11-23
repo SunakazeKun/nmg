@@ -40,8 +40,6 @@
         "Erase"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "けす"
       ],
@@ -95,8 +93,6 @@
         "P2"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "2P"
       ],
@@ -150,8 +146,6 @@
         "Icon"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "アイコン"
       ],
@@ -205,8 +199,6 @@
         "Start"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "はじめる"
       ],
@@ -260,8 +252,6 @@
         "Mario"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "マリオ"
       ],
@@ -315,8 +305,6 @@
         "Luigi"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ルイージ"
       ],
@@ -370,8 +358,6 @@
         "Yoshi"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ヨッシー"
       ],
@@ -425,8 +411,6 @@
         "Toad"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "キノピオ"
       ],
@@ -480,8 +464,6 @@
         "Peach"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ピーチ"
       ],
@@ -535,8 +517,6 @@
         "Rosalina"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ロゼッタ"
       ],
@@ -590,8 +570,6 @@
         "Luma"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "チコ"
       ],
@@ -647,8 +625,6 @@
         "Would you like to create a new game file?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "あなたのゲームファイルを",
         "[ruby:作成;さくせい]しますか?"
@@ -704,8 +680,6 @@
         "Back"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "やめる"
       ],
@@ -759,8 +733,6 @@
         "OK"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "OK"
       ],
@@ -814,8 +786,6 @@
         "Would you like to change to this icon?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "このアイコンに[ruby:変更;へんこう]しますか?"
       ],
@@ -869,8 +839,6 @@
         "Back"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "やめる"
       ],
@@ -924,8 +892,6 @@
         "OK"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "OK"
       ],
@@ -989,8 +955,6 @@
         "this icon will change to Mario."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:似顔絵広場;にがおえひろば]からこのMiiが",
         "いなくなるとマリオのアイコンに",
@@ -1049,8 +1013,6 @@
         "Are you sure you want to erase this file?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:本当;ほんとう]に[ruby:消;け]していいですか?"
       ],
@@ -1104,8 +1066,6 @@
         "No"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "やめる"
       ],
@@ -1159,8 +1119,6 @@
         "OK"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "OK"
       ],
@@ -1214,8 +1172,6 @@
         "Please select a file."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ファイルを 選んでください"
       ],
@@ -1286,8 +1242,6 @@
         "Mii Plaza, so the icon was changed to Mario."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:使用中;しようちゅう]のMiiが",
         "[ruby:似顔絵広場;にがおえひろば]からいなくなったので、",
@@ -1346,8 +1300,6 @@
         "Use this icon?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "このアイコンでよろしいですか?"
       ],
@@ -1401,8 +1353,6 @@
         "Back"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "もどる"
       ],
@@ -1456,8 +1406,6 @@
         "OK"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "OK"
       ],
@@ -1520,8 +1468,6 @@
         "you can use it as your icon!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:似顔絵;にがおえ]チャンネルでMiiを[ruby:作成;さくせい]すれば",
         "アイコンとして[ruby:使用;しよう]することができます!"
@@ -1586,8 +1532,6 @@
         "Please wait."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "Miiを[ruby:初期化;しょきか]しています",
         "しばらくお[ruby:待;ま]ちください"
@@ -1652,8 +1596,6 @@
         "Please confirm in your Mii Channel."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:似顔絵;にがおえ]チャンネルのセーブデータが",
         "[ruby:読;よ]み[ruby:込;こ]めませんでした",

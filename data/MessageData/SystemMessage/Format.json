@@ -40,8 +40,6 @@
         "[intvar:5;2;0]/[intvar:5;1;0]/[intvar:3;0;0]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[intvar:3;0;0]/[intvar:5;1;0]/[intvar:5;2;0]"
       ],
@@ -95,8 +93,6 @@
         "[intvar:5;1;0]:[intvar:5;2;0].[intvar:5;3;0]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[intvar:5;1;0]:[intvar:5;2;0].[intvar:5;3;0]"
       ],
@@ -150,8 +146,6 @@
         "[intvar:5;1;0]:[intvar:5;2;0]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[intvar:5;1;0]:[intvar:5;2;0]"
       ],
@@ -205,8 +199,6 @@
         "[intvar:5;0;0]:[intvar:5;1;0]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[intvar:5;0;0]:[intvar:5;1;0]"
       ],
@@ -260,8 +252,6 @@
         "[intvar:2;0;0]:[intvar:5;1;0]:[intvar:5;2;0]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[intvar:2;0;0]:[intvar:5;1;0]:[intvar:5;2;0]"
       ],

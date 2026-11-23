@@ -119,8 +119,6 @@
         "instead!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "こんにちは! ",
         "わたし [color:blue][color:red]あずかり[ruby:屋;や][color:blue][color:black]さんで～す[color:blue][color:black]![color:blue][pagebreak]",
@@ -270,8 +268,6 @@
         "get more to add to your total![defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[player:0]さん、 [ruby:聞;き]いてくださ～い!",
         "わたし [color:blue][color:red]あずかり[ruby:屋;や][color:blue][color:black]さん[color:blue][defcolor]をはじめたんです![pagebreak]",
@@ -361,8 +357,6 @@
         "add [color:blue][intvar:3;0;0] [color:black]to your total![color:blue][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "そうそう! わたしもがんばって[icon:purple_starbit][color:blue]スターピース[defcolor]",
         "[ruby:集;あつ]めましたー! [color:blue][intvar:3;0;0]コ[defcolor][ruby:増;ふ]やしておきます!"
@@ -437,8 +431,6 @@
         "[color:blue]withdrawal[defcolor]?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:今;いま]は [color:red][icon:rainbow_starbit][icon:x_mark][intvar:3;0;0]コ[defcolor]もってま～す!",
         "[color:blue]ひきだしたり[defcolor] わたしに[color:blue]あずけたり[defcolor] しますか?"
@@ -518,8 +510,6 @@
         "Hope it helps!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ずいぶん[icon:rainbow_starbit][color:red]スターピース[defcolor]が[ruby:集;あつ]まってきましたね![pagebreak]",
         "そうそう! さっき[icon:one_up_mushroom][color:green]コレ[defcolor][ruby:見;み]つけたんです!",
@@ -582,8 +572,6 @@
         "Thanks for using your local banktoad!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ご[ruby:利用;りよう]ありがとうございました～"
       ],
@@ -652,8 +640,6 @@
         "me look like I'm good at maths! Heh!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "このメガネ どうですか?",
         "[ruby:計算上手;けいさんじょうず]にみえませんか?・・・フフフ"
@@ -728,8 +714,6 @@
         "tough.[delay:15] But it's so...[size:small]heavy!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "わたしの[icon:rainbow_starbit]を[ruby:狙;ねら]うやつがいるんじゃないかと、",
         "[ruby:武器;ぶき]を[ruby:持;も]ってみたんですが・・・・・・[delay:15]お、 [ruby:重;おも]た…[size:small]い…"
@@ -795,8 +779,6 @@
         "[size:small]...But I haven't found any treasure."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:地面;じめん]を[ruby:掘;ほ]って[icon:purple_starbit][color:blue]スターピース[defcolor]を[ruby:探;さが]してます!",
         "[size:small]……ついでにお[ruby:宝;たから]が[ruby:出;で]てこないかなぁ～"
@@ -879,8 +861,6 @@
         "[size:small]So don't call it a holiday...grumble grumble."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:近頃;ちかごろ]は、 [icon:purple_starbit][color:blue]スターピース[defcolor]を[ruby:探;さが]しに[ruby:南国;なんごく]の[ruby:海;うみ]へ!",
         "[size:small][ruby:決;けっ]してバカンスでは・・・・・・ゴニョゴニョ・・・"
@@ -959,8 +939,6 @@
         "so-called [color:red]captain[defcolor]![size:small] [delay:30]Don't tell him I said that."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:最近;さいきん]は、[ruby:洞窟;どうくつ]の[ruby:中;なか]まで[icon:purple_starbit][ruby:探;さが]しにいってるんです",
         "[ruby:決;けっ]して!! [color:red][icon:toad]あの[ruby:隊長;たいちょう][defcolor]のマネではないですから!!"
@@ -1035,8 +1013,6 @@
         "[size:small]What to do..."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "わぁ! [icon:rainbow_starbit][color:red]スターピース[defcolor]がいーっぱい!!",
         "けど、 これ[ruby:以上;いじょう]あずかれないんです・・・[size:small] あわわ・・・"

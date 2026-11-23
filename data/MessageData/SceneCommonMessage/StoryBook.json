@@ -44,8 +44,6 @@
         "[sound:SE_DM_V_KPA_MEISTER_VO1]\"All right! Time for the grand finale, Captain!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_KPA_MEISTER_VO1]「さ! [ruby:大詰;おおづ]めだよ [ruby:船長;せんちょう]!!」"
       ],
@@ -99,8 +97,6 @@
         "[sound:SE_DM_V_KPA_MEISTER_VO2]\"Somewhere in there...\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_KPA_MEISTER_VO2]「あの[ruby:中;なか]で・・・」"
       ],
@@ -155,8 +151,6 @@
         "[sound:SE_DM_V_KPA_MEISTER_VO3]\"Your princess is waiting!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_KPA_MEISTER_VO3]「アンタの[ruby:大切;たいせつ]なヒトが [ruby:待;ま]っている!」"
       ],
@@ -226,8 +220,6 @@
         " things getting eaten up around here!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_KPA_MEISTER_VO4]「[ruby:驚;おどろ]いたね・・・ あれは[ruby:彗星;すいせい]だ!」[pagebreak]",
         "[sound:SE_DM_V_KPA_MEISTER_VO5]「[ruby:食;く]ってたのは パワースターだけじゃなかったんだよ」"
@@ -316,8 +308,6 @@
         "[sound:SE_DM_V_KPA_MEISTER_VO8]\"Get in there and show him what ya got!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_KPA_MEISTER_VO6]「[icon:bowser]ヤツはまだまだ デカくなるつもりだ!」[pagebreak]",
         "[sound:SE_DM_V_KPA_MEISTER_VO7]「[ruby:食;く]い[ruby:尽;つ]くされる[ruby:前;まえ]に [icon:bowser]カイブツを[ruby:止;と]めるんだ!」[pagebreak]",
@@ -377,8 +367,6 @@
         "[color:red]HELP ME![defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:red]HELP![defcolor]"
       ],
@@ -451,8 +439,6 @@
         " And look what else I got...\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_SY_OP_D_KOOPA_SPEAK1]「おそいぞ [player:0]!」[pagebreak]",
         "[sound:SE_SY_OP_D_KOOPA_SPEAK2][delay:15]「ワガハイもついにスターのパワーを[ruby:身;み]に[ruby:付;つ]けた!!」"
@@ -509,8 +495,6 @@
         "[sound:SE_SY_OP_D_KOOPA_LAUGH_LONG] \"GWAHAHAAH!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_SY_OP_D_KOOPA_LAUGH_LONG] 「ガーッハッハッハッハ!」"
       ],
@@ -578,8 +562,6 @@
         "[sound:SE_SY_OP_D_KOOPA_SPEAK4]\"Even scarier up close, huh?\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_SY_OP_D_KOOPA_SPEAK3]「どうだ スーパーサイズなワガハイは」[pagebreak]",
         "[sound:SE_SY_OP_D_KOOPA_SPEAK4]「[ruby:近;ちか]くでみると もーっとコワイだろ!」"
@@ -662,8 +644,6 @@
         " of cake right now!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_SY_OP_D_KOOPA_SPEAK2_2]「ピーチには ワガハイのために」[pagebreak]",
         "[sound:SE_SY_OP_D_KOOPA_SPEAK_2_3]「スーパーサイズのケーキを[ruby:焼;や]いてもらおう」"
@@ -750,8 +730,6 @@
         "[sound:SE_SY_OP_D_KOOPA_SPEAK7]\"And I'll put it in the centre of the universe!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_SY_OP_D_KOOPA_SPEAK5]「こんな せまくるしい[ruby:星;ほし]は [ruby:住;す]みあきた!」[pagebreak]",
         "[sound:SE_SY_OP_D_KOOPA_SPEAK6]「スーパーなワガハイは スーパーな[ruby:帝国;ていこく]を」[pagebreak]",
@@ -814,8 +792,6 @@
         "[sound:SE_SY_OP_D_KOOPA_LAUGH]\"Have fun with your stupid mushrooms!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_SY_OP_D_KOOPA_LAUGH]「オマエはここに[ruby:残;のこ]って キノコでもかじっていろ!」"
       ],
@@ -869,8 +845,6 @@
         "[size:large]\"△××△△×?!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[size:large]「△××△△×?!」"
       ],
@@ -934,8 +908,6 @@
         "Was he lost?"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:見;み]たことない[ruby:子;こ]ですね････[pagebreak]",
         "[ruby:迷子;まいご]のようです"
@@ -993,8 +965,6 @@
         "He seemed to take a shine to [player:0]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "おやおや・・・ [player:0]は [ruby:気;き]に[ruby:入;い]られたようですね"
       ],
@@ -1058,8 +1028,6 @@
         "power surging through him!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[ruby:帽子;ぼうし]の[ruby:中;なか]が[ruby:暖;あたた]かくて、 [ruby:体中;からだじゅう]に[ruby:力;ちから]がわいてきました"
       ],
@@ -1113,8 +1081,6 @@
         "[sound:SE_DM_V_ED_PEACH_SIGH_AT_ASTRO]\"Oh, it's so beautiful...\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_ED_PEACH_SIGH_AT_ASTRO]「・・・まあ! きれい」"
       ],
@@ -1168,8 +1134,6 @@
         "[size:large]\"△△×△×△--!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[size:large]「△△×△×△ーーー!!!」"
       ],
@@ -1224,8 +1188,6 @@
         "[sound:SE_DM_V_ED_MEISTER_VO1]\"...I always thought we would meet again.\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_ED_MEISTER_VO1]「・・・お[ruby:会;あ]い[ruby:出来;でき]ると[ruby:思;おも]っていましたよ」"
       ],
@@ -1279,8 +1241,6 @@
         "[sound:SE_DM_V_ED_BABY_TICO_CALL_MOM][size:large]\"Mama!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_ED_BABY_TICO_CALL_MOM][size:large]「ママーー!!」"
       ],
@@ -1352,8 +1312,6 @@
         "\"I have been waiting for all of you.\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_ED_ROS_SMILE_ROSETTA]「わたしは ロゼッタ・・・ [ruby:星;ほし]を[ruby:観;み]る[ruby:者;もの]」[pagebreak]",
         "「あなた[ruby:方;がた]を [ruby:待;ま]っていました」"
@@ -1442,8 +1400,6 @@
         "\"Because...\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_ED_ROS_TALK_BREATH1]「[ruby:邪;よこしま]な[ruby:魔物;まもの]に 『[ruby:星;ほし]の[ruby:力;ちから]』 を[ruby:奪;うば]われた[ruby:時;とき]・・・」[pagebreak]",
         "「わが[ruby:子;こ]と、 [ruby:離;はな]ればなれになってしまいましたが」[pagebreak]",
@@ -1541,8 +1497,6 @@
         "[sound:SE_DM_V_ED_ROS_TALK_SHORT1]\"I knew its gentle pull would prevail.\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_ED_ROS_WORRIED]「[ruby:時間;じかん]と[ruby:空間;くうかん]を[ruby:越;こ]え、 わたし[ruby:達;たち]を[ruby:結;むす]び[ruby:続;つづ]ける 『[ruby:力;ちから]』 ・・・」[pagebreak]",
         "「[ruby:宇宙;うちゅう]の[ruby:理;ことわり]でも [ruby:阻;はば]むことの[ruby:出来;でき]ない・・・」[pagebreak]",
@@ -1620,8 +1574,6 @@
         "\"That pull is what brought us together.\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_ED_LOOK_UP_AT_ROSETTA]「『[ruby:大切;たいせつ]な[ruby:人;ひと]に[ruby:会;あ]いたい』 と[ruby:願;ねが]う[ruby:気持;きも]ち」[pagebreak]",
         "「その 『[ruby:引力;いんりょく]』 が わたし[ruby:達;たち]を[ruby:引;ひ]き[ruby:合;あ]わせるのです」"
@@ -1721,8 +1673,6 @@
         "[sound:SE_DM_V_ED_ROS_THANK_YOU]\"Thank you for returning this child to me.\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_ED_ROS_APPEAR_YES]「この[ruby:巡;めぐ]りでも あなたに[ruby:出会;であ]えたのは」[pagebreak]",
         "「[ruby:星々;ほしぼし]がおこした [ruby:気;き]まぐれな[ruby:現象;げんしょう]では[ruby:無;な]いと・・・」[pagebreak]",
@@ -1809,8 +1759,6 @@
         "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO2]\"I will never forget you, [player:0]!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[size:large]「わすれない!」[pagebreak]",
         "[size:normal]「ボクが・・・ いつか[ruby:星;ほし]になっても・・・」[pagebreak]",
@@ -1871,8 +1819,6 @@
         "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO3]\"Never! Ever! I won't forget!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_ED_BABY_TICO_TO_MARIO3]「ゼッタイ! ゼッタイ!! わすれない!!」"
       ],
@@ -1928,8 +1874,6 @@
         "\"May the stars shine down on you...\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "「[ruby:皆様方;みなさまがた]に [ruby:善;よ]き[ruby:星;ほし]くずが [ruby:降;ふ]りますように・・・」"
       ],
@@ -1992,8 +1936,6 @@
         " special someone!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_ED_PEACH_SEE_SKY_ASTRO]「あの[ruby:子;こ]は [ruby:大切;たいせつ]な[ruby:人;ひと]に[ruby:会;あ]えたのね」"
       ],
@@ -2049,8 +1991,6 @@
         "\"And you too, pal! Am I right?\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "「アンタも だろ?」"
       ],
@@ -2112,8 +2052,6 @@
         " you back to your home planet!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[sound:SE_DM_V_ED_MEISTER_LETS_GO]「さ アンタたちの[ruby:星;ほし]へ もどろうか [ruby:船長;せんちょう]!」"
       ],
@@ -2187,8 +2125,6 @@
         "universe! You must hurry and save her!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "「あなたが [player:0]さん? ですよね?!」[pagebreak]",
         "「お[ruby:姫様;ひめさま]が タイヘンですよ!!」"
@@ -2299,8 +2235,6 @@
         " about...like saving the princess! ...But how?\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "「[size:large]わっ![size:normal] [icon:master_luma]チコ[ruby:様;さま]!!」[pagebreak]",
         "「[icon:master_luma]チコ[ruby:様;さま]も [ruby:飛;と]ばされてきたのですか?? よくご[ruby:無事;ぶじ]で!」[pagebreak]",
@@ -2389,8 +2323,6 @@
         "\"And we [icon:luma] Lumas can help a little too!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "「そうだ! [icon:master_luma]チコ[ruby:様;さま]が[ruby:一緒;いっしょ]なら 『[ruby:星;ほし]の[ruby:力;ちから]』 で・・・」[pagebreak]",
         "「ボクたち [icon:luma]チコがお[ruby:手伝;てつだ]いできますよ!」"
@@ -2475,8 +2407,6 @@
         "\"Now! Let's go after them!\""
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "「ボクらの[ruby:仲間;なかま]を[ruby:助;たす]けてくれたお[ruby:礼;れい]に」[pagebreak]",
         "「[ruby:宇宙;うちゅう]へご[ruby:案内;あんない]します!」[pagebreak]",

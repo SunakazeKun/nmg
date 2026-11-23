@@ -65,8 +65,6 @@
         "When you see [icon:co_pointer], you're ready to play!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:wiimote][color:red]Wiiリモコンが2つ[color:black]あれば[color:red] [defcolor][ruby:二人;ふたり]で[ruby:遊;あそ]べます!",
         "[color:orange]2P[defcolor]の[color:red]Wiiリモコン[defcolor]を[ruby:画面;がめん]に[ruby:向;む]けて [icon:a_button]を[ruby:押;お]してください",
@@ -144,8 +142,6 @@
         "to shoot [icon:purple_starbit]. Try hitting enemies with a [icon:purple_starbit]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:orange][icon:co_pointer]ポインター[defcolor]で[icon:purple_starbit][color:red]スターピース[defcolor]を[ruby:集;あつ]めましょう!",
         "[icon:co_pointer]でねらって[icon:b_button]ボタンを[ruby:押;お]せば [icon:purple_starbit]を[ruby:撃;う]てます",
@@ -224,8 +220,6 @@
         "various things with [icon:co_pointer]...[defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:orange]2P[defcolor]は[icon:orange_luma][color:orange]アシストチコ[defcolor]が[ruby:動;うご]かせます",
         "[color:red][icon:co_pointer]と[icon:a_button]ボタン[defcolor]で [ruby:色々;いろいろ]さわってみましょう!",
@@ -306,8 +300,6 @@
         "to make [icon:orange_luma] [color:blue]spin [color:black]and attack enemies![defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:blue][ruby:敵;てき]を[icon:co_pointer]でねらって [icon:a_button][defcolor]で、 [ruby:敵;てき]の[ruby:動;うご]きをおさえられます!",
         "さらに[ruby:続;つづ]けて [icon:wiimote][color:red]Wiiリモコンを[ruby:振;ふ]る[color:black]と[color:red][defcolor]、",
@@ -387,8 +379,6 @@
         "toss the [icon:coin] to [color:blue]P1[defcolor]!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[color:yellow][icon:coin]コイン[defcolor]を[color:orange][icon:co_pointer]ポインター[defcolor]でねらって [icon:a_button]を[ruby:押;お]し[ruby:続;つづ]けて!",
         "・・・すると、 [icon:orange_luma][color:orange]アシストチコ[defcolor]が[color:yellow]コイン[defcolor]を[ruby:持;も]ちます",
@@ -448,8 +438,6 @@
         "Things you can do in Co-Star Mode"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "2人協力プレイでできること"
       ],
@@ -510,8 +498,6 @@
         "Co-Star Mode!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:co_pointer] [ruby:二人;ふたり]で[ruby:遊;あそ]ぶには?"
       ],
@@ -566,8 +552,6 @@
         "You can grab [icon:purple_starbit] Star Bits and shoot them!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:purple_starbit] スターピースを[ruby:集;あつ]めて [ruby:撃;う]とう!"
       ],
@@ -621,8 +605,6 @@
         "You can move the [icon:orange_luma] Co-Star Luma!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:orange_luma] アシストチコを[ruby:動;うご]かそう!"
       ],
@@ -677,8 +659,6 @@
         "You can freeze [icon:goomba] enemies and defeat them!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:goomba] [ruby:敵;てき]をおさえよう! [ruby:倒;たお]そう!"
       ],
@@ -732,8 +712,6 @@
         "You can even carry [icon:coin] coins!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:coin]コインも[ruby:運;はこ]べる!"
       ],
@@ -787,8 +765,6 @@
         "P1"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "1P"
       ],
@@ -842,8 +818,6 @@
         "P2"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "2P"
       ],

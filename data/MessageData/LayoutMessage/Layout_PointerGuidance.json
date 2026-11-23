@@ -40,8 +40,6 @@
         "Point at [icon:pull_star], then press and hold [icon:a_button]."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:pull_star]をポイントし、 [icon:a_button]を押し続けてください"
       ],
@@ -95,8 +93,6 @@
         "Point at the screen with [icon:wiimote]."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "Wiiリモコンを画面に向けてください"
       ],
@@ -150,8 +146,6 @@
         "Aim with [icon:cross_hair], then press [icon:a_button]."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:cross_hair]で ねらって、 [icon:a_button]を押してください"
       ],
@@ -205,8 +199,6 @@
         "Aim at the Luma, then press [icon:b_button]."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "チコをポイントし、 [icon:b_button]を押してください"
       ],
@@ -260,8 +252,6 @@
         "Aim at [icon:yoshi_grapple], then press [icon:b_button]."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:yoshi_grapple]をポイントし、 [icon:b_button]を押してください"
       ],
@@ -318,8 +308,6 @@
         "Point at things to eat, then press [icon:b_button]."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "食べたいモノをポイントし、 [icon:b_button]を押してください"
       ],
@@ -373,8 +361,6 @@
         "Point the arrow, then press [icon:b_button]."
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "とばしたい方向に矢印を向けて [icon:b_button]で発射"
       ],

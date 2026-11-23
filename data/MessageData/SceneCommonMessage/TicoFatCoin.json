@@ -65,8 +65,6 @@
         "If I eat [color:red][intvar:1;0;0] [defcolor][icon:coin], I might transform!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "おなかすいたー!  ボク、 [icon:coin][color:red]コイン[defcolor][color:black][ruby:大好;だいす]き[defcolor]♪",
         "ねぇねぇ  [icon:coin][color:red]コイン[intvar:1;0;0][ruby:枚;まい] [defcolor]くれない?[pagebreak]",
@@ -132,8 +130,6 @@
         "right now!"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "ありがとう!",
         "いっただきま～す♪"
@@ -203,8 +199,6 @@
         "[color:black]and bring them here? For me to eat?[color:red][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "えー・・・ ",
         "[ruby:次;つぎ]は[icon:coin][color:red][color:red]コイン[intvar:1;0;0][ruby:枚;まい] [color:red][defcolor]ちょ～だい、 ね?"
@@ -279,8 +273,6 @@
         "tasty coins, you could come on by![color:red][defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "[icon:coin][color:red]コイン[intvar:1;0;0][color:red][ruby:枚;まい][color:red][defcolor] [ruby:持;も]ってないよー・・・",
         "[ruby:集;あつ]まったら ぜひちょ～だい、 ね!"
@@ -354,8 +346,6 @@
         "[size:large][color:red]TRANS[defcolor][color:red][color:red][sound:SE_SV_TICOFAT_META][color:red]FOOOOORM![defcolor]"
       ],
       "UsPortuguese": null,
-      "EuPortuguese": null,
-      "EuRussian": null,
       "JpJapanese": [
         "キタキタキター! おなかイッパ～イ!",
         "じゃ、 [ruby:張;は]り[ruby:切;き]って いってみよー![pagebreak]",
