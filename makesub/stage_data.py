@@ -118,7 +118,7 @@ def __create_light_archive(stage_name: str, src_stage_path: Path, dst_stage_path
     logging.info("Packing %s", arc_path.name)
 
     arc = create_empty_csv_arc()
-    bcsv = arc.create_file(f'Stage/csv/{stage_name}.bcsv')
+    bcsv = arc.create_file(f'Stage/csv/{stage_name}Light.bcsv')
 
     jmap = from_csv(HASH_TABLE, str(csv_path))
     bcsv.data = pack_buffer(jmap)

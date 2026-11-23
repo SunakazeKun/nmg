@@ -9,6 +9,9 @@
 - **Galactic Garden Galaxy**: Tweaked the player's Wall Jump angle in the Space Junk block section.
 - **Turnlog Galaxy**: Hit nails are no longer reset upon after the level is restarted.
 
+### Bugfixes
+- Lighting data actually gets loaded now.
+
 ## v1.6.0
 
 ### Additions
