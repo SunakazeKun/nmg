@@ -49,6 +49,7 @@
 
 # JAPANESE TRANSLATION
 - Mr. BMY
+- Riminy
 
 # CHINESE TRANSLATION
 - Hadau

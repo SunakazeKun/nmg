@@ -93,6 +93,7 @@ CREDITS_ITEMS = [
     ("Mr. BMY",          "https://www.youtube.com/@MrBMY-dc5md"),
     ("MTLenz",           "https://www.youtube.com/@MTLenz"),
     ("Myron Dragon",     "https://www.youtube.com/@myrondragon"),
+    ("Riminy",           None),
     ("Samurai47",        None),
     ("StationAlpha",     None),
     ("Super Hackio",     "https://www.youtube.com/@SuperHackio"),

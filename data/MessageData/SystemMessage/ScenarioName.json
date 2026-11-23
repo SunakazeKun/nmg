@@ -147,7 +147,7 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[player:0]とレッドスター"
+        "[ruby:赤;あか]く[ruby:光;ひか]るスター"
       ],
       "KrKorean": [
         "[player:0]와 레드스타"
@@ -306,7 +306,7 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "かき[ruby:集;あつ]めて! パープルコイン"
+        "かき[ruby:集;あつ]めて！ パープルコイン"
       ],
       "KrKorean": [
         "퍼플코인을 훔쳐라"
@@ -677,7 +677,7 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "タイムアタック! [ruby:青空;あおぞら]に[ruby:眠;ねむ]る ディノパックン"
+        "タイムアタック！ [ruby:青空;あおぞら]に[ruby:眠;ねむ]る ディノパックン"
       ],
       "KrKorean": [
         "길 잃은 아이 스피드런"
@@ -1154,7 +1154,7 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "ハッピーバースデー [player:0]?"
+        "ハッピーバースデー [player:0]？"
       ],
       "KrKorean": [
         "생일 축하해... [player:0]?"
@@ -1207,7 +1207,7 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "ゴキゲンななめ? オタプリンス"
+        "ゴキゲンななめ？ オタプリンス"
       ],
       "KrKorean": [
         "옥토프린스의 화끈한 심술"

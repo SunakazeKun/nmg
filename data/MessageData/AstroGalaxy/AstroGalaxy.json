@@ -51,7 +51,7 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "はいはい、[color:blue][ruby:MAP;マップ][defcolor]で[delay:30]ー[delay:30]",
+        "はいはい、[color:blue][ruby:MAP;マップ][defcolor]で・・・[delay:60]",
         "[size:large]なんじゃと？！[size:normal][delay:60] [sound:SE_SV_BUTLER_TALK_WORRIED][color:blue][ruby:MAP;マップ][defcolor]はどこへ[ruby:行;い]った？！"
       ],
       "KrKorean": [
@@ -308,9 +308,9 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[color:red]マイ・ビューティフル・ランドレット[defcolor]を",
+        "[color:red][ruby:少林;しょうりん]サッカー[defcolor]を",
         "[ruby:見;み]たことありますか？[pagebreak]",
-        "[ruby:傑作;けっさく]だと思いませんか？！"
+        "[ruby:名作;めいさく]だと思いませんか？！"
       ],
       "KrKorean": [
         "[color:red]거침없이 하이킥[defcolor] 보셨어요?",
@@ -452,7 +452,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[color:red]Neo Mario Galaxy[defcolor]をプレイしてくださったあなたに、 [ruby:心;こころ]より[ruby:感謝;かんしゃ]いたします・・・[pagebreak]",
+        "[color:red]ネオマリオギャラクシー[defcolor]をプレイしていただき、",
+        "[ruby:心;こころ]より[ruby:感謝;かんしゃ]いたします・・・[pagebreak]",
         "ぜひ、 この[icon:star][color:yellow]パワースター[defcolor]を[ruby:受;う]け[ruby:取;と]ってください"
       ],
       "KrKorean": [
@@ -1396,7 +1397,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[ruby:我々;われわれ]は[color:red]チャレンジギャラクシー[defcolor]を[ruby:守;まも]りし[ruby:者;もの]です"
+        "[ruby:我々;われわれ]は[color:red]チャレンジギャラクシー[defcolor]を",
+        "[ruby:守;まも]りし[ruby:者;もの]です"
       ],
       "KrKorean": [
         "우리는 [color:red]챌린지 갤럭시[defcolor]의 수호자야."
@@ -1454,7 +1456,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[ruby:上;かみ]に[ruby:見;み]えるもの、それが[ruby:挑戦者;ちょうせんしゃ]に[ruby:課;か]された[color:red][ruby:試練;しれん][defcolor]です"
+        "[ruby:上;かみ]に[ruby:見;み]えるもの、それが",
+        "[color:green][ruby:挑戦者;ちょうせんしゃ]に[ruby:課;か]された[ruby:試練;しれん][defcolor]です"
       ],
       "KrKorean": [
         "저 위에 있는 곳은 [color:green]시련의 문[defcolor]이야!"
@@ -1578,7 +1581,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[color:blue]スイーツファクトリーギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+        "[color:blue]スイーツファクトリーギャラクシー[defcolor]には",
+        "[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:blue]스위트 팩토리 갤럭시[defcolor]의 입구는 ",
@@ -1643,7 +1647,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[color:blue]コクーンアステロイドギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+        "[color:blue]コクーンアステロイドギャラクシー[defcolor]には",
+        "[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:blue]코쿤 아스테로이드 갤럭시[defcolor]의 입구는 ",
@@ -1707,7 +1712,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[color:blue]ティアドロップギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+        "[color:blue]ティアドロップギャラクシー[defcolor]には",
+        "[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:blue]드립 드롭 갤럭시[defcolor]의 입구는 ",
@@ -1772,7 +1778,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[color:blue]フィッシュトンネルギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+        "[color:blue]フィッシュトンネルギャラクシー[defcolor]には",
+        "[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:blue]피쉬 터널 갤럭시[defcolor]의 입구는 ",
@@ -1837,7 +1844,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[color:blue]サンドリバーギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+        "[color:blue]サンドリバーギャラクシー[defcolor]には",
+        "[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:blue]샌드 리버 갤럭시[defcolor]의 입구는 ",
@@ -1901,7 +1909,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[color:blue]デスプロムナードギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+        "[color:blue]デスプロムナードギャラクシー[defcolor]には",
+        "[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:blue]데스 본야드 갤럭시[defcolor]의 입구는 ",
@@ -1966,7 +1975,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[color:blue]スノーカプセルギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+        "[color:blue]スノーカプセルギャラクシー[defcolor]には",
+        "[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:blue]스노우 캡슐 갤럭시[defcolor]의 입구는 ",
@@ -2030,7 +2040,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[color:green]チャレンジバブルギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+        "[color:green]チャレンジバブルギャラクシー[defcolor]には",
+        "[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:green]챌린지 버블 갤럭시[defcolor]의 입구는 ",
@@ -2094,7 +2105,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[color:green]チャレンジボールギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+        "[color:green]チャレンジボールギャラクシー[defcolor]には",
+        "[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:green]챌린지 볼 갤럭시[defcolor]의 입구는 ",
@@ -2158,7 +2170,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[color:green]チャレンジサーフィンギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+        "[color:green]チャレンジサーフィンギャラクシー[defcolor]には",
+        "[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:green]챌린지 서핑 갤럭시[defcolor]의 입구는 ",
@@ -2222,7 +2235,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[color:green]グランドフィナーレギャラクシー[defcolor]には[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
+        "[color:green]グランドフィナーレギャラクシー[defcolor]には",
+        "[ruby:現在;げんざい][ruby:行;い]くことが[ruby:出来;でき]ません"
       ],
       "KrKorean": [
         "[color:green]그랜드 피날레 갤럭시[defcolor]의 입구는 ",
@@ -2873,10 +2887,10 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[ruby:時間;じかん]も[ruby:希望;きぼう]も、ただの[ruby:幻想;げんそう]にすぎないんだ[delay:60]",
-        "[ruby:逃;に]げ[ruby:道;みち]なんてないよ[pagebreak]",
+        "[ruby:時間;じかん]も[ruby:希望;きぼう]も、[color:purple]ただの[ruby:幻想;げんそう][defcolor]にすぎないんだ。[delay:60]",
+        "[ruby:逃;に]げ[ruby:道;みち]なんてないよ。[pagebreak]",
         "[ruby:唯一;ゆいいつ]の[ruby:希望;きぼう]、",
-        "それは[ruby:死;し]による[ruby:解放;かいほう]さ![sound:SE_SV_TICOFAT_META]"
+        "それは[color:red][ruby:死;し]による[ruby:解放;かいほう][defcolor]さ![sound:SE_SV_TICOFAT_META]"
       ],
       "KrKorean": [
         "시간과 희망은 헛된 환상...[delay:60]",

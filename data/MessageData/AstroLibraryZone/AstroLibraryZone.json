@@ -41,7 +41,7 @@
         "-FRENCH TRANSLATION-",
         "[color:blue]Myron Dragon[defcolor][pagebreak]",
         "-JAPANESE TRANSLATION-",
-        "[color:blue]Mr. BMY[defcolor][pagebreak]",
+        "[color:blue]Mr. BMY[defcolor], [color:blue]Riminy[defcolor][pagebreak]",
         "-CHINESE TRANSLATION-",
         "[color:blue]Hadau[defcolor], [color:blue]Samurai47[defcolor][pagebreak]",
         "-KOREAN TRANSLATION-",
@@ -85,7 +85,7 @@
         "-FRENCH TRANSLATION-",
         "[color:blue]Myron Dragon[defcolor][pagebreak]",
         "-JAPANESE TRANSLATION-",
-        "[color:blue]Mr. BMY[defcolor][pagebreak]",
+        "[color:blue]Mr. BMY[defcolor], [color:blue]Riminy[defcolor][pagebreak]",
         "-CHINESE TRANSLATION-",
         "[color:blue]Hadau[defcolor], [color:blue]Samurai47[defcolor][pagebreak]",
         "-KOREAN TRANSLATION-",
@@ -129,7 +129,7 @@
         "-FRENCH TRANSLATION-",
         "[color:blue]Myron Dragon[defcolor][pagebreak]",
         "-JAPANESE TRANSLATION-",
-        "[color:blue]Mr. BMY[defcolor][pagebreak]",
+        "[color:blue]Mr. BMY[defcolor], [color:blue]Riminy[defcolor][pagebreak]",
         "-CHINESE TRANSLATION-",
         "[color:blue]Hadau[defcolor], [color:blue]Samurai47[defcolor][pagebreak]",
         "-KOREAN TRANSLATION-",
@@ -204,8 +204,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "あら、こんにちは！ ママの[ruby:書斎;しょさい]にはたくさんの[ruby:本;ほん]が",
-        "あるの! [delay:30] [ruby:自由;じゆう]に[ruby:読;よ]んでいいよ♪"
+        "ママの[ruby:書斎;しょさい]にはたくさんの[ruby:本;ほん]があるの!",
+        "[delay:30] [ruby:自由;じゆう]に[ruby:読;よ]んでいいよ♪"
       ],
       "KrKorean": [
         "안녕하세요! 엄마의 도서관에는 책이 정말 많아요.",

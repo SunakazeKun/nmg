@@ -2503,9 +2503,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[color:red]キノコ[ruby:船;せん][defcolor]で みんなが[ruby:待;ま]ってます![pagebreak]",
-        "[icon:golden_mushroom][color:yellow]ゴールドキノコ[defcolor]も[ruby:確保;かくほ]したので、",
-        "[ruby:置;お]いておきました!"
+        "[color:red]キノコ[ruby:船;せん][defcolor]で みんなが[ruby:待;ま]ってます！[pagebreak]",
+        "[icon:golden_mushroom][color:yellow]ゴールドキノコ[defcolor]も[ruby:確保;かくほ]しておきました！"
       ],
       "KrKorean": [
         "[color:red]버섯호[defcolor]에서 모두가 기다리고 있어요!",
@@ -2729,7 +2728,7 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[icon:golden_mushroom][color:yellow]ゴールドキノコ[defcolor]をどうぞ!",
+        "[icon:golden_mushroom][color:yellow]ゴールドキノコ[defcolor]をどうぞ！",
         "お[ruby:役;やく]にたてれば[ruby:嬉;うれ]しいです"
       ],
       "KrKorean": [

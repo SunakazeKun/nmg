@@ -89,7 +89,8 @@
         "[size:large]あ～～～！[pagebreak]",
         "[size:normal][player:0]さんじゃないですか！[pagebreak]",
         "ワタシは [color:red]キノピオ[ruby:隊長;たいちょう][defcolor]！[pagebreak]",
-        "[ruby:我々;われわれ]もこの[color:red]新[ruby:たなる銀;ネオギャラクシー]河[defcolor]を[ruby:探検;たんけん]しようとあちこち[ruby:駆;か]け[ruby:巡;めぐ]ってたらこのうす[ruby:暗;くら]い[ruby:洞窟;どうくつ]に行きついたんですよ[pagebreak]",
+        "[ruby:我々;われわれ]も[color:red][ruby:新たなる銀河;ネオギャラクシー][defcolor]を[ruby:探;さが]していたら",
+        "この[color:blue][ruby:洞窟;どうくつ][defcolor]に行きついたんですよ！[pagebreak]",
         "ワタシ・・・ワクワクが[ruby:止;と]まりません！"
       ],
       "KrKorean": [
@@ -155,7 +156,7 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[size:large]うわ～～っ！ [size:normal][ruby:幽霊船;ゆうれいせん]です！"
+        "[size:large]うわ～～っ！ [size:normal][color:red][ruby:幽霊船;ゆうれいせん][defcolor]です！"
       ],
       "KrKorean": [
         "[size:large]우와![size:normal] 유령선이다!"
@@ -208,7 +209,7 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[icon:purple_coin]はどこだー！"
+        "[icon:purple_coin][color:purple]パープルコイン[defcolor]はどこだー！"
       ],
       "KrKorean": [
         "[icon:purple_coin]을 찾고 있어요!"

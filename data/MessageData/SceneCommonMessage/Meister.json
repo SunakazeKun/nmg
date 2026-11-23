@@ -3027,7 +3027,9 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "ああ[ruby:思;おも]い[ruby:出;だ]した！ [ruby:赤;あか]いチコのチカラが[ruby:宿;やど]っているあの[color:red]レッドスター[defcolor]じゃないか！"
+        "[ruby:思;おも]い[ruby:出;だ]した！ [pagebreak]",
+        "[ruby:赤;あか]いチコのチカラが[ruby:宿;やど]っている[color:red]",
+        "レッドスター[defcolor]じゃないか！"
       ],
       "KrKorean": [
         "알겠다! 이건 빨강 치코의 힘이 잠들어있는",

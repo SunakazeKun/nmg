@@ -100,6 +100,7 @@ can be found in [credits.md](data/dist/nmg/credits.md).
 - Mr. BMY
 - MTLenz
 - Myron Dragon
+- Riminy
 - Samurai47
 - StationAlpha
 - Super Hackio
