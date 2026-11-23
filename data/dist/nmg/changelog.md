@@ -8,7 +8,10 @@
 
 ### Changes
 - **Galactic Garden Galaxy**: Tweaked the player's Wall Jump angle in the Space Junk block section.
+- **Gloomy Galleon Galaxy**: Added two extra Red Koopa Shells in the Galaxy's underwater portion.
+- **Gloomy Galleon Galaxy**: Added another Cheep Cheep on the water surface.
 - **Turnlog Galaxy**: Hit nails are no longer reset upon after the level is restarted.
+- Spinecones now break Koopa Shells upon contact.
 
 ### Bugfixes
 - Lighting data actually gets loaded now.

@@ -117,6 +117,14 @@ namespace {
     }
 
     kmCall(0x80176D3C, extChorobonCheckPlayerAttacks);
+    
+
+    // Tongari
+    bool extTongariCheckPlayerAttacks(u32 msg) {
+        return MR::isMsgStarPieceReflect(msg) || MR::isMsgJetTurtleAttack(msg);
+    }
+
+    kmBranch(0x80214C24, extTongariCheckPlayerAttacks);
 
 
     // ==================================================================================================================
