@@ -125,13 +125,13 @@
       "UsPortuguese": null,
       "JpJapanese": [
         "お[ruby:帰;かえ]りなさい・・・ [player:0] [delay:45]",
-        "[color:red]新[ruby:たなる銀;ネオギャラクシー]河[defcolor]へ[ruby:旅立;たびだ]つ[ruby:準備;じゅんび]は[ruby:整;ととの]いましたか[pagebreak]",
+        "[color:red]新[ruby:たなる銀;ネオギャラクシー]河[defcolor]へ[ruby:旅立;たびだ]つ[ruby:準備;じゅんび]は[ruby:整;ととの]いましたか？[pagebreak]",
         "わたしの[ruby:後;うし]ろに[ruby:見;み]えるのは ",
         "[icon:launch_star][color:yellow]スターリング[defcolor]です・・・[pagebreak]",
-        "さて、[ruby:出発;しゅっぱつ]の[ruby:前;まえ]に・・・[delay:30]いくつかお[ruby:聞;き]きしたい",
-        "ことがあります・・・[pagebreak]",
-        "[icon:mario][color:red]マリオ[defcolor]、 [icon:luigi][color:green]ルイージ[defcolor]のどちらでプレイしますか",
-        "[color:gray](いま: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+        "さて、[ruby:出発;しゅっぱつ]の[ruby:前;まえ]に・・・",
+        "[delay:30]いくつかお[ruby:聞;き]きしたいことがあります・・・[pagebreak]",
+        "[icon:mario][color:red]マリオ[defcolor]と[icon:luigi][color:green]ルイージ[defcolor]、 どちらでプレイ",
+        "されますか？[color:gray] (いま: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "KrKorean": [
         "[player:0]님, 어서 오세요... [color:red]새로운 은하계[defcolor]로",
@@ -558,8 +558,8 @@
       ],
       "UsPortuguese": null,
       "JpJapanese": [
-        "[icon:mario][color:red]マリオ[defcolor] 、 [icon:luigi][color:green]ルイージ[defcolor] のどちらでプレイしますか？",
-        "[color:gray](いま: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
+        "[icon:mario][color:red]マリオ[defcolor]と[icon:luigi][color:green]ルイージ[defcolor]、 どちらでプレイ",
+        "されますか？[color:gray] (いま: [defcolor][stringvar:0;0;0x00000000][color:gray])[defcolor]"
       ],
       "KrKorean": [
         "[icon:mario][color:red]마리오[defcolor]와 [icon:luigi][color:green]루이지[defcolor] 중 ",
