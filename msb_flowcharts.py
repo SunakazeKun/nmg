@@ -177,6 +177,8 @@ def flows_UnderwaterCaveZone(flows: LMSFlows):
     branch_power_star_appeared.next_node_else = penguin_coach000_flow001
     penguin_coach000_flow002.next_node = penguin_coach000_flow002
 
+    # ------------------------------------------------------
+
     # Kinopio000
     entry = flows.new_flowchart("Kinopio000")
 
